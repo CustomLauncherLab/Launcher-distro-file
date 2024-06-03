@@ -180,7 +180,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 6320,
+            "size": 6305,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/servers/Arim-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -193,6 +193,16 @@
             "size": 5111906,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/servers/Arim-1.20.1/files/resourcepacks/Resource_pack.zip",
             "path": "resourcepacks/Resource_pack.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 31569,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/servers/Arim-1.20.1/files/servers.dat",
+            "path": "servers.dat"
           }
         }
       ]
