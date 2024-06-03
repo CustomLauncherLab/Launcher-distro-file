@@ -1,0 +1,5 @@
+{
+  "prettier.enable": false,
+  "notebook.formatOnSave.enabled": false,
+  "editor.formatOnSave": false
+}
