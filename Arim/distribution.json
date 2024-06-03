@@ -1,0 +1,201 @@
+{
+  "version": "1.0.0",
+  "rss": "https://github.com/CustomLauncherLab/Arim/tags.atom",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "Arim-1.20.1",
+      "name": "아림",
+      "description": "Arim Running Minecraft 1.20.1 (Fabric v0.15.9)",
+      "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Arim/server-icon.png",
+      "version": "1.0.0",
+      "address": "헤유미.서버.한국",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.15.9",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1327333,
+            "MD5": "9b84aadf1449d0dd95998b61939dc72b",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/repo/lib/net/fabricmc/fabric-loader/0.15.9/fabric-loader-0.15.9.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-fabric-0.15.9",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "ef2d047cf97b4e4be46a62fa5e962714",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/repo/versions/1.20.1-fabric-0.15.9/1.20.1-fabric-0.15.9.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.6",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 123598,
+                "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.6",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 34041,
+                "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.6",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 72194,
+                "MD5": "9e317c75534bd1da8c00a67c618ab288",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.6",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51935,
+                "MD5": "6062608f1a98afe1e853d01fa1221a9e",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.6",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 91131,
+                "MD5": "bd3bc1c176a787373e9a031073c9574b",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1451874,
+                "MD5": "4cc3ff559cafdc70d9ed80e869d447f0",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/repo/lib/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.20.1",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 573365,
+                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.92.2+1.20.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2107289,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/servers/Arim-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
+            "MD5": "92c58961866741106aae126558c9d4a7"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.7.0+mc1.20.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2668790,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/servers/Arim-1.20.1/fabricmods/required/iris-1.7.0mc1.20.1_2.jar",
+            "MD5": "4fffc15dba4b021e626beea0ec00099b"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods.sodiumextra:sodium-extra:0.5.4+mc1.20.1-build.115@jar",
+          "name": "Sodium Extra",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 385539,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/servers/Arim-1.20.1/fabricmods/required/sodium-extra-0.5.4mc1.20.1-build.115_3.jar",
+            "MD5": "9eaed09a486eee9a1326de5dd80faa0a"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.8+mc1.20.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 942134,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/servers/Arim-1.20.1/fabricmods/required/sodium-fabric-0.5.8mc1.20.1.jar",
+            "MD5": "68e366d87fa5c614d64ce031ff548e30"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.15@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8057403,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/servers/Arim-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.15.jar",
+            "MD5": "b288b46e73ea7914466407538910e4d8"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:24.1.1@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1531182,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/servers/Arim-1.20.1/fabricmods/required/Xaeros_Minimap_24.1.1_Fabric_1.20.jar",
+            "MD5": "7afd98fa885212970ec239877e401d70"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 6320,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/servers/Arim-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "Resource_pack.zip",
+          "name": "Resource_pack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 5111906,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Arim/servers/Arim-1.20.1/files/resourcepacks/Resource_pack.zip",
+            "path": "resourcepacks/Resource_pack.zip"
+          }
+        }
+      ]
+    }
+  ]
+}

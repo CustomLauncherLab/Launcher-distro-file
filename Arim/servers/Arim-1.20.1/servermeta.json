@@ -1,0 +1,35 @@
+{
+  "$schema": "file:///D:/Coding/Projects/Custom-Launcher/CustomLauncherLab/Launcher-distro-file/Arim/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "아림",
+    "description": "Arim Running Minecraft 1.20.1 (Fabric v0.15.9)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Arim/server-icon.png",
+    "address": "헤유미.서버.한국",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.15.9"
+  },
+  "untrackedFiles": [
+    {
+        "appliesTo": ["files"],
+        "patterns": [
+            "*.txt",
+            "*.json",
+            "servers.dat",
+            "resourcepacks/*.zip",
+            "shaderpacks/*.zip",
+            "shaderpacks/*.txt",
+            "config/*.cfg",
+            "config/**/*.yml"
+        ]
+    }
+  ]
+}
