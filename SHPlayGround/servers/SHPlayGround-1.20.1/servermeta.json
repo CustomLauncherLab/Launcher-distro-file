@@ -1,0 +1,35 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/SHPlayGround/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "상현의놀이터",
+    "description": "SHPlayGround Running Minecraft 1.20.1 (Fabric v0.15.9)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/SHPlayGround/server-icon.png",
+    "address": "shplayground.duckdns.org",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.15.9"
+  },
+  "untrackedFiles": [
+    {
+        "appliesTo": ["files"],
+        "patterns": [
+            "*.txt",
+            "*.json",
+            "servers.dat",
+            "resourcepacks/*.zip",
+            "shaderpacks/*.zip",
+            "shaderpacks/*.txt",
+            "config/*.cfg",
+            "config/**/*.yml"
+        ]
+    }
+  ]
+}
