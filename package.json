@@ -5,10 +5,14 @@
   "main": "index.js",
   "scripts": {
     "init": "cd ../\\Nebula && npm start -- init root",
-    "generate": "cd ../\\Nebula && npm start -- generate server nutellaive 1.20.1 --fabric 0.15.9",
+    "generate": "node ./generate-server.js",
     "distro": "cd ../\\Nebula && npm start -- generate distro"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv-cli": "^7.4.2"
+  }
 }
