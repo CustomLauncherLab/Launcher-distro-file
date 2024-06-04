@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","file/상현의놀이터 필수 리소스팩1","file/리소스팩.zip"]
-incompatibleResourcePacks:["file/상현의놀이터 필수 리소스팩1"]
+resourcePacks:["vanilla","fabric","file/상현의놀이터 필수 리소스팩1.zip","file/리소스팩.zip"]
+incompatibleResourcePacks:["file/상현의놀이터 필수 리소스팩1.zip"]
 lastServer:
 lang:ko_kr
 soundDevice:""

@@ -230,7 +230,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4306,
+            "size": 4314,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/files/options.txt",
             "path": "options.txt"
           }
