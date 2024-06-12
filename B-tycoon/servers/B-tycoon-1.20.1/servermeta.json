@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/B-tycoon/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "븜타이쿤",
+    "description": "B-tycoon Running Minecraft 1.20.1 (Forge v47.2.18)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/B-tycoon/server-icon.png",
+    "address": "www.c-tycoon.kro.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.2.18"
+  },
+  "untrackedFiles": []
+}
