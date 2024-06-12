@@ -453,6 +453,16 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7145205,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/B-tycoon/servers/B-tycoon-1.20.1/forgemods/required/OptiFine_1.20.1_HD_U_I6.jar",
+            "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.15@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
