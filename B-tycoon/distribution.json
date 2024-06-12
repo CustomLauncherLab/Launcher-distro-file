@@ -479,7 +479,6 @@
           "artifact": {
             "size": 4970,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/B-tycoon/servers/B-tycoon-1.20.1/files/options.txt",
-            "MD5": "a3802fcc3ef1f82f67feb0fd8e7afe29",
             "path": "options.txt"
           }
         },
@@ -490,7 +489,6 @@
           "artifact": {
             "size": 373,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/B-tycoon/servers/B-tycoon-1.20.1/files/optionsshaders.txt",
-            "MD5": "8f9720966f94c4a319be300234f29a6e",
             "path": "optionsshaders.txt"
           }
         },
@@ -501,7 +499,6 @@
           "artifact": {
             "size": 73547,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/B-tycoon/servers/B-tycoon-1.20.1/files/resourcepacks/Minimal%20Armor%201.20%20v1.3.zip",
-            "MD5": "a9ce6896cbca1042491922ded1f2992a",
             "path": "resourcepacks/Minimal Armor 1.20 v1.3.zip"
           }
         },
@@ -512,7 +509,6 @@
           "artifact": {
             "size": 5111906,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/B-tycoon/servers/B-tycoon-1.20.1/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
-            "MD5": "d07735dba03104b9cef3bc9ee871e5c7",
             "path": "resourcepacks/리소스팩.zip"
           }
         },
@@ -521,9 +517,8 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 93,
+            "size": 185,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/B-tycoon/servers/B-tycoon-1.20.1/files/servers.dat",
-            "MD5": "cf3e501944de2c3d48a45174fe693e0a",
             "path": "servers.dat"
           }
         },
@@ -534,7 +529,6 @@
           "artifact": {
             "size": 954784,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/B-tycoon/servers/B-tycoon-1.20.1/files/shaderpacks/BSL_v8.2.09.zip",
-            "MD5": "4443556b4e0d63394f0df1297e484454",
             "path": "shaderpacks/BSL_v8.2.09.zip"
           }
         }

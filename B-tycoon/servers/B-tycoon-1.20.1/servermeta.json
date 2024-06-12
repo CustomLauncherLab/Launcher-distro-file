@@ -17,5 +17,19 @@
   "forge": {
     "version": "47.2.18"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+    {
+        "appliesTo": ["files"],
+        "patterns": [
+            "*.txt",
+            "*.json",
+            "servers.dat",
+            "resourcepacks/*.zip",
+            "shaderpacks/*.zip",
+            "shaderpacks/*.txt",
+            "config/*.cfg",
+            "config/**/*.yml"
+        ]
+    }
+  ]
 }
