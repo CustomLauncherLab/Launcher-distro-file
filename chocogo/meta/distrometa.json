@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/chocogo/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "https://github.com/CustomLauncherLab/chocogo/tags.atom",
+    "discord": {
+      "clientId": "1250602527423070273",
+      "smallImageText": "",
+      "smallImageKey": ""
+    }
+  }
+}
