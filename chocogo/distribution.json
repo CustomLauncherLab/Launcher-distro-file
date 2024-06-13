@@ -172,6 +172,39 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 269,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/iris.properties",
+            "MD5": "86a225468067f780400c2b7f62fa39d8",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4150,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/options.txt",
+            "MD5": "e3f0ece20ad81df67051e5f65def4026",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 14,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/optionsshaders.txt",
+            "MD5": "dcfc2b5a88fc12846ab45dd58367551e",
+            "path": "optionsshaders.txt"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
