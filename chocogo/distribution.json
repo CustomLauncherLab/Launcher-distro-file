@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "https://github.com/CustomLauncherLab/chocogo/tags.atom",
   "discord": {
-    "clientId": "1250602527423070273",
-    "smallImageText": "초코고",
-    "smallImageKey": "server-icon"
+    "clientId": "",
+    "smallImageText": "",
+    "smallImageKey": ""
   },
   "servers": [
     {
@@ -16,9 +16,9 @@
       "address": "chocogo.feathermc.gg",
       "minecraftVersion": "1.20.4",
       "discord": {
-        "shortId": "초코고",
-        "largeImageText": "초코고",
-        "largeImageKey": "server-icon"
+        "shortId": "",
+        "largeImageText": "",
+        "largeImageKey": ""
       },
       "mainServer": true,
       "autoconnect": true,
