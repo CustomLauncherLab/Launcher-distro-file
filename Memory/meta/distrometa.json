@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/Memory/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "https://github.com/CustomLauncherLab/Memory/tags.atom",
+    "discord": {
+      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    }
+  }
+}
