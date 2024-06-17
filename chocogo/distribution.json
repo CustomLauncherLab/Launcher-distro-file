@@ -162,13 +162,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.20.4-2.5.15@jar",
+          "id": "de.maxhenkel:voicechat:1.20.4-2.5.16@jar",
           "name": "Simple Voice Chat",
           "type": "FabricMod",
           "artifact": {
-            "size": 8125443,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/fabricmods/required/voicechat-fabric-1.20.4-2.5.15.jar",
-            "MD5": "f60db64ac6eb580ee63cdbdf3a6a0635"
+            "size": 8127216,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/fabricmods/required/voicechat-fabric-1.20.4-2.5.16.jar",
+            "MD5": "a028fe708d36faa54728cd56c9432fda"
           }
         },
         {
