@@ -136,23 +136,23 @@
           }
         },
         {
-          "id": "generated.fabricmod:iris:1.6.17@jar",
+          "id": "generated.fabricmod:iris:1.7.0+mc1.20.1@jar",
           "name": "Iris",
           "type": "FabricMod",
           "artifact": {
-            "size": 2421552,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/VCWorld/servers/VCWorld-1.20.1/fabricmods/required/iris-mc1.20.1-1.6.17.jar",
-            "MD5": "e268a58aab4200ce5fe68d298cd667f6"
+            "size": 2668790,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/VCWorld/servers/VCWorld-1.20.1/fabricmods/required/iris-1.7.0+mc1.20.1.jar",
+            "MD5": "4fffc15dba4b021e626beea0ec00099b"
           }
         },
         {
-          "id": "me.jellysquid.mods:sodium:0.5.10+mc1.20.1@jar",
+          "id": "me.jellysquid.mods:sodium:0.5.8+mc1.20.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
-            "size": 965275,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/VCWorld/servers/VCWorld-1.20.1/fabricmods/required/sodium-fabric-0.5.10mc1.20.1.jar",
-            "MD5": "9e9522b078f4a62d0cef69719521ad2b"
+            "size": 942134,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/VCWorld/servers/VCWorld-1.20.1/fabricmods/required/sodium-fabric-0.5.8+mc1.20.1.jar",
+            "MD5": "68e366d87fa5c614d64ce031ff548e30"
           }
         },
         {
