@@ -447,6 +447,17 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 79,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/irispixelmon/servers/irispixelmon-1.16.5/files/options.txt",
+            "MD5": "00323919f321879255913755ba4e83bd",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "리소스팩.zip",
           "name": "리소스팩.zip",
           "type": "File",
