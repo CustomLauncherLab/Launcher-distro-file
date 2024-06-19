@@ -248,9 +248,9 @@
           "name": "chocogo.txt",
           "type": "File",
           "artifact": {
-            "size": 13494,
+            "size": 13492,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/fancymenu/customization/chocogo.txt",
-            "MD5": "5d1aae6c956efb9a09b5ca8fd4beaa1e",
+            "MD5": "9703d14fba6ac3f174766c676e61cc6b",
             "path": "config/fancymenu/customization/chocogo.txt"
           }
         },
@@ -325,9 +325,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2059,
+            "size": 2185,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/options.txt",
-            "MD5": "49cd391b8bb72a0ef35558c34e34ed62",
+            "MD5": "b9a26619c7c8aca8f748500e70056195",
             "path": "options.txt"
           }
         },
@@ -340,6 +340,17 @@
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/optionsshaders.txt",
             "MD5": "dcfc2b5a88fc12846ab45dd58367551e",
             "path": "optionsshaders.txt"
+          }
+        },
+        {
+          "id": "여름방학 초코고 大운동회.zip",
+          "name": "여름방학 초코고 大운동회.zip",
+          "type": "File",
+          "artifact": {
+            "size": 15291352,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/resourcepacks/%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%20%EC%B4%88%EC%BD%94%EA%B3%A0%20%E5%A4%A7%EC%9A%B4%EB%8F%99%ED%9A%8C.zip",
+            "MD5": "8d9e519c2c4f00e51d4a58867b3f82f7",
+            "path": "resourcepacks/여름방학 초코고 大운동회.zip"
           }
         },
         {
