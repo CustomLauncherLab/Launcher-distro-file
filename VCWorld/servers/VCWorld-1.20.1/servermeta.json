@@ -1,0 +1,33 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/VCWorld/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "영콘 월드",
+    "description": "VCWorld Running Minecraft 1.20.1 (Fabric v0.15.11)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/VCWorld/server-icon.png",
+    "address": "vps-expert.cloudyhosting.kr:2055",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.15.11"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "servers.dat",
+        "resourcepacks/*.zip",
+        "shaderpacks/*.zip",
+        "shaderpacks/*.txt",
+        "config/*.cfg",
+        "config/**/*.yml"
+      ]
+    }
+  ]
+}
