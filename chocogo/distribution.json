@@ -248,9 +248,9 @@
           "name": "chocogo.txt",
           "type": "File",
           "artifact": {
-            "size": 13460,
+            "size": 13494,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/fancymenu/customization/chocogo.txt",
-            "MD5": "66e5c79b59e183d1737e05494e17959e",
+            "MD5": "5d1aae6c956efb9a09b5ca8fd4beaa1e",
             "path": "config/fancymenu/customization/chocogo.txt"
           }
         },
