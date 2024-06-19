@@ -211,6 +211,105 @@
           }
         },
         {
+          "id": "background.jpg",
+          "name": "background.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 934590,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/fancymenu/assets/background.jpg",
+            "MD5": "41dbe77ddcf01c3e251ef62c3ccb957d",
+            "path": "config/fancymenu/assets/background.jpg"
+          }
+        },
+        {
+          "id": "join.png",
+          "name": "join.png",
+          "type": "File",
+          "artifact": {
+            "size": 252957,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/fancymenu/assets/join.png",
+            "MD5": "b48b8af22c92aadfd61234eb9bcc5e75",
+            "path": "config/fancymenu/assets/join.png"
+          }
+        },
+        {
+          "id": "customizablemenus.txt",
+          "name": "customizablemenus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 84,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/fancymenu/customizablemenus.txt",
+            "MD5": "a9df241ff4238ee35ef0be3d50906c4c",
+            "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "chocogo.txt",
+          "name": "chocogo.txt",
+          "type": "File",
+          "artifact": {
+            "size": 13460,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/fancymenu/customization/chocogo.txt",
+            "MD5": "66e5c79b59e183d1737e05494e17959e",
+            "path": "config/fancymenu/customization/chocogo.txt"
+          }
+        },
+        {
+          "id": "custom_gui_screens.txt",
+          "name": "custom_gui_screens.txt",
+          "type": "File",
+          "artifact": {
+            "size": 51,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/fancymenu/custom_gui_screens.txt",
+            "MD5": "106e52948415f0879c53304f50783b28",
+            "path": "config/fancymenu/custom_gui_screens.txt"
+          }
+        },
+        {
+          "id": "element_layer_control.lewidget",
+          "name": "element_layer_control.lewidget",
+          "type": "File",
+          "artifact": {
+            "size": 198,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "MD5": "2218b6ec3f251917d94ff2e89a9481f9",
+            "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+          }
+        },
+        {
+          "id": "legacy_checklist.txt",
+          "name": "legacy_checklist.txt",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/fancymenu/legacy_checklist.txt",
+            "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
+            "path": "config/fancymenu/legacy_checklist.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1767,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/fancymenu/options.txt",
+            "MD5": "fa7dd9653da1c113ef0670f749c2293d",
+            "path": "config/fancymenu/options.txt"
+          }
+        },
+        {
+          "id": "user_variables.db",
+          "name": "user_variables.db",
+          "type": "File",
+          "artifact": {
+            "size": 23,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/fancymenu/user_variables.db",
+            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
+            "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
           "id": "iris.properties",
           "name": "iris.properties",
           "type": "File",
@@ -226,9 +325,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4150,
+            "size": 4134,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/options.txt",
-            "MD5": "e3f0ece20ad81df67051e5f65def4026",
+            "MD5": "36dac27fbee71b7354601ee50052d16e",
             "path": "options.txt"
           }
         },
