@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","file/rare.zip","file/no_hp.zip","file/누텔라이브.zip"]
+resourcePacks:["vanilla","fabric","file/rare.zip","file/no_hp.zip","file/누텔라이브.zip","file/ResourcePack.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr

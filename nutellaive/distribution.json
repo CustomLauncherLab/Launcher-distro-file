@@ -230,7 +230,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4186,
+            "size": 4210,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/nutellaive/servers/nutellaive-1.20.1/files/options.txt",
             "path": "options.txt"
           }
