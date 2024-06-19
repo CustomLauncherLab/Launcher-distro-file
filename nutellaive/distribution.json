@@ -280,7 +280,7 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 2955,
+            "size": 2953,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/nutellaive/servers/nutellaive-1.20.1/files/servers.dat",
             "path": "servers.dat"
           }
