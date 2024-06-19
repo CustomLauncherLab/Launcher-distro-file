@@ -170,9 +170,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3538,
+            "size": 3551,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/VCWorld/servers/VCWorld-1.20.1/files/options.txt",
-            "MD5": "4d218495965b9f1ff945066061c8089b",
+            "MD5": "e0dd60fc372fdcfa67f1adfdf300c687",
             "path": "options.txt"
           }
         },
@@ -181,9 +181,9 @@
           "name": "optionsshaders.txt",
           "type": "File",
           "artifact": {
-            "size": 385,
+            "size": 366,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/VCWorld/servers/VCWorld-1.20.1/files/optionsshaders.txt",
-            "MD5": "778c026cc94d0c8f681f4a31bcaf5113",
+            "MD5": "e29a97349df97bacd14b4fb69b9ba5d5",
             "path": "optionsshaders.txt"
           }
         },
