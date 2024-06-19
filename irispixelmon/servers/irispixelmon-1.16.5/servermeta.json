@@ -1,0 +1,33 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/irispixelmon/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "아이리스 픽셀몬",
+    "description": "irispixelmon Running Minecraft 1.16.5 (Forge v36.2.42)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/irispixelmon/server-icon.png",
+    "address": "irispixelmon.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "36.2.42"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "servers.dat",
+        "resourcepacks/*.zip",
+        "shaderpacks/*.zip",
+        "shaderpacks/*.txt",
+        "config/*.cfg",
+        "config/**/*.yml"
+      ]
+    }
+  ]
+}
