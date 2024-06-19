@@ -132,6 +132,19 @@
           }
         },
         {
+          "id": "de.keksuccino:fancymenu:3.2.3@jar",
+          "name": "FancyMenu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2693085,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/fabricmods/optionalon/fancymenu_fabric_3.2.3_MC_1.20.4.jar",
+            "MD5": "2dc23efd0c57d5d71bba52deedb6ae64"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.7.0+mc1.20.4@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -142,6 +155,19 @@
           }
         },
         {
+          "id": "de.keksuccino:konkrete:1.9.2@jar",
+          "name": "Konkrete",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 785596,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/fabricmods/optionalon/konkrete_fabric_1.9.2_MC_1.20.4.jar",
+            "MD5": "5207d60a19db3a98d3be1c8cae732173"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.hyfata.najoan:koreanpatch:1.3.5-1.20.4@jar",
           "name": "Korean Patch",
           "type": "FabricMod",
@@ -149,6 +175,19 @@
             "size": 36420,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/fabricmods/required/koreanpatch-1.3.5-1.20.4.jar",
             "MD5": "47e5018c2f6702d67122ae464242461c"
+          }
+        },
+        {
+          "id": "de.keksuccino:melody:1.0.3@jar",
+          "name": "Melody",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 39696,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/fabricmods/optionalon/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "MD5": "8095b46d324586b3cf3d2f5bffe8b417"
+          },
+          "required": {
+            "value": false
           }
         },
         {
