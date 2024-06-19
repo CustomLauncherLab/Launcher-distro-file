@@ -126,6 +126,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:fabric-api:0.92.2+1.20.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2107289,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/VCWorld/servers/VCWorld-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
+            "MD5": "92c58961866741106aae126558c9d4a7"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.6.17@jar",
           "name": "Iris",
           "type": "FabricMod",
