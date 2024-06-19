@@ -256,6 +256,16 @@
           }
         },
         {
+          "id": "ResourcePack.zip",
+          "name": "ResourcePack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1095338,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/nutellaive/servers/nutellaive-1.20.1/files/resourcepacks/ResourcePack.zip",
+            "path": "resourcepacks/ResourcePack.zip"
+          }
+        },
+        {
           "id": "누텔라이브.zip",
           "name": "누텔라이브.zip",
           "type": "File",
@@ -270,7 +280,7 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 2953,
+            "size": 2955,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/nutellaive/servers/nutellaive-1.20.1/files/servers.dat",
             "path": "servers.dat"
           }
