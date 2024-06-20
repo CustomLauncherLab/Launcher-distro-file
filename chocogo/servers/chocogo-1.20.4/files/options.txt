@@ -93,3 +93,4 @@ key_key.voice_chat:key.keyboard.v
 key_iris.keybind.reload:key.keyboard.unknown
 soundCategory_master:0.5
 soundCategory_music:0.0
+soundCategory_hostile:0.0
