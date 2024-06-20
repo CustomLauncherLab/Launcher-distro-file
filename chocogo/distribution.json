@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "rss": "https://github.com/CustomLauncherLab/chocogo/tags.atom",
   "discord": {
-    "clientId": "",
+    "clientId": "1250602527423070273",
     "smallImageText": "",
     "smallImageKey": ""
   },
@@ -17,8 +17,8 @@
       "minecraftVersion": "1.20.4",
       "discord": {
         "shortId": "",
-        "largeImageText": "",
-        "largeImageKey": ""
+        "largeImageText": "초코고",
+        "largeImageKey": "server-icon"
       },
       "mainServer": true,
       "autoconnect": true,
@@ -283,9 +283,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1767,
+            "size": 1784,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/fancymenu/options.txt",
-            "MD5": "fa7dd9653da1c113ef0670f749c2293d",
+            "MD5": "7c47eaff2f50483804899b2e44632293",
             "path": "config/fancymenu/options.txt"
           }
         },
@@ -316,9 +316,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2184,
+            "size": 2209,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/options.txt",
-            "MD5": "4e0d7c8b1acf39a6a1d2840debaa35ee",
+            "MD5": "9c0f72252853450929a797708a72d92f",
             "path": "options.txt"
           }
         },
