@@ -13,7 +13,7 @@
       "description": "nutellaive Running Minecraft 1.20.1 (Fabric v0.15.9)",
       "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nutellaive/server-icon.png",
       "version": "1.0.0",
-      "address": "34.64.109.164",
+      "address": "34.64.245.166",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -280,7 +280,7 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 2953,
+            "size": 18589,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/nutellaive/servers/nutellaive-1.20.1/files/servers.dat",
             "path": "servers.dat"
           }

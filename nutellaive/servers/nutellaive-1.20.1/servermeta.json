@@ -5,7 +5,7 @@
     "name": "누텔라이브",
     "description": "nutellaive Running Minecraft 1.20.1 (Fabric v0.15.9)",
     "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nutellaive/server-icon.png",
-    "address": "34.64.109.164",
+    "address": "34.64.245.166",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
