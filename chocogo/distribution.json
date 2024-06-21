@@ -3,8 +3,8 @@
   "rss": "https://github.com/CustomLauncherLab/chocogo/tags.atom",
   "discord": {
     "clientId": "1250602527423070273",
-    "smallImageText": "초코고",
-    "smallImageKey": "server-icon"
+    "smallImageText": "",
+    "smallImageKey": ""
   },
   "servers": [
     {
@@ -25,7 +25,7 @@
       "javaOptions": {
         "ram": {
           "recommended": 8192,
-          "minimum": 6144
+          "minimum": 4096
         }
       },
       "modules": [
@@ -309,6 +309,17 @@
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/iris.properties",
             "MD5": "86a225468067f780400c2b7f62fa39d8",
             "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "voicechat-client.properties",
+          "name": "voicechat-client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 20,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/voicechat/voicechat-client.properties",
+            "MD5": "f6859e545d3bb8cfdf322a1fa6dbb08e",
+            "path": "config/voicechat/voicechat-client.properties"
           }
         },
         {
