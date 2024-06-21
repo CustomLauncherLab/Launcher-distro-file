@@ -28,6 +28,7 @@
       "appliesTo": ["files"],
       "patterns": [
         "servers.dat",
+        "options.txt",
         "config/voicechat/voicechat-client.properties"
       ]
     }
