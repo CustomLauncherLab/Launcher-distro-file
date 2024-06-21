@@ -316,7 +316,7 @@
           "name": "voicechat-client.properties",
           "type": "File",
           "artifact": {
-            "size": 20,
+            "size": 3812,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/voicechat/voicechat-client.properties",
             "path": "config/voicechat/voicechat-client.properties"
           }
