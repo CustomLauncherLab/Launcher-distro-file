@@ -328,6 +328,7 @@
           "artifact": {
             "size": 2354,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/options.txt",
+            "MD5": "999649fee8a883543b45ce672727e06e",
             "path": "options.txt"
           }
         },
