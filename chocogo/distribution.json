@@ -326,7 +326,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2313,
+            "size": 2354,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/options.txt",
             "path": "options.txt"
           }
