@@ -92,5 +92,6 @@ key_key.disable_voice_chat:key.keyboard.n
 key_key.voice_chat:key.keyboard.v
 key_iris.keybind.reload:key.keyboard.unknown
 soundCategory_master:1
-soundCategory_music:0.3
+soundCategory_music:0.0
 soundCategory_hostile:0.0
+soundCategory_player:0.3
