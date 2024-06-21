@@ -318,7 +318,6 @@
           "artifact": {
             "size": 20,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/voicechat/voicechat-client.properties",
-            "MD5": "f6859e545d3bb8cfdf322a1fa6dbb08e",
             "path": "config/voicechat/voicechat-client.properties"
           }
         },

@@ -27,7 +27,8 @@
     {
       "appliesTo": ["files"],
       "patterns": [
-        "servers.dat"
+        "servers.dat",
+        "config/voicechat/voicechat-client.properties"
       ]
     }
   ]
