@@ -17,7 +17,7 @@
       "minecraftVersion": "1.20.4",
       "discord": {
         "shortId": "초코고 大 운동회",
-        "largeImageText": " ",
+        "largeImageText": "  ",
         "largeImageKey": "server-icon"
       },
       "mainServer": true,
