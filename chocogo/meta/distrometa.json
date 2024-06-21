@@ -4,7 +4,7 @@
     "rss": "https://github.com/CustomLauncherLab/chocogo/tags.atom",
     "discord": {
       "clientId": "1250602527423070273",
-      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageText": "초코고",
       "smallImageKey": "server-icon"
     }
   }
