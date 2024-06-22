@@ -28,6 +28,9 @@
       "appliesTo": ["files"],
       "patterns": [
         "servers.dat",
+        "options.txt",
+        "optionsshaders.txt",
+        "config/iris.properties",
         "config/voicechat/voicechat-client.properties"
       ]
     }

@@ -307,7 +307,6 @@
           "artifact": {
             "size": 269,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/config/iris.properties",
-            "MD5": "86a225468067f780400c2b7f62fa39d8",
             "path": "config/iris.properties"
           }
         },
@@ -328,7 +327,6 @@
           "artifact": {
             "size": 2354,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/options.txt",
-            "MD5": "999649fee8a883543b45ce672727e06e",
             "path": "options.txt"
           }
         },
@@ -339,7 +337,6 @@
           "artifact": {
             "size": 14,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/chocogo/servers/chocogo-1.20.4/files/optionsshaders.txt",
-            "MD5": "dcfc2b5a88fc12846ab45dd58367551e",
             "path": "optionsshaders.txt"
           }
         },
