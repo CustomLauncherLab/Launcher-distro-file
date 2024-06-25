@@ -216,6 +216,16 @@
           }
         },
         {
+          "id": "com.xtracr:realcamera:0.6.1-beta@jar",
+          "name": "Real Camera",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 128127,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/fabricmods/required/realcamera-1.20.1-fabric-0.6.1-beta.jar",
+            "MD5": "c1e28b7477cc37f95b79561603dbfacf"
+          }
+        },
+        {
           "id": "me.jellysquid.mods:sodium:0.5.8+mc1.20.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
