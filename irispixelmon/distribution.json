@@ -427,16 +427,6 @@
           }
         },
         {
-          "id": "com.pixelmonmod:pixelmon:9.1.11@jar",
-          "name": "Pixelmon Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 418698536,
-            "url": "https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.16.5-9.1.11-universal.jar",
-            "MD5": "0bb7d4a2daf72158d550afd54d5a16d1"
-          }
-        },
-        {
           "id": "me.maxish0t.wac:watchdog:0.8@jar",
           "name": "WatchDog AntiCheat",
           "type": "ForgeMod",
@@ -453,7 +443,6 @@
           "artifact": {
             "size": 79,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/irispixelmon/servers/irispixelmon-1.16.5/files/options.txt",
-            "MD5": "00323919f321879255913755ba4e83bd",
             "path": "options.txt"
           }
         },
@@ -462,7 +451,7 @@
           "name": "리소스팩.zip",
           "type": "File",
           "artifact": {
-            "size": 437642,
+            "size": 461992,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/irispixelmon/servers/irispixelmon-1.16.5/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
             "path": "resourcepacks/리소스팩.zip"
           }
