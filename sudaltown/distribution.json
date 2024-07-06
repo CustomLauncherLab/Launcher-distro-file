@@ -443,16 +443,6 @@
           }
         },
         {
-          "id": "vazkii.neat:neat:1.20-35-FORGE@jar",
-          "name": "Neat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 26247,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/forgemods/required/Neat-1.20-35-FORGE.jar",
-            "MD5": "4c46ea25b3de0b4b4a9fa924501f5299"
-          }
-        },
-        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.18@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
@@ -477,7 +467,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 119,
+            "size": 4089,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -487,7 +477,7 @@
           "name": "optionsshaders.txt",
           "type": "File",
           "artifact": {
-            "size": 21,
+            "size": 373,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/files/optionsshaders.txt",
             "path": "optionsshaders.txt"
           }
