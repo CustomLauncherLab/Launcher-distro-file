@@ -1,0 +1,4 @@
+guiScale:2
+resourcePacks:["vanilla","mod_resources","file/리소스팩.zip"]
+incompatibleResourcePacks:[]
+lang:ko_kr

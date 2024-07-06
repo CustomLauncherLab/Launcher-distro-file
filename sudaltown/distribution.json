@@ -473,14 +473,43 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 119,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 21,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/files/optionsshaders.txt",
+            "path": "optionsshaders.txt"
+          }
+        },
+        {
           "id": "리소스팩.zip",
           "name": "리소스팩.zip",
           "type": "File",
           "artifact": {
             "size": 5117115,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
-            "MD5": "64bfd5a728d1164d59eedfd220b4852d",
             "path": "resourcepacks/리소스팩.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 7347,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/files/servers.dat",
+            "path": "servers.dat"
           }
         },
         {
@@ -490,7 +519,6 @@
           "artifact": {
             "size": 439886,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/files/shaderpacks/shader.zip",
-            "MD5": "87c171768eb3dedfffcf922f9a7abf6d",
             "path": "shaderpacks/shader.zip"
           }
         }
