@@ -23,7 +23,6 @@
       "patterns": [
         "servers.dat",
         "options.txt",
-        "resourcepacks/*.zip",
         "shaderpacks/*.zip",
         "shaderpacks/*.txt",
         "config/*.cfg",

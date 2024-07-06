@@ -461,8 +461,9 @@
           "name": "리소스팩.zip",
           "type": "File",
           "artifact": {
-            "size": 461992,
+            "size": 483319,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/irispixelmon/servers/irispixelmon-1.16.5/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
+            "MD5": "3b24bc079939732dab7910294e6fa434",
             "path": "resourcepacks/리소스팩.zip"
           }
         },
