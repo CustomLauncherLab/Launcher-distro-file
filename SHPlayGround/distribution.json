@@ -116,6 +116,26 @@
           ]
         },
         {
+          "id": "me.cominixo:betterf3:7.0.2@jar",
+          "name": "BetterF3",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1782676,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/fabricmods/required/BetterF3-7.0.2-Fabric-1.20.1.jar",
+            "MD5": "acda45b22c255f78f3242056b1221c8e"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:11.1.118@jar",
+          "name": "Cloth Config v11",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1159192,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/fabricmods/required/cloth-config-11.1.118-fabric.jar",
+            "MD5": "eb13a834db10ee7e8c5e6a6d4b037fbd"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.92.1+1.20.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -163,6 +183,16 @@
             "size": 2668790,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/fabricmods/required/iris-1.7.0+mc1.20.1.jar",
             "MD5": "4fffc15dba4b021e626beea0ec00099b"
+          }
+        },
+        {
+          "id": "snownee.jade:jade:11.9.2+fabric@jar",
+          "name": "Jade",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 567066,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/fabricmods/required/Jade-1.20-fabric-11.9.2.jar",
+            "MD5": "99e394b7fd256d96f7954531ba41f2e2"
           }
         },
         {
@@ -260,7 +290,7 @@
           "name": "리소스팩.zip",
           "type": "File",
           "artifact": {
-            "size": 5111906,
+            "size": 5111809,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
             "path": "resourcepacks/리소스팩.zip"
           }
