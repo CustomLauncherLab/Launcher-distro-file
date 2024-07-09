@@ -116,26 +116,6 @@
           ]
         },
         {
-          "id": "me.cominixo:betterf3:7.0.2@jar",
-          "name": "BetterF3",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1782676,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/fabricmods/required/BetterF3-7.0.2-Fabric-1.20.1.jar",
-            "MD5": "acda45b22c255f78f3242056b1221c8e"
-          }
-        },
-        {
-          "id": "me.shedaniel.autoconfig.example:cloth-config:11.1.118@jar",
-          "name": "Cloth Config v11",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1159192,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/fabricmods/required/cloth-config-11.1.118-fabric.jar",
-            "MD5": "eb13a834db10ee7e8c5e6a6d4b037fbd"
-          }
-        },
-        {
           "id": "generated.fabricmod:fabric-api:0.92.1+1.20.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -153,6 +133,16 @@
             "size": 397198,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/fabricmods/required/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
             "MD5": "9b680a583230400e887dc545aa974936"
+          }
+        },
+        {
+          "id": "kr.cosine.simplef3:hqsimplef3:1.0.0@jar",
+          "name": "HQSimpleF3",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 80810,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/fabricmods/required/HQSimpleF3-fabric-1.0.0.jar",
+            "MD5": "b0132e60edb4082a58e1772b06041b09"
           }
         },
         {
@@ -280,19 +270,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4314,
+            "size": 5813,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/files/options.txt",
             "path": "options.txt"
-          }
-        },
-        {
-          "id": "리소스팩.zip",
-          "name": "리소스팩.zip",
-          "type": "File",
-          "artifact": {
-            "size": 5111809,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
-            "path": "resourcepacks/리소스팩.zip"
           }
         },
         {
@@ -303,6 +283,16 @@
             "size": 213149,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/files/resourcepacks/%EC%83%81%ED%98%84%EC%9D%98%EB%86%80%EC%9D%B4%ED%84%B0%20%ED%95%84%EC%88%98%20%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A91.zip",
             "path": "resourcepacks/상현의놀이터 필수 리소스팩1.zip"
+          }
+        },
+        {
+          "id": "상현의놀이터 필수 리소스팩2.zip",
+          "name": "상현의놀이터 필수 리소스팩2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 5662136,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/files/resourcepacks/%EC%83%81%ED%98%84%EC%9D%98%EB%86%80%EC%9D%B4%ED%84%B0%20%ED%95%84%EC%88%98%20%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A92.zip",
+            "path": "resourcepacks/상현의놀이터 필수 리소스팩2.zip"
           }
         },
         {
