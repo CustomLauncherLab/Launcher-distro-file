@@ -367,13 +367,13 @@
           }
         },
         {
-          "id": "noppes.npcs:customnpcs:1.16.5.20220728@jar",
+          "id": "noppes.npcs:customnpcs:1.16.5.20220622@jar",
           "name": "Custom NPCs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12485586,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/irispixelmon/servers/irispixelmon-1.16.5/forgemods/required/customnpcs-1.16.5.20220728.jar",
-            "MD5": "938c87e02a117a0ceb593bbc7a31578a"
+            "size": 15541935,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/irispixelmon/servers/irispixelmon-1.16.5/forgemods/required/CustomNPCs-1.16.5-0629.jar",
+            "MD5": "7a0ad26374f5721f2d3cab756c5017d1"
           }
         },
         {
@@ -434,6 +434,16 @@
             "size": 418698536,
             "url": "https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.16.5-9.1.11-universal.jar",
             "MD5": "0bb7d4a2daf72158d550afd54d5a16d1"
+          }
+        },
+        {
+          "id": "kr.poke24:ratingresource:1.0.0@jar",
+          "name": "Ratingresource",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4137547,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/irispixelmon/servers/irispixelmon-1.16.5/forgemods/required/ratingresource-1.0.0.jar",
+            "MD5": "b96037151b85bbaecce85779c8b4483e"
           }
         },
         {
