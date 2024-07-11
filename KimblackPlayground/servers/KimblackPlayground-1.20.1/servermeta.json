@@ -1,0 +1,30 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/KimblackPlayground/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "블랙의 놀이터",
+    "description": "KimblackPlayground Running Minecraft 1.20.1 (Forge v47.3.0)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/KimblackPlayground/server-icon.png",
+    "address": "kr-se12.nvh.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.3.0"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "servers.dat",
+        "options.txt",
+        "optionsshaders.txt"
+      ]
+    }
+  ]
+}
