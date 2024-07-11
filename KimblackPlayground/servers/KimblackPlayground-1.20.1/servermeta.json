@@ -23,7 +23,8 @@
       "patterns": [
         "servers.dat",
         "options.txt",
-        "optionsshaders.txt"
+        "optionsshaders.txt",
+        "config/oculus.properties"
       ]
     }
   ]
