@@ -1,0 +1,28 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/moolchoco/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "MBTI 단합대회",
+    "description": "moolchoco Running Minecraft 1.20.4 (Fabric v0.15.11)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/moolchoco/server-icon.png",
+    "address": "moolchoco.ggm.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.15.11"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "options.txt"
+      ]
+    }
+  ]
+}

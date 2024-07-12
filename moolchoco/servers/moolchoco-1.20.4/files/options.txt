@@ -1,0 +1,6 @@
+version:3700
+autoJump:false
+guiScale:2
+resourcePacks:["vanilla","fabric","file/cocricot_forMOD-1.20.4-snapshot1.1.1.zip"]
+incompatibleResourcePacks:["worldedit"]
+lang:ko_kr
