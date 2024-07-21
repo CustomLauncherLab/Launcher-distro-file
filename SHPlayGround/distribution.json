@@ -140,9 +140,9 @@
           "name": "HQSimpleF3",
           "type": "FabricMod",
           "artifact": {
-            "size": 80890,
+            "size": 107590,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/SHPlayGround/servers/SHPlayGround-1.20.1/fabricmods/required/HQSimpleF3-1.0.0.jar",
-            "MD5": "943baf1808ebdc9e5a21a840e740389a"
+            "MD5": "ed39c04b30c454a2eee3d4313af0885d"
           }
         },
         {
