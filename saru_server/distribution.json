@@ -312,7 +312,6 @@
           "artifact": {
             "size": 288,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server-1.20.1/files/config/iris.properties",
-            "MD5": "773d4228641827d174455d9fe5a9070e",
             "path": "config/iris.properties"
           }
         },
@@ -354,7 +353,6 @@
           "artifact": {
             "size": 409956,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip",
-            "MD5": "36b4136593cac57d2f9aa651603b6e0f",
             "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
           }
         },
@@ -365,7 +363,6 @@
           "artifact": {
             "size": 288,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt",
-            "MD5": "34acd9ad6f043b3e4955d291a8b393db",
             "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
           }
         }

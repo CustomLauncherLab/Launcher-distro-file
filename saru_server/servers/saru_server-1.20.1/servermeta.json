@@ -23,7 +23,8 @@
       "patterns": [
         "servers.dat",
         "options.txt",
-        "iris.properties"
+        "config/iris.properties",
+        "shaderpacks/*.*"
       ]
     }
   ]
