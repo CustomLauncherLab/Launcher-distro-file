@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/saru_server/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "https://github.com/CustomLauncherLab/saru_server/tags.atom",
+    "discord": {
+      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    }
+  }
+}
