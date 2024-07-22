@@ -306,6 +306,17 @@
           }
         },
         {
+          "id": "asteorbar.json5",
+          "name": "asteorbar.json5",
+          "type": "File",
+          "artifact": {
+            "size": 13174,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server-1.20.1/files/config/asteorbar.json5",
+            "MD5": "f3f0d3a472e4fc176a2a23c3858eb146",
+            "path": "config/asteorbar.json5"
+          }
+        },
+        {
           "id": "iris.properties",
           "name": "iris.properties",
           "type": "File",
@@ -320,7 +331,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4857,
+            "size": 4827,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server-1.20.1/files/options.txt",
             "path": "options.txt"
           }
