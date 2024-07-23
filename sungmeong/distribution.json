@@ -13,7 +13,7 @@
       "description": "sungmeong Running Minecraft 1.20.1 (Forge v47.3.1)",
       "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sungmeong/server-icon.png",
       "version": "1.0.0",
-      "address": "25.25.188.147",
+      "address": "25.35.205.70",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -497,7 +497,7 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 3212,
+            "size": 96,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sungmeong/servers/sungmeong-1.20.1/files/servers.dat",
             "path": "servers.dat"
           }
