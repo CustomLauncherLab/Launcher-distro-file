@@ -191,7 +191,7 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 5770,
+            "size": 322,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/FrogWorld/servers/Frogworld-1.20.1/files/servers.dat",
             "path": "servers.dat"
           }
