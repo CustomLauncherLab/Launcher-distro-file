@@ -5,7 +5,7 @@
     "name": "개구리소년",
     "description": "Frogworld Running Minecraft 1.20.1 (Fabric v0.15.11)",
     "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/FrogWorld/server-icon.png",
-    "address": "frogworlds.kro.kr",
+    "address": "frogworld.alcl.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
