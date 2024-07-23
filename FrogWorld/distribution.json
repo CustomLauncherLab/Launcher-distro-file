@@ -156,13 +156,22 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 276,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/FrogWorld/servers/Frogworld-1.20.1/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
             "size": 4229,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/FrogWorld/servers/Frogworld-1.20.1/files/options.txt",
-            "MD5": "b27b25e9f6cf0d946c8abc7ccc686de4",
             "path": "options.txt"
           }
         },
@@ -184,7 +193,6 @@
           "artifact": {
             "size": 5770,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/FrogWorld/servers/Frogworld-1.20.1/files/servers.dat",
-            "MD5": "ddd8bd7eaa4acbdbf658a908332200e6",
             "path": "servers.dat"
           }
         },

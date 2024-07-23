@@ -17,5 +17,14 @@
   "fabric": {
     "version": "0.15.11"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "servers.dat",
+        "options.txt",
+        "config/iris.properties"
+      ]
+    }
+  ]
 }
