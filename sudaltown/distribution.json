@@ -200,7 +200,7 @@
           "name": "shader.zip",
           "type": "File",
           "artifact": {
-            "size": 439886,
+            "size": 441683,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/files/shaderpacks/shader.zip",
             "path": "shaderpacks/shader.zip"
           }
