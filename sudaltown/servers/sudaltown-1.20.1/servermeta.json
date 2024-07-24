@@ -14,8 +14,8 @@
     "mainServer": true,
     "autoconnect": true
   },
-  "forge": {
-    "version": "47.3.0"
+  "fabric": {
+    "version": "0.15.11"
   },
   "untrackedFiles": [
     {
