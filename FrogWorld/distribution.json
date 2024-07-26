@@ -136,6 +136,16 @@
           }
         },
         {
+          "id": "journeymap:journeymap:5.10.1@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7208985,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/FrogWorld/servers/Frogworld-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.1-fabric.jar",
+            "MD5": "7dd3280a4990dc42aaa2cc2ca7a0f680"
+          }
+        },
+        {
           "id": "me.jellysquid.mods:sodium:0.5.11+mc1.20.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
