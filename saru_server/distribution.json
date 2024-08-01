@@ -136,6 +136,16 @@
           }
         },
         {
+          "id": "shcm.shsupercm:citresewn:1.1.5+1.20.1@jar",
+          "name": "CIT Resewn",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 391752,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server-1.20.1/fabricmods/required/citresewn-1.1.5+1.20.1.jar",
+            "MD5": "d0d036a2aeff226687f369269524653d"
+          }
+        },
+        {
           "id": "me.shedaniel.autoconfig.example:cloth-config:11.1.118@jar",
           "name": "Cloth Config v11",
           "type": "FabricMod",
