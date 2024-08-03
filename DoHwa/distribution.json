@@ -156,6 +156,16 @@
           }
         },
         {
+          "id": "me.jellysquid.mods:sodium:0.5.11+mc1.20.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 968419,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/DoHwa/servers/DoHwa-1.20.1/fabricmods/required/sodium-fabric-0.5.11+mc1.20.1.jar",
+            "MD5": "9880bae748957d1cb6c4de50c8e0452a"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.19@jar",
           "name": "Simple Voice Chat",
           "type": "FabricMod",
