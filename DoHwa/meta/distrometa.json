@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/DoHwa/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "https://github.com/CustomLauncherLab/DoHwa/tags.atom",
+    "discord": {
+      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    }
+  }
+}
