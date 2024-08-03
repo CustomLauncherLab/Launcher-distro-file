@@ -126,6 +126,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:fabric-api:0.92.2+1.20.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2107289,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/DoHwa/servers/DoHwa-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
+            "MD5": "92c58961866741106aae126558c9d4a7"
+          }
+        },
+        {
           "id": "kr.cosine.simplef3:hqsimplef3:1.0.3@jar",
           "name": "HQSimpleF3",
           "type": "FabricMod",
@@ -156,6 +166,17 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3485,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/DoHwa/servers/DoHwa-1.20.1/files/options.txt",
+            "MD5": "6ba5368032e1fa162a119ab63b593a9b",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "리소스팩.zip",
           "name": "리소스팩.zip",
           "type": "File",
@@ -164,6 +185,17 @@
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/DoHwa/servers/DoHwa-1.20.1/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
             "MD5": "d07735dba03104b9cef3bc9ee871e5c7",
             "path": "resourcepacks/리소스팩.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 105,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/DoHwa/servers/DoHwa-1.20.1/files/servers.dat",
+            "MD5": "9f66aa00c0cbda0738df8f564a13f3c0",
+            "path": "servers.dat"
           }
         },
         {
