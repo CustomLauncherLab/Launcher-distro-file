@@ -382,7 +382,7 @@
           "name": "ComplementaryReimagined_r5.1.1.zip.txt",
           "type": "File",
           "artifact": {
-            "size": 288,
+            "size": 322,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt",
             "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
           }
