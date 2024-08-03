@@ -21,6 +21,9 @@
     {
       "appliesTo": ["files"],
       "patterns": [
+        "servers.dat",
+        "options.txt",
+        "config/iris.properties"
       ]
     }
   ]
