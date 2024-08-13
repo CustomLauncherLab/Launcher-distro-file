@@ -126,26 +126,6 @@
           }
         },
         {
-          "id": "com.natamus:collective:7.81@jar",
-          "name": "Collective",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 646953,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/DoHwa/servers/DoHwa-1.20.1/fabricmods/required/collective-1.20.1-7.81.jar",
-            "MD5": "436b25e37e28f589bfc88b6f57f06191"
-          }
-        },
-        {
-          "id": "me.pepperbell:continuity:3.0.0-beta.5+1.20.1@jar",
-          "name": "Continuity",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1009252,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/DoHwa/servers/DoHwa-1.20.1/fabricmods/required/continuity-3.0.0-beta.5+1.20.1.jar",
-            "MD5": "1772f06a48c83414f4c6dfc2db4ac530"
-          }
-        },
-        {
           "id": "generated.fabricmod:fabric-api:0.92.2+1.20.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -183,16 +163,6 @@
             "size": 965275,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/DoHwa/servers/DoHwa-1.20.1/fabricmods/required/sodium-fabric-0.5.10+mc1.20.1.jar",
             "MD5": "9e9522b078f4a62d0cef69719521ad2b"
-          }
-        },
-        {
-          "id": "com.natamus:vanillazoom:2.7@jar",
-          "name": "Vanilla Zoom",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 26693,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/DoHwa/servers/DoHwa-1.20.1/fabricmods/required/vanillazoom-1.20.1-2.7.jar",
-            "MD5": "2c818feb4f24e2814aa880d4b2eadec3"
           }
         },
         {
