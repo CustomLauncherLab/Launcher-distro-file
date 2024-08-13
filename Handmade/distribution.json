@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://bjapi.afreecatv.com/api/intiger95/board/107283757?page=1&per_page=20&field=title%2Ccontents&type=all",
+  "rss": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Handmade/rss.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -133,6 +133,17 @@
             "size": 8064361,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Handmade/servers/Handmade-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.19.jar",
             "MD5": "8e3db9e113b55555d2c0d237906c0edf"
+          }
+        },
+        {
+          "id": "generated 0811.zip",
+          "name": "generated 0811.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1288796,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Handmade/servers/Handmade-1.20.1/files/resourcepacks/generated%200811.zip",
+            "MD5": "f038793cb8918e6db47a9346cd36264f",
+            "path": "resourcepacks/generated 0811.zip"
           }
         }
       ]
