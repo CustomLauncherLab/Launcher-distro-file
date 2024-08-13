@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://bjapi.afreecatv.com/api/intiger95/board/107283757?page=1&per_page=20&field=title%2Ccontents&keyword=&type=all&months=",
+  "rss": "https://bjapi.afreecatv.com/api/intiger95/board/107283757?page=1&per_page=20&field=title%2Ccontents&type=all",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
