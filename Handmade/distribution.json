@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Handmade/rss.xml",
+  "rss": "https://bjapi.afreecatv.com/api/intiger95/board/18921343?page=1&per_page=20&field=title%2Ccontents&keyword=&type=all&months=",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
