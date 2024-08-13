@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/Handmade/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Handmade (Minecraft 1.20.1)",
+    "description": "Handmade Running Minecraft 1.20.1 (Fabric v0.15.11)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Handmade/server-icon.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.15.11"
+  },
+  "untrackedFiles": []
+}
