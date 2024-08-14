@@ -2,8 +2,8 @@
   "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/Handmade/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "Handmade (Minecraft 1.20.1)",
-    "description": "Handmade Running Minecraft 1.20.1 (Fabric v0.15.11)",
+    "name": "광물 챌린지",
+    "description": "Minecraft 1.20.1 (Fabric v0.15.11)",
     "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Handmade/server-icon.png",
     "address": "localhost:25565",
     "discord": {

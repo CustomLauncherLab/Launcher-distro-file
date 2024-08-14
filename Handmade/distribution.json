@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://bjapi.afreecatv.com/api/intiger95/board/107283757?page=1&per_page=20&field=title%2Ccontents&type=all",
+  "rss": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Handmade/rss.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "Handmade-1.20.1",
-      "name": "Handmade (Minecraft 1.20.1)",
-      "description": "Handmade Running Minecraft 1.20.1 (Fabric v0.15.11)",
+      "name": "광물 챌린지",
+      "description": "Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Handmade/server-icon.png",
       "version": "1.0.0",
       "address": "localhost:25565",
