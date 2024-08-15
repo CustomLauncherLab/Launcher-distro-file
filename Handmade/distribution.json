@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Handmade/rss.xml",
+  "rss": "https://github.com/CustomLauncherLab/Handmade/tags.atom",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -133,6 +133,16 @@
             "size": 8064361,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Handmade/servers/Handmade-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.19.jar",
             "MD5": "8e3db9e113b55555d2c0d237906c0edf"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:24.2.0@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1500922,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Handmade/servers/Handmade-1.20.1/fabricmods/required/Xaeros_Minimap_24.2.0_Fabric_1.20.jar",
+            "MD5": "0ff3834fbcfd3ee34876f48e191ae4c4"
           }
         },
         {

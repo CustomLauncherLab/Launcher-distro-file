@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/Handmade/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Handmade/rss.xml",
+    "rss": "https://github.com/CustomLauncherLab/Handmade/tags.atom",
     "discord": {
       "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
