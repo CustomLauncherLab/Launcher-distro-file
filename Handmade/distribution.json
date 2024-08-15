@@ -146,6 +146,28 @@
           }
         },
         {
+          "id": "xaerominimap.txt",
+          "name": "xaerominimap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3506,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Handmade/servers/Handmade-1.20.1/files/config/xaerominimap.txt",
+            "MD5": "7c8da7bb7b549115de38de475d2c87f8",
+            "path": "config/xaerominimap.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 2169,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Handmade/servers/Handmade-1.20.1/files/options.txt",
+            "MD5": "6cdcebe0dfb61bf240bf654e21fe4704",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "generated 0811.zip",
           "name": "generated 0811.zip",
           "type": "File",
@@ -154,6 +176,17 @@
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Handmade/servers/Handmade-1.20.1/files/resourcepacks/generated%200811.zip",
             "MD5": "f038793cb8918e6db47a9346cd36264f",
             "path": "resourcepacks/generated 0811.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 133,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Handmade/servers/Handmade-1.20.1/files/servers.dat",
+            "MD5": "9a6b8806e69eed9c4746f03043cf6ae9",
+            "path": "servers.dat"
           }
         }
       ]
