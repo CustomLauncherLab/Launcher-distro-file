@@ -1,2 +1,2 @@
-resourcePacks:["vanilla","mod_resources","file/리소스팩.zip"]
+resourcePacks:["vanilla","mod_resources","file/generated.zip"]
 lang:ko_kr

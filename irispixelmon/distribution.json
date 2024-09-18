@@ -471,9 +471,20 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 79,
+            "size": 76,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/irispixelmon/servers/irispixelmon-1.16.5/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "generated.zip",
+          "name": "generated.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1634033,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/irispixelmon/servers/irispixelmon-1.16.5/files/resourcepacks/generated.zip",
+            "MD5": "7ce667cc7abe345adad652a055a7525f",
+            "path": "resourcepacks/generated.zip"
           }
         },
         {
