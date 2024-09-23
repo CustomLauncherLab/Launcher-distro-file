@@ -136,6 +136,26 @@
           }
         },
         {
+          "id": "generated.fabricmod:iris:1.7.2+mc1.20.4@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2703697,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/fabricmods/required/iris-1.7.2+mc1.20.4.jar",
+            "MD5": "fa3647d1891a719b268c636236d989c2"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.8+mc1.20.4@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 949085,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/fabricmods/required/sodium-fabric-0.5.8+mc1.20.4.jar",
+            "MD5": "d7753a50ca37f50abb10465a9a425dac"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.20.4-2.5.19@jar",
           "name": "Simple Voice Chat",
           "type": "FabricMod",
@@ -163,7 +183,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 179,
+            "size": 196,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/files/options.txt",
             "path": "options.txt"
           }
@@ -188,6 +208,17 @@
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/files/servers.dat",
             "MD5": "9d8d13bdee6e2ed8cfa637bf98d91d9a",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "miniature-shader-2.13.2.zip",
+          "name": "miniature-shader-2.13.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 21505,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/files/shaderpacks/miniature-shader-2.13.2.zip",
+            "MD5": "760f0beeeefe4be65f4199166dff3423",
+            "path": "shaderpacks/miniature-shader-2.13.2.zip"
           }
         }
       ]
