@@ -116,6 +116,16 @@
           ]
         },
         {
+          "id": "moe.caramel.chat:caramelchat:1.2.0@jar",
+          "name": "CaramelChat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 163227,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/fabricmods/required/caramelChat-mc1.20.4-fabric-1.2.0.jar",
+            "MD5": "59afda01c0be221d5e692e97dd2b77bf"
+          }
+        },
+        {
           "id": "kiko.cocricot:cocricot:snapshot-1.1.0@jar",
           "name": "CocricotMOD",
           "type": "FabricMod",
