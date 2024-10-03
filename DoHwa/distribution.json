@@ -13,7 +13,7 @@
       "description": "Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/DoHwa/server-icon.png",
       "version": "1.0.0",
-      "address": "standard.alcl.cloud:27041",
+      "address": "metamong1004.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -190,20 +190,20 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3485,
+            "size": 3494,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/DoHwa/servers/DoHwa-1.20.1/files/options.txt",
             "path": "options.txt"
           }
         },
         {
-          "id": "리소스팩.zip",
-          "name": "리소스팩.zip",
+          "id": "도화 리팩.zip",
+          "name": "도화 리팩.zip",
           "type": "File",
           "artifact": {
-            "size": 5111906,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/DoHwa/servers/DoHwa-1.20.1/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
-            "MD5": "d07735dba03104b9cef3bc9ee871e5c7",
-            "path": "resourcepacks/리소스팩.zip"
+            "size": 5419429,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/DoHwa/servers/DoHwa-1.20.1/files/resourcepacks/%EB%8F%84%ED%99%94%20%EB%A6%AC%ED%8C%A9.zip",
+            "MD5": "205d6a2e550f8a0928d282300956399d",
+            "path": "resourcepacks/도화 리팩.zip"
           }
         },
         {
@@ -211,7 +211,7 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 105,
+            "size": 312,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/DoHwa/servers/DoHwa-1.20.1/files/servers.dat",
             "path": "servers.dat"
           }

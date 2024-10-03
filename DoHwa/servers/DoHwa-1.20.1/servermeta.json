@@ -5,7 +5,7 @@
     "name": "도화 온라인",
     "description": "Minecraft 1.20.1 (Fabric v0.15.11)",
     "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/DoHwa/server-icon.png",
-    "address": "standard.alcl.cloud:27041",
+    "address": "metamong1004.kro.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
