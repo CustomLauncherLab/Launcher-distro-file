@@ -182,9 +182,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 153,
+            "size": 177,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/happ/servers/happ-1.20.1/files/servers.dat",
-            "MD5": "1979decef5d24c555a1da69b11e57776",
+            "MD5": "f43a76bd7fb6a2f784c6790e71a625db",
             "path": "servers.dat"
           }
         }
