@@ -20,7 +20,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["config/xaerominimap.txt"]
+      "patterns": ["options.txt", "config/xaerominimap.txt"]
     }
   ]
 }
