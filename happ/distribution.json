@@ -146,6 +146,16 @@
           }
         },
         {
+          "id": "xaerominimap.txt",
+          "name": "xaerominimap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3508,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/happ/servers/happ-1.20.1/files/config/xaerominimap.txt",
+            "path": "config/xaerominimap.txt"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
