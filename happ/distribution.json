@@ -180,7 +180,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3563,
+            "size": 3735,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/happ/servers/happ-1.20.1/files/options.txt",
             "path": "options.txt"
           }
