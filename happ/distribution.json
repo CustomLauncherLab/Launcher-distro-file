@@ -186,6 +186,28 @@
           }
         },
         {
+          "id": "custom_items_sounds_resourcepack.zip",
+          "name": "custom_items_sounds_resourcepack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 158481,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/happ/servers/happ-1.20.1/files/resourcepacks/custom_items_sounds_resourcepack.zip",
+            "MD5": "2e06588ccdfb27cb4afdf6cd8aa9e3c9",
+            "path": "resourcepacks/custom_items_sounds_resourcepack.zip"
+          }
+        },
+        {
+          "id": "resourcepack (for players).zip",
+          "name": "resourcepack (for players).zip",
+          "type": "File",
+          "artifact": {
+            "size": 497001,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/happ/servers/happ-1.20.1/files/resourcepacks/resourcepack%20(for%20players).zip",
+            "MD5": "9b593d04d4679d79dffd5ec19dd5e68d",
+            "path": "resourcepacks/resourcepack (for players).zip"
+          }
+        },
+        {
           "id": "리소스팩2 (1).zip",
           "name": "리소스팩2 (1).zip",
           "type": "File",
