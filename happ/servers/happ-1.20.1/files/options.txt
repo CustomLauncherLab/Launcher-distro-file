@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","file/리소스팩2 (1).zip","fabric","file/custom_items_sounds_resourcepack.zip","file/resourcepack (for players).zip"]
-incompatibleResourcePacks:["file/custom_items_sounds_resourcepack.zip","file/resourcepack (for players).zip"]
+resourcePacks:["vanilla","file/리소스팩2 (1).zip"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr
 soundDevice:""
