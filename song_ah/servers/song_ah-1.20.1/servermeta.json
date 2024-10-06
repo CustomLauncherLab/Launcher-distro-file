@@ -20,7 +20,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["options.txt","config/**"]
+      "patterns": ["servers.dat","options.txt","config/**"]
     }
   ]
 }
