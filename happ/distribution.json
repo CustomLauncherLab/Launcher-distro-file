@@ -180,9 +180,20 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3534,
+            "size": 3559,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/happ/servers/happ-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "리소스팩2.zip",
+          "name": "리소스팩2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 5111906,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/happ/servers/happ-1.20.1/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A92.zip",
+            "MD5": "d07735dba03104b9cef3bc9ee871e5c7",
+            "path": "resourcepacks/리소스팩2.zip"
           }
         },
         {

@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla"]
+resourcePacks:["vanilla","file/리소스팩2.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr
