@@ -1,0 +1,8 @@
+version:3465
+guiScale:2
+renderClouds:"fast"
+resourcePacks:["vanilla","mod_resources","fabric","file/cocricot_for1.20.4_v1.1.zip"]
+incompatibleResourcePacks:["file/cocricot_for1.20.4_v1.1.zip"]
+lang:ko_kr
+tutorialStep:none
+key_key.chat:key.keyboard.enter

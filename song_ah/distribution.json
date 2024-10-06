@@ -20,8 +20,8 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.10",
@@ -2251,6 +2251,17 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 260,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/options.txt",
+            "MD5": "5dd7b4ed235b663f8da05ccc741d4aa3",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "AnimEmis_spartanfire_1.20.1.zip",
           "name": "AnimEmis_spartanfire_1.20.1.zip",
           "type": "File",
@@ -2402,6 +2413,17 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/xali's%20enchanted%20books%20v0.13.0.zip",
             "MD5": "557abdd1b3745049023599f085cbebf3",
             "path": "resourcepacks/xali's enchanted books v0.13.0.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 15852,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/servers.dat",
+            "MD5": "463bcf42fb779c2b1ec3dc592ecd9514",
+            "path": "servers.dat"
           }
         },
         {
