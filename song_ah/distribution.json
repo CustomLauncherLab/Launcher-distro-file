@@ -603,6 +603,19 @@
           }
         },
         {
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.6.6+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 190525,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/optionalon/koreanpatch-forge-1.6.6+mc1.20.1.jar",
+            "MD5": "022093a6e513ece7b7f236f325836631"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "fr.samlegamer:macawsbridgesbyg:1.20.1-1.0@jar",
           "name": "Macaw's Bridges - BWG",
           "type": "ForgeMod",
@@ -849,7 +862,6 @@
           "artifact": {
             "size": 754,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/alligator_snapping_turtle_spawns.json",
-            "MD5": "e880e0c7e38986fb1f7a8885a892b0fc",
             "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json"
           }
         },
@@ -860,7 +872,6 @@
           "artifact": {
             "size": 1036,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/anaconda_spawns.json",
-            "MD5": "74d2b1bc857e9acb8321f296567a8f7f",
             "path": "config/alexsmobs/anaconda_spawns.json"
           }
         },
@@ -871,7 +882,6 @@
           "artifact": {
             "size": 1166,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/anteater_spawns.json",
-            "MD5": "2040bb544aff0345a335fd895cd0022c",
             "path": "config/alexsmobs/anteater_spawns.json"
           }
         },
@@ -882,7 +892,6 @@
           "artifact": {
             "size": 2723,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/bald_eagle_spawns.json",
-            "MD5": "dd9229ac98bbf83a1309d4b1e3770fd5",
             "path": "config/alexsmobs/bald_eagle_spawns.json"
           }
         },
@@ -893,7 +902,6 @@
           "artifact": {
             "size": 1697,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/banana_slug_spawns.json",
-            "MD5": "6aec0b8dd4904343a50e7fb0a37b2912",
             "path": "config/alexsmobs/banana_slug_spawns.json"
           }
         },
@@ -904,7 +912,6 @@
           "artifact": {
             "size": 1761,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/bison_spawns.json",
-            "MD5": "729766841964832662fb610b6a661dc4",
             "path": "config/alexsmobs/bison_spawns.json"
           }
         },
@@ -915,7 +922,6 @@
           "artifact": {
             "size": 146,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/blobfish_spawns.json",
-            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
             "path": "config/alexsmobs/blobfish_spawns.json"
           }
         },
@@ -926,7 +932,6 @@
           "artifact": {
             "size": 4020,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/blue_jay_spawns.json",
-            "MD5": "9b797aa57e7c173d5e4a8f034f267dff",
             "path": "config/alexsmobs/blue_jay_spawns.json"
           }
         },
@@ -937,7 +942,6 @@
           "artifact": {
             "size": 257,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/bone_serpent_spawns.json",
-            "MD5": "7f0b198410364ba04743be1a24f901db",
             "path": "config/alexsmobs/bone_serpent_spawns.json"
           }
         },
@@ -948,7 +952,6 @@
           "artifact": {
             "size": 486,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/bunfungus_spawns.json",
-            "MD5": "e585908f8d3914a77836461f2f136848",
             "path": "config/alexsmobs/bunfungus_spawns.json"
           }
         },
@@ -959,7 +962,6 @@
           "artifact": {
             "size": 642,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/cachalot_whale_beached_spawns.json",
-            "MD5": "b779f228a334a5be8eaa5f845664105c",
             "path": "config/alexsmobs/cachalot_whale_beached_spawns.json"
           }
         },
@@ -970,7 +972,6 @@
           "artifact": {
             "size": 893,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/cachalot_whale_spawns.json",
-            "MD5": "53158516acce1c7ce2d05e0a61ff5965",
             "path": "config/alexsmobs/cachalot_whale_spawns.json"
           }
         },
@@ -981,7 +982,6 @@
           "artifact": {
             "size": 291,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/caiman_spawns.json",
-            "MD5": "0443b3f49eb26ce302434cf0af666b90",
             "path": "config/alexsmobs/caiman_spawns.json"
           }
         },
@@ -992,7 +992,6 @@
           "artifact": {
             "size": 1184,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/capuchin_monkey_spawns.json",
-            "MD5": "61f854072c18a0b127bb37c01b33a0ae",
             "path": "config/alexsmobs/capuchin_monkey_spawns.json"
           }
         },
@@ -1003,7 +1002,6 @@
           "artifact": {
             "size": 1097,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/catfish_spawns.json",
-            "MD5": "f0234087612d8035344fbfb634cebfa9",
             "path": "config/alexsmobs/catfish_spawns.json"
           }
         },
@@ -1014,7 +1012,6 @@
           "artifact": {
             "size": 2200,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/cave_centipede_spawns.json",
-            "MD5": "a6fcbacb06418e1c951695b0f4919f13",
             "path": "config/alexsmobs/cave_centipede_spawns.json"
           }
         },
@@ -1025,7 +1022,6 @@
           "artifact": {
             "size": 2085,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/cockroach_spawns.json",
-            "MD5": "4b8fb651c60044198150aa49c4193dcc",
             "path": "config/alexsmobs/cockroach_spawns.json"
           }
         },
@@ -1036,7 +1032,6 @@
           "artifact": {
             "size": 414,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/comb_jelly_spawns.json",
-            "MD5": "e9fa2345daa80ad12a849fe96ea656f9",
             "path": "config/alexsmobs/comb_jelly_spawns.json"
           }
         },
@@ -1047,7 +1042,6 @@
           "artifact": {
             "size": 371,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/cosmaw_spawns.json",
-            "MD5": "99ec85d1693bdd51d1970b9bfba84267",
             "path": "config/alexsmobs/cosmaw_spawns.json"
           }
         },
@@ -1058,7 +1052,6 @@
           "artifact": {
             "size": 139,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/cosmic_cod_spawns.json",
-            "MD5": "84b1c3b63a2e5656da5478c844a5ad49",
             "path": "config/alexsmobs/cosmic_cod_spawns.json"
           }
         },
@@ -1069,7 +1062,6 @@
           "artifact": {
             "size": 785,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/crimson_mosquito_spawns.json",
-            "MD5": "0c095c6657c6df75653ab9a0b049b4e1",
             "path": "config/alexsmobs/crimson_mosquito_spawns.json"
           }
         },
@@ -1080,7 +1072,6 @@
           "artifact": {
             "size": 1007,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/crocodile_spawns.json",
-            "MD5": "062f820f53eee3c3a4eed7621a4d96c3",
             "path": "config/alexsmobs/crocodile_spawns.json"
           }
         },
@@ -1091,7 +1082,6 @@
           "artifact": {
             "size": 5146,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/crow_spawns.json",
-            "MD5": "607a09f65c8023448ad7828e29bde4e6",
             "path": "config/alexsmobs/crow_spawns.json"
           }
         },
@@ -1102,7 +1092,6 @@
           "artifact": {
             "size": 145,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/devils_hole_pupfish_spawns.json",
-            "MD5": "2c88b50ebef0c2d8cefd7fec53cc1b31",
             "path": "config/alexsmobs/devils_hole_pupfish_spawns.json"
           }
         },
@@ -1113,7 +1102,6 @@
           "artifact": {
             "size": 403,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/dropbear_spawns.json",
-            "MD5": "95aa6694d6dd2f14fcfcedc28f5698e9",
             "path": "config/alexsmobs/dropbear_spawns.json"
           }
         },
@@ -1124,7 +1112,6 @@
           "artifact": {
             "size": 1163,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/elephant_spawns.json",
-            "MD5": "1032996d6a2cac873766f7a443d44810",
             "path": "config/alexsmobs/elephant_spawns.json"
           }
         },
@@ -1135,7 +1122,6 @@
           "artifact": {
             "size": 1661,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/emu_spawns.json",
-            "MD5": "3eb32cae8d7825df19055f0b673481ec",
             "path": "config/alexsmobs/emu_spawns.json"
           }
         },
@@ -1146,7 +1132,6 @@
           "artifact": {
             "size": 250,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/endergrade_spawns.json",
-            "MD5": "fe07337e303bd453f45f00ec63fa9c0a",
             "path": "config/alexsmobs/endergrade_spawns.json"
           }
         },
@@ -1157,7 +1142,6 @@
           "artifact": {
             "size": 603,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/enderiophage_spawns.json",
-            "MD5": "4ab64e4848a83c605d54ade54fdf0702",
             "path": "config/alexsmobs/enderiophage_spawns.json"
           }
         },
@@ -1168,7 +1152,6 @@
           "artifact": {
             "size": 266,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/farseer.json",
-            "MD5": "337b5b31ce112b2c614749d2e1047254",
             "path": "config/alexsmobs/farseer.json"
           }
         },
@@ -1179,7 +1162,6 @@
           "artifact": {
             "size": 147,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/flutter_spawns.json",
-            "MD5": "1ab7408c8c7997d1ca595bdaa531820b",
             "path": "config/alexsmobs/flutter_spawns.json"
           }
         },
@@ -1190,7 +1172,6 @@
           "artifact": {
             "size": 716,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/flying_fish_spawns.json",
-            "MD5": "7bf21cd1ccc1499470e52d91402a899f",
             "path": "config/alexsmobs/flying_fish_spawns.json"
           }
         },
@@ -1201,7 +1182,6 @@
           "artifact": {
             "size": 145,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/fly_spawns.json",
-            "MD5": "2c88b50ebef0c2d8cefd7fec53cc1b31",
             "path": "config/alexsmobs/fly_spawns.json"
           }
         },
@@ -1212,7 +1192,6 @@
           "artifact": {
             "size": 146,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/frilled_shark_spawns.json",
-            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
             "path": "config/alexsmobs/frilled_shark_spawns.json"
           }
         },
@@ -1223,7 +1202,6 @@
           "artifact": {
             "size": 934,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/froststalker_spawns.json",
-            "MD5": "2a017b04fa69a371da739dca3dccfaeb",
             "path": "config/alexsmobs/froststalker_spawns.json"
           }
         },
@@ -1234,7 +1212,6 @@
           "artifact": {
             "size": 1050,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/gazelle_spawns.json",
-            "MD5": "397912ee2f4758bf87c6e017fc8c3dc0",
             "path": "config/alexsmobs/gazelle_spawns.json"
           }
         },
@@ -1245,7 +1222,6 @@
           "artifact": {
             "size": 1001,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/gelada_monkey_spawns.json",
-            "MD5": "c229e44c5b5bd924b2449149c1fabac7",
             "path": "config/alexsmobs/gelada_monkey_spawns.json"
           }
         },
@@ -1256,7 +1232,6 @@
           "artifact": {
             "size": 146,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/giant_squid_spawns.json",
-            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
             "path": "config/alexsmobs/giant_squid_spawns.json"
           }
         },
@@ -1267,7 +1242,6 @@
           "artifact": {
             "size": 1053,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/gorilla_spawns.json",
-            "MD5": "803b7292137cbeece7aaa1d69e04b5b2",
             "path": "config/alexsmobs/gorilla_spawns.json"
           }
         },
@@ -1278,7 +1252,6 @@
           "artifact": {
             "size": 4020,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/grizzly_bear_spawns.json",
-            "MD5": "9b797aa57e7c173d5e4a8f034f267dff",
             "path": "config/alexsmobs/grizzly_bear_spawns.json"
           }
         },
@@ -1289,7 +1262,6 @@
           "artifact": {
             "size": 1132,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/guster_spawns.json",
-            "MD5": "9f7fac3c24c356a767bce153106054dd",
             "path": "config/alexsmobs/guster_spawns.json"
           }
         },
@@ -1300,7 +1272,6 @@
           "artifact": {
             "size": 254,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/hammerhead_shark_spawns.json",
-            "MD5": "3e1c6fd6a63f92c5784cd66565dfb1f7",
             "path": "config/alexsmobs/hammerhead_shark_spawns.json"
           }
         },
@@ -1311,7 +1282,6 @@
           "artifact": {
             "size": 3029,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/hummingbird_spawns.json",
-            "MD5": "4ab2f69a298dba2dd6de993426aa1642",
             "path": "config/alexsmobs/hummingbird_spawns.json"
           }
         },
@@ -1322,7 +1292,6 @@
           "artifact": {
             "size": 1252,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/jerboa_spawns.json",
-            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
             "path": "config/alexsmobs/jerboa_spawns.json"
           }
         },
@@ -1333,7 +1302,6 @@
           "artifact": {
             "size": 1661,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/kangaroo_spawns.json",
-            "MD5": "3eb32cae8d7825df19055f0b673481ec",
             "path": "config/alexsmobs/kangaroo_spawns.json"
           }
         },
@@ -1344,7 +1312,6 @@
           "artifact": {
             "size": 775,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/komodo_dragon_spawns.json",
-            "MD5": "bb0e841a9cf2784c27209ab46af2ab58",
             "path": "config/alexsmobs/komodo_dragon_spawns.json"
           }
         },
@@ -1355,7 +1322,6 @@
           "artifact": {
             "size": 142,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/laviathan_spawns.json",
-            "MD5": "477bc268eb72dc151845a22729de3fe8",
             "path": "config/alexsmobs/laviathan_spawns.json"
           }
         },
@@ -1366,7 +1332,6 @@
           "artifact": {
             "size": 1166,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/leafcutter_anthill_spawns.json",
-            "MD5": "2040bb544aff0345a335fd895cd0022c",
             "path": "config/alexsmobs/leafcutter_anthill_spawns.json"
           }
         },
@@ -1377,7 +1342,6 @@
           "artifact": {
             "size": 398,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/lobster_spawns.json",
-            "MD5": "3284cadc1438c85425a3621a016e6eba",
             "path": "config/alexsmobs/lobster_spawns.json"
           }
         },
@@ -1388,7 +1352,6 @@
           "artifact": {
             "size": 1037,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/maned_wolf_spawns.json",
-            "MD5": "c21feac193fa689955ac90f659e1f0c2",
             "path": "config/alexsmobs/maned_wolf_spawns.json"
           }
         },
@@ -1399,7 +1362,6 @@
           "artifact": {
             "size": 385,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/mantis_shrimp_spawns.json",
-            "MD5": "c0a4157361a392c8a4d4e32d95bcc46f",
             "path": "config/alexsmobs/mantis_shrimp_spawns.json"
           }
         },
@@ -1410,7 +1372,6 @@
           "artifact": {
             "size": 365,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/mimicube_spawns.json",
-            "MD5": "5dfd54d2860bbecb3d63d3a0cbc42752",
             "path": "config/alexsmobs/mimicube_spawns.json"
           }
         },
@@ -1421,7 +1382,6 @@
           "artifact": {
             "size": 373,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/mimic_octopus_spawns.json",
-            "MD5": "468f301a2a863dc3c56c0dffc967fb73",
             "path": "config/alexsmobs/mimic_octopus_spawns.json"
           }
         },
@@ -1432,7 +1392,6 @@
           "artifact": {
             "size": 2291,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/moose_spawns.json",
-            "MD5": "9352df8e11cc9d6c49756868320ff3bb",
             "path": "config/alexsmobs/moose_spawns.json"
           }
         },
@@ -1443,7 +1402,6 @@
           "artifact": {
             "size": 291,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/mudskipper_spawns.json",
-            "MD5": "0443b3f49eb26ce302434cf0af666b90",
             "path": "config/alexsmobs/mudskipper_spawns.json"
           }
         },
@@ -1454,7 +1412,6 @@
           "artifact": {
             "size": 486,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/mungus_spawns.json",
-            "MD5": "e585908f8d3914a77836461f2f136848",
             "path": "config/alexsmobs/mungus_spawns.json"
           }
         },
@@ -1465,7 +1422,6 @@
           "artifact": {
             "size": 2200,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/murmur.json",
-            "MD5": "a6fcbacb06418e1c951695b0f4919f13",
             "path": "config/alexsmobs/murmur.json"
           }
         },
@@ -1476,7 +1432,6 @@
           "artifact": {
             "size": 255,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/orca_spawns.json",
-            "MD5": "7c9a514102d327b8d9ba16b19a991049",
             "path": "config/alexsmobs/orca_spawns.json"
           }
         },
@@ -1487,7 +1442,6 @@
           "artifact": {
             "size": 625,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/platypus_spawns.json",
-            "MD5": "058a3971fb93597c04c1769bfe265fb9",
             "path": "config/alexsmobs/platypus_spawns.json"
           }
         },
@@ -1498,7 +1452,6 @@
           "artifact": {
             "size": 148,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/potoo_spawns.json",
-            "MD5": "d1511fa5b0562676dab091599bc838a2",
             "path": "config/alexsmobs/potoo_spawns.json"
           }
         },
@@ -1509,7 +1462,6 @@
           "artifact": {
             "size": 3712,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/raccoon_spawns.json",
-            "MD5": "ef2fd8cf69fc21a78c45e79c1a1bf5a7",
             "path": "config/alexsmobs/raccoon_spawns.json"
           }
         },
@@ -1520,7 +1472,6 @@
           "artifact": {
             "size": 1252,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/rain_frog_spawns.json",
-            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
             "path": "config/alexsmobs/rain_frog_spawns.json"
           }
         },
@@ -1531,7 +1482,6 @@
           "artifact": {
             "size": 1646,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/rattlesnake_spawns.json",
-            "MD5": "c9f3ffa55ec8cc5d57ed9a8bcb0ea1fe",
             "path": "config/alexsmobs/rattlesnake_spawns.json"
           }
         },
@@ -1542,7 +1492,6 @@
           "artifact": {
             "size": 1050,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/rhinoceros_spawns.json",
-            "MD5": "397912ee2f4758bf87c6e017fc8c3dc0",
             "path": "config/alexsmobs/rhinoceros_spawns.json"
           }
         },
@@ -1553,7 +1502,6 @@
           "artifact": {
             "size": 1646,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/roadrunner_spawns.json",
-            "MD5": "c9f3ffa55ec8cc5d57ed9a8bcb0ea1fe",
             "path": "config/alexsmobs/roadrunner_spawns.json"
           }
         },
@@ -1564,7 +1512,6 @@
           "artifact": {
             "size": 673,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/rocky_roller_spawns.json",
-            "MD5": "7f40733890dcc5279c2addea737b4b80",
             "path": "config/alexsmobs/rocky_roller_spawns.json"
           }
         },
@@ -1575,7 +1522,6 @@
           "artifact": {
             "size": 1296,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/seagull_spawns.json",
-            "MD5": "477c8512be58a4c7cadbc3ea65c3642a",
             "path": "config/alexsmobs/seagull_spawns.json"
           }
         },
@@ -1586,7 +1532,6 @@
           "artifact": {
             "size": 877,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/seal_spawns.json",
-            "MD5": "001c3ef108fd4fa9766fc80441edeb04",
             "path": "config/alexsmobs/seal_spawns.json"
           }
         },
@@ -1597,7 +1542,6 @@
           "artifact": {
             "size": 623,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/shoebill_spawns.json",
-            "MD5": "7e9b29c6eba19484a234ee300f2dea69",
             "path": "config/alexsmobs/shoebill_spawns.json"
           }
         },
@@ -1608,7 +1552,6 @@
           "artifact": {
             "size": 374,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/skelewag_spawns.json",
-            "MD5": "b848bd81bc3b313dba92f2743bc27643",
             "path": "config/alexsmobs/skelewag_spawns.json"
           }
         },
@@ -1619,7 +1562,6 @@
           "artifact": {
             "size": 276,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/skreecher.json",
-            "MD5": "cf0d7ac8c8ec5f67d540efe79f2f2084",
             "path": "config/alexsmobs/skreecher.json"
           }
         },
@@ -1630,7 +1572,6 @@
           "artifact": {
             "size": 2037,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/skunk_spawns.json",
-            "MD5": "e077fe3ab2315f937483c66f95ece589",
             "path": "config/alexsmobs/skunk_spawns.json"
           }
         },
@@ -1641,7 +1582,6 @@
           "artifact": {
             "size": 1808,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/snow_leopard_spawns.json",
-            "MD5": "54323941affc9be9f7a507f68dbd4ee7",
             "path": "config/alexsmobs/snow_leopard_spawns.json"
           }
         },
@@ -1652,7 +1592,6 @@
           "artifact": {
             "size": 523,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/soul_vulture_spawns.json",
-            "MD5": "4121b1b2b71908c6db3f6f2a8c53059a",
             "path": "config/alexsmobs/soul_vulture_spawns.json"
           }
         },
@@ -1663,7 +1602,6 @@
           "artifact": {
             "size": 250,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/spectre_spawns.json",
-            "MD5": "fe07337e303bd453f45f00ec63fa9c0a",
             "path": "config/alexsmobs/spectre_spawns.json"
           }
         },
@@ -1674,7 +1612,6 @@
           "artifact": {
             "size": 664,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/straddler_spawns.json",
-            "MD5": "bf5897f982c8063dc1d570ad6c4eee95",
             "path": "config/alexsmobs/straddler_spawns.json"
           }
         },
@@ -1685,7 +1622,6 @@
           "artifact": {
             "size": 664,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/stradpole_spawns.json",
-            "MD5": "bf5897f982c8063dc1d570ad6c4eee95",
             "path": "config/alexsmobs/stradpole_spawns.json"
           }
         },
@@ -1696,7 +1632,6 @@
           "artifact": {
             "size": 418,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/sugar_glider_spawns.json",
-            "MD5": "6f1722c17a8adc08ab757a0e6377233e",
             "path": "config/alexsmobs/sugar_glider_spawns.json"
           }
         },
@@ -1707,7 +1642,6 @@
           "artifact": {
             "size": 3925,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/sunbird_spawns.json",
-            "MD5": "147fdf357f3478c40b5b7481569c6c07",
             "path": "config/alexsmobs/sunbird_spawns.json"
           }
         },
@@ -1718,7 +1652,6 @@
           "artifact": {
             "size": 1252,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/tarantula_hawk_spawns.json",
-            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
             "path": "config/alexsmobs/tarantula_hawk_spawns.json"
           }
         },
@@ -1729,7 +1662,6 @@
           "artifact": {
             "size": 1908,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/tasmanian_devil_spawns.json",
-            "MD5": "2234aec1f09e2e0e5d202cfbeb9b283b",
             "path": "config/alexsmobs/tasmanian_devil_spawns.json"
           }
         },
@@ -1740,7 +1672,6 @@
           "artifact": {
             "size": 625,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/terrapin_spawns.json",
-            "MD5": "058a3971fb93597c04c1769bfe265fb9",
             "path": "config/alexsmobs/terrapin_spawns.json"
           }
         },
@@ -1751,7 +1682,6 @@
           "artifact": {
             "size": 1209,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/tiger_spawns.json",
-            "MD5": "8e7708606954a64a9f8648585c8a4a74",
             "path": "config/alexsmobs/tiger_spawns.json"
           }
         },
@@ -1762,7 +1692,6 @@
           "artifact": {
             "size": 1166,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/toucan_spawns.json",
-            "MD5": "2040bb544aff0345a335fd895cd0022c",
             "path": "config/alexsmobs/toucan_spawns.json"
           }
         },
@@ -1773,7 +1702,6 @@
           "artifact": {
             "size": 1252,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/triops_spawns.json",
-            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
             "path": "config/alexsmobs/triops_spawns.json"
           }
         },
@@ -1784,7 +1712,6 @@
           "artifact": {
             "size": 882,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/tusklin_spawns.json",
-            "MD5": "502bb996e36a50b977acb73e29e975df",
             "path": "config/alexsmobs/tusklin_spawns.json"
           }
         },
@@ -1795,7 +1722,6 @@
           "artifact": {
             "size": 2085,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/underminer.json",
-            "MD5": "4b8fb651c60044198150aa49c4193dcc",
             "path": "config/alexsmobs/underminer.json"
           }
         },
@@ -1806,7 +1732,6 @@
           "artifact": {
             "size": 18,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/void_worm_spawns.json",
-            "MD5": "0531dec7156e47b4566a5eb598a4b931",
             "path": "config/alexsmobs/void_worm_spawns.json"
           }
         },
@@ -1817,7 +1742,6 @@
           "artifact": {
             "size": 18,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/warped_mosco_spawns.json",
-            "MD5": "0531dec7156e47b4566a5eb598a4b931",
             "path": "config/alexsmobs/warped_mosco_spawns.json"
           }
         },
@@ -1828,7 +1752,6 @@
           "artifact": {
             "size": 661,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/warped_toad_spawns.json",
-            "MD5": "39d42abce47f0e9e64bab7680a0d8ef0",
             "path": "config/alexsmobs/warped_toad_spawns.json"
           }
         },
@@ -1839,7 +1762,6 @@
           "artifact": {
             "size": 36192,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs.toml",
-            "MD5": "1c4980af576f7c2bfa9ac7c700dbfc60",
             "path": "config/alexsmobs.toml"
           }
         },
@@ -1850,7 +1772,6 @@
           "artifact": {
             "size": 1361,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/appleskin-client.toml",
-            "MD5": "999dd7d912a7eb915c59b1025710ca12",
             "path": "config/appleskin-client.toml"
           }
         },
@@ -1861,7 +1782,6 @@
           "artifact": {
             "size": 553,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/balm-common.toml",
-            "MD5": "bcb937860bc4782a1532a5bc3aead312",
             "path": "config/balm-common.toml"
           }
         },
@@ -1872,7 +1792,6 @@
           "artifact": {
             "size": 1999,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/biomesoplenty/biome_toggles.json",
-            "MD5": "ef74c4378e87db15c420c2d8435870b6",
             "path": "config/biomesoplenty/biome_toggles.json"
           }
         },
@@ -1883,7 +1802,6 @@
           "artifact": {
             "size": 619,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/biomesoplenty/generation.toml",
-            "MD5": "0b34931102b4821e542acc03e910a609",
             "path": "config/biomesoplenty/generation.toml"
           }
         },
@@ -1894,7 +1812,6 @@
           "artifact": {
             "size": 170,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/biomeswevegone/trades.json5",
-            "MD5": "0e22781c9d974fd9dfcde39240465458",
             "path": "config/biomeswevegone/trades.json5"
           }
         },
@@ -1905,7 +1822,6 @@
           "artifact": {
             "size": 2512,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/biomeswevegone/world_generation.json5",
-            "MD5": "7055ccb3f950e99ae0819c22f8f81052",
             "path": "config/biomeswevegone/world_generation.json5"
           }
         },
@@ -1916,7 +1832,6 @@
           "artifact": {
             "size": 590,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/carryon-client.toml",
-            "MD5": "0b6ae0f2806ffd1f653c7c8613c409e1",
             "path": "config/carryon-client.toml"
           }
         },
@@ -1927,7 +1842,6 @@
           "artifact": {
             "size": 7153,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/carryon-common.toml",
-            "MD5": "df7191661a0b382b15fb527969a5cefd",
             "path": "config/carryon-common.toml"
           }
         },
@@ -1938,7 +1852,6 @@
           "artifact": {
             "size": 648,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/citadel-common.toml",
-            "MD5": "f211eac94129201b25acdeee49218d43",
             "path": "config/citadel-common.toml"
           }
         },
@@ -1949,7 +1862,6 @@
           "artifact": {
             "size": 1610,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/cookingforblockheads-common.toml",
-            "MD5": "ebb9b12841fb08105cc0de341b160314",
             "path": "config/cookingforblockheads-common.toml"
           }
         },
@@ -1960,7 +1872,6 @@
           "artifact": {
             "size": 362,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/corgilib/announcement_config.json5",
-            "MD5": "81d4ada4723136ac63a4a44867f573ec",
             "path": "config/corgilib/announcement_config.json5"
           }
         },
@@ -1971,7 +1882,6 @@
           "artifact": {
             "size": 71,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/corgilib/announcement_store.json",
-            "MD5": "96d3b59ecd9422c1a56a4dc72d140eec",
             "path": "config/corgilib/announcement_store.json"
           }
         },
@@ -1982,7 +1892,6 @@
           "artifact": {
             "size": 13630,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/croptopia/croptopia_v3.conf",
-            "MD5": "38415c0fb8215562510437175ec33986",
             "path": "config/croptopia/croptopia_v3.conf"
           }
         },
@@ -1993,7 +1902,6 @@
           "artifact": {
             "size": 427,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/embeddium-fingerprint.json",
-            "MD5": "65910c80b58d019e1d50614525f82dfa",
             "path": "config/embeddium-fingerprint.json"
           }
         },
@@ -2004,7 +1912,6 @@
           "artifact": {
             "size": 269,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/embeddium-mixins.properties",
-            "MD5": "a9176524f816153a7967217b53bb75a1",
             "path": "config/embeddium-mixins.properties"
           }
         },
@@ -2015,7 +1922,6 @@
           "artifact": {
             "size": 851,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/embeddium-options.json",
-            "MD5": "1d15d6fc42c8aa5cd5f1dde75b4ae5f3",
             "path": "config/embeddium-options.json"
           }
         },
@@ -2026,7 +1932,6 @@
           "artifact": {
             "size": 290,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/fabric/indigo-renderer.properties",
-            "MD5": "5341aef89909b43900c5f88660a58df8",
             "path": "config/fabric/indigo-renderer.properties"
           }
         },
@@ -2037,7 +1942,6 @@
           "artifact": {
             "size": 1273,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/fallingtree.json",
-            "MD5": "feca038528649357462c22147260347a",
             "path": "config/fallingtree.json"
           }
         },
@@ -2048,7 +1952,6 @@
           "artifact": {
             "size": 964,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/fml.toml",
-            "MD5": "874e9c916fb75bd96f1f0259751a8a79",
             "path": "config/fml.toml"
           }
         },
@@ -2059,7 +1962,6 @@
           "artifact": {
             "size": 1399,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/forge-client.toml",
-            "MD5": "17ce4f44d2b8e9186512d7bc94501b18",
             "path": "config/forge-client.toml"
           }
         },
@@ -2070,7 +1972,6 @@
           "artifact": {
             "size": 0,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/blacklist.cfg",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/jei/blacklist.cfg"
           }
         },
@@ -2081,7 +1982,6 @@
           "artifact": {
             "size": 450,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "e6e19dfe95dff122d3acfd400c8ff2dd",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -2092,7 +1992,6 @@
           "artifact": {
             "size": 74,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/ingredient-list-type-sort-order.ini",
-            "MD5": "9256ba0b170fac4934f83a4e789d14a8",
             "path": "config/jei/ingredient-list-type-sort-order.ini"
           }
         },
@@ -2103,7 +2002,6 @@
           "artifact": {
             "size": 7878,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/jei-client.ini",
-            "MD5": "47639ea9a4146ae8ebba81fde1985809",
             "path": "config/jei/jei-client.ini"
           }
         },
@@ -2114,7 +2012,6 @@
           "artifact": {
             "size": 1337,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/jei-colors.ini",
-            "MD5": "a23718add9e4884ca9d259aedd73161b",
             "path": "config/jei/jei-colors.ini"
           }
         },
@@ -2125,7 +2022,6 @@
           "artifact": {
             "size": 913,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/jei-debug.ini",
-            "MD5": "71b769b961ca94c30fcf1c81caadad56",
             "path": "config/jei/jei-debug.ini"
           }
         },
@@ -2136,7 +2032,6 @@
           "artifact": {
             "size": 416,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/jei-mod-id-format.ini",
-            "MD5": "d9df39bf869d7344ef78697b986e3b05",
             "path": "config/jei/jei-mod-id-format.ini"
           }
         },
@@ -2147,7 +2042,6 @@
           "artifact": {
             "size": 304,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/recipe-category-sort-order.ini",
-            "MD5": "6ea76dd2d31a6457d79fb46212705e5b",
             "path": "config/jei/recipe-category-sort-order.ini"
           }
         },
@@ -2158,7 +2052,6 @@
           "artifact": {
             "size": 362,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/world/local/bookmarks.ini",
-            "MD5": "211c626c214a967799fbb674ac515cde",
             "path": "config/jei/world/local/bookmarks.ini"
           }
         },
@@ -2169,7 +2062,6 @@
           "artifact": {
             "size": 776,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/mysticsbiomes-common.toml",
-            "MD5": "59996034d1d905e1007276bc28f06064",
             "path": "config/mysticsbiomes-common.toml"
           }
         },
@@ -2180,7 +2072,6 @@
           "artifact": {
             "size": 288,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/oculus.properties",
-            "MD5": "acd99754ba70102ecf019579ad8a9886",
             "path": "config/oculus.properties"
           }
         },
@@ -2191,7 +2082,6 @@
           "artifact": {
             "size": 322,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/pamhc2crops.toml",
-            "MD5": "8dd6eadbf86eff47b36f28e1a79664c6",
             "path": "config/pamhc2crops.toml"
           }
         },
@@ -2202,7 +2092,6 @@
           "artifact": {
             "size": 122,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/sophisticatedbackpacks-common.toml",
-            "MD5": "2c6eb54ca9cb7722ec68ffc73667b88b",
             "path": "config/sophisticatedbackpacks-common.toml"
           }
         },
@@ -2213,7 +2102,6 @@
           "artifact": {
             "size": 351,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/sophisticatedcore-client.toml",
-            "MD5": "154bd9cf14a45c6aa007cb5467f1a454",
             "path": "config/sophisticatedcore-client.toml"
           }
         },
@@ -2224,7 +2112,6 @@
           "artifact": {
             "size": 2554,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/sophisticatedcore-common.toml",
-            "MD5": "f5039e670c929646562cb94627dad6d7",
             "path": "config/sophisticatedcore-common.toml"
           }
         },
@@ -2235,7 +2122,6 @@
           "artifact": {
             "size": 552,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/terrablender.toml",
-            "MD5": "0a79fa039b71bf8d3942f677d3269576",
             "path": "config/terrablender.toml"
           }
         },
@@ -2246,7 +2132,6 @@
           "artifact": {
             "size": 7824,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/waystones-common.toml",
-            "MD5": "26cb3ddedb61b9ee8fd57394c9cdf3cc",
             "path": "config/waystones-common.toml"
           }
         },
@@ -2255,9 +2140,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 260,
+            "size": 393,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/options.txt",
-            "MD5": "5dd7b4ed235b663f8da05ccc741d4aa3",
             "path": "options.txt"
           }
         },
