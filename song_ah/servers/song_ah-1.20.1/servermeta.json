@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/song_ah/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "송아의 신비한 동물사전",
+    "description": "Minecraft 1.20.1 (Forge v47.3.10)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/server-icon.png",
+    "address": "146.56.173.13",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.3.10"
+  },
+  "untrackedFiles": []
+}

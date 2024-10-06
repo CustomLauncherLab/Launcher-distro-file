@@ -1,0 +1,2432 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "song_ah-1.20.1",
+      "name": "송아의 신비한 동물사전",
+      "description": "Minecraft 1.20.1 (Forge v47.3.10)",
+      "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/server-icon.png",
+      "version": "1.0.0",
+      "address": "146.56.173.13",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.10",
+          "name": "Minecraft Forge (lowcodelanguage)",
+          "type": "ForgeHosted",
+          "classpath": true,
+          "artifact": {
+            "size": 7399,
+            "MD5": "fbb91ae57ddd18723399ccb684f65706",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.10/lowcodelanguage-1.20.1-47.3.10.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-47.3.10",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 16554,
+                "MD5": "135c3a04e61e9451fb7c7fb6431b2549",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/versions/1.20.1-forge-47.3.10/1.20.1-forge-47.3.10.json"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.10",
+              "name": "Minecraft Forge (fmlcore)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 118579,
+                "MD5": "95f5cc2de1237cd350176abaa1e37085",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.10/fmlcore-1.20.1-47.3.10.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.10",
+              "name": "Minecraft Forge (javafmllanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 16855,
+                "MD5": "2457f76791a32ba9cb9377c6216544da",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.10/javafmllanguage-1.20.1-47.3.10.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.10",
+              "name": "Minecraft Forge (mclanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 5000,
+                "MD5": "d298b20a445637b4655308a0fd0c1c4c",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.10/mclanguage-1.20.1-47.3.10.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.3.10:universal",
+              "name": "Minecraft Forge (universal jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 2753586,
+                "MD5": "b6081b6ddf8a6d43df4c38b1f3decf18",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/forge/1.20.1-47.3.10/forge-1.20.1-47.3.10-universal.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.3.10:client",
+              "name": "Minecraft Forge (client jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 4793821,
+                "MD5": "8e4fb7202d94e3336ea097a8621e8733",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/forge/1.20.1-47.3.10/forge-1.20.1-47.3.10-client.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
+              "name": "Minecraft Forge (client srg)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 18842082,
+                "MD5": "8bfacfba4f54cda741019756165c5ecf",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
+              "name": "Minecraft Forge (client slim)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 12592249,
+                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
+              "name": "Minecraft Forge (client extra)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 10436626,
+                "MD5": "da6bb1a2c23108392fd6c103da40867c",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "cpw.mods:securejarhandler:2.1.10",
+              "name": "Minecraft Forge (securejarhandler)",
+              "type": "Library",
+              "artifact": {
+                "size": 88749,
+                "MD5": "d9ff48d1c68388270388b803fa42611e",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.7",
+              "name": "Minecraft Forge (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 125428,
+                "MD5": "3957b18bf02a62edcb6726d074b90b08",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.7",
+              "name": "Minecraft Forge (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73426,
+                "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.7",
+              "name": "Minecraft Forge (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51934,
+                "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.7",
+              "name": "Minecraft Forge (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 93784,
+                "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.7",
+              "name": "Minecraft Forge (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 34776,
+                "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:accesstransformers:8.0.4",
+              "name": "Minecraft Forge (accesstransformers)",
+              "type": "Library",
+              "artifact": {
+                "size": 77756,
+                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+              }
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.9.1",
+              "name": "Minecraft Forge (antlr4-runtime)",
+              "type": "Library",
+              "artifact": {
+                "size": 337868,
+                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:eventbus:6.0.5",
+              "name": "Minecraft Forge (eventbus)",
+              "type": "Library",
+              "artifact": {
+                "size": 53985,
+                "MD5": "2a6245210b446b2144071e71ca13432b",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forgespi:7.0.1",
+              "name": "Minecraft Forge (forgespi)",
+              "type": "Library",
+              "artifact": {
+                "size": 29831,
+                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:coremods:5.1.6",
+              "name": "Minecraft Forge (coremods)",
+              "type": "Library",
+              "artifact": {
+                "size": 24124,
+                "MD5": "4b4fe7e512819804660d621bf11c7381",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:modlauncher:10.0.9",
+              "name": "Minecraft Forge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 130343,
+                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:unsafe:0.2.0",
+              "name": "Minecraft Forge (unsafe)",
+              "type": "Library",
+              "artifact": {
+                "size": 2834,
+                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:mergetool:1.1.5:api",
+              "name": "Minecraft Forge (mergetool)",
+              "type": "Library",
+              "artifact": {
+                "size": 2572,
+                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.6.4",
+              "name": "Minecraft Forge (core)",
+              "type": "Library",
+              "artifact": {
+                "size": 199834,
+                "MD5": "d83ab07267e402131fb93d899a57f5cd",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.6.4",
+              "name": "Minecraft Forge (toml)",
+              "type": "Library",
+              "artifact": {
+                "size": 31816,
+                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.8.5",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 58077,
+                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+              }
+            },
+            {
+              "id": "net.jodah:typetools:0.6.3",
+              "name": "Minecraft Forge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "size": 18281,
+                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+              }
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.2.0",
+              "name": "Minecraft Forge (terminalconsoleappender)",
+              "type": "Library",
+              "artifact": {
+                "size": 15977,
+                "MD5": "679363fa893293791e55a21f81342f87",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-reader:3.12.1",
+              "name": "Minecraft Forge (jline-reader)",
+              "type": "Library",
+              "artifact": {
+                "size": 150765,
+                "MD5": "a2e7b012cd9802f83321187409174a94",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-terminal:3.12.1",
+              "name": "Minecraft Forge (jline-terminal)",
+              "type": "Library",
+              "artifact": {
+                "size": 211712,
+                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.spongepowered:mixin:0.8.5",
+              "name": "Minecraft Forge (mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1089277,
+                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+              }
+            },
+            {
+              "id": "org.openjdk.nashorn:nashorn-core:15.3",
+              "name": "Minecraft Forge (nashorn-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 2167288,
+                "MD5": "91e98c20afa1090c344229ce28b4c53f",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarSelector:0.3.19",
+              "name": "Minecraft Forge (JarJarSelector)",
+              "type": "Library",
+              "artifact": {
+                "size": 17374,
+                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "name": "Minecraft Forge (JarJarMetadata)",
+              "type": "Library",
+              "artifact": {
+                "size": 15895,
+                "MD5": "9633546d299d4282ca68d10582be1c8f",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:bootstraplauncher:1.1.2",
+              "name": "Minecraft Forge (bootstraplauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 8284,
+                "MD5": "48f5255aa337344c467c0150d347813d",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "name": "Minecraft Forge (JarJarFileSystems)",
+              "type": "Library",
+              "artifact": {
+                "size": 32195,
+                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.10",
+              "name": "Minecraft Forge (fmlloader)",
+              "type": "Library",
+              "artifact": {
+                "size": 264940,
+                "MD5": "54ad40b5ca0be11735c3e5a4d4577542",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.10/fmlloader-1.20.1-47.3.10.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.10",
+              "name": "Minecraft Forge (fmlearlydisplay)",
+              "type": "Library",
+              "artifact": {
+                "size": 170426,
+                "MD5": "c89b408828adc032f8fa75660c9012b1",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.10/fmlearlydisplay-1.20.1-47.3.10.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "com.github.alexthe666:alexsmobs:1.22.9@jar",
+          "name": "Alex's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26350793,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/alexsmobs-1.22.9.jar",
+            "MD5": "504050d1f2e2c3019b6f53377ca354c6"
+          }
+        },
+        {
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47428,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "MD5": "dae63cea9c951dda542a4005ceef3953"
+          }
+        },
+        {
+          "id": "net.blay09.mods:balm:7.3.9@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 373583,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.9-all.jar",
+            "MD5": "ccb8e1687a39cc613ad910460bd4ac3b"
+          }
+        },
+        {
+          "id": "biomesoplenty.core:biomesoplenty:18.0.0.592@jar",
+          "name": "Biomes O' Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21800460,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+            "MD5": "dd2ec3933263ff5ff2eb0bbc21d8a0f7"
+          }
+        },
+        {
+          "id": "tschipp.carryon:carryon:2.1.2.7@jar",
+          "name": "Carry On",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 439457,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
+            "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:citadel:2.6.0@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3173174,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/citadel-2.6.0-1.20.1.jar",
+            "MD5": "86b18b35ee8f10b1f45bda02345792cd"
+          }
+        },
+        {
+          "id": "net.blay09.mods:cookingforblockheads:16.0.9@jar",
+          "name": "CookingForBlockheads",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 815694,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/cookingforblockheads-forge-1.20.1-16.0.9.jar",
+            "MD5": "48b7824fc141e3f7ee26459a445193dd"
+          }
+        },
+        {
+          "id": "corgitaco.corgilib:corgilib:4.0.3.2@jar",
+          "name": "CorgiLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 360348,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/Corgilib-Forge-1.20.1-4.0.3.2.jar",
+            "MD5": "48c23882876937e8dec808aa9ce84f0d"
+          }
+        },
+        {
+          "id": "com.epherical:croptopia:3.0.4@jar",
+          "name": "Croptopia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2099945,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/Croptopia-1.20.1-FORGE-3.0.4.jar",
+            "MD5": "c7c4e6f0ff51507ad64544991dfc7454"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "com.epherical:epherolib:0.1.2@jar",
+          "name": "BOZOID",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 756864,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+            "MD5": "f8b4d202f3fc4ffaf1bb8efd79f860bd"
+          }
+        },
+        {
+          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.2+1.11.8+1.20.1@jar",
+          "name": "Forgified Fabric API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3041071,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.8+1.20.1.jar",
+            "MD5": "7217481b8e9f40ac27273c1b5df0feb3"
+          }
+        },
+        {
+          "id": "fr.rakambda:fallingtree:4.3.4@jar",
+          "name": "FallingTree",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 420179,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/FallingTree-1.20.1-4.3.4.jar",
+            "MD5": "e9282de446320895a7835ce9efc6d3b7"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.4.9@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 991552,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.9.jar",
+            "MD5": "edc6083a1c68415b9635d68c7cdf7a99"
+          }
+        },
+        {
+          "id": "elocindev.geckoanimfix:geckoanimfix:1.0.0@jar",
+          "name": "GeckoLibIrisCompat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6239,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/GeckoLibOculusCompat-Forge-1.0.1.jar",
+            "MD5": "4dd6b749ec2ca69a208a15091530825b"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.19.5.99@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1385057,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/jei-1.20.1-forge-15.19.5.99.jar",
+            "MD5": "6e32a2e00fedbe4d23947e386513f239"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.10.2@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7160409,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/journeymap-1.20.1-5.10.2-forge.jar",
+            "MD5": "44e147c23e0e58677a2135897b36d250"
+          }
+        },
+        {
+          "id": "fr.samlegamer:macawsbridgesbyg:1.20.1-1.0@jar",
+          "name": "Macaw's Bridges - BWG",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1514892,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/macawsbridgesbyg-1.20.1-1.0.jar",
+            "MD5": "99915722f322a4810c1ec4cb12365a4a"
+          }
+        },
+        {
+          "id": "fr.samlegamer:macawsroofsbyg:1.20.1-1.0@jar",
+          "name": "Macaw's Roofs - BYG",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1979904,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/macawsroofsbyg-1.20.1-1.0.jar",
+            "MD5": "5b0d58c2a01aab32fb78ecba1eef94e6"
+          }
+        },
+        {
+          "id": "com.mcwbridges.kikoz:mcwbridges:3.0.0@jar",
+          "name": "Macaw's Bridges",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 677705,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/mcw-bridges-3.0.0-mc1.20.1forge.jar",
+            "MD5": "27a5798467fc0799eab2505bb6a8f041"
+          }
+        },
+        {
+          "id": "com.mcwdoors.kikoz:mcwdoors:1.1.1@jar",
+          "name": "Macaw's Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1202279,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/mcw-doors-1.1.1forge-mc1.20.1.jar",
+            "MD5": "70a4d52ca95ecd57bcbb146e9c6950ce"
+          }
+        },
+        {
+          "id": "com.mcwfences.kikoz:mcwfences:1.1.2@jar",
+          "name": "Macaw's Fences and Walls",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 522886,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/mcw-fences-1.1.2-mc1.20.1forge.jar",
+            "MD5": "729a8ce749bb6deff288ea1791ff9602"
+          }
+        },
+        {
+          "id": "com.mcwfurnitures.kikoz:mcwfurnitures:3.3.0@jar",
+          "name": "Macaw's Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1882792,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/mcw-furniture-3.3.0-mc1.20.1forge.jar",
+            "MD5": "f22230d8f84190aef6e62ca95e5da136"
+          }
+        },
+        {
+          "id": "com.mcwlights.kikoz:mcwlights:1.1.0@jar",
+          "name": "Macaw's Lights and Lamps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 517513,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/mcw-lights-1.1.0-mc1.20.1forge.jar",
+            "MD5": "539aa2ab27253c1053236e06b82374df"
+          }
+        },
+        {
+          "id": "com.mcwpaintings.kikoz:mcwpaintings:1.0.5@jar",
+          "name": "Macaw's Paintings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 72181,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/mcw-paintings-1.0.5-1.20.1forge.jar",
+            "MD5": "4a12b43279b395b4512d24b07697cd73"
+          }
+        },
+        {
+          "id": "com.mcwroofs.kikoz:mcwroofs:2.3.1@jar",
+          "name": "Macaw's Roofs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1837373,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/mcw-roofs-2.3.1-mc1.20.1forge.jar",
+            "MD5": "cacee547c4f32b57b0f238d68d4ddc2b"
+          }
+        },
+        {
+          "id": "com.mcwtrpdoors.kikoz:mcwtrpdoors:1.1.3@jar",
+          "name": "Macaw's Trapdoors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 674687,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/mcw-trapdoors-1.1.3-mc1.20.1forge.jar",
+            "MD5": "3caced7ea133ba8c51bfc309ba91df82"
+          }
+        },
+        {
+          "id": "com.mcwwindows.kikoz:mcwwindows:2.3.0@jar",
+          "name": "Macaw's Windows",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1309586,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/mcw-windows-2.3.0-mc1.20.1forge.jar",
+            "MD5": "82f6f7c58030345ddb6efa0b2ded97fd"
+          }
+        },
+        {
+          "id": "fr.samlegamer:mcwfencesbyg:1.20.1-1.1@jar",
+          "name": "Macaw's Fences - BWG",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 910915,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/mcwfencesbyg-1.20.1-1.1.jar",
+            "MD5": "cfa463d67e08a44a6d3d95b9fa03a2db"
+          }
+        },
+        {
+          "id": "fr.samlegamer:mcwfurnituresbyg:1.20.1-1.0@jar",
+          "name": "Macaw's Furnitures - BWG",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7778589,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/mcwfurnituresbyg-1.20.1-1.0.jar",
+            "MD5": "e73069259b62ff255a1accc6d1d64709"
+          }
+        },
+        {
+          "id": "com.mysticsbiomes:mysticsbiomes:3.4.2@jar",
+          "name": "Mystic's Biomes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1540347,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/mysticsbiomes-1.20.1-3.4.2.jar",
+            "MD5": "9b575981b2501355a7c9044b3d213bba"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2831148,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
+            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
+          }
+        },
+        {
+          "id": "net.potionstudios:biomeswevegone:1.3.0@jar",
+          "name": "Oh The Biomes We've Gone",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 35026651,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/Oh-The-Biomes-Weve-Gone-Forge-1.3.0.jar",
+            "MD5": "10960342e1f305f133c110cbad0e8219"
+          }
+        },
+        {
+          "id": "dev.corgitaco:ohthetreesyoullgrow:1.20.1-1.3.1@jar",
+          "name": "Oh The Trees You'll Grow",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 124326,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.1.jar",
+            "MD5": "cffc5844ec55e5efb03c07eea5cb8ef6"
+          }
+        },
+        {
+          "id": "com.pam:pamhc2crops:1.0.3@jar",
+          "name": "Pam's HarvestCraft 2 - Crops",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1050402,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/pamhc2crops-1.20-1.0.3.jar",
+            "MD5": "3b4a219f1bc87f89256ca84ff6059f7a"
+          }
+        },
+        {
+          "id": "net.lunapixel:skyvillages:1.0.4@jar",
+          "name": "Sky Villages",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 246865,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/SkyVillages-1.0.4-1.19.2-1.20.1-forge-release.jar",
+            "MD5": "91756b04338dee04535cc1490a264695"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.20.10.1109@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 856255,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.20.10.1109.jar",
+            "MD5": "fbd062efabf385e3ed1eab645c5e5cb7"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:0.6.33.711@jar",
+          "name": "Sophisticated Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1083047,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.6.33.711.jar",
+            "MD5": "bde4011eefb032e396c80174985d344c"
+          }
+        },
+        {
+          "id": "terrablender.core:terrablender:3.0.1.7@jar",
+          "name": "TerraBlender",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 107534,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.7.jar",
+            "MD5": "78abbc04e408fb61de6df9c968008c4b"
+          }
+        },
+        {
+          "id": "generated.forgemod:terralith:2.5.4@jar",
+          "name": "Terralith",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3156901,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/Terralith_1.20.x_v2.5.4.jar",
+            "MD5": "b143cfd648086c68d7f47a86b8994ee3"
+          }
+        },
+        {
+          "id": "net.blay09.mods:waystones:14.1.5@jar",
+          "name": "Waystones",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 483650,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/forgemods/required/waystones-forge-1.20-14.1.5.jar",
+            "MD5": "0bbf1cf815b13131701815f92678610f"
+          }
+        },
+        {
+          "id": "alligator_snapping_turtle_spawns.json",
+          "name": "alligator_snapping_turtle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 754,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/alligator_snapping_turtle_spawns.json",
+            "MD5": "e880e0c7e38986fb1f7a8885a892b0fc",
+            "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json"
+          }
+        },
+        {
+          "id": "anaconda_spawns.json",
+          "name": "anaconda_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1036,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/anaconda_spawns.json",
+            "MD5": "74d2b1bc857e9acb8321f296567a8f7f",
+            "path": "config/alexsmobs/anaconda_spawns.json"
+          }
+        },
+        {
+          "id": "anteater_spawns.json",
+          "name": "anteater_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/anteater_spawns.json",
+            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "path": "config/alexsmobs/anteater_spawns.json"
+          }
+        },
+        {
+          "id": "bald_eagle_spawns.json",
+          "name": "bald_eagle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2723,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/bald_eagle_spawns.json",
+            "MD5": "dd9229ac98bbf83a1309d4b1e3770fd5",
+            "path": "config/alexsmobs/bald_eagle_spawns.json"
+          }
+        },
+        {
+          "id": "banana_slug_spawns.json",
+          "name": "banana_slug_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1697,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/banana_slug_spawns.json",
+            "MD5": "6aec0b8dd4904343a50e7fb0a37b2912",
+            "path": "config/alexsmobs/banana_slug_spawns.json"
+          }
+        },
+        {
+          "id": "bison_spawns.json",
+          "name": "bison_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1761,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/bison_spawns.json",
+            "MD5": "729766841964832662fb610b6a661dc4",
+            "path": "config/alexsmobs/bison_spawns.json"
+          }
+        },
+        {
+          "id": "blobfish_spawns.json",
+          "name": "blobfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/blobfish_spawns.json",
+            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "path": "config/alexsmobs/blobfish_spawns.json"
+          }
+        },
+        {
+          "id": "blue_jay_spawns.json",
+          "name": "blue_jay_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 4020,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/blue_jay_spawns.json",
+            "MD5": "9b797aa57e7c173d5e4a8f034f267dff",
+            "path": "config/alexsmobs/blue_jay_spawns.json"
+          }
+        },
+        {
+          "id": "bone_serpent_spawns.json",
+          "name": "bone_serpent_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 257,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/bone_serpent_spawns.json",
+            "MD5": "7f0b198410364ba04743be1a24f901db",
+            "path": "config/alexsmobs/bone_serpent_spawns.json"
+          }
+        },
+        {
+          "id": "bunfungus_spawns.json",
+          "name": "bunfungus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 486,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/bunfungus_spawns.json",
+            "MD5": "e585908f8d3914a77836461f2f136848",
+            "path": "config/alexsmobs/bunfungus_spawns.json"
+          }
+        },
+        {
+          "id": "cachalot_whale_beached_spawns.json",
+          "name": "cachalot_whale_beached_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 642,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/cachalot_whale_beached_spawns.json",
+            "MD5": "b779f228a334a5be8eaa5f845664105c",
+            "path": "config/alexsmobs/cachalot_whale_beached_spawns.json"
+          }
+        },
+        {
+          "id": "cachalot_whale_spawns.json",
+          "name": "cachalot_whale_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 893,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/cachalot_whale_spawns.json",
+            "MD5": "53158516acce1c7ce2d05e0a61ff5965",
+            "path": "config/alexsmobs/cachalot_whale_spawns.json"
+          }
+        },
+        {
+          "id": "caiman_spawns.json",
+          "name": "caiman_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/caiman_spawns.json",
+            "MD5": "0443b3f49eb26ce302434cf0af666b90",
+            "path": "config/alexsmobs/caiman_spawns.json"
+          }
+        },
+        {
+          "id": "capuchin_monkey_spawns.json",
+          "name": "capuchin_monkey_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1184,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/capuchin_monkey_spawns.json",
+            "MD5": "61f854072c18a0b127bb37c01b33a0ae",
+            "path": "config/alexsmobs/capuchin_monkey_spawns.json"
+          }
+        },
+        {
+          "id": "catfish_spawns.json",
+          "name": "catfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1097,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/catfish_spawns.json",
+            "MD5": "f0234087612d8035344fbfb634cebfa9",
+            "path": "config/alexsmobs/catfish_spawns.json"
+          }
+        },
+        {
+          "id": "cave_centipede_spawns.json",
+          "name": "cave_centipede_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2200,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/cave_centipede_spawns.json",
+            "MD5": "a6fcbacb06418e1c951695b0f4919f13",
+            "path": "config/alexsmobs/cave_centipede_spawns.json"
+          }
+        },
+        {
+          "id": "cockroach_spawns.json",
+          "name": "cockroach_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2085,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/cockroach_spawns.json",
+            "MD5": "4b8fb651c60044198150aa49c4193dcc",
+            "path": "config/alexsmobs/cockroach_spawns.json"
+          }
+        },
+        {
+          "id": "comb_jelly_spawns.json",
+          "name": "comb_jelly_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 414,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/comb_jelly_spawns.json",
+            "MD5": "e9fa2345daa80ad12a849fe96ea656f9",
+            "path": "config/alexsmobs/comb_jelly_spawns.json"
+          }
+        },
+        {
+          "id": "cosmaw_spawns.json",
+          "name": "cosmaw_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 371,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/cosmaw_spawns.json",
+            "MD5": "99ec85d1693bdd51d1970b9bfba84267",
+            "path": "config/alexsmobs/cosmaw_spawns.json"
+          }
+        },
+        {
+          "id": "cosmic_cod_spawns.json",
+          "name": "cosmic_cod_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 139,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/cosmic_cod_spawns.json",
+            "MD5": "84b1c3b63a2e5656da5478c844a5ad49",
+            "path": "config/alexsmobs/cosmic_cod_spawns.json"
+          }
+        },
+        {
+          "id": "crimson_mosquito_spawns.json",
+          "name": "crimson_mosquito_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 785,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/crimson_mosquito_spawns.json",
+            "MD5": "0c095c6657c6df75653ab9a0b049b4e1",
+            "path": "config/alexsmobs/crimson_mosquito_spawns.json"
+          }
+        },
+        {
+          "id": "crocodile_spawns.json",
+          "name": "crocodile_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1007,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/crocodile_spawns.json",
+            "MD5": "062f820f53eee3c3a4eed7621a4d96c3",
+            "path": "config/alexsmobs/crocodile_spawns.json"
+          }
+        },
+        {
+          "id": "crow_spawns.json",
+          "name": "crow_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 5146,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/crow_spawns.json",
+            "MD5": "607a09f65c8023448ad7828e29bde4e6",
+            "path": "config/alexsmobs/crow_spawns.json"
+          }
+        },
+        {
+          "id": "devils_hole_pupfish_spawns.json",
+          "name": "devils_hole_pupfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/devils_hole_pupfish_spawns.json",
+            "MD5": "2c88b50ebef0c2d8cefd7fec53cc1b31",
+            "path": "config/alexsmobs/devils_hole_pupfish_spawns.json"
+          }
+        },
+        {
+          "id": "dropbear_spawns.json",
+          "name": "dropbear_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 403,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/dropbear_spawns.json",
+            "MD5": "95aa6694d6dd2f14fcfcedc28f5698e9",
+            "path": "config/alexsmobs/dropbear_spawns.json"
+          }
+        },
+        {
+          "id": "elephant_spawns.json",
+          "name": "elephant_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1163,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/elephant_spawns.json",
+            "MD5": "1032996d6a2cac873766f7a443d44810",
+            "path": "config/alexsmobs/elephant_spawns.json"
+          }
+        },
+        {
+          "id": "emu_spawns.json",
+          "name": "emu_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1661,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/emu_spawns.json",
+            "MD5": "3eb32cae8d7825df19055f0b673481ec",
+            "path": "config/alexsmobs/emu_spawns.json"
+          }
+        },
+        {
+          "id": "endergrade_spawns.json",
+          "name": "endergrade_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/endergrade_spawns.json",
+            "MD5": "fe07337e303bd453f45f00ec63fa9c0a",
+            "path": "config/alexsmobs/endergrade_spawns.json"
+          }
+        },
+        {
+          "id": "enderiophage_spawns.json",
+          "name": "enderiophage_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 603,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/enderiophage_spawns.json",
+            "MD5": "4ab64e4848a83c605d54ade54fdf0702",
+            "path": "config/alexsmobs/enderiophage_spawns.json"
+          }
+        },
+        {
+          "id": "farseer.json",
+          "name": "farseer.json",
+          "type": "File",
+          "artifact": {
+            "size": 266,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/farseer.json",
+            "MD5": "337b5b31ce112b2c614749d2e1047254",
+            "path": "config/alexsmobs/farseer.json"
+          }
+        },
+        {
+          "id": "flutter_spawns.json",
+          "name": "flutter_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 147,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/flutter_spawns.json",
+            "MD5": "1ab7408c8c7997d1ca595bdaa531820b",
+            "path": "config/alexsmobs/flutter_spawns.json"
+          }
+        },
+        {
+          "id": "flying_fish_spawns.json",
+          "name": "flying_fish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 716,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/flying_fish_spawns.json",
+            "MD5": "7bf21cd1ccc1499470e52d91402a899f",
+            "path": "config/alexsmobs/flying_fish_spawns.json"
+          }
+        },
+        {
+          "id": "fly_spawns.json",
+          "name": "fly_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/fly_spawns.json",
+            "MD5": "2c88b50ebef0c2d8cefd7fec53cc1b31",
+            "path": "config/alexsmobs/fly_spawns.json"
+          }
+        },
+        {
+          "id": "frilled_shark_spawns.json",
+          "name": "frilled_shark_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/frilled_shark_spawns.json",
+            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "path": "config/alexsmobs/frilled_shark_spawns.json"
+          }
+        },
+        {
+          "id": "froststalker_spawns.json",
+          "name": "froststalker_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 934,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/froststalker_spawns.json",
+            "MD5": "2a017b04fa69a371da739dca3dccfaeb",
+            "path": "config/alexsmobs/froststalker_spawns.json"
+          }
+        },
+        {
+          "id": "gazelle_spawns.json",
+          "name": "gazelle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1050,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/gazelle_spawns.json",
+            "MD5": "397912ee2f4758bf87c6e017fc8c3dc0",
+            "path": "config/alexsmobs/gazelle_spawns.json"
+          }
+        },
+        {
+          "id": "gelada_monkey_spawns.json",
+          "name": "gelada_monkey_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1001,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/gelada_monkey_spawns.json",
+            "MD5": "c229e44c5b5bd924b2449149c1fabac7",
+            "path": "config/alexsmobs/gelada_monkey_spawns.json"
+          }
+        },
+        {
+          "id": "giant_squid_spawns.json",
+          "name": "giant_squid_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/giant_squid_spawns.json",
+            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "path": "config/alexsmobs/giant_squid_spawns.json"
+          }
+        },
+        {
+          "id": "gorilla_spawns.json",
+          "name": "gorilla_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1053,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/gorilla_spawns.json",
+            "MD5": "803b7292137cbeece7aaa1d69e04b5b2",
+            "path": "config/alexsmobs/gorilla_spawns.json"
+          }
+        },
+        {
+          "id": "grizzly_bear_spawns.json",
+          "name": "grizzly_bear_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 4020,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/grizzly_bear_spawns.json",
+            "MD5": "9b797aa57e7c173d5e4a8f034f267dff",
+            "path": "config/alexsmobs/grizzly_bear_spawns.json"
+          }
+        },
+        {
+          "id": "guster_spawns.json",
+          "name": "guster_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1132,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/guster_spawns.json",
+            "MD5": "9f7fac3c24c356a767bce153106054dd",
+            "path": "config/alexsmobs/guster_spawns.json"
+          }
+        },
+        {
+          "id": "hammerhead_shark_spawns.json",
+          "name": "hammerhead_shark_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 254,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/hammerhead_shark_spawns.json",
+            "MD5": "3e1c6fd6a63f92c5784cd66565dfb1f7",
+            "path": "config/alexsmobs/hammerhead_shark_spawns.json"
+          }
+        },
+        {
+          "id": "hummingbird_spawns.json",
+          "name": "hummingbird_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3029,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/hummingbird_spawns.json",
+            "MD5": "4ab2f69a298dba2dd6de993426aa1642",
+            "path": "config/alexsmobs/hummingbird_spawns.json"
+          }
+        },
+        {
+          "id": "jerboa_spawns.json",
+          "name": "jerboa_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/jerboa_spawns.json",
+            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "path": "config/alexsmobs/jerboa_spawns.json"
+          }
+        },
+        {
+          "id": "kangaroo_spawns.json",
+          "name": "kangaroo_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1661,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/kangaroo_spawns.json",
+            "MD5": "3eb32cae8d7825df19055f0b673481ec",
+            "path": "config/alexsmobs/kangaroo_spawns.json"
+          }
+        },
+        {
+          "id": "komodo_dragon_spawns.json",
+          "name": "komodo_dragon_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 775,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/komodo_dragon_spawns.json",
+            "MD5": "bb0e841a9cf2784c27209ab46af2ab58",
+            "path": "config/alexsmobs/komodo_dragon_spawns.json"
+          }
+        },
+        {
+          "id": "laviathan_spawns.json",
+          "name": "laviathan_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 142,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/laviathan_spawns.json",
+            "MD5": "477bc268eb72dc151845a22729de3fe8",
+            "path": "config/alexsmobs/laviathan_spawns.json"
+          }
+        },
+        {
+          "id": "leafcutter_anthill_spawns.json",
+          "name": "leafcutter_anthill_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/leafcutter_anthill_spawns.json",
+            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "path": "config/alexsmobs/leafcutter_anthill_spawns.json"
+          }
+        },
+        {
+          "id": "lobster_spawns.json",
+          "name": "lobster_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 398,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/lobster_spawns.json",
+            "MD5": "3284cadc1438c85425a3621a016e6eba",
+            "path": "config/alexsmobs/lobster_spawns.json"
+          }
+        },
+        {
+          "id": "maned_wolf_spawns.json",
+          "name": "maned_wolf_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1037,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/maned_wolf_spawns.json",
+            "MD5": "c21feac193fa689955ac90f659e1f0c2",
+            "path": "config/alexsmobs/maned_wolf_spawns.json"
+          }
+        },
+        {
+          "id": "mantis_shrimp_spawns.json",
+          "name": "mantis_shrimp_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 385,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/mantis_shrimp_spawns.json",
+            "MD5": "c0a4157361a392c8a4d4e32d95bcc46f",
+            "path": "config/alexsmobs/mantis_shrimp_spawns.json"
+          }
+        },
+        {
+          "id": "mimicube_spawns.json",
+          "name": "mimicube_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 365,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/mimicube_spawns.json",
+            "MD5": "5dfd54d2860bbecb3d63d3a0cbc42752",
+            "path": "config/alexsmobs/mimicube_spawns.json"
+          }
+        },
+        {
+          "id": "mimic_octopus_spawns.json",
+          "name": "mimic_octopus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 373,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/mimic_octopus_spawns.json",
+            "MD5": "468f301a2a863dc3c56c0dffc967fb73",
+            "path": "config/alexsmobs/mimic_octopus_spawns.json"
+          }
+        },
+        {
+          "id": "moose_spawns.json",
+          "name": "moose_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2291,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/moose_spawns.json",
+            "MD5": "9352df8e11cc9d6c49756868320ff3bb",
+            "path": "config/alexsmobs/moose_spawns.json"
+          }
+        },
+        {
+          "id": "mudskipper_spawns.json",
+          "name": "mudskipper_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/mudskipper_spawns.json",
+            "MD5": "0443b3f49eb26ce302434cf0af666b90",
+            "path": "config/alexsmobs/mudskipper_spawns.json"
+          }
+        },
+        {
+          "id": "mungus_spawns.json",
+          "name": "mungus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 486,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/mungus_spawns.json",
+            "MD5": "e585908f8d3914a77836461f2f136848",
+            "path": "config/alexsmobs/mungus_spawns.json"
+          }
+        },
+        {
+          "id": "murmur.json",
+          "name": "murmur.json",
+          "type": "File",
+          "artifact": {
+            "size": 2200,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/murmur.json",
+            "MD5": "a6fcbacb06418e1c951695b0f4919f13",
+            "path": "config/alexsmobs/murmur.json"
+          }
+        },
+        {
+          "id": "orca_spawns.json",
+          "name": "orca_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 255,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/orca_spawns.json",
+            "MD5": "7c9a514102d327b8d9ba16b19a991049",
+            "path": "config/alexsmobs/orca_spawns.json"
+          }
+        },
+        {
+          "id": "platypus_spawns.json",
+          "name": "platypus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 625,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/platypus_spawns.json",
+            "MD5": "058a3971fb93597c04c1769bfe265fb9",
+            "path": "config/alexsmobs/platypus_spawns.json"
+          }
+        },
+        {
+          "id": "potoo_spawns.json",
+          "name": "potoo_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 148,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/potoo_spawns.json",
+            "MD5": "d1511fa5b0562676dab091599bc838a2",
+            "path": "config/alexsmobs/potoo_spawns.json"
+          }
+        },
+        {
+          "id": "raccoon_spawns.json",
+          "name": "raccoon_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3712,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/raccoon_spawns.json",
+            "MD5": "ef2fd8cf69fc21a78c45e79c1a1bf5a7",
+            "path": "config/alexsmobs/raccoon_spawns.json"
+          }
+        },
+        {
+          "id": "rain_frog_spawns.json",
+          "name": "rain_frog_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/rain_frog_spawns.json",
+            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "path": "config/alexsmobs/rain_frog_spawns.json"
+          }
+        },
+        {
+          "id": "rattlesnake_spawns.json",
+          "name": "rattlesnake_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1646,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/rattlesnake_spawns.json",
+            "MD5": "c9f3ffa55ec8cc5d57ed9a8bcb0ea1fe",
+            "path": "config/alexsmobs/rattlesnake_spawns.json"
+          }
+        },
+        {
+          "id": "rhinoceros_spawns.json",
+          "name": "rhinoceros_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1050,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/rhinoceros_spawns.json",
+            "MD5": "397912ee2f4758bf87c6e017fc8c3dc0",
+            "path": "config/alexsmobs/rhinoceros_spawns.json"
+          }
+        },
+        {
+          "id": "roadrunner_spawns.json",
+          "name": "roadrunner_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1646,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/roadrunner_spawns.json",
+            "MD5": "c9f3ffa55ec8cc5d57ed9a8bcb0ea1fe",
+            "path": "config/alexsmobs/roadrunner_spawns.json"
+          }
+        },
+        {
+          "id": "rocky_roller_spawns.json",
+          "name": "rocky_roller_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 673,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/rocky_roller_spawns.json",
+            "MD5": "7f40733890dcc5279c2addea737b4b80",
+            "path": "config/alexsmobs/rocky_roller_spawns.json"
+          }
+        },
+        {
+          "id": "seagull_spawns.json",
+          "name": "seagull_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1296,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/seagull_spawns.json",
+            "MD5": "477c8512be58a4c7cadbc3ea65c3642a",
+            "path": "config/alexsmobs/seagull_spawns.json"
+          }
+        },
+        {
+          "id": "seal_spawns.json",
+          "name": "seal_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 877,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/seal_spawns.json",
+            "MD5": "001c3ef108fd4fa9766fc80441edeb04",
+            "path": "config/alexsmobs/seal_spawns.json"
+          }
+        },
+        {
+          "id": "shoebill_spawns.json",
+          "name": "shoebill_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 623,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/shoebill_spawns.json",
+            "MD5": "7e9b29c6eba19484a234ee300f2dea69",
+            "path": "config/alexsmobs/shoebill_spawns.json"
+          }
+        },
+        {
+          "id": "skelewag_spawns.json",
+          "name": "skelewag_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 374,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/skelewag_spawns.json",
+            "MD5": "b848bd81bc3b313dba92f2743bc27643",
+            "path": "config/alexsmobs/skelewag_spawns.json"
+          }
+        },
+        {
+          "id": "skreecher.json",
+          "name": "skreecher.json",
+          "type": "File",
+          "artifact": {
+            "size": 276,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/skreecher.json",
+            "MD5": "cf0d7ac8c8ec5f67d540efe79f2f2084",
+            "path": "config/alexsmobs/skreecher.json"
+          }
+        },
+        {
+          "id": "skunk_spawns.json",
+          "name": "skunk_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2037,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/skunk_spawns.json",
+            "MD5": "e077fe3ab2315f937483c66f95ece589",
+            "path": "config/alexsmobs/skunk_spawns.json"
+          }
+        },
+        {
+          "id": "snow_leopard_spawns.json",
+          "name": "snow_leopard_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1808,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/snow_leopard_spawns.json",
+            "MD5": "54323941affc9be9f7a507f68dbd4ee7",
+            "path": "config/alexsmobs/snow_leopard_spawns.json"
+          }
+        },
+        {
+          "id": "soul_vulture_spawns.json",
+          "name": "soul_vulture_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 523,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/soul_vulture_spawns.json",
+            "MD5": "4121b1b2b71908c6db3f6f2a8c53059a",
+            "path": "config/alexsmobs/soul_vulture_spawns.json"
+          }
+        },
+        {
+          "id": "spectre_spawns.json",
+          "name": "spectre_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/spectre_spawns.json",
+            "MD5": "fe07337e303bd453f45f00ec63fa9c0a",
+            "path": "config/alexsmobs/spectre_spawns.json"
+          }
+        },
+        {
+          "id": "straddler_spawns.json",
+          "name": "straddler_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 664,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/straddler_spawns.json",
+            "MD5": "bf5897f982c8063dc1d570ad6c4eee95",
+            "path": "config/alexsmobs/straddler_spawns.json"
+          }
+        },
+        {
+          "id": "stradpole_spawns.json",
+          "name": "stradpole_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 664,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/stradpole_spawns.json",
+            "MD5": "bf5897f982c8063dc1d570ad6c4eee95",
+            "path": "config/alexsmobs/stradpole_spawns.json"
+          }
+        },
+        {
+          "id": "sugar_glider_spawns.json",
+          "name": "sugar_glider_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 418,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/sugar_glider_spawns.json",
+            "MD5": "6f1722c17a8adc08ab757a0e6377233e",
+            "path": "config/alexsmobs/sugar_glider_spawns.json"
+          }
+        },
+        {
+          "id": "sunbird_spawns.json",
+          "name": "sunbird_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3925,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/sunbird_spawns.json",
+            "MD5": "147fdf357f3478c40b5b7481569c6c07",
+            "path": "config/alexsmobs/sunbird_spawns.json"
+          }
+        },
+        {
+          "id": "tarantula_hawk_spawns.json",
+          "name": "tarantula_hawk_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/tarantula_hawk_spawns.json",
+            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "path": "config/alexsmobs/tarantula_hawk_spawns.json"
+          }
+        },
+        {
+          "id": "tasmanian_devil_spawns.json",
+          "name": "tasmanian_devil_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1908,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/tasmanian_devil_spawns.json",
+            "MD5": "2234aec1f09e2e0e5d202cfbeb9b283b",
+            "path": "config/alexsmobs/tasmanian_devil_spawns.json"
+          }
+        },
+        {
+          "id": "terrapin_spawns.json",
+          "name": "terrapin_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 625,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/terrapin_spawns.json",
+            "MD5": "058a3971fb93597c04c1769bfe265fb9",
+            "path": "config/alexsmobs/terrapin_spawns.json"
+          }
+        },
+        {
+          "id": "tiger_spawns.json",
+          "name": "tiger_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1209,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/tiger_spawns.json",
+            "MD5": "8e7708606954a64a9f8648585c8a4a74",
+            "path": "config/alexsmobs/tiger_spawns.json"
+          }
+        },
+        {
+          "id": "toucan_spawns.json",
+          "name": "toucan_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/toucan_spawns.json",
+            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "path": "config/alexsmobs/toucan_spawns.json"
+          }
+        },
+        {
+          "id": "triops_spawns.json",
+          "name": "triops_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/triops_spawns.json",
+            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "path": "config/alexsmobs/triops_spawns.json"
+          }
+        },
+        {
+          "id": "tusklin_spawns.json",
+          "name": "tusklin_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 882,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/tusklin_spawns.json",
+            "MD5": "502bb996e36a50b977acb73e29e975df",
+            "path": "config/alexsmobs/tusklin_spawns.json"
+          }
+        },
+        {
+          "id": "underminer.json",
+          "name": "underminer.json",
+          "type": "File",
+          "artifact": {
+            "size": 2085,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/underminer.json",
+            "MD5": "4b8fb651c60044198150aa49c4193dcc",
+            "path": "config/alexsmobs/underminer.json"
+          }
+        },
+        {
+          "id": "void_worm_spawns.json",
+          "name": "void_worm_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 18,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/void_worm_spawns.json",
+            "MD5": "0531dec7156e47b4566a5eb598a4b931",
+            "path": "config/alexsmobs/void_worm_spawns.json"
+          }
+        },
+        {
+          "id": "warped_mosco_spawns.json",
+          "name": "warped_mosco_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 18,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/warped_mosco_spawns.json",
+            "MD5": "0531dec7156e47b4566a5eb598a4b931",
+            "path": "config/alexsmobs/warped_mosco_spawns.json"
+          }
+        },
+        {
+          "id": "warped_toad_spawns.json",
+          "name": "warped_toad_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 661,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs/warped_toad_spawns.json",
+            "MD5": "39d42abce47f0e9e64bab7680a0d8ef0",
+            "path": "config/alexsmobs/warped_toad_spawns.json"
+          }
+        },
+        {
+          "id": "alexsmobs.toml",
+          "name": "alexsmobs.toml",
+          "type": "File",
+          "artifact": {
+            "size": 36192,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/alexsmobs.toml",
+            "MD5": "1c4980af576f7c2bfa9ac7c700dbfc60",
+            "path": "config/alexsmobs.toml"
+          }
+        },
+        {
+          "id": "appleskin-client.toml",
+          "name": "appleskin-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1361,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/appleskin-client.toml",
+            "MD5": "999dd7d912a7eb915c59b1025710ca12",
+            "path": "config/appleskin-client.toml"
+          }
+        },
+        {
+          "id": "balm-common.toml",
+          "name": "balm-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 553,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/balm-common.toml",
+            "MD5": "bcb937860bc4782a1532a5bc3aead312",
+            "path": "config/balm-common.toml"
+          }
+        },
+        {
+          "id": "biome_toggles.json",
+          "name": "biome_toggles.json",
+          "type": "File",
+          "artifact": {
+            "size": 1999,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/biomesoplenty/biome_toggles.json",
+            "MD5": "ef74c4378e87db15c420c2d8435870b6",
+            "path": "config/biomesoplenty/biome_toggles.json"
+          }
+        },
+        {
+          "id": "generation.toml",
+          "name": "generation.toml",
+          "type": "File",
+          "artifact": {
+            "size": 619,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/biomesoplenty/generation.toml",
+            "MD5": "0b34931102b4821e542acc03e910a609",
+            "path": "config/biomesoplenty/generation.toml"
+          }
+        },
+        {
+          "id": "trades.json5",
+          "name": "trades.json5",
+          "type": "File",
+          "artifact": {
+            "size": 170,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/biomeswevegone/trades.json5",
+            "MD5": "0e22781c9d974fd9dfcde39240465458",
+            "path": "config/biomeswevegone/trades.json5"
+          }
+        },
+        {
+          "id": "world_generation.json5",
+          "name": "world_generation.json5",
+          "type": "File",
+          "artifact": {
+            "size": 2512,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/biomeswevegone/world_generation.json5",
+            "MD5": "7055ccb3f950e99ae0819c22f8f81052",
+            "path": "config/biomeswevegone/world_generation.json5"
+          }
+        },
+        {
+          "id": "carryon-client.toml",
+          "name": "carryon-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 590,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/carryon-client.toml",
+            "MD5": "0b6ae0f2806ffd1f653c7c8613c409e1",
+            "path": "config/carryon-client.toml"
+          }
+        },
+        {
+          "id": "carryon-common.toml",
+          "name": "carryon-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 7153,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/carryon-common.toml",
+            "MD5": "df7191661a0b382b15fb527969a5cefd",
+            "path": "config/carryon-common.toml"
+          }
+        },
+        {
+          "id": "citadel-common.toml",
+          "name": "citadel-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 648,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/citadel-common.toml",
+            "MD5": "f211eac94129201b25acdeee49218d43",
+            "path": "config/citadel-common.toml"
+          }
+        },
+        {
+          "id": "cookingforblockheads-common.toml",
+          "name": "cookingforblockheads-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1610,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/cookingforblockheads-common.toml",
+            "MD5": "ebb9b12841fb08105cc0de341b160314",
+            "path": "config/cookingforblockheads-common.toml"
+          }
+        },
+        {
+          "id": "announcement_config.json5",
+          "name": "announcement_config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 362,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/corgilib/announcement_config.json5",
+            "MD5": "81d4ada4723136ac63a4a44867f573ec",
+            "path": "config/corgilib/announcement_config.json5"
+          }
+        },
+        {
+          "id": "announcement_store.json",
+          "name": "announcement_store.json",
+          "type": "File",
+          "artifact": {
+            "size": 71,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/corgilib/announcement_store.json",
+            "MD5": "96d3b59ecd9422c1a56a4dc72d140eec",
+            "path": "config/corgilib/announcement_store.json"
+          }
+        },
+        {
+          "id": "croptopia_v3.conf",
+          "name": "croptopia_v3.conf",
+          "type": "File",
+          "artifact": {
+            "size": 13630,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/croptopia/croptopia_v3.conf",
+            "MD5": "38415c0fb8215562510437175ec33986",
+            "path": "config/croptopia/croptopia_v3.conf"
+          }
+        },
+        {
+          "id": "embeddium-fingerprint.json",
+          "name": "embeddium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/embeddium-fingerprint.json",
+            "MD5": "65910c80b58d019e1d50614525f82dfa",
+            "path": "config/embeddium-fingerprint.json"
+          }
+        },
+        {
+          "id": "embeddium-mixins.properties",
+          "name": "embeddium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 269,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/embeddium-mixins.properties",
+            "MD5": "a9176524f816153a7967217b53bb75a1",
+            "path": "config/embeddium-mixins.properties"
+          }
+        },
+        {
+          "id": "embeddium-options.json",
+          "name": "embeddium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 851,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/embeddium-options.json",
+            "MD5": "1d15d6fc42c8aa5cd5f1dde75b4ae5f3",
+            "path": "config/embeddium-options.json"
+          }
+        },
+        {
+          "id": "indigo-renderer.properties",
+          "name": "indigo-renderer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 290,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/fabric/indigo-renderer.properties",
+            "MD5": "5341aef89909b43900c5f88660a58df8",
+            "path": "config/fabric/indigo-renderer.properties"
+          }
+        },
+        {
+          "id": "fallingtree.json",
+          "name": "fallingtree.json",
+          "type": "File",
+          "artifact": {
+            "size": 1273,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/fallingtree.json",
+            "MD5": "feca038528649357462c22147260347a",
+            "path": "config/fallingtree.json"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 964,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/fml.toml",
+            "MD5": "874e9c916fb75bd96f1f0259751a8a79",
+            "path": "config/fml.toml"
+          }
+        },
+        {
+          "id": "forge-client.toml",
+          "name": "forge-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1399,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/forge-client.toml",
+            "MD5": "17ce4f44d2b8e9186512d7bc94501b18",
+            "path": "config/forge-client.toml"
+          }
+        },
+        {
+          "id": "blacklist.cfg",
+          "name": "blacklist.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/blacklist.cfg",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/jei/blacklist.cfg"
+          }
+        },
+        {
+          "id": "ingredient-list-mod-sort-order.ini",
+          "name": "ingredient-list-mod-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 450,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
+            "MD5": "e6e19dfe95dff122d3acfd400c8ff2dd",
+            "path": "config/jei/ingredient-list-mod-sort-order.ini"
+          }
+        },
+        {
+          "id": "ingredient-list-type-sort-order.ini",
+          "name": "ingredient-list-type-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 74,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/ingredient-list-type-sort-order.ini",
+            "MD5": "9256ba0b170fac4934f83a4e789d14a8",
+            "path": "config/jei/ingredient-list-type-sort-order.ini"
+          }
+        },
+        {
+          "id": "jei-client.ini",
+          "name": "jei-client.ini",
+          "type": "File",
+          "artifact": {
+            "size": 7878,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/jei-client.ini",
+            "MD5": "47639ea9a4146ae8ebba81fde1985809",
+            "path": "config/jei/jei-client.ini"
+          }
+        },
+        {
+          "id": "jei-colors.ini",
+          "name": "jei-colors.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1337,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/jei-colors.ini",
+            "MD5": "a23718add9e4884ca9d259aedd73161b",
+            "path": "config/jei/jei-colors.ini"
+          }
+        },
+        {
+          "id": "jei-debug.ini",
+          "name": "jei-debug.ini",
+          "type": "File",
+          "artifact": {
+            "size": 913,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/jei-debug.ini",
+            "MD5": "71b769b961ca94c30fcf1c81caadad56",
+            "path": "config/jei/jei-debug.ini"
+          }
+        },
+        {
+          "id": "jei-mod-id-format.ini",
+          "name": "jei-mod-id-format.ini",
+          "type": "File",
+          "artifact": {
+            "size": 416,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/jei-mod-id-format.ini",
+            "MD5": "d9df39bf869d7344ef78697b986e3b05",
+            "path": "config/jei/jei-mod-id-format.ini"
+          }
+        },
+        {
+          "id": "recipe-category-sort-order.ini",
+          "name": "recipe-category-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 304,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/recipe-category-sort-order.ini",
+            "MD5": "6ea76dd2d31a6457d79fb46212705e5b",
+            "path": "config/jei/recipe-category-sort-order.ini"
+          }
+        },
+        {
+          "id": "bookmarks.ini",
+          "name": "bookmarks.ini",
+          "type": "File",
+          "artifact": {
+            "size": 362,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/jei/world/local/bookmarks.ini",
+            "MD5": "211c626c214a967799fbb674ac515cde",
+            "path": "config/jei/world/local/bookmarks.ini"
+          }
+        },
+        {
+          "id": "mysticsbiomes-common.toml",
+          "name": "mysticsbiomes-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 776,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/mysticsbiomes-common.toml",
+            "MD5": "59996034d1d905e1007276bc28f06064",
+            "path": "config/mysticsbiomes-common.toml"
+          }
+        },
+        {
+          "id": "oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 288,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/oculus.properties",
+            "MD5": "acd99754ba70102ecf019579ad8a9886",
+            "path": "config/oculus.properties"
+          }
+        },
+        {
+          "id": "pamhc2crops.toml",
+          "name": "pamhc2crops.toml",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/pamhc2crops.toml",
+            "MD5": "8dd6eadbf86eff47b36f28e1a79664c6",
+            "path": "config/pamhc2crops.toml"
+          }
+        },
+        {
+          "id": "sophisticatedbackpacks-common.toml",
+          "name": "sophisticatedbackpacks-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 122,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/sophisticatedbackpacks-common.toml",
+            "MD5": "2c6eb54ca9cb7722ec68ffc73667b88b",
+            "path": "config/sophisticatedbackpacks-common.toml"
+          }
+        },
+        {
+          "id": "sophisticatedcore-client.toml",
+          "name": "sophisticatedcore-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 351,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/sophisticatedcore-client.toml",
+            "MD5": "154bd9cf14a45c6aa007cb5467f1a454",
+            "path": "config/sophisticatedcore-client.toml"
+          }
+        },
+        {
+          "id": "sophisticatedcore-common.toml",
+          "name": "sophisticatedcore-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2554,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/sophisticatedcore-common.toml",
+            "MD5": "f5039e670c929646562cb94627dad6d7",
+            "path": "config/sophisticatedcore-common.toml"
+          }
+        },
+        {
+          "id": "terrablender.toml",
+          "name": "terrablender.toml",
+          "type": "File",
+          "artifact": {
+            "size": 552,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/terrablender.toml",
+            "MD5": "0a79fa039b71bf8d3942f677d3269576",
+            "path": "config/terrablender.toml"
+          }
+        },
+        {
+          "id": "waystones-common.toml",
+          "name": "waystones-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 7824,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/config/waystones-common.toml",
+            "MD5": "26cb3ddedb61b9ee8fd57394c9cdf3cc",
+            "path": "config/waystones-common.toml"
+          }
+        },
+        {
+          "id": "AnimEmis_spartanfire_1.20.1.zip",
+          "name": "AnimEmis_spartanfire_1.20.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 459372,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/AnimEmis_spartanfire_1.20.1.zip",
+            "MD5": "89ff77825a4df12e415ce18f5a8c2953",
+            "path": "resourcepacks/AnimEmis_spartanfire_1.20.1.zip"
+          }
+        },
+        {
+          "id": "Better-Leaves-8.1-1.20+.zip",
+          "name": "Better-Leaves-8.1-1.20+.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1109436,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/Better-Leaves-8.1-1.20+.zip",
+            "MD5": "b9868f9592b2e8335889e56e242db507",
+            "path": "resourcepacks/Better-Leaves-8.1-1.20+.zip"
+          }
+        },
+        {
+          "id": "cocricot_for1.20.4_v1.1.zip",
+          "name": "cocricot_for1.20.4_v1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 24460627,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/cocricot_for1.20.4_v1.1.zip",
+            "MD5": "c125e87517738596f76d9722b31b4f16",
+            "path": "resourcepacks/cocricot_for1.20.4_v1.1.zip"
+          }
+        },
+        {
+          "id": "EclecticTrove-1.20.1-1.3.0.zip",
+          "name": "EclecticTrove-1.20.1-1.3.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 11977,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/EclecticTrove-1.20.1-1.3.0.zip",
+            "MD5": "3f57b06130188b2216eb340ad8b4182f",
+            "path": "resourcepacks/EclecticTrove-1.20.1-1.3.0.zip"
+          }
+        },
+        {
+          "id": "EmbellishedStone-1.20.1-1.0.0.zip",
+          "name": "EmbellishedStone-1.20.1-1.0.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2525,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/EmbellishedStone-1.20.1-1.0.0.zip",
+            "MD5": "767915b9169831a722c0c11b09d097ca",
+            "path": "resourcepacks/EmbellishedStone-1.20.1-1.0.0.zip"
+          }
+        },
+        {
+          "id": "FreshAnimations_v1.9.2.zip",
+          "name": "FreshAnimations_v1.9.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 516256,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/FreshAnimations_v1.9.2.zip",
+            "MD5": "ebdaffde1a25273994c74b5d9ec21e1f",
+            "path": "resourcepacks/FreshAnimations_v1.9.2.zip"
+          }
+        },
+        {
+          "id": "Icon Xaero's 1.2 HF.zip",
+          "name": "Icon Xaero's 1.2 HF.zip",
+          "type": "File",
+          "artifact": {
+            "size": 20689432,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/Icon%20Xaero's%201.2%20HF.zip",
+            "MD5": "2d71a20c6526d040985e435955495caf",
+            "path": "resourcepacks/Icon Xaero's 1.2 HF.zip"
+          }
+        },
+        {
+          "id": "Nature X.zip",
+          "name": "Nature X.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1402225,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/Nature%20X.zip",
+            "MD5": "f122c40e5689b7ab9b48094a463aa516",
+            "path": "resourcepacks/Nature X.zip"
+          }
+        },
+        {
+          "id": "Overgrown Flowery GUI.zip",
+          "name": "Overgrown Flowery GUI.zip",
+          "type": "File",
+          "artifact": {
+            "size": 822081,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/Overgrown%20Flowery%20GUI.zip",
+            "MD5": "710e4a34c9844b44bb2165f749b6aa79",
+            "path": "resourcepacks/Overgrown Flowery GUI.zip"
+          }
+        },
+        {
+          "id": "Stay_True_1.20.zip",
+          "name": "Stay_True_1.20.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2139266,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/Stay_True_1.20.zip",
+            "MD5": "2d0227cf97a1adfd638bd5a1415c150e",
+            "path": "resourcepacks/Stay_True_1.20.zip"
+          }
+        },
+        {
+          "id": "VanillaTweaks_r445445_MC1.20.x.zip",
+          "name": "VanillaTweaks_r445445_MC1.20.x.zip",
+          "type": "File",
+          "artifact": {
+            "size": 70248,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/VanillaTweaks_r445445_MC1.20.x.zip",
+            "MD5": "681ef3ff80036b217b2fb8e49151ea84",
+            "path": "resourcepacks/VanillaTweaks_r445445_MC1.20.x.zip"
+          }
+        },
+        {
+          "id": "VisibleOres2.10.zip",
+          "name": "VisibleOres2.10.zip",
+          "type": "File",
+          "artifact": {
+            "size": 913816,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/VisibleOres2.10.zip",
+            "MD5": "12c83de113839e0251c3aa68034470dc",
+            "path": "resourcepacks/VisibleOres2.10.zip"
+          }
+        },
+        {
+          "id": "xali's Bushy Leaves v3.5.0.zip",
+          "name": "xali's Bushy Leaves v3.5.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 368186,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/xali's%20Bushy%20Leaves%20v3.5.0.zip",
+            "MD5": "dc0987338225018fb6b923fa0eb46422",
+            "path": "resourcepacks/xali's Bushy Leaves v3.5.0.zip"
+          }
+        },
+        {
+          "id": "xali's enchanted books v0.13.0.zip",
+          "name": "xali's enchanted books v0.13.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 203494,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/resourcepacks/xali's%20enchanted%20books%20v0.13.0.zip",
+            "MD5": "557abdd1b3745049023599f085cbebf3",
+            "path": "resourcepacks/xali's enchanted books v0.13.0.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.2.2.zip",
+          "name": "ComplementaryReimagined_r5.2.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 441683,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.2.2.zip",
+            "MD5": "a0852d3fddaf2c7f957ad6e1b8624513",
+            "path": "shaderpacks/ComplementaryReimagined_r5.2.2.zip"
+          }
+        },
+        {
+          "id": "superDuperVanilla.zip",
+          "name": "superDuperVanilla.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2406816,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/song_ah/servers/song_ah-1.20.1/files/shaderpacks/superDuperVanilla.zip",
+            "MD5": "8f49b9c940a2c560664ff483b27c1886",
+            "path": "shaderpacks/superDuperVanilla.zip"
+          }
+        }
+      ]
+    }
+  ]
+}
