@@ -136,16 +136,6 @@
           }
         },
         {
-          "id": "vectorwing.farmersdelight:farmersdelight:1.21-2.1.9+refabricated@jar",
-          "name": "Farmer's Delight",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 8001940,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/FarmersDelight-1.21-2.1.9+refabricated.jar",
-            "MD5": "934da333cb26a53506417ab617e171fb"
-          }
-        },
-        {
           "id": "earth.terrarium:handcrafted:4.0.2@jar",
           "name": "Handcrafted",
           "type": "FabricMod",
@@ -253,16 +243,6 @@
             "size": 484468,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/resourcefullib-fabric-1.21-3.0.11.jar",
             "MD5": "ae47a63f787aa495014da5200118e631"
-          }
-        },
-        {
-          "id": "org.hiedacamellia:seeddelight:0.1@jar",
-          "name": "Seed Delight",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 93832,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/SeedDelight-Fabric-1.21-1.0.1-Fix.jar",
-            "MD5": "b95d94138d9635ec5aa277176f19082b"
           }
         },
         {
