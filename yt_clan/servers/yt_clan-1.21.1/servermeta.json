@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/yt_clan/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "YT (Youtube Clan) 마인크래프트 서버",
+    "description": "Minecraft 1.21.1 (Fabric v0.16.7)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/server-icon.png",
+    "address": "yt-clan.ggm.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.16.7"
+  },
+  "untrackedFiles": []
+}
