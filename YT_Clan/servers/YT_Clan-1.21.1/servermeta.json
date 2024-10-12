@@ -17,5 +17,10 @@
   "fabric": {
     "version": "0.16.7"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["servers.dat", "options.txt"]
+    }
+  ]
 }
