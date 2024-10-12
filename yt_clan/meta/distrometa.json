@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/yt_clan/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/YT_Clan/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {

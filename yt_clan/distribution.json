@@ -8,10 +8,10 @@
   },
   "servers": [
     {
-      "id": "yt_clan-1.21.1",
+      "id": "YT_Clan-1.21.1",
       "name": "YT (Youtube Clan) 마인크래프트 서버",
       "description": "Minecraft 1.21.1 (Fabric v0.16.7)",
-      "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/server-icon.png",
+      "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/server-icon.png",
       "version": "1.0.0",
       "address": "yt-clan.ggm.kr",
       "minecraftVersion": "1.21.1",
@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1387452,
             "MD5": "67fdac9560fdae4c5e89fa62394f5802",
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/repo/lib/net/fabricmc/fabric-loader/0.16.7/fabric-loader-0.16.7.jar"
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/fabricmc/fabric-loader/0.16.7/fabric-loader-0.16.7.jar"
           },
           "subModules": [
             {
@@ -39,8 +39,8 @@
               "type": "VersionManifest",
               "artifact": {
                 "size": 2857,
-                "MD5": "dc21dc90aa27e539a775d9524fc34318",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/repo/versions/1.21.1-fabric-0.16.7/1.21.1-fabric-0.16.7.json"
+                "MD5": "ce79782139941588f9568593c903e77d",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/versions/1.21.1-fabric-0.16.7/1.21.1-fabric-0.16.7.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1494835,
                 "MD5": "a33725dd52de94c33514b6867c8d0b4b",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/repo/lib/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 657725,
                 "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2324549,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/fabric-api-0.105.0+1.21.1.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/fabric-api-0.105.0+1.21.1.jar",
             "MD5": "e9ab25c1dcdae5eacbb3b43c795b5c4f"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7137406,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar",
             "MD5": "dba35c1bf0daa7845df6aa8e3df1a424"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8001940,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/FarmersDelight-1.21-2.1.9+refabricated.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/FarmersDelight-1.21-2.1.9+refabricated.jar",
             "MD5": "934da333cb26a53506417ab617e171fb"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7118771,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/handcrafted-fabric-1.21.1-4.0.2.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/handcrafted-fabric-1.21.1-4.0.2.jar",
             "MD5": "5471c8105be6baae5962161f821bdd86"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1295027,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/InventoryProfilesNext-fabric-1.21-2.0.6.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/InventoryProfilesNext-fabric-1.21-2.0.6.jar",
             "MD5": "5248c23f5673791dca437c7760becd90"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2659716,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/iris-fabric-1.8.0-beta.4+mc1.21.1.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/iris-fabric-1.8.0-beta.4+mc1.21.1.jar",
             "MD5": "030075230b3656cf86d0aabba17d74c1"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1339342,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.8.4.113.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.8.4.113.jar",
             "MD5": "e170b86b6c3dbab098da729469a01abe"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3394397,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/journeymap-fabric-1.21-6.0.0-beta.27.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/journeymap-fabric-1.21-6.0.0-beta.27.jar",
             "MD5": "f18d9c8c923b849067b3fcb3d2c9394e"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 458822,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/koreanpatch-fabric-1.6.8+mc1.21.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/koreanpatch-fabric-1.6.8+mc1.21.jar",
             "MD5": "07af9c011bc3242c80668d4d19205d67"
           }
         },
@@ -211,7 +211,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 605802,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/libIPN-fabric-1.21-6.0.3.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/libIPN-fabric-1.21-6.0.3.jar",
             "MD5": "c01f22494b778369449bf2eeb45f4734"
           }
         },
@@ -221,7 +221,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1176289,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/mcw-doors-1.1.1-mc1.21.1fabric.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/mcw-doors-1.1.1-mc1.21.1fabric.jar",
             "MD5": "71f9fe519b6023a08ed8f3c604f252b8"
           }
         },
@@ -231,7 +231,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 637935,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/mcw-trapdoors-1.1.3-mc1.21.1fabric.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/mcw-trapdoors-1.1.3-mc1.21.1fabric.jar",
             "MD5": "8b8637afcc1dbae3dc3bd690cf91cbe3"
           }
         },
@@ -241,7 +241,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11909250,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/plasmovoice-fabric-1.21-2.1.0.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/plasmovoice-fabric-1.21-2.1.0.jar",
             "MD5": "603859520139f3ab769fdcca7a485ee1"
           }
         },
@@ -251,7 +251,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 484468,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/resourcefullib-fabric-1.21-3.0.11.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/resourcefullib-fabric-1.21-3.0.11.jar",
             "MD5": "ae47a63f787aa495014da5200118e631"
           }
         },
@@ -261,7 +261,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 93832,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/SeedDelight-Fabric-1.21-1.0.1-Fix.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/SeedDelight-Fabric-1.21-1.0.1-Fix.jar",
             "MD5": "b95d94138d9635ec5aa277176f19082b"
           }
         },
@@ -271,7 +271,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1266516,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/yt_clan/servers/yt_clan-1.21.1/fabricmods/required/sodium-fabric-0.6.0-beta.2+mc1.21.1.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/sodium-fabric-0.6.0-beta.2+mc1.21.1.jar",
             "MD5": "b08f626a6cee1fc3b3f42760c8046e5f"
           }
         }
