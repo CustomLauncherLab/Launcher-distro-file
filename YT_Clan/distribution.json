@@ -176,13 +176,13 @@
           }
         },
         {
-          "id": "mezz.jei:jei:19.8.4.113@jar",
+          "id": "mezz.jei:jei:19.21.0.246@jar",
           "name": "Just Enough Items",
           "type": "FabricMod",
           "artifact": {
-            "size": 1339342,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.8.4.113.jar",
-            "MD5": "e170b86b6c3dbab098da729469a01abe"
+            "size": 1474032,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.21.0.246.jar",
+            "MD5": "89d78c5624cb50ab5b00060daba70715"
           }
         },
         {
