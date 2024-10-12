@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "YT_Clan-1.21.1",
-      "name": "YT (Youtube Clan) 마인크래프트 서버",
+      "name": "YT (Youtube Clan)",
       "description": "Minecraft 1.21.1 (Fabric v0.16.7)",
       "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/server-icon.png",
       "version": "1.0.0",
