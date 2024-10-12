@@ -274,6 +274,105 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/servers.dat",
             "path": "servers.dat"
           }
+        },
+        {
+          "id": "BSL_v8.2.09p2.zip",
+          "name": "BSL_v8.2.09p2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 954763,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/BSL_v8.2.09p2.zip",
+            "MD5": "35b7bbb0b37868ef658aa5a847ed948f",
+            "path": "shaderpacks/BSL_v8.2.09p2.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.1.1.zip",
+          "name": "ComplementaryReimagined_r5.1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 409956,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip",
+            "MD5": "36b4136593cac57d2f9aa651603b6e0f",
+            "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.1.1.zip",
+          "name": "ComplementaryUnbound_r5.1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 409957,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip",
+            "MD5": "da7fc4c86b12e65f4f70b3a9aaabae90",
+            "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
+          }
+        },
+        {
+          "id": "MakeUp-UltraFast-8.9e.zip",
+          "name": "MakeUp-UltraFast-8.9e.zip",
+          "type": "File",
+          "artifact": {
+            "size": 338348,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/MakeUp-UltraFast-8.9e.zip",
+            "MD5": "8809bc636dfde2d34219a37376513462",
+            "path": "shaderpacks/MakeUp-UltraFast-8.9e.zip"
+          }
+        },
+        {
+          "id": "Noble v1.6.7.zip",
+          "name": "Noble v1.6.7.zip",
+          "type": "File",
+          "artifact": {
+            "size": 11325060,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/Noble%20v1.6.7.zip",
+            "MD5": "a7d4f2708f858860574ee8219588c6bc",
+            "path": "shaderpacks/Noble v1.6.7.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.52 Lite.zip",
+          "name": "Sildur's Vibrant Shaders v1.52 Lite.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142508,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Lite.zip",
+            "MD5": "ceba4ca74a1e49636cfe96417cadf790",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Lite.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.52 Medium.zip",
+          "name": "Sildur's Vibrant Shaders v1.52 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142509,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
+            "MD5": "73ac2677df6b146ff789c06c73ca67d1",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
+          }
+        },
+        {
+          "id": "Solas Shader V1.8.zip",
+          "name": "Solas Shader V1.8.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1199760,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/Solas%20Shader%20V1.8.zip",
+            "MD5": "254842282fd61e71401678654869af68",
+            "path": "shaderpacks/Solas Shader V1.8.zip"
+          }
+        },
+        {
+          "id": "§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV89.0§r§l.zip",
+          "name": "§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV89.0§r§l.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3180580,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/%C2%A7r%C2%A7lAstra%C2%A74%C2%A7lLex%C2%A7r%C2%A7l_By_LexBoosT_%C2%A74%C2%A7lV89.0%C2%A7r%C2%A7l.zip",
+            "MD5": "ab0247fddf9b4aa21343f0c0ae7aaf29",
+            "path": "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV89.0§r§l.zip"
+          }
         }
       ]
     }
