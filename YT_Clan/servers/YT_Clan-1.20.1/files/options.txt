@@ -1,0 +1,10 @@
+version:3465
+particles:2
+renderClouds:"fast"
+resourcePacks:[]
+incompatibleResourcePacks:[]
+lang:ko_kr
+tutorialStep:none
+key_key.chat:key.keyboard.enter
+soundCategory_music:0.0
+soundCategory_weather:0.5
