@@ -446,6 +446,16 @@
           }
         },
         {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.4@jar",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2915349,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.4.jar",
+            "MD5": "5b6bee961b278a3edd6e3935b061fbaa"
+          }
+        },
+        {
           "id": "earth.terrarium:handcrafted:3.0.6@jar",
           "name": "Handcrafted",
           "type": "ForgeMod",
@@ -552,6 +562,16 @@
             "size": 432753,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
             "MD5": "a040c6cc86f653fddf280ff3af9068f0"
+          }
+        },
+        {
+          "id": "org.hiedacamellia:seeddelight:1.20.1-0.1@jar",
+          "name": "Seed Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 95795,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/SeedDelight-NeoorForge-1.20.1-1.0.1%20(1).jar",
+            "MD5": "ad86700bcb744ed6b95cf171ecb90010"
           }
         },
         {
