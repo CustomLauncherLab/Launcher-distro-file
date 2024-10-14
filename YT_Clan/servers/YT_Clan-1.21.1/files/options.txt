@@ -1,7 +1,0 @@
-version:3955
-resourcePacks:["fabric"]
-incompatibleResourcePacks:[]
-lang:ko_kr
-tutorialStep:none
-soundCategory_music:0.0
-soundCategory_weather:0.5

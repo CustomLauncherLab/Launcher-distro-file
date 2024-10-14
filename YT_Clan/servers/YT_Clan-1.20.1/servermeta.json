@@ -1,0 +1,26 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/YT_Clan/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "YT (Youtube Clan)",
+    "description": "Minecraft 1.20.1 (Forge v47.3.11)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/server-icon.png",
+    "address": "yt-clan.ggm.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.3.11"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["servers.dat", "options.txt"]
+    }
+  ]
+}

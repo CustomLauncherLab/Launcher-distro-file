@@ -8,13 +8,13 @@
   },
   "servers": [
     {
-      "id": "YT_Clan-1.21.1",
+      "id": "YT_Clan-1.20.1",
       "name": "YT (Youtube Clan)",
-      "description": "Minecraft 1.21.1 (Fabric v0.16.7)",
+      "description": "Minecraft 1.20.1 (Forge v47.3.11)",
       "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/server-icon.png",
       "version": "1.0.0",
       "address": "yt-clan.ggm.kr",
-      "minecraftVersion": "1.21.1",
+      "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -24,248 +24,511 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.16.7",
-          "name": "Fabric (fabric-loader)",
-          "type": "Fabric",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.11",
+          "name": "Minecraft Forge (lowcodelanguage)",
+          "type": "ForgeHosted",
+          "classpath": true,
           "artifact": {
-            "size": 1387452,
-            "MD5": "67fdac9560fdae4c5e89fa62394f5802",
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/fabricmc/fabric-loader/0.16.7/fabric-loader-0.16.7.jar"
+            "size": 7398,
+            "MD5": "be7e779947ee43580822487845b6f8ed",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.11/lowcodelanguage-1.20.1-47.3.11.jar"
           },
           "subModules": [
             {
-              "id": "1.21.1-fabric-0.16.7",
-              "name": "Fabric (version.json)",
+              "id": "1.20.1-47.3.11",
+              "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 2857,
-                "MD5": "ce79782139941588f9568593c903e77d",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/versions/1.21.1-fabric-0.16.7/1.21.1-fabric-0.16.7.json"
+                "size": 16554,
+                "MD5": "d8c77cb1c2c3b8aeed69d04150d2b1ea",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/versions/1.20.1-forge-47.3.11/1.20.1-forge-47.3.11.json"
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.7.1",
-              "name": "Fabric (asm)",
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.11",
+              "name": "Minecraft Forge (fmlcore)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 118576,
+                "MD5": "4d5269f3107b9016bd643630d433a8d5",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.11/fmlcore-1.20.1-47.3.11.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.11",
+              "name": "Minecraft Forge (javafmllanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 16854,
+                "MD5": "6c984dfba221bba9b61e602d7d5b0e2b",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.11/javafmllanguage-1.20.1-47.3.11.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.11",
+              "name": "Minecraft Forge (mclanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 4998,
+                "MD5": "2ac1657eb1e746a043c40cb0e801476b",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.11/mclanguage-1.20.1-47.3.11.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.3.11:universal",
+              "name": "Minecraft Forge (universal jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 2753568,
+                "MD5": "ed0e7f0cadc416dd1a2f0c2f13e41cbc",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/forge/1.20.1-47.3.11/forge-1.20.1-47.3.11-universal.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.3.11:client",
+              "name": "Minecraft Forge (client jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 4793703,
+                "MD5": "0a7a4f989ebec81b77033afcd1b97028",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/forge/1.20.1-47.3.11/forge-1.20.1-47.3.11-client.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
+              "name": "Minecraft Forge (client srg)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 18842082,
+                "MD5": "8bfacfba4f54cda741019756165c5ecf",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
+              "name": "Minecraft Forge (client slim)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 12592249,
+                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
+              "name": "Minecraft Forge (client extra)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 10436626,
+                "MD5": "da6bb1a2c23108392fd6c103da40867c",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "cpw.mods:securejarhandler:2.1.10",
+              "name": "Minecraft Forge (securejarhandler)",
               "type": "Library",
               "artifact": {
-                "size": 126093,
-                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "size": 88749,
+                "MD5": "d9ff48d1c68388270388b803fa42611e",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.7.1",
-              "name": "Fabric (asm-analysis)",
+              "id": "org.ow2.asm:asm:9.7",
+              "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 35126,
-                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "size": 125428,
+                "MD5": "3957b18bf02a62edcb6726d074b90b08",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.7.1",
-              "name": "Fabric (asm-commons)",
+              "id": "org.ow2.asm:asm-commons:9.7",
+              "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 73459,
-                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "size": 73426,
+                "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.7.1",
-              "name": "Fabric (asm-tree)",
+              "id": "org.ow2.asm:asm-tree:9.7",
+              "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 51939,
-                "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "size": 51934,
+                "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.7.1",
-              "name": "Fabric (asm-util)",
+              "id": "org.ow2.asm:asm-util:9.7",
+              "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 94519,
-                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "size": 93784,
+                "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
               }
             },
             {
-              "id": "net.fabricmc:sponge-mixin:0.15.3+mixin.0.8.7",
-              "name": "Fabric (sponge-mixin)",
+              "id": "org.ow2.asm:asm-analysis:9.7",
+              "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 1494835,
-                "MD5": "a33725dd52de94c33514b6867c8d0b4b",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar"
+                "size": 34776,
+                "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
               }
             },
             {
-              "id": "net.fabricmc:intermediary:1.21.1",
-              "name": "Fabric (intermediary)",
+              "id": "net.minecraftforge:accesstransformers:8.0.4",
+              "name": "Minecraft Forge (accesstransformers)",
               "type": "Library",
               "artifact": {
-                "size": 657725,
-                "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+                "size": 77756,
+                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+              }
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.9.1",
+              "name": "Minecraft Forge (antlr4-runtime)",
+              "type": "Library",
+              "artifact": {
+                "size": 337868,
+                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:eventbus:6.0.5",
+              "name": "Minecraft Forge (eventbus)",
+              "type": "Library",
+              "artifact": {
+                "size": 53985,
+                "MD5": "2a6245210b446b2144071e71ca13432b",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forgespi:7.0.1",
+              "name": "Minecraft Forge (forgespi)",
+              "type": "Library",
+              "artifact": {
+                "size": 29831,
+                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:coremods:5.1.6",
+              "name": "Minecraft Forge (coremods)",
+              "type": "Library",
+              "artifact": {
+                "size": 24124,
+                "MD5": "4b4fe7e512819804660d621bf11c7381",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:modlauncher:10.0.9",
+              "name": "Minecraft Forge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 130343,
+                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:unsafe:0.2.0",
+              "name": "Minecraft Forge (unsafe)",
+              "type": "Library",
+              "artifact": {
+                "size": 2834,
+                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:mergetool:1.1.5:api",
+              "name": "Minecraft Forge (mergetool)",
+              "type": "Library",
+              "artifact": {
+                "size": 2572,
+                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.6.4",
+              "name": "Minecraft Forge (core)",
+              "type": "Library",
+              "artifact": {
+                "size": 199834,
+                "MD5": "d83ab07267e402131fb93d899a57f5cd",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.6.4",
+              "name": "Minecraft Forge (toml)",
+              "type": "Library",
+              "artifact": {
+                "size": 31816,
+                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.8.5",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 58077,
+                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+              }
+            },
+            {
+              "id": "net.jodah:typetools:0.6.3",
+              "name": "Minecraft Forge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "size": 18281,
+                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+              }
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.2.0",
+              "name": "Minecraft Forge (terminalconsoleappender)",
+              "type": "Library",
+              "artifact": {
+                "size": 15977,
+                "MD5": "679363fa893293791e55a21f81342f87",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-reader:3.12.1",
+              "name": "Minecraft Forge (jline-reader)",
+              "type": "Library",
+              "artifact": {
+                "size": 150765,
+                "MD5": "a2e7b012cd9802f83321187409174a94",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-terminal:3.12.1",
+              "name": "Minecraft Forge (jline-terminal)",
+              "type": "Library",
+              "artifact": {
+                "size": 211712,
+                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.spongepowered:mixin:0.8.5",
+              "name": "Minecraft Forge (mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1089277,
+                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+              }
+            },
+            {
+              "id": "org.openjdk.nashorn:nashorn-core:15.3",
+              "name": "Minecraft Forge (nashorn-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 2167288,
+                "MD5": "91e98c20afa1090c344229ce28b4c53f",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarSelector:0.3.19",
+              "name": "Minecraft Forge (JarJarSelector)",
+              "type": "Library",
+              "artifact": {
+                "size": 17374,
+                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "name": "Minecraft Forge (JarJarMetadata)",
+              "type": "Library",
+              "artifact": {
+                "size": 15895,
+                "MD5": "9633546d299d4282ca68d10582be1c8f",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:bootstraplauncher:1.1.2",
+              "name": "Minecraft Forge (bootstraplauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 8284,
+                "MD5": "48f5255aa337344c467c0150d347813d",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "name": "Minecraft Forge (JarJarFileSystems)",
+              "type": "Library",
+              "artifact": {
+                "size": 32195,
+                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.11",
+              "name": "Minecraft Forge (fmlloader)",
+              "type": "Library",
+              "artifact": {
+                "size": 264939,
+                "MD5": "230757a2a547f38bb05e8b3a94f29096",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.11/fmlloader-1.20.1-47.3.11.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.11",
+              "name": "Minecraft Forge (fmlearlydisplay)",
+              "type": "Library",
+              "artifact": {
+                "size": 170424,
+                "MD5": "08eab9782e369db8109b21edf61a7677",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.11/fmlearlydisplay-1.20.1-47.3.11.jar"
               }
             }
           ]
         },
         {
-          "id": "kr.shihyeon:blurserveraddress:1.1.0+mc1.20.4@jar",
-          "name": "BlurServerAddress",
-          "type": "FabricMod",
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 10279,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/blurserveraddress-1.1.0+mc1.20.4.jar",
-            "MD5": "b8f6099fed2c7b6464120586e67d1f92"
+            "size": 1320675,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/optionalon/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.105.0+1.21.1@jar",
-          "name": "Fabric API",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2324549,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/fabric-api-0.105.0+1.21.1.jar",
-            "MD5": "e9ab25c1dcdae5eacbb3b43c795b5c4f"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.fabricmod:fabric-language-kotlin:1.12.3+kotlin.2.0.21@jar",
-          "name": "Fabric Language Kotlin",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 7137406,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar",
-            "MD5": "dba35c1bf0daa7845df6aa8e3df1a424"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "earth.terrarium:handcrafted:4.0.2@jar",
+          "id": "earth.terrarium:handcrafted:3.0.6@jar",
           "name": "Handcrafted",
-          "type": "FabricMod",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 7118771,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/handcrafted-fabric-1.21.1-4.0.2.jar",
-            "MD5": "5471c8105be6baae5962161f821bdd86"
+            "size": 7111059,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/handcrafted-forge-1.20.1-3.0.6.jar",
+            "MD5": "a5291f94fc830a80d2caf7d2ab7cd4fd"
+          }
+        },
+        {
+          "id": "invtweaks:invtweaks:1.1.0@jar",
+          "name": "Inventory Tweaks Refoxed",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 74491,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/optionalon/invtweaks-1.20.1-1.1.0.jar",
+            "MD5": "2fbce23647ee005dbc694a2296af83f2"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "org.anti_ad.mc.ipnext:inventoryprofilesnext:2.0.6@jar",
-          "name": "Inventory Profiles Next",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1295027,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/InventoryProfilesNext-fabric-1.21-2.0.6.jar",
-            "MD5": "5248c23f5673791dca437c7760becd90"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.fabricmod:iris:1.8.0-beta.4+mc1.21.1@jar",
-          "name": "Iris",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2659716,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/iris-fabric-1.8.0-beta.4+mc1.21.1.jar",
-            "MD5": "030075230b3656cf86d0aabba17d74c1"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "mezz.jei:jei:19.21.0.246@jar",
+          "id": "mezz.jei:jei:15.20.0.104@jar",
           "name": "Just Enough Items",
-          "type": "FabricMod",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 1474032,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/jei-1.21.1-fabric-19.21.0.246.jar",
-            "MD5": "89d78c5624cb50ab5b00060daba70715"
-          },
-          "required": {
-            "value": false
+            "size": 1406021,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.104.jar",
+            "MD5": "46bf38308872aae3351ce59d9e664437"
           }
         },
         {
-          "id": "journeymap:journeymap:1.21-6.0.0-beta.27@jar",
+          "id": "journeymap:journeymap:5.10.3@jar",
           "name": "Journeymap",
-          "type": "FabricMod",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 3394397,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/journeymap-fabric-1.21-6.0.0-beta.27.jar",
-            "MD5": "f18d9c8c923b849067b3fcb3d2c9394e"
-          },
-          "required": {
-            "value": false
+            "size": 7160406,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
           }
         },
         {
-          "id": "com.hyfata.najoan:koreanpatch:1.6.8+mc1.21@jar",
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.6.9+mc1.20.1@jar",
           "name": "Korean Patch",
-          "type": "FabricMod",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 458822,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/koreanpatch-fabric-1.6.8+mc1.21.jar",
-            "MD5": "07af9c011bc3242c80668d4d19205d67"
+            "size": 190881,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/optionalon/koreanpatch-forge-1.6.9+mc1.20.1.jar",
+            "MD5": "c78341df23cc656d200cdd7202fd58a4"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "org.anti_ad.mc:libipn:6.0.3@jar",
-          "name": "LibIPN",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 605802,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/libIPN-fabric-1.21-6.0.3.jar",
-            "MD5": "c01f22494b778369449bf2eeb45f4734"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.kikoz:mcwdoors:1.1.1@jar",
+          "id": "com.mcwdoors.kikoz:mcwdoors:1.1.1@jar",
           "name": "Macaw's Doors",
-          "type": "FabricMod",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 1176289,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/mcw-doors-1.1.1-mc1.21.1fabric.jar",
-            "MD5": "71f9fe519b6023a08ed8f3c604f252b8"
-          },
-          "required": {
-            "value": false
+            "size": 1202279,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/mcw-doors-1.1.1forge-mc1.20.1.jar",
+            "MD5": "70a4d52ca95ecd57bcbb146e9c6950ce"
           }
         },
         {
-          "id": "net.kikoz:mcwtrpdoors:1.1.3@jar",
+          "id": "com.mcwtrpdoors.kikoz:mcwtrpdoors:1.1.3@jar",
           "name": "Macaw's Trapdoors",
-          "type": "FabricMod",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 637935,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/mcw-trapdoors-1.1.3-mc1.21.1fabric.jar",
-            "MD5": "8b8637afcc1dbae3dc3bd690cf91cbe3"
+            "size": 674687,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/mcw-trapdoors-1.1.3-mc1.20.1forge.jar",
+            "MD5": "3caced7ea133ba8c51bfc309ba91df82"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2831148,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.7.0.jar",
+            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
           },
           "required": {
             "value": false
@@ -274,50 +537,21 @@
         {
           "id": "su.plo.voice:plasmovoice:2.1.0@jar",
           "name": "Plasmo Voice",
-          "type": "FabricMod",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 11909250,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/plasmovoice-fabric-1.21-2.1.0.jar",
-            "MD5": "603859520139f3ab769fdcca7a485ee1"
-          },
-          "required": {
-            "value": false
+            "size": 11896547,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.0.jar",
+            "MD5": "57a5eff54f20e30e65e30e66b1bd5453"
           }
         },
         {
-          "id": "com.teamresourceful:resourcefullib:3.0.11@jar",
+          "id": "com.teamresourceful:resourcefullib:2.1.29@jar",
           "name": "Resourceful Lib",
-          "type": "FabricMod",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 484468,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/resourcefullib-fabric-1.21-3.0.11.jar",
-            "MD5": "ae47a63f787aa495014da5200118e631"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.caffeinemc.mods:sodium:0.6.0-beta.2+mc1.21.1@jar",
-          "name": "Sodium",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1266516,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/fabricmods/optionalon/sodium-fabric-0.6.0-beta.2+mc1.21.1.jar",
-            "MD5": "b08f626a6cee1fc3b3f42760c8046e5f"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 151,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/options.txt",
-            "path": "options.txt"
+            "size": 432753,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
+            "MD5": "a040c6cc86f653fddf280ff3af9068f0"
           }
         },
         {
@@ -326,107 +560,107 @@
           "type": "File",
           "artifact": {
             "size": 130,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/servers.dat",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/files/servers.dat",
             "path": "servers.dat"
           }
         },
         {
-          "id": "BSL_v8.2.09p2.zip",
-          "name": "BSL_v8.2.09p2.zip",
+          "id": "BSL_v8.2.09.zip",
+          "name": "BSL_v8.2.09.zip",
           "type": "File",
           "artifact": {
-            "size": 954763,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/BSL_v8.2.09p2.zip",
-            "MD5": "35b7bbb0b37868ef658aa5a847ed948f",
-            "path": "shaderpacks/BSL_v8.2.09p2.zip"
+            "size": 954784,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/files/shaderpacks/BSL_v8.2.09.zip",
+            "MD5": "4443556b4e0d63394f0df1297e484454",
+            "path": "shaderpacks/BSL_v8.2.09.zip"
           }
         },
         {
-          "id": "ComplementaryReimagined_r5.1.1.zip",
-          "name": "ComplementaryReimagined_r5.1.1.zip",
+          "id": "ComplementaryReimagined_r5.2.2.zip",
+          "name": "ComplementaryReimagined_r5.2.2.zip",
           "type": "File",
           "artifact": {
-            "size": 409956,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip",
-            "MD5": "36b4136593cac57d2f9aa651603b6e0f",
-            "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
+            "size": 441683,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.2.2.zip",
+            "MD5": "a0852d3fddaf2c7f957ad6e1b8624513",
+            "path": "shaderpacks/ComplementaryReimagined_r5.2.2.zip"
           }
         },
         {
-          "id": "ComplementaryUnbound_r5.1.1.zip",
-          "name": "ComplementaryUnbound_r5.1.1.zip",
+          "id": "ComplementaryUnbound_r5.2.2.zip",
+          "name": "ComplementaryUnbound_r5.2.2.zip",
           "type": "File",
           "artifact": {
-            "size": 409957,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip",
-            "MD5": "da7fc4c86b12e65f4f70b3a9aaabae90",
-            "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
+            "size": 441687,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip",
+            "MD5": "77b72dd3824ad2d6ddb1f952a786137c",
+            "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
           }
         },
         {
-          "id": "MakeUp-UltraFast-8.9e.zip",
-          "name": "MakeUp-UltraFast-8.9e.zip",
+          "id": "MakeUp-UltraFast-9.0a.zip",
+          "name": "MakeUp-UltraFast-9.0a.zip",
           "type": "File",
           "artifact": {
-            "size": 338348,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/MakeUp-UltraFast-8.9e.zip",
-            "MD5": "8809bc636dfde2d34219a37376513462",
-            "path": "shaderpacks/MakeUp-UltraFast-8.9e.zip"
+            "size": 357630,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/files/shaderpacks/MakeUp-UltraFast-9.0a.zip",
+            "MD5": "84bb057ea44f792790c00d7aea5d5c47",
+            "path": "shaderpacks/MakeUp-UltraFast-9.0a.zip"
           }
         },
         {
-          "id": "Noble v1.6.7.zip",
-          "name": "Noble v1.6.7.zip",
+          "id": "Noble v1.7.3.zip",
+          "name": "Noble v1.7.3.zip",
           "type": "File",
           "artifact": {
-            "size": 11325060,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/Noble%20v1.6.7.zip",
-            "MD5": "a7d4f2708f858860574ee8219588c6bc",
-            "path": "shaderpacks/Noble v1.6.7.zip"
+            "size": 11340594,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/files/shaderpacks/Noble%20v1.7.3.zip",
+            "MD5": "fb18a1f3fc466e5d5d89e6e50ffe7745",
+            "path": "shaderpacks/Noble v1.7.3.zip"
           }
         },
         {
-          "id": "Sildur's Vibrant Shaders v1.52 Lite.zip",
-          "name": "Sildur's Vibrant Shaders v1.52 Lite.zip",
+          "id": "Sildur's Vibrant Shaders v1.51 Lite.zip",
+          "name": "Sildur's Vibrant Shaders v1.51 Lite.zip",
           "type": "File",
           "artifact": {
-            "size": 142508,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Lite.zip",
-            "MD5": "ceba4ca74a1e49636cfe96417cadf790",
-            "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Lite.zip"
+            "size": 142247,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Lite.zip",
+            "MD5": "e6294fc113d73c384a9e88e722d1b6da",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Lite.zip"
           }
         },
         {
-          "id": "Sildur's Vibrant Shaders v1.52 Medium.zip",
-          "name": "Sildur's Vibrant Shaders v1.52 Medium.zip",
+          "id": "Sildur's Vibrant Shaders v1.51 Medium.zip",
+          "name": "Sildur's Vibrant Shaders v1.51 Medium.zip",
           "type": "File",
           "artifact": {
-            "size": 142509,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
-            "MD5": "73ac2677df6b146ff789c06c73ca67d1",
-            "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
+            "size": 142241,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Medium.zip",
+            "MD5": "f2ac25e1dd3afb18344d18593b41e905",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Medium.zip"
           }
         },
         {
-          "id": "Solas Shader V1.8.zip",
-          "name": "Solas Shader V1.8.zip",
+          "id": "Solas Shader V2.3.zip",
+          "name": "Solas Shader V2.3.zip",
           "type": "File",
           "artifact": {
-            "size": 1199760,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/Solas%20Shader%20V1.8.zip",
-            "MD5": "254842282fd61e71401678654869af68",
-            "path": "shaderpacks/Solas Shader V1.8.zip"
+            "size": 1244539,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/files/shaderpacks/Solas%20Shader%20V2.3.zip",
+            "MD5": "3f132e37c38cf7f145ca5bc186fe2aff",
+            "path": "shaderpacks/Solas Shader V2.3.zip"
           }
         },
         {
-          "id": "§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV89.0§r§l.zip",
-          "name": "§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV89.0§r§l.zip",
+          "id": "§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip",
+          "name": "§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip",
           "type": "File",
           "artifact": {
-            "size": 3180580,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.21.1/files/shaderpacks/%C2%A7r%C2%A7lAstra%C2%A74%C2%A7lLex%C2%A7r%C2%A7l_By_LexBoosT_%C2%A74%C2%A7lV89.0%C2%A7r%C2%A7l.zip",
-            "MD5": "ab0247fddf9b4aa21343f0c0ae7aaf29",
-            "path": "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV89.0§r§l.zip"
+            "size": 3184524,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/files/shaderpacks/%C2%A7r%C2%A7lAstra%C2%A74%C2%A7lLex%C2%A7r%C2%A7l_By_LexBoosT_%C2%A74%C2%A7lV93.0%C2%A7r%C2%A7l.zip",
+            "MD5": "021c95bd3d217b4a7e45997d5127285b",
+            "path": "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip"
           }
         }
       ]
