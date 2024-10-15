@@ -20,7 +20,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["servers.dat", "options.txt"]
+      "patterns": ["servers.dat", "options.txt", "journeymap/config/5.10/journeymap.minimap.config"]
     }
   ]
 }
