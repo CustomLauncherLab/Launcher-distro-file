@@ -189,6 +189,17 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 295,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/files/config/iris.properties",
+            "MD5": "080a91bb89a0045a24563592b2a1ab3e",
+            "path": "config/iris.properties"
+          }
+        },
+        {
           "id": "voicechat-client.properties",
           "name": "voicechat-client.properties",
           "type": "File",
@@ -203,8 +214,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2344,
+            "size": 2373,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/files/options.txt",
+            "MD5": "1c30ff1b7189d497ec41cef7e4a4d5ad",
             "path": "options.txt"
           }
         },
@@ -217,6 +229,17 @@
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/files/resourcepacks/cocricot_forMOD-1.20.4-snapshot1.1.1.zip",
             "MD5": "1a898d1ac0670efa19ee6482319877c4",
             "path": "resourcepacks/cocricot_forMOD-1.20.4-snapshot1.1.1.zip"
+          }
+        },
+        {
+          "id": "MBTI 단합대회.zip",
+          "name": "MBTI 단합대회.zip",
+          "type": "File",
+          "artifact": {
+            "size": 53831466,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/files/resourcepacks/MBTI%20%EB%8B%A8%ED%95%A9%EB%8C%80%ED%9A%8C.zip",
+            "MD5": "5a11fbadf11115027d3c07c04bce1a7d",
+            "path": "resourcepacks/MBTI 단합대회.zip"
           }
         },
         {
@@ -239,6 +262,17 @@
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/files/shaderpacks/miniature-shader-2.13.2.zip",
             "MD5": "760f0beeeefe4be65f4199166dff3423",
             "path": "shaderpacks/miniature-shader-2.13.2.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.51 Medium.zip",
+          "name": "Sildur's Vibrant Shaders v1.51 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142241,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Medium.zip",
+            "MD5": "f2ac25e1dd3afb18344d18593b41e905",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Medium.zip"
           }
         }
       ]

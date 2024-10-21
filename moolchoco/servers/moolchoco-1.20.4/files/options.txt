@@ -44,7 +44,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/cocricot_forMOD-1.20.4-snapshot1.1.1.zip"]
+resourcePacks:["vanilla","fabric","file/cocricot_forMOD-1.20.4-snapshot1.1.1.zip","file/MBTI 단합대회.zip"]
 incompatibleResourcePacks:["worldedit"]
 lastServer:
 lang:ko_kr
@@ -96,5 +96,5 @@ key_iris.keybind.toggleShaders:key.keyboard.unknown
 soundCategory_master:1
 soundCategory_music:0.0
 soundCategory_hostile:0.0
-soundCategory_player:0.3
+soundCategory_player:0.0
 soundCategory_ambient:0.0
