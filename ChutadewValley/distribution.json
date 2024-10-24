@@ -1,0 +1,424 @@
+{
+  "version": "1.0.0",
+  "rss": "https://github.com/CustomLauncherLab/ChutadewValley/tags.atom",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "ChutadewValley-1.20.1",
+      "name": "츄타듀밸리",
+      "description": "Minecraft 1.20.1 (Fabric v0.16.7)",
+      "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/server-icon.png",
+      "version": "1.0.0",
+      "address": "chuchdaechuchuchuchuchuchudaechuchuchudae.mcv.kr",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.16.7",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1387452,
+            "MD5": "67fdac9560fdae4c5e89fa62394f5802",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/repo/lib/net/fabricmc/fabric-loader/0.16.7/fabric-loader-0.16.7.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-fabric-0.16.7",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2857,
+                "MD5": "b815186eed84dd7eefdb4f2ee76b9035",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/repo/versions/1.20.1-fabric-0.16.7/1.20.1-fabric-0.16.7.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.7.1",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126093,
+                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.7.1",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35126,
+                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.7.1",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73459,
+                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.7.1",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51939,
+                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.7.1",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94519,
+                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.15.3+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1494835,
+                "MD5": "a33725dd52de94c33514b6867c8d0b4b",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/repo/lib/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.20.1",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 573365,
+                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "kr.shihyeon:blurserveraddress:1.0.0+mc1.20.1@jar",
+          "name": "BlurServerAddress",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6738,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/blurserveraddress-1.0.0+mc1.20.1.jar",
+            "MD5": "30b840a2f3d109a49755e0ae4b66ee58"
+          }
+        },
+        {
+          "id": "moe.caramel.chat:caramelchat:1.2.0@jar",
+          "name": "CaramelChat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 343899,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/caramelChat-mc1.20.1-fabric-1.2.0.jar",
+            "MD5": "69ec9d55a7a980bc1159cc33e246d581"
+          }
+        },
+        {
+          "id": "shcm.shsupercm:citresewn:1.1.5+1.20.1@jar",
+          "name": "CIT Resewn",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 391752,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/citresewn-1.1.5+1.20.1.jar",
+            "MD5": "d0d036a2aeff226687f369269524653d"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:11.1.136@jar",
+          "name": "Cloth Config v11",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1172214,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/cloth-config-11.1.136-fabric.jar",
+            "MD5": "45d8bada7797af61d1f5543313b1f9f0"
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:2.2.6@jar",
+          "name": "Entity Model Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 431222,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/entity_model_features_fabric_1.20.1-2.2.6.jar",
+            "MD5": "110530ecc1f43eddf3f684e9a83db2fb"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:6.2.5@jar",
+          "name": "Entity Texture Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 638732,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/entity_texture_features_fabric_1.20.1-6.2.5.jar",
+            "MD5": "9335949a6775840c8ab76a35701d6830"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.7.0@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 66855,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/entityculling-fabric-1.7.0-mc1.20.1.jar",
+            "MD5": "45aeb0829ae8335d26251fe32dbd5d10"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.92.2+1.20.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2107289,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
+            "MD5": "92c58961866741106aae126558c9d4a7"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.12.3+kotlin.2.0.21@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7137406,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar",
+            "MD5": "dba35c1bf0daa7845df6aa8e3df1a424"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:6.0.1@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 125197,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
+            "MD5": "a19272e427f75fea59127de6610ea26b"
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.2.21+1.20.4@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 250128,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.2.21+1.20.4.jar",
+            "MD5": "0babfeda827e4909aad910ab30a2277e"
+          }
+        },
+        {
+          "id": "link.infra:indium:1.0.34+mc1.20.1@jar",
+          "name": "Indium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 105359,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/indium-1.0.34+mc1.20.1.jar",
+            "MD5": "91f3ce08edec42ee8f6b45fd6ae0c8b3"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.7.5+mc1.20.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2730664,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/iris-1.7.5+mc1.20.1.jar",
+            "MD5": "902528a82a843300ecf9027af9f8fb8c"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.10.3@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7209180,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
+            "MD5": "4689aa2b7ae8126112e32a2069dc1040"
+          }
+        },
+        {
+          "id": "dev.lambdaurora:lambdynlights:2.3.2+1.20.1@jar",
+          "name": "LambDynamicLights",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 573183,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/lambdynamiclights-2.3.2+1.20.1.jar",
+            "MD5": "9e931a5331bfe8cee677a413b8aea776"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:lithium:0.11.2@jar",
+          "name": "Lithium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 645865,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.2.jar",
+            "MD5": "026ca4110d57f16f701b400ad5d2ca26"
+          }
+        },
+        {
+          "id": "ca.fxco:memoryleakfix:1.1.5@jar",
+          "name": "Memory Leak Fix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 49334,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
+            "MD5": "a8461f89d267441752c95beb5448e940"
+          }
+        },
+        {
+          "id": "org.embeddedt:modernfix:5.19.4+mc1.20.1@jar",
+          "name": "ModernFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 648404,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/modernfix-fabric-5.19.4+mc1.20.1.jar",
+            "MD5": "dff72c3026cd2b8003ddeb16790bb47d"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:7.2.2@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 721366,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
+            "MD5": "2629511a2d3b141d9f2a24dc9685637e"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.0@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11897168,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/plasmovoice-fabric-1.20.1-2.1.0.jar",
+            "MD5": "9a4b259ddc280a72a5663be15e488433"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods.sodiumextra:sodium-extra:0.5.4+mc1.20.1-build.115@jar",
+          "name": "Sodium Extra",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 385539,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/sodium-extra-0.5.4+mc1.20.1-build.115.jar",
+            "MD5": "9eaed09a486eee9a1326de5dd80faa0a"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.11+mc1.20.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 968419,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/sodium-fabric-0.5.11+mc1.20.1.jar",
+            "MD5": "9880bae748957d1cb6c4de50c8e0452a"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.5.0+1.20.1-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1148529,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar",
+            "MD5": "84ec83096ccce215ad670ce6ea8c3055"
+          }
+        },
+        {
+          "id": "dev.isxander:zoomify:2.14.0+1.20.1@jar",
+          "name": "Zoomify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 809496,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/Zoomify-2.14.0+1.20.1.jar",
+            "MD5": "aec4d3b9216c592d89cdbcf1af41ad8a"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4897,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 395,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/files/optionsshaders.txt",
+            "path": "optionsshaders.txt"
+          }
+        },
+        {
+          "id": "FreshAnimations_v1.9.2.zip",
+          "name": "FreshAnimations_v1.9.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 516256,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/files/resourcepacks/FreshAnimations_v1.9.2.zip",
+            "MD5": "ebdaffde1a25273994c74b5d9ec21e1f",
+            "path": "resourcepacks/FreshAnimations_v1.9.2.zip"
+          }
+        },
+        {
+          "id": "Stay_True_1.20.1.zip",
+          "name": "Stay_True_1.20.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2120671,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/files/resourcepacks/Stay_True_1.20.1.zip",
+            "MD5": "27d979133f470d5c6e6a8a4884135d52",
+            "path": "resourcepacks/Stay_True_1.20.1.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 127,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/files/servers.dat",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.1.1.zip",
+          "name": "ComplementaryUnbound_r5.1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 409957,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip",
+            "MD5": "da7fc4c86b12e65f4f70b3a9aaabae90",
+            "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
+          }
+        }
+      ]
+    }
+  ]
+}

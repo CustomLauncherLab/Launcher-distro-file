@@ -1,0 +1,30 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/ChutadewValley/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "츄타듀밸리",
+    "description": "Minecraft 1.20.1 (Fabric v0.16.7)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/server-icon.png",
+    "address": "chuchdaechuchuchuchuchuchudaechuchuchudae.mcv.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.16.7"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "servers.dat",
+        "options.txt",
+        "optionsshaders.txt"
+      ]
+    }
+  ]
+}
