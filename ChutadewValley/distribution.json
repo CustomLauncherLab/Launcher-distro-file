@@ -356,11 +356,21 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 285,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4897,
+            "size": 4899,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/files/options.txt",
             "path": "options.txt"
           }

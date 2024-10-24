@@ -42,7 +42,7 @@ ao:false
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"fast"
-resourcePacks:["vanilla","file/FreshAnimations_v1.9.2.zip","file/Stay_True_1.20.zip","fabric"]
+resourcePacks:["vanilla","file/FreshAnimations_v1.9.2.zip","file/Stay_True_1.20.1.zip","fabric"]
 incompatibleResourcePacks:[]
 lastServer:chuman.p-e.kr
 lang:ko_kr
