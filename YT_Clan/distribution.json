@@ -433,6 +433,16 @@
           ]
         },
         {
+          "id": "com.supermartijn642:connectedglass:1.1.12@jar",
+          "name": "Connected Glass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 873347,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/connectedglass-1.1.12-forge-mc1.20.1.jar",
+            "MD5": "606425bc344344d800ca0a37ba4b29c3"
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
@@ -453,6 +463,19 @@
             "size": 2915349,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.4.jar",
             "MD5": "5b6bee961b278a3edd6e3935b061fbaa"
+          }
+        },
+        {
+          "id": "com.supermartijn642:fusion:1.1.1@jar",
+          "name": "Fusion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 221813,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/optionalon/fusion-1.1.1-forge-mc1.20.1.jar",
+            "MD5": "c8cc6729366722da02ea57fd87d7275c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -522,6 +545,16 @@
           }
         },
         {
+          "id": "com.mcwfurnitures.kikoz:mcwfurnitures:3.3.0@jar",
+          "name": "Macaw's Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1882792,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/mcw-furniture-3.3.0-mc1.20.1forge.jar",
+            "MD5": "f22230d8f84190aef6e62ca95e5da136"
+          }
+        },
+        {
           "id": "com.mcwtrpdoors.kikoz:mcwtrpdoors:1.1.3@jar",
           "name": "Macaw's Trapdoors",
           "type": "ForgeMod",
@@ -529,6 +562,16 @@
             "size": 674687,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/mcw-trapdoors-1.1.3-mc1.20.1forge.jar",
             "MD5": "3caced7ea133ba8c51bfc309ba91df82"
+          }
+        },
+        {
+          "id": "net.wurstclient.glass:mo_glass:1.7.1-MC1.20.1-Forge@jar",
+          "name": "Mo Glass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2148802,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/Mo-Glass-1.7.1-MC1.20.1-Forge.jar",
+            "MD5": "f4dba8be4e0d408d6521e3a971ef5882"
           }
         },
         {
@@ -572,6 +615,16 @@
             "size": 95795,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/SeedDelight-NeoorForge-1.20.1-1.0.1%20(1).jar",
             "MD5": "ad86700bcb744ed6b95cf171ecb90010"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.17+a@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 515364,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/supermartijn642corelib-1.1.17a-forge-mc1.20.1.jar",
+            "MD5": "683673fc9002595a4a6b1668f33354cc"
           }
         },
         {
