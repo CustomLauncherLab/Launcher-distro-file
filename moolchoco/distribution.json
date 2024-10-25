@@ -116,6 +116,16 @@
           ]
         },
         {
+          "id": "kr.shihyeon:blurserveraddress:1.1.0+mc1.20.4@jar",
+          "name": "BlurServerAddress",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 10279,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/fabricmods/required/blurserveraddress-1.1.0+mc1.20.4.jar",
+            "MD5": "b8f6099fed2c7b6464120586e67d1f92"
+          }
+        },
+        {
           "id": "moe.caramel.chat:caramelchat:1.2.0@jar",
           "name": "CaramelChat",
           "type": "FabricMod",
