@@ -214,9 +214,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2373,
+            "size": 713,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/files/options.txt",
-            "MD5": "1c30ff1b7189d497ec41cef7e4a4d5ad",
+            "MD5": "9dc9b3e974e0cf43866b207fd427f8d0",
             "path": "options.txt"
           }
         },
