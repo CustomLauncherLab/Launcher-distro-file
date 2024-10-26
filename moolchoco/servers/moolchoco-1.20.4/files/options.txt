@@ -1,5 +1,6 @@
 version:3700
 realmsNotifications:false
+guiScale:2
 resourcePacks:["vanilla","fabric","file/cocricot_forMOD-1.20.4-snapshot1.1.1.zip","file/MBTI 단합대회.zip"]
 incompatibleResourcePacks:["worldedit"]
 lang:ko_kr
