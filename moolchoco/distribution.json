@@ -223,9 +223,21 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 725,
+            "size": 760,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/files/options.txt",
+            "MD5": "7b7a57d530ec014e0caee5b4315a5d1d",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "cocricot_for1.20.4_v1.1.zip",
+          "name": "cocricot_for1.20.4_v1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 24460627,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/files/resourcepacks/cocricot_for1.20.4_v1.1.zip",
+            "MD5": "c125e87517738596f76d9722b31b4f16",
+            "path": "resourcepacks/cocricot_for1.20.4_v1.1.zip"
           }
         },
         {
