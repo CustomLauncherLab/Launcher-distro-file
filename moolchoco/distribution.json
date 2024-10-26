@@ -205,7 +205,6 @@
           "artifact": {
             "size": 295,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/files/config/iris.properties",
-            "MD5": "080a91bb89a0045a24563592b2a1ab3e",
             "path": "config/iris.properties"
           }
         },
@@ -226,7 +225,6 @@
           "artifact": {
             "size": 725,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/moolchoco/servers/moolchoco-1.20.4/files/options.txt",
-            "MD5": "5d108c53f0ce184d66153c192e570da3",
             "path": "options.txt"
           }
         },

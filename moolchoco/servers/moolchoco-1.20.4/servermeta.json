@@ -20,7 +20,12 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["config/voicechat/voicechat-client.properties"]
+      "patterns": 
+      [
+        "options.txt",
+        "config/iris.properties",
+        "config/voicechat/voicechat-client.properties"
+      ]
     }
   ]
 }
