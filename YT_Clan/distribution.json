@@ -433,6 +433,26 @@
           ]
         },
         {
+          "id": "com.supermartijn642:additionallanterns:1.1.1a@jar",
+          "name": "Additional Lanterns",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3141945,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/additionallanterns-1.1.1a-forge-mc1.20.jar",
+            "MD5": "a9890c7280a6181c4b1df7b2d6636809"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:amendments:1.20-1.2.12@jar",
+          "name": "Amendments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 995893,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/amendments-1.20-1.2.12.jar",
+            "MD5": "164d0d403dfb18d1ba6a0d16dbb5505d"
+          }
+        },
+        {
           "id": "com.supermartijn642:connectedglass:1.1.12@jar",
           "name": "Connected Glass",
           "type": "ForgeMod",
@@ -440,6 +460,16 @@
             "size": 873347,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/connectedglass-1.1.12-forge-mc1.20.1.jar",
             "MD5": "606425bc344344d800ca0a37ba4b29c3"
+          }
+        },
+        {
+          "id": "fuzs.diagonalfences:diagonalfences:8.1.4@jar",
+          "name": "Diagonal Fences",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 179907,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/DiagonalFences-v8.1.4-1.20.1-Forge.jar",
+            "MD5": "16ba82f3fec74cbf2b07b969d62e642f"
           }
         },
         {
@@ -575,6 +605,16 @@
           }
         },
         {
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.18@jar",
+          "name": "Moonlight Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1190062,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/moonlight-1.20-2.13.18-forge.jar",
+            "MD5": "48d1247a099956b5078c52c05fe3c8bf"
+          }
+        },
+        {
           "id": "net.irisshaders.iris:oculus:1.7.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
@@ -595,6 +635,26 @@
             "size": 11896547,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.0.jar",
             "MD5": "57a5eff54f20e30e65e30e66b1bd5453"
+          }
+        },
+        {
+          "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.24@jar",
+          "name": "Puzzles Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1002383,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/PuzzlesLib-v8.1.24-1.20.1-Forge.jar",
+            "MD5": "31d7aea97858a0faa01f35a0c1071614"
+          }
+        },
+        {
+          "id": "com.delta:redeco:1.13@jar",
+          "name": "Re:Deco",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2863788,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/redeco-1.13-1.20.jar",
+            "MD5": "824b2e768607b5b0efb6023751066a57"
           }
         },
         {
