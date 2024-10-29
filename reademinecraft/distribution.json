@@ -13,7 +13,7 @@
       "description": "Minecraft 1.19.2 (Forge v43.4.4)",
       "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/server-icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "repg.inline.run",
       "minecraftVersion": "1.19.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
