@@ -615,6 +615,16 @@
           }
         },
         {
+          "id": "com.autovw:moreconcrete:1.4.7@jar",
+          "name": "More Concrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 492820,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/required/moreconcrete-1.4.7-1.20.1.jar",
+            "MD5": "d816f5204b2a78837db174e730c14ee5"
+          }
+        },
+        {
           "id": "net.irisshaders.iris:oculus:1.7.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
