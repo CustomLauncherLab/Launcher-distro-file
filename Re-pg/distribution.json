@@ -451,6 +451,105 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.5.25.jar",
             "MD5": "17e0e06f9db158dcf6b99b440f41196a"
           }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4011,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/files/options.txt",
+            "MD5": "f5e4e5a745752808540a088d05dfad2f",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 78,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/files/servers.dat",
+            "MD5": "1ccdac6bcc7829db74dd4b563ae1c7a1",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "BSL_v8.2.09.zip",
+          "name": "BSL_v8.2.09.zip",
+          "type": "File",
+          "artifact": {
+            "size": 954784,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/files/shaderpacks/BSL_v8.2.09.zip",
+            "MD5": "4443556b4e0d63394f0df1297e484454",
+            "path": "shaderpacks/BSL_v8.2.09.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9.1_Extreme_beta_5.zip",
+          "name": "Chocapic13_V9.1_Extreme_beta_5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3673196,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/files/shaderpacks/Chocapic13_V9.1_Extreme_beta_5.zip",
+            "MD5": "0885633eb0ef754a23842e024c8b752b",
+            "path": "shaderpacks/Chocapic13_V9.1_Extreme_beta_5.zip"
+          }
+        },
+        {
+          "id": "SEUS-Renewed-v1.0.1.zip",
+          "name": "SEUS-Renewed-v1.0.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 7062638,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/files/shaderpacks/SEUS-Renewed-v1.0.1.zip",
+            "MD5": "8faeb04d9953c9b10b0794acafc4c1aa",
+            "path": "shaderpacks/SEUS-Renewed-v1.0.1.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.41 High.zip",
+          "name": "Sildur's Vibrant Shaders v1.41 High.zip",
+          "type": "File",
+          "artifact": {
+            "size": 140668,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.41%20High.zip",
+            "MD5": "a44c8619988a55bfe9a2a349634d2162",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.41 High.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.41 Lite.zip",
+          "name": "Sildur's Vibrant Shaders v1.41 Lite.zip",
+          "type": "File",
+          "artifact": {
+            "size": 140678,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.41%20Lite.zip",
+            "MD5": "e8bbd16981c317a0753f1b8b4998e72e",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.41 Lite.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.41 Medium.zip",
+          "name": "Sildur's Vibrant Shaders v1.41 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 140674,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.41%20Medium.zip",
+            "MD5": "087361b87ddbce77da960b1fb46c9a77",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.41 Medium.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.52 High.zip",
+          "name": "Sildur's Vibrant Shaders v1.52 High.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142499,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20High.zip",
+            "MD5": "aa6052030de84b72246927ad00e068f2",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 High.zip"
+          }
         }
       ]
     }
