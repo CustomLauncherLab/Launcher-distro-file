@@ -413,16 +413,6 @@
           ]
         },
         {
-          "id": "moe.plushie.armourers_workshop.compatibility:armourers_workshop:3.0.0-beta.23@jar",
-          "name": "Armourer's Workshop",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4887518,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/forgemods/required/armourersworkshop-forge-1.19.2-3.0.0-beta.23.jar",
-            "MD5": "960f35d7df61daa04711429cdc80507b"
-          }
-        },
-        {
           "id": "net.coderbot.iris:oculus:1.6.9@jar",
           "name": "Oculus",
           "type": "ForgeMod",
@@ -450,6 +440,17 @@
             "size": 8170720,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.5.25.jar",
             "MD5": "17e0e06f9db158dcf6b99b440f41196a"
+          }
+        },
+        {
+          "id": "armourersworkshop-forge-1.19.2-3.0.0-beta.23.jar",
+          "name": "armourersworkshop-forge-1.19.2-3.0.0-beta.23.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4887518,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/files/mods/armourersworkshop-forge-1.19.2-3.0.0-beta.23.jar",
+            "MD5": "960f35d7df61daa04711429cdc80507b",
+            "path": "mods/armourersworkshop-forge-1.19.2-3.0.0-beta.23.jar"
           }
         },
         {
