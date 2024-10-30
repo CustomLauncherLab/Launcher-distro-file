@@ -1,0 +1,26 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/CARTA/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "CARTA",
+    "description": "Minecraft 1.12.2 (Forge v14.23.5.2860)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/CARTA/server-icon.png",
+    "address": "reade.p-e.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "14.23.5.2860"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["options.txt"]
+    }
+  ]
+}
