@@ -8,10 +8,10 @@
   },
   "servers": [
     {
-      "id": "reademinecraft-1.19.2",
+      "id": "Re-pg-1.19.2",
       "name": "【Re:pg】RPG",
       "description": "Minecraft 1.19.2 (Forge v43.4.4)",
-      "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/server-icon.png",
+      "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/server-icon.png",
       "version": "1.0.0",
       "address": "repg.inline.run",
       "minecraftVersion": "1.19.2",
@@ -31,7 +31,7 @@
           "artifact": {
             "size": 7373,
             "MD5": "8e78edc2f23fac0bf7bcb93739cebe85",
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/lowcodelanguage/1.19.2-43.4.4/lowcodelanguage-1.19.2-43.4.4.jar"
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/lowcodelanguage/1.19.2-43.4.4/lowcodelanguage-1.19.2-43.4.4.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 15497,
                 "MD5": "8d69a454e4ff007f46d1c697ea8a542b",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/versions/1.19.2-forge-43.4.4/1.19.2-forge-43.4.4.json"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/versions/1.19.2-forge-43.4.4/1.19.2-forge-43.4.4.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 113468,
                 "MD5": "a75d469b61b0b4155a5367043f4fb8b8",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/fmlcore/1.19.2-43.4.4/fmlcore-1.19.2-43.4.4.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/fmlcore/1.19.2-43.4.4/fmlcore-1.19.2-43.4.4.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 16829,
                 "MD5": "94ed3081ec20fad053548e8e64e302e6",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/javafmllanguage/1.19.2-43.4.4/javafmllanguage-1.19.2-43.4.4.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/javafmllanguage/1.19.2-43.4.4/javafmllanguage-1.19.2-43.4.4.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 4983,
                 "MD5": "0358f7188687f35d48a1f03d698cfa52",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/mclanguage/1.19.2-43.4.4/mclanguage-1.19.2-43.4.4.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/mclanguage/1.19.2-43.4.4/mclanguage-1.19.2-43.4.4.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 2715590,
                 "MD5": "926e52acce6bbf21b5bfa778a1e6fbb4",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/forge/1.19.2-43.4.4/forge-1.19.2-43.4.4-universal.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/forge/1.19.2-43.4.4/forge-1.19.2-43.4.4-universal.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 5419341,
                 "MD5": "9988c4852a4dd1877d5310de94357094",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/forge/1.19.2-43.4.4/forge-1.19.2-43.4.4-client.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/forge/1.19.2-43.4.4/forge-1.19.2-43.4.4-client.jar"
               },
               "subModules": []
             },
@@ -112,7 +112,7 @@
               "artifact": {
                 "size": 17332865,
                 "MD5": "70476cb0e2de11b97d913169c3b9d5a8",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar"
               },
               "subModules": []
             },
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 11637719,
                 "MD5": "7ae1ac1daf86584f93ae83dd916d3bdb",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-slim.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-slim.jar"
               },
               "subModules": []
             },
@@ -136,7 +136,7 @@
               "artifact": {
                 "size": 10007043,
                 "MD5": "3014cfce92de3aff55cc50908a510051",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar"
               },
               "subModules": []
             },
@@ -147,7 +147,7 @@
               "artifact": {
                 "size": 87315,
                 "MD5": "b49ceccef2c091769f134c47c108cb8b",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar"
               }
             },
             {
@@ -157,7 +157,7 @@
               "artifact": {
                 "size": 125428,
                 "MD5": "3957b18bf02a62edcb6726d074b90b08",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
               }
             },
             {
@@ -167,7 +167,7 @@
               "artifact": {
                 "size": 73426,
                 "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
               }
             },
             {
@@ -177,7 +177,7 @@
               "artifact": {
                 "size": 51934,
                 "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
               }
             },
             {
@@ -187,7 +187,7 @@
               "artifact": {
                 "size": 93784,
                 "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
               }
             },
             {
@@ -197,7 +197,7 @@
               "artifact": {
                 "size": 34776,
                 "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
               }
             },
             {
@@ -207,7 +207,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -217,7 +217,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -227,7 +227,7 @@
               "artifact": {
                 "size": 52624,
                 "MD5": "7c93693a70962a1c1893e3c058dca5cf",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar"
               }
             },
             {
@@ -237,7 +237,7 @@
               "artifact": {
                 "size": 32714,
                 "MD5": "8c04b8c26ac1d55c281bfeaa71731414",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/forgespi/6.0.0/forgespi-6.0.0.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/forgespi/6.0.0/forgespi-6.0.0.jar"
               }
             },
             {
@@ -247,7 +247,7 @@
               "artifact": {
                 "size": 24199,
                 "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
               }
             },
             {
@@ -257,7 +257,7 @@
               "artifact": {
                 "size": 130263,
                 "MD5": "3e171edcc29e762d2ecafffabb9e9341",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar"
               }
             },
             {
@@ -267,7 +267,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -277,7 +277,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -287,7 +287,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -297,7 +297,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -307,7 +307,7 @@
               "artifact": {
                 "size": 15425,
                 "MD5": "ee4596e1413cc1a5e080c971d6064753",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
             {
@@ -317,7 +317,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -327,7 +327,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -337,7 +337,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -347,7 +347,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -357,7 +357,7 @@
               "artifact": {
                 "size": 2167288,
                 "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
               }
             },
             {
@@ -367,7 +367,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "5e859d6320cb16055febaedacb8b9806",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/JarJarSelector/0.3.16/JarJarSelector-0.3.16.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/JarJarSelector/0.3.16/JarJarSelector-0.3.16.jar"
               }
             },
             {
@@ -377,7 +377,7 @@
               "artifact": {
                 "size": 15242,
                 "MD5": "332b118877d33c715f3ee67b75bffdd7",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/JarJarMetadata/0.3.16/JarJarMetadata-0.3.16.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/JarJarMetadata/0.3.16/JarJarMetadata-0.3.16.jar"
               }
             },
             {
@@ -387,7 +387,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -397,7 +397,7 @@
               "artifact": {
                 "size": 32052,
                 "MD5": "f4efd51f520cb4c98483c040bdc58aab",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar"
               }
             },
             {
@@ -407,7 +407,7 @@
               "artifact": {
                 "size": 261454,
                 "MD5": "a89c4038be697695104090909ac0a1fa",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/repo/lib/net/minecraftforge/fmlloader/1.19.2-43.4.4/fmlloader-1.19.2-43.4.4.jar"
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/repo/lib/net/minecraftforge/fmlloader/1.19.2-43.4.4/fmlloader-1.19.2-43.4.4.jar"
               }
             }
           ]
@@ -418,7 +418,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4887518,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/servers/reademinecraft-1.19.2/forgemods/required/armourersworkshop-forge-1.19.2-3.0.0-beta.23.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/forgemods/required/armourersworkshop-forge-1.19.2-3.0.0-beta.23.jar",
             "MD5": "960f35d7df61daa04711429cdc80507b"
           }
         },
@@ -428,7 +428,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3499284,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/servers/reademinecraft-1.19.2/forgemods/required/oculus-mc1.19.2-1.6.9.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/forgemods/required/oculus-mc1.19.2-1.6.9.jar",
             "MD5": "5c62ae78fcc5baba124c9ac7f950597e"
           }
         },
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1407451,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/servers/reademinecraft-1.19.2/forgemods/required/rubidium-mc1.19.2-0.6.2c.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/forgemods/required/rubidium-mc1.19.2-0.6.2c.jar",
             "MD5": "b9d54d5171598463ef4456083eeb3ce8"
           }
         },
@@ -448,7 +448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8170720,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/reademinecraft/servers/reademinecraft-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.5.25.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.5.25.jar",
             "MD5": "17e0e06f9db158dcf6b99b440f41196a"
           }
         }
