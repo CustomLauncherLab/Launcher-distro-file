@@ -266,16 +266,6 @@
           }
         },
         {
-          "id": "moe.plushie:armourers_workshop:1.12.2-0.50.1@jar",
-          "name": "Armourer's Workshop",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4632842,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/CARTA/servers/CARTA-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.50.1.jar",
-            "MD5": "7de8f79ffe08269680d5af154bcf2686"
-          }
-        },
-        {
           "id": "noppes.npcs:customnpcs:1.12@jar",
           "name": "CustomNPCs",
           "type": "ForgeMod",
@@ -293,6 +283,17 @@
             "size": 100009,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/CARTA/servers/CARTA-1.12.2/forgemods/required/rghud.jar",
             "MD5": "b9fc2287ffb338ac742c71a28036eb33"
+          }
+        },
+        {
+          "id": "Armourers-Workshop-1.12.2-0.50.1.jar",
+          "name": "Armourers-Workshop-1.12.2-0.50.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4632842,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/CARTA/servers/CARTA-1.12.2/files/mods/Armourers-Workshop-1.12.2-0.50.1.jar",
+            "MD5": "7de8f79ffe08269680d5af154bcf2686",
+            "path": "mods/Armourers-Workshop-1.12.2-0.50.1.jar"
           }
         },
         {
