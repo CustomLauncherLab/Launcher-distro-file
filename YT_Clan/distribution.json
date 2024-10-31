@@ -453,6 +453,19 @@
           }
         },
         {
+          "id": "dzwdz.chat_heads:chat_heads:0.13.4@jar",
+          "name": "Chat Heads",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 260957,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/YT_Clan/servers/YT_Clan-1.20.1/forgemods/optionalon/chat_heads-0.13.4-forge-1.20.jar",
+            "MD5": "0ddcd3b4a0e5ee3b780d0b522b3489cd"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.supermartijn642:connectedglass:1.1.12@jar",
           "name": "Connected Glass",
           "type": "ForgeMod",
