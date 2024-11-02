@@ -463,6 +463,17 @@
           }
         },
         {
+          "id": "optionsof.txt",
+          "name": "optionsof.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1417,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/optionsof.txt",
+            "MD5": "4acd0e6a04acf297dec6c1ff1f53f989",
+            "path": "optionsof.txt"
+          }
+        },
+        {
           "id": "optionsshaders.txt",
           "name": "optionsshaders.txt",
           "type": "File",
