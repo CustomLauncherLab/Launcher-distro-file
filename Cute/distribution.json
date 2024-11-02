@@ -478,9 +478,9 @@
           "name": "optionsshaders.txt",
           "type": "File",
           "artifact": {
-            "size": 379,
+            "size": 375,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/optionsshaders.txt",
-            "MD5": "57104521d3743a9dd8f8f0d2237ac522",
+            "MD5": "6750021c7c4b638997c5f4c7a816571e",
             "path": "optionsshaders.txt"
           }
         },
@@ -496,14 +496,2654 @@
           }
         },
         {
-          "id": "BSL_v8.2.05.zip",
-          "name": "BSL_v8.2.05.zip",
+          "id": "BSLOriginal_v8.3.zip",
+          "name": "BSLOriginal_v8.3.zip",
           "type": "File",
           "artifact": {
-            "size": 932061,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05.zip",
-            "MD5": "2f60ade0094397ee9e43ea415b7ea471",
-            "path": "shaderpacks/BSL_v8.2.05.zip"
+            "size": 1101937,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSLOriginal_v8.3.zip",
+            "MD5": "44896d98f77f67c3f719b55ca1aa0d07",
+            "path": "shaderpacks/BSLOriginal_v8.3.zip"
+          }
+        },
+        {
+          "id": "block.properties",
+          "name": "block.properties",
+          "type": "File",
+          "artifact": {
+            "size": 11321,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/block.properties",
+            "MD5": "453fff2568f478c57f0168188814e515",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/block.properties"
+          }
+        },
+        {
+          "id": "entity.properties",
+          "name": "entity.properties",
+          "type": "File",
+          "artifact": {
+            "size": 265,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/entity.properties",
+            "MD5": "f2182db0d2c60725fa59f35c62d29a81",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/entity.properties"
+          }
+        },
+        {
+          "id": "item.properties",
+          "name": "item.properties",
+          "type": "File",
+          "artifact": {
+            "size": 703,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/item.properties",
+            "MD5": "9a8fd98a2459a4eb3cc8ea839242fa1e",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/item.properties"
+          }
+        },
+        {
+          "id": "en_US.lang",
+          "name": "en_US.lang",
+          "type": "File",
+          "artifact": {
+            "size": 32396,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lang/en_US.lang",
+            "MD5": "563c78ca1a5f61b6dfd50a4aae334a75",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lang/en_US.lang"
+          }
+        },
+        {
+          "id": "fxaa.glsl",
+          "name": "fxaa.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 5945,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/antialiasing/fxaa.glsl",
+            "MD5": "23ca9aac466f3421b9af9169a084fe66",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/antialiasing/fxaa.glsl"
+          }
+        },
+        {
+          "id": "taa.glsl",
+          "name": "taa.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 4171,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/antialiasing/taa.glsl",
+            "MD5": "d69df64b8c9a9e45df31784347cb75b3",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/antialiasing/taa.glsl"
+          }
+        },
+        {
+          "id": "clouds.glsl",
+          "name": "clouds.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 12919,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/atmospherics/clouds.glsl",
+            "MD5": "280ccbad6311adfaa8356f47476539a9",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/atmospherics/clouds.glsl"
+          }
+        },
+        {
+          "id": "fog.glsl",
+          "name": "fog.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 4951,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/atmospherics/fog.glsl",
+            "MD5": "3b88535bade91e887cda76bbb48fabed",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/atmospherics/fog.glsl"
+          }
+        },
+        {
+          "id": "sky.glsl",
+          "name": "sky.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 2754,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/atmospherics/sky.glsl",
+            "MD5": "2389e469171b19e46bc9323c7ba99b9a",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/atmospherics/sky.glsl"
+          }
+        },
+        {
+          "id": "volumetricLight.glsl",
+          "name": "volumetricLight.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 4797,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/atmospherics/volumetricLight.glsl",
+            "MD5": "d0da49bfcdbdc55ed4ddb9b836ec51fc",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/atmospherics/volumetricLight.glsl"
+          }
+        },
+        {
+          "id": "waterFog.glsl",
+          "name": "waterFog.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 899,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/atmospherics/waterFog.glsl",
+            "MD5": "76fe760154b35788c38282034ad880c0",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/atmospherics/waterFog.glsl"
+          }
+        },
+        {
+          "id": "auroraColor.glsl",
+          "name": "auroraColor.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 286,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/color/auroraColor.glsl",
+            "MD5": "d5a0bad9a03b976aa1c1cdcabaf966e0",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/color/auroraColor.glsl"
+          }
+        },
+        {
+          "id": "blocklightColor.glsl",
+          "name": "blocklightColor.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 156,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/color/blocklightColor.glsl",
+            "MD5": "83a43bb1d05c7fa38ce50201d28ebeee",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/color/blocklightColor.glsl"
+          }
+        },
+        {
+          "id": "dimensionColor.glsl",
+          "name": "dimensionColor.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 306,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/color/dimensionColor.glsl",
+            "MD5": "aaa2088d0cb369c895611cf2833c1201",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/color/dimensionColor.glsl"
+          }
+        },
+        {
+          "id": "endColor.glsl",
+          "name": "endColor.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 111,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/color/endColor.glsl",
+            "MD5": "4b31c71ff203be58ba3a7ff1fcccfff2",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/color/endColor.glsl"
+          }
+        },
+        {
+          "id": "lightColor.glsl",
+          "name": "lightColor.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 3382,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/color/lightColor.glsl",
+            "MD5": "4d2e7b00de13bd5873f03605aef9dfcd",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/color/lightColor.glsl"
+          }
+        },
+        {
+          "id": "netherColor.glsl",
+          "name": "netherColor.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 1087,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/color/netherColor.glsl",
+            "MD5": "a04c937f2ae883db96ddf735b3dda641",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/color/netherColor.glsl"
+          }
+        },
+        {
+          "id": "skyColor.glsl",
+          "name": "skyColor.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 339,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/color/skyColor.glsl",
+            "MD5": "8b27162bdd2b8e2413370f6444501ec0",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/color/skyColor.glsl"
+          }
+        },
+        {
+          "id": "specularColor.glsl",
+          "name": "specularColor.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 1360,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/color/specularColor.glsl",
+            "MD5": "ac32a0417a09e16b6af01028c4778312",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/color/specularColor.glsl"
+          }
+        },
+        {
+          "id": "waterColor.glsl",
+          "name": "waterColor.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 227,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/color/waterColor.glsl",
+            "MD5": "536b80918e86a60f10ba4a2ab3725e42",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/color/waterColor.glsl"
+          }
+        },
+        {
+          "id": "ambientOcclusion.glsl",
+          "name": "ambientOcclusion.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 1328,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/lighting/ambientOcclusion.glsl",
+            "MD5": "79c0dabc9f5f1b4cfc80af98e1afb256",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/lighting/ambientOcclusion.glsl"
+          }
+        },
+        {
+          "id": "coloredBlocklight.glsl",
+          "name": "coloredBlocklight.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 1497,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/lighting/coloredBlocklight.glsl",
+            "MD5": "23ace927784f427951c58c22a2ae91df",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/lighting/coloredBlocklight.glsl"
+          }
+        },
+        {
+          "id": "forwardLighting.glsl",
+          "name": "forwardLighting.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 5637,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/lighting/forwardLighting.glsl",
+            "MD5": "ee492e55951b35156ea6f0b3a1b6ec39",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/lighting/forwardLighting.glsl"
+          }
+        },
+        {
+          "id": "shadows.glsl",
+          "name": "shadows.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 6671,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/lighting/shadows.glsl",
+            "MD5": "c4036a4d28c7f09114382d995e2077a0",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/lighting/shadows.glsl"
+          }
+        },
+        {
+          "id": "lensFlare.glsl",
+          "name": "lensFlare.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 4286,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/post/lensFlare.glsl",
+            "MD5": "a4ffc07be4b0c3bdf0f8453f5f2ece71",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/post/lensFlare.glsl"
+          }
+        },
+        {
+          "id": "outline.glsl",
+          "name": "outline.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 2457,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/post/outline.glsl",
+            "MD5": "6434f81816adc94ce376b73f10c1d45a",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/post/outline.glsl"
+          }
+        },
+        {
+          "id": "complexFresnel.glsl",
+          "name": "complexFresnel.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 1671,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/reflections/complexFresnel.glsl",
+            "MD5": "d42e3ebc8ba0772bca03cbbe5e068c6a",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/reflections/complexFresnel.glsl"
+          }
+        },
+        {
+          "id": "rainPuddles.glsl",
+          "name": "rainPuddles.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 2657,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/reflections/rainPuddles.glsl",
+            "MD5": "3fd78e20e7fe0cbaa990a28cc5507f89",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/reflections/rainPuddles.glsl"
+          }
+        },
+        {
+          "id": "raytrace.glsl",
+          "name": "raytrace.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 2222,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/reflections/raytrace.glsl",
+            "MD5": "05fc8e292c1f62b0997ba8d506339e23",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/reflections/raytrace.glsl"
+          }
+        },
+        {
+          "id": "roughReflections.glsl",
+          "name": "roughReflections.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 1890,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/reflections/roughReflections.glsl",
+            "MD5": "29cd77fdc51a676ed9877764bd76db39",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/reflections/roughReflections.glsl"
+          }
+        },
+        {
+          "id": "simpleReflections.glsl",
+          "name": "simpleReflections.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 745,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/reflections/simpleReflections.glsl",
+            "MD5": "5a2d920e7b38dfc8c665b5aa1607644d",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/reflections/simpleReflections.glsl"
+          }
+        },
+        {
+          "id": "settings.glsl",
+          "name": "settings.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 49620,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/settings.glsl",
+            "MD5": "c9ae307a50558c926720daf7b8c8738d",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/settings.glsl"
+          }
+        },
+        {
+          "id": "directionalLightmap.glsl",
+          "name": "directionalLightmap.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 861,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/surface/directionalLightmap.glsl",
+            "MD5": "12ee3017abb76fcba999016abdaa3c16",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/surface/directionalLightmap.glsl"
+          }
+        },
+        {
+          "id": "ggx.glsl",
+          "name": "ggx.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 4048,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/surface/ggx.glsl",
+            "MD5": "0fe21aa99d2b774ce88e31699114f62a",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/surface/ggx.glsl"
+          }
+        },
+        {
+          "id": "materialDeferred.glsl",
+          "name": "materialDeferred.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 628,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/surface/materialDeferred.glsl",
+            "MD5": "0870fe9d02fabd3b994e860aa43d80c3",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/surface/materialDeferred.glsl"
+          }
+        },
+        {
+          "id": "materialGbuffers.glsl",
+          "name": "materialGbuffers.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 2619,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/surface/materialGbuffers.glsl",
+            "MD5": "9ef3cb12a2707925b77f7e7ff2658726",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/surface/materialGbuffers.glsl"
+          }
+        },
+        {
+          "id": "parallax.glsl",
+          "name": "parallax.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 2801,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/surface/parallax.glsl",
+            "MD5": "f3e47e29ae079f1c623b1b4f60911b40",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/surface/parallax.glsl"
+          }
+        },
+        {
+          "id": "dither.glsl",
+          "name": "dither.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 471,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/util/dither.glsl",
+            "MD5": "d111ec8503ed462e7f67c68a94aca459",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/util/dither.glsl"
+          }
+        },
+        {
+          "id": "encode.glsl",
+          "name": "encode.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 389,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/util/encode.glsl",
+            "MD5": "8d5bbfcc41b0901e0dabcd81bcb18fd5",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/util/encode.glsl"
+          }
+        },
+        {
+          "id": "jitter.glsl",
+          "name": "jitter.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 741,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/util/jitter.glsl",
+            "MD5": "1aa06c671bf95e5d3dcb0cde379f748d",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/util/jitter.glsl"
+          }
+        },
+        {
+          "id": "outlineDepth.glsl",
+          "name": "outlineDepth.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 352,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/util/outlineDepth.glsl",
+            "MD5": "c2b9535f01a3ab98653e29de883aa420",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/util/outlineDepth.glsl"
+          }
+        },
+        {
+          "id": "outlineMask.glsl",
+          "name": "outlineMask.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 466,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/util/outlineMask.glsl",
+            "MD5": "383349d9ee6e767ddb8c1903eb5af13c",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/util/outlineMask.glsl"
+          }
+        },
+        {
+          "id": "outlineOffset.glsl",
+          "name": "outlineOffset.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 314,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/util/outlineOffset.glsl",
+            "MD5": "4ce6c299b34be79cfee97585c659c3e6",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/util/outlineOffset.glsl"
+          }
+        },
+        {
+          "id": "spaceConversion.glsl",
+          "name": "spaceConversion.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 678,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/util/spaceConversion.glsl",
+            "MD5": "d77b2ab805eed90f1b617d76a54fa0f3",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/util/spaceConversion.glsl"
+          }
+        },
+        {
+          "id": "waving.glsl",
+          "name": "waving.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 4213,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/vertex/waving.glsl",
+            "MD5": "46ee92d5b47107867efa2f92727b14db",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/vertex/waving.glsl"
+          }
+        },
+        {
+          "id": "worldCurvature.glsl",
+          "name": "worldCurvature.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 85,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/lib/vertex/worldCurvature.glsl",
+            "MD5": "8cf4c85d64a5a796a13ccb158ba812a1",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/lib/vertex/worldCurvature.glsl"
+          }
+        },
+        {
+          "id": "composite.glsl",
+          "name": "composite.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 9508,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/composite.glsl",
+            "MD5": "89067277ddd80730c15be9843f2cc4ca",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/composite.glsl"
+          }
+        },
+        {
+          "id": "composite1.glsl",
+          "name": "composite1.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 2577,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/composite1.glsl",
+            "MD5": "a2ce9280df49551f9a7a5fd3f5daa77c",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/composite1.glsl"
+          }
+        },
+        {
+          "id": "composite2.glsl",
+          "name": "composite2.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 2751,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/composite2.glsl",
+            "MD5": "83ce53572432bfcc60a333c26670643e",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/composite2.glsl"
+          }
+        },
+        {
+          "id": "composite3.glsl",
+          "name": "composite3.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 3597,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/composite3.glsl",
+            "MD5": "6e64e61e09dc2d94dfad9831f8962417",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/composite3.glsl"
+          }
+        },
+        {
+          "id": "composite4.glsl",
+          "name": "composite4.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 2533,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/composite4.glsl",
+            "MD5": "f417380479a1cb7a2e87aa3705dc6395",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/composite4.glsl"
+          }
+        },
+        {
+          "id": "composite5.glsl",
+          "name": "composite5.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 10452,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/composite5.glsl",
+            "MD5": "6cb52c66fec26561fe1f467ccd6f1245",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/composite5.glsl"
+          }
+        },
+        {
+          "id": "composite6.glsl",
+          "name": "composite6.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 1151,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/composite6.glsl",
+            "MD5": "c427992d77d5ce04f2fcbfec889cad21",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/composite6.glsl"
+          }
+        },
+        {
+          "id": "composite7.glsl",
+          "name": "composite7.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 1783,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/composite7.glsl",
+            "MD5": "fdbd125d0e6d455e4f794183c910a3d3",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/composite7.glsl"
+          }
+        },
+        {
+          "id": "deferred.glsl",
+          "name": "deferred.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/deferred.glsl",
+            "MD5": "2ca0f9b96e4021995016a7a0ed608c58",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/deferred.glsl"
+          }
+        },
+        {
+          "id": "deferred1.glsl",
+          "name": "deferred1.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 11133,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/deferred1.glsl",
+            "MD5": "da93394beb4101676294d7d1680655ed",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/deferred1.glsl"
+          }
+        },
+        {
+          "id": "final.glsl",
+          "name": "final.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 3070,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/final.glsl",
+            "MD5": "829fd9ad9a6310b2d5b08cdaf14f5fae",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/final.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_armor_glint.glsl",
+          "name": "gbuffers_armor_glint.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 1813,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_armor_glint.glsl",
+            "MD5": "9ffe7211cdfd95db03040969def11d8a",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_armor_glint.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_basic.glsl",
+          "name": "gbuffers_basic.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 6588,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_basic.glsl",
+            "MD5": "fdc710db7128d1dd87b5add25096632b",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_basic.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_beaconbeam.glsl",
+          "name": "gbuffers_beaconbeam.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 2232,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_beaconbeam.glsl",
+            "MD5": "4ffde7b10ac808a4bba3faff389a9531",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_beaconbeam.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_block.glsl",
+          "name": "gbuffers_block.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 13459,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_block.glsl",
+            "MD5": "56ecef5c71a3922e1dbafd76387beb98",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_block.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_clouds.glsl",
+          "name": "gbuffers_clouds.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 3720,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_clouds.glsl",
+            "MD5": "9317ec07df080d97528dabe7308512a2",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_clouds.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_damagedblock.glsl",
+          "name": "gbuffers_damagedblock.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 1563,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_damagedblock.glsl",
+            "MD5": "55d63e8cb86b16b3ab667c7be9d9435d",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_damagedblock.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_entities.glsl",
+          "name": "gbuffers_entities.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 12776,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_entities.glsl",
+            "MD5": "0c838d55875dced4cc9ce70ca7860acb",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_entities.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_entities_glowing.glsl",
+          "name": "gbuffers_entities_glowing.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 12566,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_entities_glowing.glsl",
+            "MD5": "424775870525f3bc460837ddc5d97e18",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_entities_glowing.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_hand.glsl",
+          "name": "gbuffers_hand.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 13228,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_hand.glsl",
+            "MD5": "3ffaa3ae1a5c3e9b8bfaca94360d045f",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_hand.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_skybasic.glsl",
+          "name": "gbuffers_skybasic.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 5074,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_skybasic.glsl",
+            "MD5": "f7fecf4b1f56ef396cef2d1ef0a49740",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_skybasic.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_skytextured.glsl",
+          "name": "gbuffers_skytextured.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 3269,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_skytextured.glsl",
+            "MD5": "6a89892ca66f815ef63ec8eda6e99747",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_skytextured.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_spidereyes.glsl",
+          "name": "gbuffers_spidereyes.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 1922,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_spidereyes.glsl",
+            "MD5": "e6e34bb0f7552141a9ba83d93994e85d",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_spidereyes.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_terrain.glsl",
+          "name": "gbuffers_terrain.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 15638,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_terrain.glsl",
+            "MD5": "b1ad3ec127bc6cf4540413e4b551f3c3",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_terrain.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_textured.glsl",
+          "name": "gbuffers_textured.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 8467,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_textured.glsl",
+            "MD5": "8a24d8b08864d92d4693b021ed356489",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_textured.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_water.glsl",
+          "name": "gbuffers_water.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 23206,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_water.glsl",
+            "MD5": "8aae3d31d331a3c95e92e4c850a175d3",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_water.glsl"
+          }
+        },
+        {
+          "id": "gbuffers_weather.glsl",
+          "name": "gbuffers_weather.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 3268,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_weather.glsl",
+            "MD5": "c8ee427586433d5b74dcd5ce60015038",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/gbuffers_weather.glsl"
+          }
+        },
+        {
+          "id": "shadow.glsl",
+          "name": "shadow.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 5999,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/shadow.glsl",
+            "MD5": "47463933cfa43fdaa555b79816709ae5",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/shadow.glsl"
+          }
+        },
+        {
+          "id": "template.glsl",
+          "name": "template.glsl",
+          "type": "File",
+          "artifact": {
+            "size": 730,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/program/template.glsl",
+            "MD5": "791ed48729d809471603e3eac72f52ac",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/program/template.glsl"
+          }
+        },
+        {
+          "id": "shaders.properties",
+          "name": "shaders.properties",
+          "type": "File",
+          "artifact": {
+            "size": 14979,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/shaders.properties",
+            "MD5": "6f990fda00abf30c583aa7672fb11817",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/shaders.properties"
+          }
+        },
+        {
+          "id": "dirt.png",
+          "name": "dirt.png",
+          "type": "File",
+          "artifact": {
+            "size": 83276,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/tex/dirt.png",
+            "MD5": "ada797cfd95c480c3bd82324794edd8f",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/tex/dirt.png"
+          }
+        },
+        {
+          "id": "dirt.png.mcmeta",
+          "name": "dirt.png.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 66,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/tex/dirt.png.mcmeta",
+            "MD5": "6bbc560c0a81942d96b5230f0eae4885",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/tex/dirt.png.mcmeta"
+          }
+        },
+        {
+          "id": "noise.png",
+          "name": "noise.png",
+          "type": "File",
+          "artifact": {
+            "size": 678019,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/tex/noise.png",
+            "MD5": "7585bb1090ea3111868c4f381f6ada0f",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/tex/noise.png"
+          }
+        },
+        {
+          "id": "noise.png.mcmeta",
+          "name": "noise.png.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 67,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/tex/noise.png.mcmeta",
+            "MD5": "c50a6efc98f3bca622212ab1a7f5aa76",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/tex/noise.png.mcmeta"
+          }
+        },
+        {
+          "id": "composite.fsh",
+          "name": "composite.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 159,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/composite.fsh",
+            "MD5": "2f128414ddf0193ed8a57c9cf5eea7ba",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/composite.fsh"
+          }
+        },
+        {
+          "id": "composite.vsh",
+          "name": "composite.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 208,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/composite.vsh",
+            "MD5": "f0bfaac07f39d379d8a72b66471c0254",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/composite.vsh"
+          }
+        },
+        {
+          "id": "composite2.fsh",
+          "name": "composite2.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 208,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/composite2.fsh",
+            "MD5": "5879f921ff1dff53dec9cd8168f126e8",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/composite2.fsh"
+          }
+        },
+        {
+          "id": "composite2.vsh",
+          "name": "composite2.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 160,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/composite2.vsh",
+            "MD5": "5bb2695cf8bcd41822bd8911cb9aa673",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/composite2.vsh"
+          }
+        },
+        {
+          "id": "composite3.fsh",
+          "name": "composite3.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 209,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/composite3.fsh",
+            "MD5": "55c9cc2d4a6ca161b4fab37af1e7720a",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/composite3.fsh"
+          }
+        },
+        {
+          "id": "composite3.vsh",
+          "name": "composite3.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 160,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/composite3.vsh",
+            "MD5": "e45726c8d3337e1eb58dbc3e7bf450e2",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/composite3.vsh"
+          }
+        },
+        {
+          "id": "composite4.fsh",
+          "name": "composite4.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 160,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/composite4.fsh",
+            "MD5": "ecb10c37de60ffc63af7ce95bb1f01c8",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/composite4.fsh"
+          }
+        },
+        {
+          "id": "composite4.vsh",
+          "name": "composite4.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 160,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/composite4.vsh",
+            "MD5": "cab369649e4c75d6bef73547783d4a3f",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/composite4.vsh"
+          }
+        },
+        {
+          "id": "composite5.fsh",
+          "name": "composite5.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 209,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/composite5.fsh",
+            "MD5": "42c8d07e8dc4f0f75aa2f8d9f7d8af9c",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/composite5.fsh"
+          }
+        },
+        {
+          "id": "composite5.vsh",
+          "name": "composite5.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 160,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/composite5.vsh",
+            "MD5": "93e350668b66106774e3df86a14ef506",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/composite5.vsh"
+          }
+        },
+        {
+          "id": "composite6.fsh",
+          "name": "composite6.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 209,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/composite6.fsh",
+            "MD5": "8a7c2256c6c55282cb9c890320a24152",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/composite6.fsh"
+          }
+        },
+        {
+          "id": "composite6.vsh",
+          "name": "composite6.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 160,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/composite6.vsh",
+            "MD5": "3c5477c3771ecef9dd0cf50be6a23eea",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/composite6.vsh"
+          }
+        },
+        {
+          "id": "composite7.fsh",
+          "name": "composite7.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 209,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/composite7.fsh",
+            "MD5": "9c95d3318dc7d7f81904c9b947a3e4b7",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/composite7.fsh"
+          }
+        },
+        {
+          "id": "composite7.vsh",
+          "name": "composite7.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 160,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/composite7.vsh",
+            "MD5": "95847de038fc1b2cd80a90b29fb7e836",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/composite7.vsh"
+          }
+        },
+        {
+          "id": "deferred.fsh",
+          "name": "deferred.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 207,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/deferred.fsh",
+            "MD5": "1be09e1e56e54431e5cf8d723705b13e",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/deferred.fsh"
+          }
+        },
+        {
+          "id": "deferred.vsh",
+          "name": "deferred.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 158,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/deferred.vsh",
+            "MD5": "d87be399affbac6fb33a1a4668c2a3b4",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/deferred.vsh"
+          }
+        },
+        {
+          "id": "deferred1.fsh",
+          "name": "deferred1.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 208,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/deferred1.fsh",
+            "MD5": "b3d146e0a99375e7118b77fb34b8c7ab",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/deferred1.fsh"
+          }
+        },
+        {
+          "id": "deferred1.vsh",
+          "name": "deferred1.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 159,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/deferred1.vsh",
+            "MD5": "386b8339a49b88a2ca19bfdbdffe9da9",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/deferred1.vsh"
+          }
+        },
+        {
+          "id": "final.fsh",
+          "name": "final.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 204,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/final.fsh",
+            "MD5": "46c08ebcebb009c2a2ab223e576fbfdf",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/final.fsh"
+          }
+        },
+        {
+          "id": "final.vsh",
+          "name": "final.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 155,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/final.vsh",
+            "MD5": "9ffbdeb3642f0a31ba3c76e855d48cd2",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/final.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_armor_glint.fsh",
+          "name": "gbuffers_armor_glint.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 170,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_armor_glint.fsh",
+            "MD5": "1a325d382c3d6ef599d0a3e5b2a44c16",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_armor_glint.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_armor_glint.vsh",
+          "name": "gbuffers_armor_glint.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 170,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_armor_glint.vsh",
+            "MD5": "e514e99aa830bf0bacf9b58683a2a36b",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_armor_glint.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_basic.fsh",
+          "name": "gbuffers_basic.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_basic.fsh",
+            "MD5": "55ead06f635a8bf943ba278e3500c806",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_basic.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_basic.vsh",
+          "name": "gbuffers_basic.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_basic.vsh",
+            "MD5": "8192b9449f256b17f24213b7dbc33524",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_basic.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_beaconbeam.fsh",
+          "name": "gbuffers_beaconbeam.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 169,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_beaconbeam.fsh",
+            "MD5": "771fd18d49b51110dfefc8b980b3647d",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_beaconbeam.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_beaconbeam.vsh",
+          "name": "gbuffers_beaconbeam.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 169,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_beaconbeam.vsh",
+            "MD5": "66b3cb51fc1cf27491cd92168945976e",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_beaconbeam.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_block.fsh",
+          "name": "gbuffers_block.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 213,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_block.fsh",
+            "MD5": "a4ef8f87222c06060993e42555a44e3b",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_block.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_block.vsh",
+          "name": "gbuffers_block.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_block.vsh",
+            "MD5": "3e6f5a7f383f601ccf5fd53936967c77",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_block.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_clouds.fsh",
+          "name": "gbuffers_clouds.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 165,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_clouds.fsh",
+            "MD5": "161f13a3a3f676aa1993dc299a8fdcb3",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_clouds.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_clouds.vsh",
+          "name": "gbuffers_clouds.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 165,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_clouds.vsh",
+            "MD5": "93e96097d8dd53e16e45bad1946a3829",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_clouds.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_damagedblock.fsh",
+          "name": "gbuffers_damagedblock.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 171,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_damagedblock.fsh",
+            "MD5": "b66221049f5b3e43a7ce35cb36a84c47",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_damagedblock.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_damagedblock.vsh",
+          "name": "gbuffers_damagedblock.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 171,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_damagedblock.vsh",
+            "MD5": "bda3ebce01e82b016b8676be31a2e07b",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_damagedblock.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_entities.fsh",
+          "name": "gbuffers_entities.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 216,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_entities.fsh",
+            "MD5": "d0248257d92b108a885e58e7cbdc88da",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_entities.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_entities.vsh",
+          "name": "gbuffers_entities.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_entities.vsh",
+            "MD5": "68ef198e205eed9bfe81fa1d6d0c397e",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_entities.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_entities_glowing.fsh",
+          "name": "gbuffers_entities_glowing.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 224,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_entities_glowing.fsh",
+            "MD5": "d9c76930ed75c06421d385e5210577a9",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_entities_glowing.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_entities_glowing.vsh",
+          "name": "gbuffers_entities_glowing.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 175,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_entities_glowing.vsh",
+            "MD5": "9b148e4dd2a945811f591a03c33bfc49",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_entities_glowing.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_hand.fsh",
+          "name": "gbuffers_hand.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 212,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_hand.fsh",
+            "MD5": "56c01d259c9d428e841f321b1242ba6c",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_hand.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_hand.vsh",
+          "name": "gbuffers_hand.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_hand.vsh",
+            "MD5": "9f65bc114ec7682f97a76bb19b85ffc5",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_hand.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_spidereyes.fsh",
+          "name": "gbuffers_spidereyes.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 169,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_spidereyes.fsh",
+            "MD5": "1197a76cec466ab241476b524a8f9224",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_spidereyes.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_spidereyes.vsh",
+          "name": "gbuffers_spidereyes.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 169,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_spidereyes.vsh",
+            "MD5": "a53dac92354ed668ad1c7e5bd78eaaae",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_spidereyes.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_terrain.fsh",
+          "name": "gbuffers_terrain.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 215,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_terrain.fsh",
+            "MD5": "fb87fc0bc3360224e01b11fc39543c5c",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_terrain.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_terrain.vsh",
+          "name": "gbuffers_terrain.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 166,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_terrain.vsh",
+            "MD5": "c574c82219e65df406068fd831c46db9",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_terrain.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_textured.fsh",
+          "name": "gbuffers_textured.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_textured.fsh",
+            "MD5": "c37755bcf04246fd5133785823c90716",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_textured.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_textured.vsh",
+          "name": "gbuffers_textured.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_textured.vsh",
+            "MD5": "45229cbfd2bd73291994f7da1313c7f1",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_textured.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_water.fsh",
+          "name": "gbuffers_water.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 213,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_water.fsh",
+            "MD5": "a99340aa17134f96713965585a4530bf",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_water.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_water.vsh",
+          "name": "gbuffers_water.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_water.vsh",
+            "MD5": "f10ed636228e5f20907056be3becba82",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_water.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_weather.fsh",
+          "name": "gbuffers_weather.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 166,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_weather.fsh",
+            "MD5": "8d88eca3409cb3fb2c54e595bc82ee50",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_weather.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_weather.vsh",
+          "name": "gbuffers_weather.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 166,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_weather.vsh",
+            "MD5": "7e1399d5a5074987d760fc210ae29ebb",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world-1/gbuffers_weather.vsh"
+          }
+        },
+        {
+          "id": "composite.fsh",
+          "name": "composite.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 211,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite.fsh",
+            "MD5": "c8e5deafab6a2f1ecb0a7045e9ad6392",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite.fsh"
+          }
+        },
+        {
+          "id": "composite.vsh",
+          "name": "composite.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 162,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite.vsh",
+            "MD5": "a1aad57f2457adb8ea3740de50dc8174",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite.vsh"
+          }
+        },
+        {
+          "id": "composite1.fsh",
+          "name": "composite1.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 212,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite1.fsh",
+            "MD5": "80fdea5be74538d55d5869b49f38978e",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite1.fsh"
+          }
+        },
+        {
+          "id": "composite1.vsh",
+          "name": "composite1.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite1.vsh",
+            "MD5": "18829ef3db8c773d0c1edd951f380b3a",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite1.vsh"
+          }
+        },
+        {
+          "id": "composite2.fsh",
+          "name": "composite2.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 212,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite2.fsh",
+            "MD5": "572a572b1b79045af64b5e91ecfe9402",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite2.fsh"
+          }
+        },
+        {
+          "id": "composite2.vsh",
+          "name": "composite2.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite2.vsh",
+            "MD5": "62f0257f9df9f38e899616b467632db5",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite2.vsh"
+          }
+        },
+        {
+          "id": "composite3.fsh",
+          "name": "composite3.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 212,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite3.fsh",
+            "MD5": "46095c32bd02840e114aa76ec9d08391",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite3.fsh"
+          }
+        },
+        {
+          "id": "composite3.vsh",
+          "name": "composite3.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite3.vsh",
+            "MD5": "11eaa1232e507adc0095d7d6c838314b",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite3.vsh"
+          }
+        },
+        {
+          "id": "composite4.fsh",
+          "name": "composite4.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite4.fsh",
+            "MD5": "fe8fe07b3d1cb67af540c69e9618d26f",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite4.fsh"
+          }
+        },
+        {
+          "id": "composite4.vsh",
+          "name": "composite4.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite4.vsh",
+            "MD5": "0f0fbc191e65c3c3a44e5c146cd7a362",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite4.vsh"
+          }
+        },
+        {
+          "id": "composite5.fsh",
+          "name": "composite5.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 212,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite5.fsh",
+            "MD5": "d8ec38e5883eaa7f86d853083c5f81ed",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite5.fsh"
+          }
+        },
+        {
+          "id": "composite5.vsh",
+          "name": "composite5.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite5.vsh",
+            "MD5": "0d91a976bd36d95347e6317411aae180",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite5.vsh"
+          }
+        },
+        {
+          "id": "composite6.fsh",
+          "name": "composite6.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 212,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite6.fsh",
+            "MD5": "f8ee0bc876ca1e37026a386c3df376d3",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite6.fsh"
+          }
+        },
+        {
+          "id": "composite6.vsh",
+          "name": "composite6.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite6.vsh",
+            "MD5": "6cabec17806ba2668fd80902388074c2",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite6.vsh"
+          }
+        },
+        {
+          "id": "composite7.fsh",
+          "name": "composite7.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 212,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite7.fsh",
+            "MD5": "0d2b7b31467e43298d907032fe0bba38",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite7.fsh"
+          }
+        },
+        {
+          "id": "composite7.vsh",
+          "name": "composite7.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/composite7.vsh",
+            "MD5": "f72e71c454497515ab4f879479248b00",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/composite7.vsh"
+          }
+        },
+        {
+          "id": "deferred.fsh",
+          "name": "deferred.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 210,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/deferred.fsh",
+            "MD5": "61dfb2bdb2ee3567057118affd20a017",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/deferred.fsh"
+          }
+        },
+        {
+          "id": "deferred.vsh",
+          "name": "deferred.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/deferred.vsh",
+            "MD5": "8ac45bad072fa4bab39c84eb0996b213",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/deferred.vsh"
+          }
+        },
+        {
+          "id": "deferred1.fsh",
+          "name": "deferred1.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 211,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/deferred1.fsh",
+            "MD5": "3da87f12a6ecc1e62723233bc1742c4d",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/deferred1.fsh"
+          }
+        },
+        {
+          "id": "deferred1.vsh",
+          "name": "deferred1.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 162,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/deferred1.vsh",
+            "MD5": "f5f38eb0abb4c37c388ba5db7f431b20",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/deferred1.vsh"
+          }
+        },
+        {
+          "id": "final.fsh",
+          "name": "final.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 207,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/final.fsh",
+            "MD5": "401546baf6537d03f9aa09de9c66d1a0",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/final.fsh"
+          }
+        },
+        {
+          "id": "final.vsh",
+          "name": "final.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 158,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/final.vsh",
+            "MD5": "f4ddc2ec1e2ddf5f475d35309f96c57e",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/final.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_armor_glint.fsh",
+          "name": "gbuffers_armor_glint.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 173,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_armor_glint.fsh",
+            "MD5": "65677b1feb15e00414a82fdc8f6b16e0",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_armor_glint.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_armor_glint.vsh",
+          "name": "gbuffers_armor_glint.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 173,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_armor_glint.vsh",
+            "MD5": "81ac46cedcee561c596e4280f9c673c9",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_armor_glint.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_basic.fsh",
+          "name": "gbuffers_basic.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_basic.fsh",
+            "MD5": "01bfe751895ed27a7e05ca6dae659913",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_basic.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_basic.vsh",
+          "name": "gbuffers_basic.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_basic.vsh",
+            "MD5": "60308eeb8ee5a6bd3af24a6edf00d5dc",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_basic.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_beaconbeam.fsh",
+          "name": "gbuffers_beaconbeam.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 172,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_beaconbeam.fsh",
+            "MD5": "dfbca17425c6b9e62147b0ad8bb73aa4",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_beaconbeam.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_beaconbeam.vsh",
+          "name": "gbuffers_beaconbeam.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 172,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_beaconbeam.vsh",
+            "MD5": "1def195cafaa1a6ed7dec3d831cc8ad5",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_beaconbeam.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_block.fsh",
+          "name": "gbuffers_block.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 216,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_block.fsh",
+            "MD5": "13a870ee2012fb4a739cd48d03d9fcf7",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_block.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_block.vsh",
+          "name": "gbuffers_block.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_block.vsh",
+            "MD5": "a2edaa5ab0038cbe0d1cda15e2bd2290",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_block.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_clouds.fsh",
+          "name": "gbuffers_clouds.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 168,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_clouds.fsh",
+            "MD5": "aeb157e397fa5512f98fc51d465615d3",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_clouds.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_clouds.vsh",
+          "name": "gbuffers_clouds.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 168,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_clouds.vsh",
+            "MD5": "1db723cb9f405eb419877f2e392a6553",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_clouds.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_damagedblock.fsh",
+          "name": "gbuffers_damagedblock.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 174,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_damagedblock.fsh",
+            "MD5": "45ed5fde0e36fd997353676c48d9a332",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_damagedblock.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_damagedblock.vsh",
+          "name": "gbuffers_damagedblock.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 174,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_damagedblock.vsh",
+            "MD5": "3a86206c17161e49bd7de5ebc5437b6e",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_damagedblock.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_entities.fsh",
+          "name": "gbuffers_entities.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 219,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_entities.fsh",
+            "MD5": "20c792e8186ffa8bad4db14d24ffd0ba",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_entities.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_entities.vsh",
+          "name": "gbuffers_entities.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 170,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_entities.vsh",
+            "MD5": "7704d6d596b2a5f1b30f8dc783b0803d",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_entities.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_entities_glowing.fsh",
+          "name": "gbuffers_entities_glowing.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 227,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_entities_glowing.fsh",
+            "MD5": "1089e8a6806bc78326f5d82f6f96c557",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_entities_glowing.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_entities_glowing.vsh",
+          "name": "gbuffers_entities_glowing.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 178,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_entities_glowing.vsh",
+            "MD5": "4fb445a65aee3d0fb21c40e347830273",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_entities_glowing.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_hand.fsh",
+          "name": "gbuffers_hand.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 215,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_hand.fsh",
+            "MD5": "213e9dc526fadc0fab48fe38b90fe2ec",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_hand.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_hand.vsh",
+          "name": "gbuffers_hand.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 166,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_hand.vsh",
+            "MD5": "d622f514ed591e225128decc8d1861a4",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_hand.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_skybasic.fsh",
+          "name": "gbuffers_skybasic.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 170,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_skybasic.fsh",
+            "MD5": "0a28b4115865ba48465dd2d24b0ffd8f",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_skybasic.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_skybasic.vsh",
+          "name": "gbuffers_skybasic.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 170,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_skybasic.vsh",
+            "MD5": "f8fcb907355a8bb5607c96826700a5f6",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_skybasic.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_skytextured.fsh",
+          "name": "gbuffers_skytextured.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 173,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_skytextured.fsh",
+            "MD5": "af9f2c061d98feee427d4cb1d044dd66",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_skytextured.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_skytextured.vsh",
+          "name": "gbuffers_skytextured.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 173,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_skytextured.vsh",
+            "MD5": "49f44e36f21b157d47d1d865a816ee41",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_skytextured.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_spidereyes.fsh",
+          "name": "gbuffers_spidereyes.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 172,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_spidereyes.fsh",
+            "MD5": "2ba3443aaeb24abe19fc04366a858a35",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_spidereyes.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_spidereyes.vsh",
+          "name": "gbuffers_spidereyes.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 172,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_spidereyes.vsh",
+            "MD5": "69498717941fad1b40c7daad1f6ad88a",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_spidereyes.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_terrain.fsh",
+          "name": "gbuffers_terrain.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 218,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_terrain.fsh",
+            "MD5": "6e5f835389d317fdd2940c8cc1ccea2e",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_terrain.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_terrain.vsh",
+          "name": "gbuffers_terrain.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 169,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_terrain.vsh",
+            "MD5": "636eab5c83eeafafc14273b0340faf01",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_terrain.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_textured.fsh",
+          "name": "gbuffers_textured.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 170,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_textured.fsh",
+            "MD5": "c623abd9e4845ec80a89f9d193c689df",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_textured.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_textured.vsh",
+          "name": "gbuffers_textured.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 170,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_textured.vsh",
+            "MD5": "6e88e0d796180727fcbf1aba6fe2749c",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_textured.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_water.fsh",
+          "name": "gbuffers_water.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 216,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_water.fsh",
+            "MD5": "a731c6e9817f9cef0a77055594d6860f",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_water.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_water.vsh",
+          "name": "gbuffers_water.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_water.vsh",
+            "MD5": "04604fa05a48e3eb20233a0d3674653e",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_water.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_weather.fsh",
+          "name": "gbuffers_weather.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 169,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_weather.fsh",
+            "MD5": "c730cf6ce9b44fc401a5d6e5f5c7bab5",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_weather.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_weather.vsh",
+          "name": "gbuffers_weather.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 169,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_weather.vsh",
+            "MD5": "84446caef76c416950a5e278f4561946",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/gbuffers_weather.vsh"
+          }
+        },
+        {
+          "id": "shadow.fsh",
+          "name": "shadow.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 159,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/shadow.fsh",
+            "MD5": "fce95610a7518411fcd0b8cb3ae211aa",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/shadow.fsh"
+          }
+        },
+        {
+          "id": "shadow.vsh",
+          "name": "shadow.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 159,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world0/shadow.vsh",
+            "MD5": "33e403b242703ee769fcf7154ebb18e8",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world0/shadow.vsh"
+          }
+        },
+        {
+          "id": "composite.fsh",
+          "name": "composite.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 205,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite.fsh",
+            "MD5": "d10aac252b95df3c5148c0de034860ea",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite.fsh"
+          }
+        },
+        {
+          "id": "composite.vsh",
+          "name": "composite.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 156,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite.vsh",
+            "MD5": "f6e18806a5f17b54a879a54f66b0ada8",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite.vsh"
+          }
+        },
+        {
+          "id": "composite1.fsh",
+          "name": "composite1.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 206,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite1.fsh",
+            "MD5": "c54a3c4b1b5629a14af6cf687d5925d2",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite1.fsh"
+          }
+        },
+        {
+          "id": "composite1.vsh",
+          "name": "composite1.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite1.vsh",
+            "MD5": "081b2ec073a8c746ca7a5e238188b607",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite1.vsh"
+          }
+        },
+        {
+          "id": "composite2.fsh",
+          "name": "composite2.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 206,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite2.fsh",
+            "MD5": "fb535bb3d5fbba3ae113f151bf83bdea",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite2.fsh"
+          }
+        },
+        {
+          "id": "composite2.vsh",
+          "name": "composite2.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite2.vsh",
+            "MD5": "929278a82154dcacac9c43caab3795e0",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite2.vsh"
+          }
+        },
+        {
+          "id": "composite3.fsh",
+          "name": "composite3.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 206,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite3.fsh",
+            "MD5": "1aa33186bb9d12c9d3f841cf53e20a8e",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite3.fsh"
+          }
+        },
+        {
+          "id": "composite3.vsh",
+          "name": "composite3.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite3.vsh",
+            "MD5": "a18cc379f324f37c02bbf2fd46d8b02a",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite3.vsh"
+          }
+        },
+        {
+          "id": "composite4.fsh",
+          "name": "composite4.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite4.fsh",
+            "MD5": "929bda257710773e7e70329123486826",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite4.fsh"
+          }
+        },
+        {
+          "id": "composite4.vsh",
+          "name": "composite4.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite4.vsh",
+            "MD5": "1a1c9e45e8de402fc246ff0aa915126c",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite4.vsh"
+          }
+        },
+        {
+          "id": "composite5.fsh",
+          "name": "composite5.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 206,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite5.fsh",
+            "MD5": "966dc812f60913801b46862a5c790a3d",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite5.fsh"
+          }
+        },
+        {
+          "id": "composite5.vsh",
+          "name": "composite5.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite5.vsh",
+            "MD5": "d8adcb794efec65960581ec1e4969eff",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite5.vsh"
+          }
+        },
+        {
+          "id": "composite6.fsh",
+          "name": "composite6.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 206,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite6.fsh",
+            "MD5": "f7c558d2f480624cfb155747eac70ed2",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite6.fsh"
+          }
+        },
+        {
+          "id": "composite6.vsh",
+          "name": "composite6.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite6.vsh",
+            "MD5": "09419a0bd4091d05c33e8a1614da1bf9",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite6.vsh"
+          }
+        },
+        {
+          "id": "composite7.fsh",
+          "name": "composite7.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 206,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite7.fsh",
+            "MD5": "1cd9f3d396219d8ea143301c0ca62275",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite7.fsh"
+          }
+        },
+        {
+          "id": "composite7.vsh",
+          "name": "composite7.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/composite7.vsh",
+            "MD5": "084b4361ca54bcaeea07ac5aa6a3dd3d",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/composite7.vsh"
+          }
+        },
+        {
+          "id": "deferred.fsh",
+          "name": "deferred.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 203,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/deferred.fsh",
+            "MD5": "6f85d0d85fed1c3bd3256e5cf45223fb",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/deferred.fsh"
+          }
+        },
+        {
+          "id": "deferred.vsh",
+          "name": "deferred.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 155,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/deferred.vsh",
+            "MD5": "71ba416f9901cd06ea635b754f9174a2",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/deferred.vsh"
+          }
+        },
+        {
+          "id": "deferred1.fsh",
+          "name": "deferred1.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 205,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/deferred1.fsh",
+            "MD5": "662b1707226c313183809fd3362786bd",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/deferred1.fsh"
+          }
+        },
+        {
+          "id": "deferred1.vsh",
+          "name": "deferred1.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 156,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/deferred1.vsh",
+            "MD5": "07213e0a69998951f659d33f499f4d17",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/deferred1.vsh"
+          }
+        },
+        {
+          "id": "final.fsh",
+          "name": "final.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 201,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/final.fsh",
+            "MD5": "02d5fa59ffb5f9ffc8c45946b0c0c66e",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/final.fsh"
+          }
+        },
+        {
+          "id": "final.vsh",
+          "name": "final.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 152,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/final.vsh",
+            "MD5": "00d788680e689d215b7cc53a8c26e660",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/final.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_armor_glint.fsh",
+          "name": "gbuffers_armor_glint.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_armor_glint.fsh",
+            "MD5": "91c07c36f535ced6a3131cc14a562768",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_armor_glint.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_armor_glint.vsh",
+          "name": "gbuffers_armor_glint.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_armor_glint.vsh",
+            "MD5": "e1fdf65c2cf6b0181338b8bd3b2e6b63",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_armor_glint.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_basic.fsh",
+          "name": "gbuffers_basic.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_basic.fsh",
+            "MD5": "cffc1a72a62c59d92479eaffc0571c70",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_basic.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_basic.vsh",
+          "name": "gbuffers_basic.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_basic.vsh",
+            "MD5": "dccef42c8915842cc356405f1fbbdd1c",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_basic.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_beaconbeam.fsh",
+          "name": "gbuffers_beaconbeam.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 166,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_beaconbeam.fsh",
+            "MD5": "d8b56c2348fcbec185a32bfa1a883a0d",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_beaconbeam.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_beaconbeam.vsh",
+          "name": "gbuffers_beaconbeam.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 166,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_beaconbeam.vsh",
+            "MD5": "2b350e338749842ac65dfe7a325b5bb3",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_beaconbeam.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_block.fsh",
+          "name": "gbuffers_block.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 210,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_block.fsh",
+            "MD5": "c75bed32fb8829fb38e1f21318c2b2b5",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_block.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_block.vsh",
+          "name": "gbuffers_block.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_block.vsh",
+            "MD5": "31c6eb1fa80570f2734e0b35c4926232",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_block.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_clouds.fsh",
+          "name": "gbuffers_clouds.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 162,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_clouds.fsh",
+            "MD5": "bb943cc78d91603df9e5bcd95db99c4b",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_clouds.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_clouds.vsh",
+          "name": "gbuffers_clouds.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 162,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_clouds.vsh",
+            "MD5": "e1e31ea2225868e5b5e4bc4f15423b14",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_clouds.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_damagedblock.fsh",
+          "name": "gbuffers_damagedblock.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 168,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_damagedblock.fsh",
+            "MD5": "57132d181c30a386f4d00c67228c0b16",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_damagedblock.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_damagedblock.vsh",
+          "name": "gbuffers_damagedblock.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 168,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_damagedblock.vsh",
+            "MD5": "6d1923463523e23c9b990b3832690789",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_damagedblock.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_entities.fsh",
+          "name": "gbuffers_entities.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 213,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_entities.fsh",
+            "MD5": "1aed327b8319b146470811e64ced6526",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_entities.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_entities.vsh",
+          "name": "gbuffers_entities.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_entities.vsh",
+            "MD5": "102c89812918baa8181384a5f76df714",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_entities.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_entities_glowing.fsh",
+          "name": "gbuffers_entities_glowing.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 221,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_entities_glowing.fsh",
+            "MD5": "15e693836bbca8a3c281b63ac3356842",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_entities_glowing.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_entities_glowing.vsh",
+          "name": "gbuffers_entities_glowing.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 172,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_entities_glowing.vsh",
+            "MD5": "442d06fca8f04966d574b28869f9364c",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_entities_glowing.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_hand.fsh",
+          "name": "gbuffers_hand.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 209,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_hand.fsh",
+            "MD5": "204ab124c46de6993660707cecd13b99",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_hand.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_hand.vsh",
+          "name": "gbuffers_hand.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 160,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_hand.vsh",
+            "MD5": "8f03f77a6d7690687b3fc34756f69d62",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_hand.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_skybasic.fsh",
+          "name": "gbuffers_skybasic.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_skybasic.fsh",
+            "MD5": "8d1261c72daaaae234358b17fe13c347",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_skybasic.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_skybasic.vsh",
+          "name": "gbuffers_skybasic.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_skybasic.vsh",
+            "MD5": "f4ffdda184ad34c6d638fafc211286f0",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_skybasic.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_skytextured.fsh",
+          "name": "gbuffers_skytextured.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_skytextured.fsh",
+            "MD5": "fc5df514de3e9594e853a0f5c9866bac",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_skytextured.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_skytextured.vsh",
+          "name": "gbuffers_skytextured.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_skytextured.vsh",
+            "MD5": "3755f45d5d9b960a87e83105952df604",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_skytextured.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_spidereyes.fsh",
+          "name": "gbuffers_spidereyes.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 166,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_spidereyes.fsh",
+            "MD5": "e8e2783fb6ee19bc7196ec0b13cae656",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_spidereyes.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_spidereyes.vsh",
+          "name": "gbuffers_spidereyes.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 166,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_spidereyes.vsh",
+            "MD5": "17026eee834ebb7c0347d2eff0acfd8b",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_spidereyes.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_terrain.fsh",
+          "name": "gbuffers_terrain.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 212,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_terrain.fsh",
+            "MD5": "20867b5db2ac3f57a11f4bf4fe65845f",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_terrain.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_terrain.vsh",
+          "name": "gbuffers_terrain.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_terrain.vsh",
+            "MD5": "d524753c7b07693b0ac779fca5eabcc8",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_terrain.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_textured.fsh",
+          "name": "gbuffers_textured.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_textured.fsh",
+            "MD5": "eff3c0be4d23f6da28d676ce7fec1cbe",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_textured.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_textured.vsh",
+          "name": "gbuffers_textured.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_textured.vsh",
+            "MD5": "d4d4abe8589a18c4b33377bb01630083",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_textured.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_water.fsh",
+          "name": "gbuffers_water.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 210,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_water.fsh",
+            "MD5": "1acab8f17c7d6c120abc7bae9954df43",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_water.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_water.vsh",
+          "name": "gbuffers_water.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_water.vsh",
+            "MD5": "3cb34548dfb0be88cab888b8a9201f1c",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_water.vsh"
+          }
+        },
+        {
+          "id": "gbuffers_weather.fsh",
+          "name": "gbuffers_weather.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_weather.fsh",
+            "MD5": "8c5e5bf37b174448a9d508c593534095",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_weather.fsh"
+          }
+        },
+        {
+          "id": "gbuffers_weather.vsh",
+          "name": "gbuffers_weather.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_weather.vsh",
+            "MD5": "d11c324d24ea848312cc27176617005b",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/gbuffers_weather.vsh"
+          }
+        },
+        {
+          "id": "shadow.fsh",
+          "name": "shadow.fsh",
+          "type": "File",
+          "artifact": {
+            "size": 153,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/shadow.fsh",
+            "MD5": "91670bc0c885590a5ebd8ca3da6644a5",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/shadow.fsh"
+          }
+        },
+        {
+          "id": "shadow.vsh",
+          "name": "shadow.vsh",
+          "type": "File",
+          "artifact": {
+            "size": 153,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/shaderpacks/BSL_v8.2.05/shaders/world1/shadow.vsh",
+            "MD5": "176d57496d2bbbdf20f442dec1cff0b3",
+            "path": "shaderpacks/BSL_v8.2.05/shaders/world1/shadow.vsh"
           }
         }
       ]
