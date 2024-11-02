@@ -443,6 +443,16 @@
           }
         },
         {
+          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
+          "name": "OptiFine_1.20.1_HD_U_I6_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 6638739,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
+            "MD5": "76c71feb7ae3b5dfa4cc7a76ba316e16"
+          }
+        },
+        {
           "id": "optionsshaders.txt",
           "name": "optionsshaders.txt",
           "type": "File",
@@ -451,6 +461,17 @@
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/optionsshaders.txt",
             "MD5": "4f64e8f69fe21cdfe85bd7efb6efac74",
             "path": "optionsshaders.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 1258,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/servers.dat",
+            "MD5": "0aa40b059823bb803d192477357a758f",
+            "path": "servers.dat"
           }
         },
         {
