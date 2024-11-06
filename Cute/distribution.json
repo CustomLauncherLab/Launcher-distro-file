@@ -13,7 +13,7 @@
       "description": "Minecraft 1.20.1 (Forge v47.3.1)",
       "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Cute/server-icon.png",
       "version": "1.0.0",
-      "address": "minecute.p-e.kr",
+      "address": "lostonline.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -487,9 +487,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 1258,
+            "size": 1256,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/Cute/servers/Cute-1.20.1/files/servers.dat",
-            "MD5": "0aa40b059823bb803d192477357a758f",
+            "MD5": "6ff9bcaaabcabfd3aaac6b16d70254e7",
             "path": "servers.dat"
           }
         },
