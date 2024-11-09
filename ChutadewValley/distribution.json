@@ -306,13 +306,13 @@
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.1.0@jar",
+          "id": "su.plo.voice:plasmovoice:2.1.1@jar",
           "name": "Plasmo Voice",
           "type": "FabricMod",
           "artifact": {
-            "size": 11897168,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/plasmovoice-fabric-1.20.1-2.1.0.jar",
-            "MD5": "9a4b259ddc280a72a5663be15e488433"
+            "size": 11896375,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/ChutadewValley/servers/ChutadewValley-1.20.1/fabricmods/required/plasmovoice-fabric-1.20.1-2.1.1.jar",
+            "MD5": "1149041992fe44482529f6be8716b383"
           }
         },
         {
