@@ -438,8 +438,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 85238,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/apocalypse_addon-1.0.4.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/apocalypse_addon-1.0.4.jar",
             "MD5": "7e719c1ba09797ab36db31acf4b3a77d"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -448,8 +452,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 580602,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/architectury-9.2.14-forge.jar",
             "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -458,8 +466,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 124436,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/Atlas-Lib-1.20.1-1.1.12.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/Atlas-Lib-1.20.1-1.1.12.jar",
             "MD5": "b63616d984991ee60d313938143eda3f"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -468,8 +480,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 19471,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/AttributeFix-Forge-1.20.1-21.0.4.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/AttributeFix-Forge-1.20.1-21.0.4.jar",
             "MD5": "e8fb517833e21335106e9d4d1a39ecd4"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -491,8 +507,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 84728,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/ChargedExplosives-1.20.1-1.0.0-1.0.0.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/ChargedExplosives-1.20.1-1.0.0-1.0.0.jar",
             "MD5": "a908fd1190670a1ad22005281a72d52e"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -514,8 +534,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3034208,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/CityCraft-1.20.x-(v.1.7.0).jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/CityCraft-1.20.x-(v.1.7.0).jar",
             "MD5": "a6a4221b611ff720009b90ae97cf89d4"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -524,8 +548,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -534,8 +562,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20300,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/Clumps-forge-1.20.1-12.0.0.4.jar",
             "MD5": "7a71806a1167d866608fc2e8c7d62041"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -544,8 +576,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 648876,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/collective-1.20.1-7.87.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/collective-1.20.1-7.87.jar",
             "MD5": "b0bcc1d5e282bab76d0f8f39a85a1a92"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -554,8 +590,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 64187,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/coroutil-forge-1.20.1-1.3.7.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/coroutil-forge-1.20.1-1.3.7.jar",
             "MD5": "6fb9ccbe8c05c1da61c224d1127e9643"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -564,8 +604,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 244310,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.17.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/corpse-forge-1.20.1-1.0.17.jar",
             "MD5": "acfa12cb6c0db7a8686d09193474c3a1"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -574,8 +618,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1146751,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.22_mc1.20.1.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/CreativeCore_FORGE_v2.12.22_mc1.20.1.jar",
             "MD5": "a3b5e6181236c69e1bd963db2a1865de"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -597,8 +645,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 22027040,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/dotf-0.1.6-R-1.20.1.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/dotf-0.1.6-R-1.20.1.jar",
             "MD5": "672194394da2535654af2605983b707b"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -607,8 +659,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1543734,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/easy_npc-forge-1.20.1-5.7.4.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/easy_npc-forge-1.20.1-5.7.4.jar",
             "MD5": "9cead3c7888407d592d3683e227544db"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -656,8 +712,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 991552,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.9.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/geckolib-forge-1.20.1-4.4.9.jar",
             "MD5": "bc7b4e71baa76fa0d7ac475568a0f20c"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -679,8 +739,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4323,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/healthywater-1.20.1-forge-1.0.0(1).jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/healthywater-1.20.1-forge-1.0.0(1).jar",
             "MD5": "60398fe4eb2b58e5a8e6c1ddba290d58"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -728,8 +792,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7193768,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/kotlinforforge-4.11.0-all.jar",
             "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -764,8 +832,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 28313874,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/lradd-1.20.1-0.2.3.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/lradd-1.20.1-0.2.3.jar",
             "MD5": "d5ce1e804c1bb9e47d3f2455ecf2a334"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -774,8 +846,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 470908,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/marbledsarsenal-1.20.1-2.3.0.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/marbledsarsenal-1.20.1-2.3.0.jar",
             "MD5": "85d09c1a18cc4f8e7bb0ce0a6faaf8d3"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -784,8 +860,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 129764,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/mcore-1.20.1-1.0.2.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/mcore-1.20.1-1.0.2.jar",
             "MD5": "1092450525200d8c058ca262c3b510be"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -807,8 +887,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 272740,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
             "MD5": "3153d1e860c6fefe6dac26efdb5c40c6"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -830,8 +914,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 894894,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/ParCool-1.20.1-3.3.0.2.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/ParCool-1.20.1-3.3.0.2.jar",
             "MD5": "71b249e9e8d3b8410b253e8f64feefe1"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -840,8 +928,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 181437,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -850,8 +942,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5296891,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/PlayerRevive_FORGE_v2.0.29_mc1.20.1.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/PlayerRevive_FORGE_v2.0.29_mc1.20.1.jar",
             "MD5": "f0667f6585ee50beee8ff685e51b2ab4"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -860,8 +956,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 78309,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/powered_flashlight-forge-1.20.1-1.0.0.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/powered_flashlight-forge-1.20.1-1.0.0.jar",
             "MD5": "06bf03fe38e36d8a64f6095454d25fe2"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -870,8 +970,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 529236,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/puffish_skills-0.14.1-1.20-forge.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/puffish_skills-0.14.1-1.20-forge.jar",
             "MD5": "2368da16f0042b2716716982b09a6f77"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -880,8 +984,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 713454,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
             "MD5": "3a46fb58e8ff12213e4dbc909f47a77d"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -890,8 +998,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 627637,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/Rotted_1.20.1_1.0.5.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/Rotted_1.20.1_1.0.5.jar",
             "MD5": "260f6eef85640d16d98ac109295f6422"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -926,8 +1038,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 41044,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
             "MD5": "c8cd5ae14d99796fd92c95a353e96211"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -949,8 +1065,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 38494,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/staaaaaaaaaaaack-forge-1.20.1-1.5-71.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/staaaaaaaaaaaack-forge-1.20.1-1.5-71.jar",
             "MD5": "4ed8ca9df18aceaae16f8c0239ac9ce0"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -959,8 +1079,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 185220,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/starterkit-1.20.1-7.1.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/starterkit-1.20.1-7.1.jar",
             "MD5": "7e50c9e88f261f76fd6c3de72ea4b17c"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -969,8 +1093,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123327,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/tacmove-1.3.0-forge-1.20.1.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/tacmove-1.3.0-forge-1.20.1.jar",
             "MD5": "d87fabc584f57296033f154476819f07"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -979,8 +1107,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 29012632,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/tacz-1.20.1-1.0.3-all.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/tacz-1.20.1-1.0.3-all.jar",
             "MD5": "2db5220caffce0bc2dec2f6ab4f84266"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -989,8 +1121,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 585941,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/The-Hordes-1.20.1-1.5.4.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/The-Hordes-1.20.1-1.5.4.jar",
             "MD5": "61b0c6e48916048065fbdceced7e4cf1"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1012,8 +1148,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7729000,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.25.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/voicechat-forge-1.20.1-2.5.25.jar",
             "MD5": "41840cef561b89417a42ac516ab3d3a8"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1022,8 +1162,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 169451,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/walkietalkie-forge-1.20.1-1.3.0.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/walkietalkie-forge-1.20.1-1.3.0.jar",
             "MD5": "232d0951cad33c7cd8a009d09accff1c"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1045,8 +1189,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 53879,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/zombie_apocalypse_core-1.2.1-forge-1.20.1.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/zombie_apocalypse_core-1.2.1-forge-1.20.1.jar",
             "MD5": "9335aa115b9516b16196b0ab7d42a0e4"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1055,8 +1203,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 48716,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/zombie_siege_content_pack-1.0.0.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/zombie_siege_content_pack-1.0.0.jar",
             "MD5": "c47ba80ec531214f35dbdc868ac2d36f"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1065,8 +1217,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 291139,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/zombieawareness-1.20.1-1.13.1.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/zombieawareness-1.20.1-1.13.1.jar",
             "MD5": "bf52632df04fceed82ad7073b8d14240"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1075,8 +1231,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 81381,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/Zombies_Reworked_1.20.1_1.0.4.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionaloff/Zombies_Reworked_1.20.1_1.0.4.jar",
             "MD5": "315107ba546fba41155607d49502632d"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         }
       ]
