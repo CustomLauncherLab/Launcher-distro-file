@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 222680,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionalon/[1.20.1][Forge]%20RPG-HUD-3.10.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/optionalon/[1.20.1][Forge]RPG-HUD-3.10.jar",
             "MD5": "b594b96b3bfffce060cd0a0b9af80994"
           },
           "required": {
@@ -471,7 +471,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 124436,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/Atlas%20Lib-1.20.1-1.1.12.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Apocalypse/servers/Apocalypse-1.20.1/forgemods/required/Atlas-Lib-1.20.1-1.1.12.jar",
             "MD5": "b63616d984991ee60d313938143eda3f"
           }
         },
