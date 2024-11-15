@@ -415,6 +415,28 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
             "MD5": "273f505856997d344f55433bb07d3834"
           }
+        },
+        {
+          "id": "BetterVanillaBuildingV2.90.zip",
+          "name": "BetterVanillaBuildingV2.90.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3732455,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/resourcepacks/BetterVanillaBuildingV2.90.zip",
+            "MD5": "c8717e266f5b6d62e77c3b2b7e74d913",
+            "path": "resourcepacks/BetterVanillaBuildingV2.90.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.51 Medium.zip",
+          "name": "Sildur's Vibrant Shaders v1.51 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142241,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Medium.zip",
+            "MD5": "f2ac25e1dd3afb18344d18593b41e905",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Medium.zip"
+          }
         }
       ]
     }
