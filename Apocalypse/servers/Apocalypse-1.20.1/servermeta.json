@@ -18,5 +18,8 @@
   "forge": {
     "version": "47.3.11"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [{
+    "appliesTo": ["files"],
+    "patterns": []
+  }]
 }
