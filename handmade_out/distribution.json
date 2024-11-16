@@ -357,16 +357,6 @@
           ]
         },
         {
-          "id": "net.geforcemods:securitycraft:v1.9.11@jar",
-          "name": "SecurityCraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3909920,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/[1.16.5]%20SecurityCraft%20v1.9.11.jar",
-            "MD5": "cb6d5b810f5dd7143e8d57808d6b22fb"
-          }
-        },
-        {
           "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre22@jar",
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
@@ -404,6 +394,16 @@
             "size": 285444,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/CustomView-1.16.5-1.1.5.jar",
             "MD5": "0e67660457c8efdd76543db916329ed5"
+          }
+        },
+        {
+          "id": "net.geforcemods:securitycraft:v1.9.11@jar",
+          "name": "SecurityCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3909920,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/SecurityCraft-1.16.5-1.9.11.jar",
+            "MD5": "cb6d5b810f5dd7143e8d57808d6b22fb"
           }
         },
         {
