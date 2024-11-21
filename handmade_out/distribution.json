@@ -904,6 +904,16 @@
           }
         },
         {
+          "id": "generated.library:OptiFine_1.16.5_HD_U_G8_MOD:0.0.0@jar",
+          "name": "OptiFine_1.16.5_HD_U_G8_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 5520538,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/pixelmon-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
+            "MD5": "10acce484ab2070254bee420a0c8bf6e"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
@@ -912,6 +922,17 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/pixelmon-1.16.5/files/servers.dat",
             "MD5": "280d8503a9855b2e3722ac82b1e375ef",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.51 Medium.zip",
+          "name": "Sildur's Vibrant Shaders v1.51 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142241,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/pixelmon-1.16.5/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Medium.zip",
+            "MD5": "f2ac25e1dd3afb18344d18593b41e905",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Medium.zip"
           }
         }
       ]
