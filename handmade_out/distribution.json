@@ -902,6 +902,17 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/pixelmon-1.16.5/forgemods/required/Xaeros_Minimap_24.6.1_Forge_1.16.5.jar",
             "MD5": "75c605ca0cb518ab22c45a437c474154"
           }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 91,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/pixelmon-1.16.5/files/servers.dat",
+            "MD5": "280d8503a9855b2e3722ac82b1e375ef",
+            "path": "servers.dat"
+          }
         }
       ]
     }
