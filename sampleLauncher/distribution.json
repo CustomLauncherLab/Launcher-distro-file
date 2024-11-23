@@ -996,16 +996,6 @@
           }
         },
         {
-          "id": "org.valkyrienskies.eureka:vs_eureka:1.0.0-alpha7@jar",
-          "name": "VS Eureka Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1461476,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.16.5/forgemods/required/eureka-1.0.0-alpha7.jar",
-            "MD5": "b8aa9f37b251639662f7d21a6c240659"
-          }
-        },
-        {
           "id": "malte0811.ferritecore:ferritecore:2.1.1@jar",
           "name": "Ferrite Core",
           "type": "ForgeMod",
@@ -1199,16 +1189,6 @@
           "required": {
             "value": false,
             "def": false
-          }
-        },
-        {
-          "id": "org.valkyrienskies.mod:valkyrienskies:2.0.0-alpha6@jar",
-          "name": "Valkyrien Skies 2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 22311096,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.16.5/forgemods/required/valkyrienskies-116-2.0.0-alpha6.jar",
-            "MD5": "0b3bd06fe4c589caaca5965683fa7e73"
           }
         },
         {
