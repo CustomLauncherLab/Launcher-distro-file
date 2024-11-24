@@ -1691,7 +1691,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 43993,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.20.1/forgemods/optionalon/Kleiders%20Custom%20Renderer%20API%207.2.0%201.20.1.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.20.1/forgemods/optionalon/Kleiders-Custom-Renderer-API-7.2.0-1.20.1.jar",
             "MD5": "a5ad4606f38bffbceea0ee6c38eee8d8"
           },
           "required": {
