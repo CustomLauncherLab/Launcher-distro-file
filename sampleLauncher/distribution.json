@@ -1263,47 +1263,47 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.16.5-36.2.34",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.39",
           "name": "Minecraft Forge (base jar)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 212608,
-            "MD5": "e8de93b1e25fcb60d847b2565d35369c",
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
+            "size": 212574,
+            "MD5": "4afee0135f47547182faa2ea88efebac",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39.jar"
           },
           "subModules": [
             {
-              "id": "1.16.5-36.2.34",
+              "id": "1.16.5-36.2.39",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
                 "size": 13577,
-                "MD5": "9cc72898a14a7d162d6813443761d30a",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/versions/1.16.5-forge-36.2.34/1.16.5-forge-36.2.34.json"
+                "MD5": "2090bfafdec72f885ddf95300bd96714",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/versions/1.16.5-forge-36.2.39/1.16.5-forge-36.2.39.json"
               }
             },
             {
-              "id": "net.minecraftforge:forge:1.16.5-36.2.34:universal",
+              "id": "net.minecraftforge:forge:1.16.5-36.2.39:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 2773337,
-                "MD5": "521b6d8bfa23e4e00da77f4a07f01f8f",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
+                "size": 2504067,
+                "MD5": "3337e44edf13c5759548623b5866b967",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.16.5-36.2.34:client",
+              "id": "net.minecraftforge:forge:1.16.5-36.2.39:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4214137,
-                "MD5": "8d8990d72f63d109f68fedf74182a3ea",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
+                "size": 4216473,
+                "MD5": "253bbbe4aa8a7752615ea759fa178c80",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-client.jar"
               },
               "subModules": []
             },
@@ -1314,7 +1314,7 @@
               "classpath": true,
               "artifact": {
                 "size": 11352644,
-                "MD5": "312c879bd35280c8b810b408f3e7b7cd",
+                "MD5": "d608bebf77da5e068a745357ec50a475",
                 "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
