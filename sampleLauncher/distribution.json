@@ -1725,6 +1725,19 @@
           }
         },
         {
+          "id": "vazkii.neat:neat:1.20.1-41-FORGE@jar",
+          "name": "Neat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30595,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.20.1/forgemods/optionalon/Neat-1.20.1-41-FORGE.jar",
+            "MD5": "506cced5f0ddd6104de4d9a05f03a3c3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "dev.kosmx.playeranim:playeranimator:1.0.2-rc1+1.20@jar",
           "name": "Player Animator",
           "type": "ForgeMod",
@@ -1732,6 +1745,32 @@
             "size": 181437,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.20.1/forgemods/optionalon/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:24.6.1@jar",
+          "name": "Xaero's Minimap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1605900,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.20.1/forgemods/optionalon/Xaeros_Minimap_24.6.1_Forge_1.20.jar",
+            "MD5": "f4298b934da5b891604978187570565b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.39.0@jar",
+          "name": "Xaero's World Map",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 930284,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.20.1/forgemods/optionalon/XaerosWorldMap_1.39.0_Forge_1.20.jar",
+            "MD5": "56bacc411ba41fbe016e9c53dbc283e6"
           },
           "required": {
             "value": false
