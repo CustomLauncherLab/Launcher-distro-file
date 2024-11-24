@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "MinePiece-test (Minecraft 1.16.5)",
-    "description": "MinePiece-test Running Minecraft 1.16.5 (Forge v36.2.34)",
+    "description": "MinePiece-test Running Minecraft 1.16.5 (Forge v36.2.39)",
     "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sampleLauncher/servers/MinePiece-1.16.5/server-icon.png",
     "address": "localhost:25565",
     "discord": {
