@@ -2,8 +2,8 @@
   "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/sampleLauncher/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "MinePiece (Minecraft 1.16.5)",
-    "description": "MinePiece Running Minecraft 1.16.5 (Forge v36.2.34)",
+    "name": "MinePiece(1.16.5)",
+    "description": "MinePiece Running Minecraft 1.16.5 (Forge v36.2.39)",
     "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sampleLauncher/servers/MinePiece-1.16.5/server-icon.png",
     "address": "localhost:25565",
     "discord": {
@@ -15,12 +15,7 @@
     "autoconnect": false
   },
   "forge": {
-    "version": "36.2.34"
+    "version": "36.2.39"
   },
-  "untrackedFiles": [
-    {
-      "appliesTo": ["files"],
-      "patterns": ["shaderpacks/ComplementaryReimagined_r5.3.zip.txt"]
-    }
-  ]
+  "untrackedFiles": []
 }
