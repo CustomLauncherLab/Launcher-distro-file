@@ -12,7 +12,10 @@
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": false,
-    "autoconnect": true
+    "autoconnect": true,
+    "javaOptions": {
+      "supported": ">=16"
+    }
   },
   "forge": {
     "version": "36.2.42"
