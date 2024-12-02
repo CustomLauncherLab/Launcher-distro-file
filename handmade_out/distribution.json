@@ -824,6 +824,19 @@
           }
         },
         {
+          "id": "me.ddayo:collection:1.0.0}@jar",
+          "name": "Collection",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 135415,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/pixelmon-1.16.5/forgemods/optionalon/collection-1.0-SNAPSHOT.jar",
+            "MD5": "8028da517fe1dcb951418b4956453c5e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "noppes.npcs:customnpcs:1.16.5.20220515@jar",
           "name": "Custom NPCs",
           "type": "ForgeMod",
@@ -854,6 +867,19 @@
           }
         },
         {
+          "id": "net.mcreator.test:test_mod:1.0.9@jar",
+          "name": "Test_mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1769606,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/pixelmon-1.16.5/forgemods/optionalon/inventory_save_mod3.jar",
+            "MD5": "9904ad8a98672d40d75e76204f0cc02b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "mezz.jei:jei:7.8.0.1013@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
@@ -861,6 +887,19 @@
             "size": 816694,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/pixelmon-1.16.5/forgemods/required/jei-1.16.5-7.8.0.1013.jar",
             "MD5": "48a9cbf69f0fba3843ba025a3d9a13b8"
+          }
+        },
+        {
+          "id": "thedarkcolour.kotlinforforge:kotlinforforge:1.16.0@jar",
+          "name": "Kotlin for Forge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6754655,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/pixelmon-1.16.5/forgemods/optionalon/kotlinforforge-1.17.0-obf.jar",
+            "MD5": "7671b34c5268409692e09e8da69fceb6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
