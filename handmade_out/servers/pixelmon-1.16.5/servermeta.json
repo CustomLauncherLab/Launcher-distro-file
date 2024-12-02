@@ -12,18 +12,7 @@
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": false,
-    "autoconnect": true,
-    "javaOptions": {
-      "supported": ">=16",
-      "suggestedMajor": 16,
-      "platformOptions": [
-        {
-          "platform": "darwin",
-          "architecture": "arm64",
-          "distribution": "CORRETTO"
-        }
-      ]
-    }
+    "autoconnect": true
   },
   "forge": {
     "version": "36.2.42"
