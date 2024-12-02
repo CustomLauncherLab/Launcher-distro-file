@@ -481,7 +481,7 @@
       "autoconnect": true,
       "javaOptions": {
         "supported": ">=16",
-        "suggestedMajor": 17,
+        "suggestedMajor": 16,
         "platformOptions": [
           {
             "platform": "darwin",
