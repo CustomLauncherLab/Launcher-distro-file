@@ -480,7 +480,15 @@
       "mainServer": false,
       "autoconnect": true,
       "javaOptions": {
-        "supported": ">=16"
+        "supported": ">=16",
+        "suggestedMajor": 17,
+        "platformOptions": [
+          {
+            "platform": "darwin",
+            "architecture": "arm64",
+            "distribution": "CORRETTO"
+          }
+        ]
       },
       "modules": [
         {
