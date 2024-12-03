@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/PixelmonStudy/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "픽셀몬 스터디",
+    "description": "Minecraft 1.16.5 (Forge v36.2.42)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/server-icon.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "36.2.42"
+  },
+  "untrackedFiles": []
+}
