@@ -13,7 +13,7 @@
       "description": "Minecraft 1.16.5 (Forge v36.2.42)",
       "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/server-icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "pixelmon-study.ggm.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -22,6 +22,12 @@
       },
       "mainServer": true,
       "autoconnect": false,
+      "javaOptions": {
+        "ram": {
+          "minimum": 4096,
+          "recommended": 6144
+        }
+      },
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.42",
@@ -477,9 +483,9 @@
           "name": "Pixelmon_study",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8476085,
+            "size": 8500884,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/forgemods/optionalon/pixelmon_study_mod.jar",
-            "MD5": "8f258282f6ae0915421e9357c362d3b6"
+            "MD5": "621956fcdd6ecec0e4161439854c9844"
           },
           "required": {
             "value": false

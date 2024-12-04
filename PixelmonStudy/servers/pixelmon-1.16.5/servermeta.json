@@ -5,14 +5,20 @@
     "name": "픽셀몬 스터디",
     "description": "Minecraft 1.16.5 (Forge v36.2.42)",
     "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/server-icon.png",
-    "address": "localhost:25565",
+    "address": "pixelmon-study.ggm.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": true,
-    "autoconnect": false
+    "autoconnect": false,
+    "javaOptions": {
+      "ram": {
+        "minimum": 4096,
+        "recommended": 6144
+      }
+    }
   },
   "forge": {
     "version": "36.2.42"
