@@ -1,0 +1,19 @@
+#Wed Dec 04 22:53:54 KST 2024
+shaderPack=Sildur's Vibrant Shaders v1.51 Medium.zip
+antialiasingLevel=0
+normalMapEnabled=true
+specularMapEnabled=true
+renderResMul=1.0
+shadowResMul=1.0
+handDepthMul=0.125
+cloudShadow=true
+oldHandLight=default
+oldLighting=default
+tweakBlockDamage=false
+shadowClipFrustrum=true
+TexMinFilB=0
+TexMinFilN=0
+TexMinFilS=0
+TexMagFilB=0
+TexMagFilN=0
+TexMagFilS=0

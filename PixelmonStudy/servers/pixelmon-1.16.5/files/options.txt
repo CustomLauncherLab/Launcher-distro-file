@@ -1,7 +1,10 @@
 version:2586
+guiScale:2
 resourcePacks:["vanilla","mod_resources","file/픽셀몬스터디리소스팩.zip","CustomShopHUDResourcePack","CustomShopResourcePack"]
 lang:ko_kr
 tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
@@ -63,7 +66,6 @@ key_Scene reset:key.keyboard.keypad.0
 key_Quest Log:key.keyboard.l
 key_key.next_image:key.keyboard.down
 key_key.previous_image:key.keyboard.up
-key_key.sendpokemon:key.keyboard.r
 key_key.nextpokemon:key.keyboard.down
 key_key.previouspokemon:key.keyboard.up
 key_key.minmaxoverlay:key.keyboard.o
@@ -87,11 +89,6 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_key.wiki:key.keyboard.k
-key_key.pcsearch:key.keyboard.s
-key_key.pcrename:key.keyboard.r
-key_key.pcwallpaper:key.keyboard.w
-key_key.pixelmonoptions:key.keyboard.p
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
 key_key.jei.toggleCheatMode:key.keyboard.unknown

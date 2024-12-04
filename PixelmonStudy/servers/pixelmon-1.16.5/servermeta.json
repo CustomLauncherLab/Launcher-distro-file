@@ -26,7 +26,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["servers.dat", "options.txt", "config/voicechat/voicechat-client.properties"]
+      "patterns": ["servers.dat", "options.txt", "optionsshaders.txt", "config/voicechat/voicechat-client.properties"]
     }
   ]
 }

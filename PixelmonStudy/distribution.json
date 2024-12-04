@@ -537,9 +537,19 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4564,
+            "size": 4422,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 404,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/files/optionsshaders.txt",
+            "path": "optionsshaders.txt"
           }
         },
         {
