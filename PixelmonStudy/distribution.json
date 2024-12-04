@@ -479,7 +479,7 @@
           }
         },
         {
-          "id": "net.mcreator.test:pixelmon_study:1.1.8@jar",
+          "id": "net.mcreator.test:pixelmon_study:1.2.4@jar",
           "name": "Pixelmon_study",
           "type": "ForgeMod",
           "artifact": {
@@ -523,6 +523,26 @@
           }
         },
         {
+          "id": "voicechat-client.properties",
+          "name": "voicechat-client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4173,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/files/config/voicechat/voicechat-client.properties",
+            "path": "config/voicechat/voicechat-client.properties"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4564,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "픽셀몬스터디리소스팩.zip",
           "name": "픽셀몬스터디리소스팩.zip",
           "type": "File",
@@ -538,9 +558,8 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 91,
+            "size": 94,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/files/servers.dat",
-            "MD5": "280d8503a9855b2e3722ac82b1e375ef",
             "path": "servers.dat"
           }
         },
