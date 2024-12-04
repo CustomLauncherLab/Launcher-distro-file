@@ -517,14 +517,14 @@
           }
         },
         {
-          "id": "PixelmonStudy.zip",
-          "name": "PixelmonStudy.zip",
+          "id": "픽셀몬스터디리소스팩.zip",
+          "name": "픽셀몬스터디리소스팩.zip",
           "type": "File",
           "artifact": {
-            "size": 227950,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/files/resourcepacks/PixelmonStudy.zip",
-            "MD5": "d3014b4e2c272dcb33ff4dddc198daa7",
-            "path": "resourcepacks/PixelmonStudy.zip"
+            "size": 191713,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/files/resourcepacks/%ED%94%BD%EC%85%80%EB%AA%AC%EC%8A%A4%ED%84%B0%EB%94%94%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
+            "MD5": "f7d986a63866268728a1866666cac660",
+            "path": "resourcepacks/픽셀몬스터디리소스팩.zip"
           }
         },
         {
