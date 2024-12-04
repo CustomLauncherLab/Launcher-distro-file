@@ -357,6 +357,19 @@
           ]
         },
         {
+          "id": "de.maxhenkel:camera:1.16.5-1.0.14@jar",
+          "name": "Camera Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 273299,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/forgemods/optionalon/camera-1.16.5-1.0.14.jar",
+            "MD5": "91f52f8feec00dfe0aed9a851c19b7ea"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "jp.axer.cocoainput.loader:cocoainput:4.0.4@jar",
           "name": "CocoaInput",
           "type": "ForgeMod",
