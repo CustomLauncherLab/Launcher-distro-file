@@ -407,9 +407,9 @@
           "name": "CustomShop",
           "type": "ForgeMod",
           "artifact": {
-            "size": 93682,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/forgemods/required/CustomShop-1.16.5-1.1.0_pixelmonstudy.jar",
-            "MD5": "f8dee5f2391ffefa95d3d5fd959f6855"
+            "size": 93598,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/forgemods/required/CustomShop-1.16.5-1.1.0_pixelmonstudy_1204.jar",
+            "MD5": "6ff775e1451d35ec7b9c8c2611717b62"
           }
         },
         {
@@ -477,9 +477,9 @@
           "name": "Pixelmon_study",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8493642,
+            "size": 8494665,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/forgemods/optionalon/pixelmon_study_mod.jar",
-            "MD5": "b9b843679ccf015590ca0572243aa334"
+            "MD5": "34eb59ce81830be99a3df931328f75b4"
           },
           "required": {
             "value": false
