@@ -473,13 +473,13 @@
           }
         },
         {
-          "id": "net.mcreator.test:pixelmon_study:1.1.6@jar",
+          "id": "net.mcreator.test:pixelmon_study:1.1.8@jar",
           "name": "Pixelmon_study",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8442837,
+            "size": 8493642,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/forgemods/optionalon/pixelmon_study_mod.jar",
-            "MD5": "8c9a9b0790865c4f4f48c2522c66cda6"
+            "MD5": "b9b843679ccf015590ca0572243aa334"
           },
           "required": {
             "value": false
