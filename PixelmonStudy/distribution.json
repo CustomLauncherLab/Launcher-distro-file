@@ -477,9 +477,9 @@
           "name": "Pixelmon_study",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8494665,
+            "size": 8476085,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/forgemods/optionalon/pixelmon_study_mod.jar",
-            "MD5": "34eb59ce81830be99a3df931328f75b4"
+            "MD5": "8f258282f6ae0915421e9357c362d3b6"
           },
           "required": {
             "value": false
