@@ -390,9 +390,9 @@
           "name": "Collection",
           "type": "ForgeMod",
           "artifact": {
-            "size": 157262,
+            "size": 183211,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/forgemods/optionalon/collection-1.0-SNAPSHOT.jar",
-            "MD5": "cc96f45f9a6786daba44e9b11cb1641c"
+            "MD5": "b2ad69ddfee3d16f4a2ed9971814b825"
           },
           "required": {
             "value": false
