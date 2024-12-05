@@ -381,8 +381,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 188469,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/forgemods/required/CocoaInput-1.16.5-forge-4.0.4.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/forgemods/optionalon/CocoaInput-1.16.5-forge-4.0.4.jar",
             "MD5": "ed7d070d481b0270a3c42e59548ba0ca"
+          },
+          "required": {
+            "value": false
           }
         },
         {
