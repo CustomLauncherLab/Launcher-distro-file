@@ -1168,6 +1168,19 @@
           }
         },
         {
+          "id": "su.plo.voice:plasmovoice:2.1.2@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11879077,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.16.5/forgemods/optionalon/plasmovoice-forge-1.16.5-2.1.2.jar",
+            "MD5": "d3ea873db73a5fbf381133e1aed568ed"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "dev.kosmx.playeranim:playeranimator:0.4.0+1.16.5@jar",
           "name": "Player Animator",
           "type": "ForgeMod",
@@ -1189,6 +1202,19 @@
           "required": {
             "value": false,
             "def": false
+          }
+        },
+        {
+          "id": "com.tiviacz:travelersbackpack:5.4.51@jar",
+          "name": "Traveler's Backpack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 873546,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.16.5/forgemods/optionalon/TravelersBackpack-1.16.5-5.4.51.jar",
+            "MD5": "eab9a192f69e677ae3fca210919e1050"
+          },
+          "required": {
+            "value": false
           }
         },
         {
