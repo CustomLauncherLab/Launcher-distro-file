@@ -505,6 +505,16 @@
           }
         },
         {
+          "id": "com.sk89q:worldedit:7.2.5+57d5ac9@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5312767,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/PixelmonStudy/servers/pixelmon-1.16.5/forgemods/required/worldedit-mod-7.2.5-dist.jar",
+            "MD5": "96ff53c70d4a3ff9df5592462b0f0685"
+          }
+        },
+        {
           "id": "generated.library:OptiFine_1.16.5_HD_U_G8_MOD:0.0.0@jar",
           "name": "OptiFine_1.16.5_HD_U_G8_MOD",
           "type": "Library",
