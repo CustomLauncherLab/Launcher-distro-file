@@ -1168,19 +1168,6 @@
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.1.2@jar",
-          "name": "Plasmo Voice",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11879077,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.16.5/forgemods/optionalon/plasmovoice-forge-1.16.5-2.1.2.jar",
-            "MD5": "d3ea873db73a5fbf381133e1aed568ed"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "dev.kosmx.playeranim:playeranimator:0.4.0+1.16.5@jar",
           "name": "Player Animator",
           "type": "ForgeMod",
@@ -1212,6 +1199,19 @@
             "size": 873546,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.16.5/forgemods/optionalon/TravelersBackpack-1.16.5-5.4.51.jar",
             "MD5": "eab9a192f69e677ae3fca210919e1050"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.16.5-2.5.26@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7722823,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.16.5/forgemods/optionalon/voicechat-forge-1.16.5-2.5.26.jar",
+            "MD5": "55ee7fa56ede1fd5dd349e59efcd49b7"
           },
           "required": {
             "value": false
