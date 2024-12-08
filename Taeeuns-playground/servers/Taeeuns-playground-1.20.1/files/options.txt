@@ -1,0 +1,8 @@
+version:3465
+realmsNotifications:false
+resourcePacks:["vanilla","mod_resources","file/리소스팩.zip"]
+lang:ko_kr
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+onboardAccessibility:false
