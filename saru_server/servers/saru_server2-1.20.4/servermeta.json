@@ -1,0 +1,26 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/saru_server/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "사루의 놀이터2",
+    "description": "Minecraft 1.20.4 (Fabric v0.16.9)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/saru_server/server-icon.png",
+    "address": "122.47.164.234:25577",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.16.9"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["servers.dat", "options.txt"]
+    }
+  ]
+}
