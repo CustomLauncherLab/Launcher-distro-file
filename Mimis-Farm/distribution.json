@@ -514,6 +514,17 @@
           }
         },
         {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/files/servers.dat",
+            "MD5": "66e6d55de825c4d7bf64555c07aee5f0",
+            "path": "servers.dat"
+          }
+        },
+        {
           "id": "ComplementaryUnbound_r5.2.2.zip",
           "name": "ComplementaryUnbound_r5.2.2.zip",
           "type": "File",
