@@ -20,7 +20,12 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["servers.dat", "options.txt"]
+      "patterns": [
+        "servers.dat",
+        "options.txt",
+        "config/iris.properties",
+        "shaderpacks/*.*"
+      ]
     }
   ]
 }

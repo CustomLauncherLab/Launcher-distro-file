@@ -650,6 +650,16 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 288,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
           "id": "watut-client.toml",
           "name": "watut-client.toml",
           "type": "File",
@@ -678,6 +688,26 @@
             "size": 103,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/servers.dat",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.1.1.zip",
+          "name": "ComplementaryReimagined_r5.1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 409956,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip",
+            "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.1.1.zip.txt",
+          "name": "ComplementaryReimagined_r5.1.1.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt",
+            "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
           }
         }
       ]
