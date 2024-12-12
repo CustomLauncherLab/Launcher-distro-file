@@ -1,0 +1,11 @@
+version:3465
+autoJump:false
+enableVsync:false
+guiScale:2
+lang:ko_kr
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+key_key.chat:key.keyboard.enter
+soundCategory_music:0.0
