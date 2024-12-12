@@ -471,16 +471,6 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Cobblemon/servers/Cobblemon-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
             "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
           }
-        },
-        {
-          "id": "generated.library:OptiFine_1.16.5_HD_U_G8_MOD:0.0.0@jar",
-          "name": "OptiFine_1.16.5_HD_U_G8_MOD",
-          "type": "Library",
-          "artifact": {
-            "size": 5520538,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Cobblemon/servers/Cobblemon-1.20.1/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
-            "MD5": "10acce484ab2070254bee420a0c8bf6e"
-          }
         }
       ]
     }
