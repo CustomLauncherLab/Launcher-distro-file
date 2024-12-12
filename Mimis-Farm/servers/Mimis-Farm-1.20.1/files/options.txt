@@ -1,6 +1,6 @@
 version:3465
 guiScale:2
-resourcePacks:["vanilla","mod_resources","file/BetterVanillaBuilding.zip","file/generated.zip"]
+resourcePacks:["vanilla","mod_resources","file/BetterVanillaBuildingV3.5.zip","file/generated.zip"]
 lang:ko_kr
 narrator:0
 tutorialStep:none
