@@ -438,8 +438,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 104105045,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Cobblemon/servers/Cobblemon-1.20.1/forgemods/required/Cobblemon-forge-1.5.2+1.20.1.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Cobblemon/servers/Cobblemon-1.20.1/forgemods/optionaloff/Cobblemon-forge-1.5.2+1.20.1.jar",
             "MD5": "89e9852463f198a88c7fb509a0eb5dd1"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -448,8 +452,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1379051,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Cobblemon/servers/Cobblemon-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.105.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Cobblemon/servers/Cobblemon-1.20.1/forgemods/optionaloff/jei-1.20.1-forge-15.20.0.105.jar",
             "MD5": "947e4bd94640abf098f05ebbc32d0f43"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -458,8 +466,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 190898,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Cobblemon/servers/Cobblemon-1.20.1/forgemods/required/koreanpatch-forge-1.6.10+mc1.20.1.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Cobblemon/servers/Cobblemon-1.20.1/forgemods/optionaloff/koreanpatch-forge-1.6.10+mc1.20.1.jar",
             "MD5": "f9c63bc0b596a322830ba2c86cda826d"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -468,8 +480,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7193768,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Cobblemon/servers/Cobblemon-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Cobblemon/servers/Cobblemon-1.20.1/forgemods/optionaloff/kotlinforforge-4.11.0-all.jar",
             "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
