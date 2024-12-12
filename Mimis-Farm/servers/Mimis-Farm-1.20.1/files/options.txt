@@ -1,0 +1,11 @@
+version:3465
+guiScale:2
+resourcePacks:["vanilla","mod_resources","file/BetterVanillaBuilding.zip","file/generated.zip"]
+lang:ko_kr
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+skipRealms32bitWarning:false
+joinedFirstServer:true
+key_key.chat:key.keyboard.enter
+soundCategory_music:0.0

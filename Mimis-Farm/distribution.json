@@ -503,6 +503,61 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 305,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/files/options.txt",
+            "MD5": "ef5b73be1693faf5a8869691b0d3df5f",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 404,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/files/optionsshaders.txt",
+            "MD5": "a1a80d6952f3378f8b722f20ed5d62b8",
+            "path": "optionsshaders.txt"
+          }
+        },
+        {
+          "id": "BetterVanillaBuilding.zip",
+          "name": "BetterVanillaBuilding.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4193208,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/files/resourcepacks/BetterVanillaBuilding.zip",
+            "MD5": "98cac6b8f2a25feb1f8f5ba1f1ded625",
+            "path": "resourcepacks/BetterVanillaBuilding.zip"
+          }
+        },
+        {
+          "id": "BetterVanillaBuildingV2.93.5.zip",
+          "name": "BetterVanillaBuildingV2.93.5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4193208,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/files/resourcepacks/BetterVanillaBuildingV2.93.5.zip",
+            "MD5": "98cac6b8f2a25feb1f8f5ba1f1ded625",
+            "path": "resourcepacks/BetterVanillaBuildingV2.93.5.zip"
+          }
+        },
+        {
+          "id": "BetterVanillaBuildingV3.5.zip",
+          "name": "BetterVanillaBuildingV3.5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4378250,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/files/resourcepacks/BetterVanillaBuildingV3.5.zip",
+            "MD5": "3cb643173998e05eefa13cb5a5ccab20",
+            "path": "resourcepacks/BetterVanillaBuildingV3.5.zip"
+          }
+        },
+        {
           "id": "generated.zip",
           "name": "generated.zip",
           "type": "File",
