@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/Cobblemon/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "코블몬",
+    "description": "Minecraft 1.20.1 (Forge v47.3.12)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Cobblemon/server-icon.png",
+    "address": "tanari.ggm.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.3.12"
+  },
+  "untrackedFiles": []
+}
