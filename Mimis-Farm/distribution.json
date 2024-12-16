@@ -487,9 +487,9 @@
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6638739,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/forgemods/required/OptiFine_1.20.1_HD_U_I6_MOD.jar",
-            "MD5": "d27a4218afa6feb9786c18bd16e3700d"
+            "size": 7145205,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/forgemods/required/OptiFine_1.20.1_HD_U_I6.jar",
+            "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
           }
         },
         {
