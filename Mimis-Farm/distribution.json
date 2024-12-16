@@ -493,13 +493,13 @@
           }
         },
         {
-          "id": "generated.library:OptiFine_1.20.1_HD_U_I6:0.0.0@jar",
-          "name": "OptiFine_1.20.1_HD_U_I6",
+          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
+          "name": "OptiFine_1.20.1_HD_U_I6_MOD",
           "type": "Library",
           "artifact": {
-            "size": 7145205,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6.jar",
-            "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
+            "size": 6638739,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
+            "MD5": "b32031505c2b7c73ff5002537584db6c"
           }
         },
         {
