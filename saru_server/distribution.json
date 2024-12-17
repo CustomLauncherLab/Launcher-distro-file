@@ -146,6 +146,16 @@
           }
         },
         {
+          "id": "com.hypherionmc:craterlib:2.1.2@jar",
+          "name": "CraterLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1986005,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/fabricmods/required/CraterLib-Fabric-1.20.4-2.1.2.jar",
+            "MD5": "1e137fad2a0c3ec2cd774a1ffe2a5a96"
+          }
+        },
+        {
           "id": "generated.fabricmod:cubes-without-borders:2.1.1+1.20@jar",
           "name": "Cubes Without Borders",
           "type": "FabricMod",
@@ -286,6 +296,16 @@
           }
         },
         {
+          "id": "me.hypherionmc.simplerpc.loaders:simplerpc:3.3.3@jar",
+          "name": "Simple RPC",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 214943,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/fabricmods/required/SimpleRPC-Universal-3.3.3.jar",
+            "MD5": "3634abdd8e7be1471d8a6ed9a50386b8"
+          }
+        },
+        {
           "id": "me.jellysquid.mods:sodium:0.5.8+mc1.20.4@jar",
           "name": "Sodium",
           "type": "FabricMod",
@@ -332,7 +352,6 @@
           "artifact": {
             "size": 13007,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/config/asteorbar.json5",
-            "MD5": "f11f623d1d1caccfb4d32ed9e6dbe284",
             "path": "config/asteorbar.json5"
           }
         },
@@ -343,7 +362,6 @@
           "artifact": {
             "size": 161,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/config/hqsimplef3-client.json",
-            "MD5": "bd36fda29a5c889c6bcd57d33190913f",
             "path": "config/hqsimplef3-client.json"
           }
         },
@@ -358,13 +376,32 @@
           }
         },
         {
+          "id": "server-entries.toml",
+          "name": "server-entries.toml",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/config/simple-rpc/server-entries.toml",
+            "path": "config/simple-rpc/server-entries.toml"
+          }
+        },
+        {
+          "id": "simple-rpc.toml",
+          "name": "simple-rpc.toml",
+          "type": "File",
+          "artifact": {
+            "size": 9860,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/config/simple-rpc/simple-rpc.toml",
+            "path": "config/simple-rpc/simple-rpc.toml"
+          }
+        },
+        {
           "id": "watut-client.toml",
           "name": "watut-client.toml",
           "type": "File",
           "artifact": {
             "size": 2242,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/config/watut-client.toml",
-            "MD5": "d4f89a79b01330aae969ad8643a27cfb",
             "path": "config/watut-client.toml"
           }
         },

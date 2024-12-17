@@ -23,8 +23,9 @@
       "patterns": [
         "servers.dat",
         "options.txt",
-        "config/iris.properties",
-        "shaderpacks/*.*"
+        "shaderpacks/*.*",
+        "config/*.*",
+        "config/simple-rpc/*.*"
       ]
     }
   ]
