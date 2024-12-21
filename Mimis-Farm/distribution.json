@@ -520,7 +520,6 @@
           "artifact": {
             "size": 309,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/files/options.txt",
-            "MD5": "76568c57cdc8d30aa204f94d244f44e3",
             "path": "options.txt"
           }
         },
@@ -531,7 +530,6 @@
           "artifact": {
             "size": 404,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/files/optionsshaders.txt",
-            "MD5": "a1a80d6952f3378f8b722f20ed5d62b8",
             "path": "optionsshaders.txt"
           }
         },
@@ -564,7 +562,6 @@
           "artifact": {
             "size": 137,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/files/servers.dat",
-            "MD5": "66e6d55de825c4d7bf64555c07aee5f0",
             "path": "servers.dat"
           }
         },
@@ -586,7 +583,6 @@
           "artifact": {
             "size": 53,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt",
-            "MD5": "34dbe2ba9e2ab19203bfa318e992569e",
             "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt"
           }
         },

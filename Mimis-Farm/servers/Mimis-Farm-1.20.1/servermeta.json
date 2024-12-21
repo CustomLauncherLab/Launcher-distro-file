@@ -17,5 +17,16 @@
   "forge": {
     "version": "47.3.12"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "servers.dat",
+        "options.txt",
+        "optionsshaders.txt",
+        "shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt",
+        "config/journeymap/config/5.10/journeymap.minimap.config"
+      ]
+    }
+  ]
 }
