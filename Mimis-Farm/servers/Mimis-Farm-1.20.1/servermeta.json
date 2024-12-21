@@ -21,7 +21,6 @@
     {
       "appliesTo": ["files"],
       "patterns": [
-        "servers.dat",
         "options.txt",
         "optionsshaders.txt",
         "shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt",

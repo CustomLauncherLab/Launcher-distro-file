@@ -420,7 +420,7 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 103,
+            "size": 102,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/servers.dat",
             "path": "servers.dat"
           }
