@@ -731,6 +731,12 @@
       },
       "mainServer": false,
       "autoconnect": true,
+      "javaOptions": {
+        "ram": {
+          "minimum": 4096,
+          "recommended": 6144
+        }
+      },
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.20.2-48.1.0",
@@ -1216,7 +1222,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 154,
+            "size": 182,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.20.2/files/options.txt",
             "path": "options.txt"
           }
