@@ -286,16 +286,6 @@
           }
         },
         {
-          "id": "generated.library:OptiFine_1.12.2_HD_U_G5_MOD:0.0.0@jar",
-          "name": "OptiFine_1.12.2_HD_U_G5_MOD",
-          "type": "Library",
-          "artifact": {
-            "size": 2457427,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sungmeong/servers/sungmeong-1.12.2/libraries/OptiFine_1.12.2_HD_U_G5_MOD.jar",
-            "MD5": "462acb002a689c1424f0cf1d8994e96f"
-          }
-        },
-        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -303,6 +293,16 @@
             "size": 2527,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sungmeong/servers/sungmeong-1.12.2/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 28,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sungmeong/servers/sungmeong-1.12.2/files/optionsshaders.txt",
+            "path": "optionsshaders.txt"
           }
         },
         {
