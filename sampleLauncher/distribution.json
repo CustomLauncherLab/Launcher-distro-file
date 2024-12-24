@@ -1162,6 +1162,16 @@
           ]
         },
         {
+          "id": "mezz.jei:jei:16.0.0.2@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1114597,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.20.2/forgemods/required/jei-1.20.2-forge-16.0.0.2.jar",
+            "MD5": "375f2955749288d424708ec96e5d7817"
+          }
+        },
+        {
           "id": "journeymap:journeymap:5.9.21@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
@@ -1199,6 +1209,26 @@
             "size": 343273711,
             "url": "https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.20.2-9.2.10-universal.jar",
             "MD5": "8bc9140b7a478aaa01480b719d780b25"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 154,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.20.2/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 83,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.20.2/files/servers.dat",
+            "path": "servers.dat"
           }
         }
       ]

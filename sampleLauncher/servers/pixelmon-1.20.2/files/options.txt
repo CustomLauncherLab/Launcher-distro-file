@@ -1,0 +1,8 @@
+version:3578
+guiScale:2
+lang:ko_kr
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+key_key.chat:key.keyboard.enter
+soundCategory_music:0.0
