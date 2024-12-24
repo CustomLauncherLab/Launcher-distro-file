@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/sampleLauncher/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "픽셀몬",
+    "description": "Minecraft 1.20.2 (Forge v48.1.0)",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sampleLauncher/servers/pixelmon-1.20.2/server-icon.png",
+    "address": "tanari.ggm.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "48.1.0"
+  },
+  "untrackedFiles": []
+}

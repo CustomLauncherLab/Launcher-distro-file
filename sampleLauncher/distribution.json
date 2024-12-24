@@ -8,563 +8,6 @@
   },
   "servers": [
     {
-      "id": "fabric-1.20.1",
-      "name": "패브릭용",
-      "description": "fabric Running Minecraft 1.20.1 (Fabric v0.15.11)",
-      "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sampleLauncher/server-icon.png",
-      "version": "1.0.0",
-      "address": "localhost:25565",
-      "minecraftVersion": "1.20.1",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-        {
-          "id": "net.fabricmc:fabric-loader:0.15.11",
-          "name": "Fabric (fabric-loader)",
-          "type": "Fabric",
-          "artifact": {
-            "size": 1327691,
-            "MD5": "b49fcf1bafc14bcda2472a0f060ebe41",
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
-          },
-          "subModules": [
-            {
-              "id": "1.20.1-fabric-0.15.11",
-              "name": "Fabric (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 2849,
-                "MD5": "e8d723ff54706a4af1dc5c3258bcb48e",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/versions/1.20.1-fabric-0.15.11/1.20.1-fabric-0.15.11.json"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm:9.6",
-              "name": "Fabric (asm)",
-              "type": "Library",
-              "artifact": {
-                "size": 123598,
-                "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-analysis:9.6",
-              "name": "Fabric (asm-analysis)",
-              "type": "Library",
-              "artifact": {
-                "size": 34041,
-                "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-commons:9.6",
-              "name": "Fabric (asm-commons)",
-              "type": "Library",
-              "artifact": {
-                "size": 72194,
-                "MD5": "9e317c75534bd1da8c00a67c618ab288",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-tree:9.6",
-              "name": "Fabric (asm-tree)",
-              "type": "Library",
-              "artifact": {
-                "size": 51935,
-                "MD5": "6062608f1a98afe1e853d01fa1221a9e",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-util:9.6",
-              "name": "Fabric (asm-util)",
-              "type": "Library",
-              "artifact": {
-                "size": 91131,
-                "MD5": "bd3bc1c176a787373e9a031073c9574b",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:sponge-mixin:0.13.3+mixin.0.8.5",
-              "name": "Fabric (sponge-mixin)",
-              "type": "Library",
-              "artifact": {
-                "size": 1458875,
-                "MD5": "9dcf01250f72212bf97f0fef55ba5acd",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:intermediary:1.20.1",
-              "name": "Fabric (intermediary)",
-              "type": "Library",
-              "artifact": {
-                "size": 573365,
-                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
-              }
-            }
-          ]
-        },
-        {
-          "id": "journeymap:journeymap:5.9.23@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 7208493,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/fabric-1.20.1/fabricmods/required/journeymap-1.20.1-5.9.23-fabric.jar",
-            "MD5": "b63fd45f803384f5406fc2a9a680748f"
-          }
-        }
-      ]
-    },
-    {
-      "id": "forge-1.20.1",
-      "name": "포지용",
-      "description": "forge Running Minecraft 1.20.1 (Forge v47.3.1)",
-      "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sampleLauncher/server-icon.png",
-      "version": "1.0.0",
-      "address": "localhost:25565",
-      "minecraftVersion": "1.20.1",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-        {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.1",
-          "name": "Minecraft Forge (lowcodelanguage)",
-          "type": "ForgeHosted",
-          "classpath": true,
-          "artifact": {
-            "size": 7399,
-            "MD5": "b1f3d08f5751ffaff838a2b3bc0fe400",
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.1/lowcodelanguage-1.20.1-47.3.1.jar"
-          },
-          "subModules": [
-            {
-              "id": "1.20.1-47.3.1",
-              "name": "Minecraft Forge (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 16542,
-                "MD5": "115decf6bffd39e556846da75b3887eb",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/versions/1.20.1-forge-47.3.1/1.20.1-forge-47.3.1.json"
-              }
-            },
-            {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.1",
-              "name": "Minecraft Forge (fmlcore)",
-              "type": "Library",
-              "classpath": true,
-              "artifact": {
-                "size": 118686,
-                "MD5": "6dfa45ec5d39600aec55704834ac015e",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.1/fmlcore-1.20.1-47.3.1.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.1",
-              "name": "Minecraft Forge (javafmllanguage)",
-              "type": "Library",
-              "classpath": true,
-              "artifact": {
-                "size": 16516,
-                "MD5": "8b422aea641fe7d2f5d235d9ece0684b",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.1/javafmllanguage-1.20.1-47.3.1.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.1",
-              "name": "Minecraft Forge (mclanguage)",
-              "type": "Library",
-              "classpath": true,
-              "artifact": {
-                "size": 4999,
-                "MD5": "0b103c076e63df7cc6488a7cfd013768",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.1/mclanguage-1.20.1-47.3.1.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:forge:1.20.1-47.3.1:universal",
-              "name": "Minecraft Forge (universal jar)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 2753099,
-                "MD5": "8cef04d98ac84097252b3dff28ab2981",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forge/1.20.1-47.3.1/forge-1.20.1-47.3.1-universal.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:forge:1.20.1-47.3.1:client",
-              "name": "Minecraft Forge (client jar)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 4792887,
-                "MD5": "8d115509102102e5f1598d3f8e974044",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forge/1.20.1-47.3.1/forge-1.20.1-47.3.1-client.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
-              "name": "Minecraft Forge (client srg)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 18842082,
-                "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
-              "name": "Minecraft Forge (client slim)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 12592249,
-                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
-              "name": "Minecraft Forge (client extra)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 10436626,
-                "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "cpw.mods:securejarhandler:2.1.10",
-              "name": "Minecraft Forge (securejarhandler)",
-              "type": "Library",
-              "artifact": {
-                "size": 88749,
-                "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm:9.7",
-              "name": "Minecraft Forge (asm)",
-              "type": "Library",
-              "artifact": {
-                "size": 125428,
-                "MD5": "3957b18bf02a62edcb6726d074b90b08",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-commons:9.7",
-              "name": "Minecraft Forge (asm-commons)",
-              "type": "Library",
-              "artifact": {
-                "size": 73426,
-                "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-tree:9.7",
-              "name": "Minecraft Forge (asm-tree)",
-              "type": "Library",
-              "artifact": {
-                "size": 51934,
-                "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-util:9.7",
-              "name": "Minecraft Forge (asm-util)",
-              "type": "Library",
-              "artifact": {
-                "size": 93784,
-                "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-analysis:9.7",
-              "name": "Minecraft Forge (asm-analysis)",
-              "type": "Library",
-              "artifact": {
-                "size": 34776,
-                "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:accesstransformers:8.0.4",
-              "name": "Minecraft Forge (accesstransformers)",
-              "type": "Library",
-              "artifact": {
-                "size": 77756,
-                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
-              }
-            },
-            {
-              "id": "org.antlr:antlr4-runtime:4.9.1",
-              "name": "Minecraft Forge (antlr4-runtime)",
-              "type": "Library",
-              "artifact": {
-                "size": 337868,
-                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:eventbus:6.0.5",
-              "name": "Minecraft Forge (eventbus)",
-              "type": "Library",
-              "artifact": {
-                "size": 53985,
-                "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:forgespi:7.0.1",
-              "name": "Minecraft Forge (forgespi)",
-              "type": "Library",
-              "artifact": {
-                "size": 29831,
-                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:coremods:5.1.6",
-              "name": "Minecraft Forge (coremods)",
-              "type": "Library",
-              "artifact": {
-                "size": 24124,
-                "MD5": "4b4fe7e512819804660d621bf11c7381",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar"
-              }
-            },
-            {
-              "id": "cpw.mods:modlauncher:10.0.9",
-              "name": "Minecraft Forge (modlauncher)",
-              "type": "Library",
-              "artifact": {
-                "size": 130343,
-                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:unsafe:0.2.0",
-              "name": "Minecraft Forge (unsafe)",
-              "type": "Library",
-              "artifact": {
-                "size": 2834,
-                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:mergetool:1.1.5:api",
-              "name": "Minecraft Forge (mergetool)",
-              "type": "Library",
-              "artifact": {
-                "size": 2572,
-                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
-              }
-            },
-            {
-              "id": "com.electronwill.night-config:core:3.6.4",
-              "name": "Minecraft Forge (core)",
-              "type": "Library",
-              "artifact": {
-                "size": 199834,
-                "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
-              }
-            },
-            {
-              "id": "com.electronwill.night-config:toml:3.6.4",
-              "name": "Minecraft Forge (toml)",
-              "type": "Library",
-              "artifact": {
-                "size": 31816,
-                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
-              }
-            },
-            {
-              "id": "org.apache.maven:maven-artifact:3.8.5",
-              "name": "Minecraft Forge (maven-artifact)",
-              "type": "Library",
-              "artifact": {
-                "size": 58077,
-                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
-              }
-            },
-            {
-              "id": "net.jodah:typetools:0.6.3",
-              "name": "Minecraft Forge (typetools)",
-              "type": "Library",
-              "artifact": {
-                "size": 18281,
-                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
-              }
-            },
-            {
-              "id": "net.minecrell:terminalconsoleappender:1.2.0",
-              "name": "Minecraft Forge (terminalconsoleappender)",
-              "type": "Library",
-              "artifact": {
-                "size": 15977,
-                "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
-              }
-            },
-            {
-              "id": "org.jline:jline-reader:3.12.1",
-              "name": "Minecraft Forge (jline-reader)",
-              "type": "Library",
-              "artifact": {
-                "size": 150765,
-                "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
-              }
-            },
-            {
-              "id": "org.jline:jline-terminal:3.12.1",
-              "name": "Minecraft Forge (jline-terminal)",
-              "type": "Library",
-              "artifact": {
-                "size": 211712,
-                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
-              }
-            },
-            {
-              "id": "org.spongepowered:mixin:0.8.5",
-              "name": "Minecraft Forge (mixin)",
-              "type": "Library",
-              "artifact": {
-                "size": 1089277,
-                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
-              }
-            },
-            {
-              "id": "org.openjdk.nashorn:nashorn-core:15.3",
-              "name": "Minecraft Forge (nashorn-core)",
-              "type": "Library",
-              "artifact": {
-                "size": 2167288,
-                "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:JarJarSelector:0.3.19",
-              "name": "Minecraft Forge (JarJarSelector)",
-              "type": "Library",
-              "artifact": {
-                "size": 17374,
-                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
-              "name": "Minecraft Forge (JarJarMetadata)",
-              "type": "Library",
-              "artifact": {
-                "size": 15895,
-                "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
-              }
-            },
-            {
-              "id": "cpw.mods:bootstraplauncher:1.1.2",
-              "name": "Minecraft Forge (bootstraplauncher)",
-              "type": "Library",
-              "artifact": {
-                "size": 8284,
-                "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
-              "name": "Minecraft Forge (JarJarFileSystems)",
-              "type": "Library",
-              "artifact": {
-                "size": 32195,
-                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.1",
-              "name": "Minecraft Forge (fmlloader)",
-              "type": "Library",
-              "artifact": {
-                "size": 264537,
-                "MD5": "a44cea3816b0a574a659e394dfb5dfc4",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.1/fmlloader-1.20.1-47.3.1.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.1",
-              "name": "Minecraft Forge (fmlearlydisplay)",
-              "type": "Library",
-              "artifact": {
-                "size": 170831,
-                "MD5": "9a03d488f7072d461dbbd34ab170b284",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.1/fmlearlydisplay-1.20.1-47.3.1.jar"
-              }
-            }
-          ]
-        },
-        {
-          "id": "journeymap:journeymap:5.9.23@jar",
-          "name": "Journeymap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7159518,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/forge-1.20.1/forgemods/required/journeymap-1.20.1-5.9.23-forge.jar",
-            "MD5": "7a86818b009d89f4a728a7e0bc08bda1"
-          }
-        }
-      ]
-    },
-    {
       "id": "MinePiece-1.16.5",
       "name": "MinePiece(1.16.5)",
       "description": "MinePiece Running Minecraft 1.16.5 (Forge v36.2.39)",
@@ -1274,206 +717,216 @@
       ]
     },
     {
-      "id": "MinePiece-1.20.1",
-      "name": "MinePiece(1.20.1)",
-      "description": "MinePiece Running Minecraft 1.20.1 (Forge v47.3.12)",
-      "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sampleLauncher/servers/MinePiece-1.16.5/server-icon.png",
+      "id": "pixelmon-1.20.2",
+      "name": "픽셀몬",
+      "description": "Minecraft 1.20.2 (Forge v48.1.0)",
+      "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sampleLauncher/servers/pixelmon-1.20.2/server-icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
-      "minecraftVersion": "1.20.1",
+      "address": "tanari.ggm.kr",
+      "minecraftVersion": "1.20.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.12",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.2-48.1.0",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7400,
-            "MD5": "c673423fbe022d6e4e8a3f0c7645356c",
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.12/lowcodelanguage-1.20.1-47.3.12.jar"
+            "size": 7323,
+            "MD5": "949c0683f21b0b658b79be170869127d",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/lowcodelanguage/1.20.2-48.1.0/lowcodelanguage-1.20.2-48.1.0.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.3.12",
+              "id": "1.20.2-48.1.0",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16624,
-                "MD5": "03a2952855c972936b345832f594621f",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/versions/1.20.1-forge-47.3.12/1.20.1-forge-47.3.12.json"
+                "size": 17575,
+                "MD5": "27533fff30c1352cf05e48d042a891f2",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/versions/1.20.2-forge-48.1.0/1.20.2-forge-48.1.0.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.12",
+              "id": "net.minecraftforge:fmlcore:1.20.2-48.1.0",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 118579,
-                "MD5": "0cb45a85af1cf03c0e827131b629821e",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.12/fmlcore-1.20.1-47.3.12.jar"
+                "size": 117561,
+                "MD5": "d45cddc3c09a69e4ae842b5d94296b07",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/fmlcore/1.20.2-48.1.0/fmlcore-1.20.2-48.1.0.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.12",
+              "id": "net.minecraftforge:javafmllanguage:1.20.2-48.1.0",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 16856,
-                "MD5": "5375d8482539b6201f6950df9e2f7a01",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.12/javafmllanguage-1.20.1-47.3.12.jar"
+                "size": 16516,
+                "MD5": "00247e4a0bdae57e4c87e04dadeaad47",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/javafmllanguage/1.20.2-48.1.0/javafmllanguage-1.20.2-48.1.0.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.12",
+              "id": "net.minecraftforge:mclanguage:1.20.2-48.1.0",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 5000,
-                "MD5": "7672cf521b5aed45f100877110f5cca6",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.12/mclanguage-1.20.1-47.3.12.jar"
+                "size": 4921,
+                "MD5": "523c5a830dee83e32b9d7d6dbb0d2b10",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/mclanguage/1.20.2-48.1.0/mclanguage-1.20.2-48.1.0.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.3.12:universal",
+              "id": "net.minecraftforge:forge:1.20.2-48.1.0:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2760843,
-                "MD5": "406f4944b354f354e3a174c987d0fed1",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forge/1.20.1-47.3.12/forge-1.20.1-47.3.12-universal.jar"
+                "size": 2642927,
+                "MD5": "50004a00123f70e40ca0c19c54cf2c57",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forge/1.20.2-48.1.0/forge-1.20.2-48.1.0-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.3.12:client",
+              "id": "net.minecraftforge:forge:1.20.2-48.1.0:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 4793703,
-                "MD5": "0a7a4f989ebec81b77033afcd1b97028",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forge/1.20.1-47.3.12/forge-1.20.1-47.3.12-client.jar"
+                "size": 4874782,
+                "MD5": "9cd5d1465b7c5a7cd9adbb1e7a18cc52",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forge/1.20.2-48.1.0/forge-1.20.2-48.1.0-client.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
+              "id": "net.minecraft:client:1.20.2-20230921.100330:srg",
               "name": "Minecraft Forge (client srg)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 18842082,
-                "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "size": 16377751,
+                "MD5": "f05425467d1e1fee8961e7dc8264b21b",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraft/client/1.20.2-20230921.100330/client-1.20.2-20230921.100330-srg.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
+              "id": "net.minecraft:client:1.20.2-20230921.100330:slim",
               "name": "Minecraft Forge (client slim)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 12592249,
-                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "size": 12871414,
+                "MD5": "1100d5d654a6aa60b61e1f807f4b68ba",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraft/client/1.20.2-20230921.100330/client-1.20.2-20230921.100330-slim.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
+              "id": "net.minecraft:client:1.20.2-20230921.100330:extra",
               "name": "Minecraft Forge (client extra)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 10436626,
-                "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "size": 10314821,
+                "MD5": "aa20ac27fa68c368e43a696244a98279",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraft/client/1.20.2-20230921.100330/client-1.20.2-20230921.100330-extra.jar"
               },
               "subModules": []
             },
             {
-              "id": "cpw.mods:securejarhandler:2.1.10",
-              "name": "Minecraft Forge (securejarhandler)",
+              "id": "net.minecraftforge:unsafe:0.9.2",
+              "name": "Minecraft Forge (unsafe)",
               "type": "Library",
               "artifact": {
-                "size": 88749,
-                "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "size": 7768,
+                "MD5": "a4b1f17fbeea6b548c3530451e45c5c6",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/unsafe/0.9.2/unsafe-0.9.2.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.7.1",
+              "id": "net.minecraftforge:securemodules:2.2.3",
+              "name": "Minecraft Forge (securemodules)",
+              "type": "Library",
+              "artifact": {
+                "size": 95961,
+                "MD5": "5261bf55e7a031d503e4fff91289b384",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/securemodules/2.2.3/securemodules-2.2.3.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.6",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 126093,
-                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "size": 123598,
+                "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.7.1",
-              "name": "Minecraft Forge (asm-commons)",
-              "type": "Library",
-              "artifact": {
-                "size": 73459,
-                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-tree:9.7.1",
+              "id": "org.ow2.asm:asm-tree:9.6",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 51939,
-                "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "size": 51935,
+                "MD5": "6062608f1a98afe1e853d01fa1221a9e",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.7.1",
+              "id": "org.ow2.asm:asm-util:9.6",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 94519,
-                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "size": 91131,
+                "MD5": "bd3bc1c176a787373e9a031073c9574b",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.7.1",
+              "id": "org.ow2.asm:asm-commons:9.6",
+              "name": "Minecraft Forge (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 72194,
+                "MD5": "9e317c75534bd1da8c00a67c618ab288",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.6",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 35126,
-                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "size": 34041,
+                "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
               }
             },
             {
-              "id": "net.minecraftforge:accesstransformers:8.0.4",
+              "id": "net.minecraftforge:accesstransformers:8.1.1",
               "name": "Minecraft Forge (accesstransformers)",
               "type": "Library",
               "artifact": {
-                "size": 77756,
-                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "size": 76622,
+                "MD5": "c6a569349fab20014d69b2bc5f147abb",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/accesstransformers/8.1.1/accesstransformers-8.1.1.jar"
               }
             },
             {
@@ -1487,73 +940,73 @@
               }
             },
             {
-              "id": "net.minecraftforge:eventbus:6.0.5",
+              "id": "net.minecraftforge:eventbus:6.2.0",
               "name": "Minecraft Forge (eventbus)",
               "type": "Library",
               "artifact": {
-                "size": 53985,
-                "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "size": 54084,
+                "MD5": "c810744a3868927fd6d186ff1c3a2d76",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/eventbus/6.2.0/eventbus-6.2.0.jar"
               }
             },
             {
-              "id": "net.minecraftforge:forgespi:7.0.1",
+              "id": "net.jodah:typetools:0.6.3",
+              "name": "Minecraft Forge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "size": 18281,
+                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forgespi:7.1.0",
               "name": "Minecraft Forge (forgespi)",
               "type": "Library",
               "artifact": {
-                "size": 29831,
-                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "size": 29762,
+                "MD5": "77d57be071a59d20382cb0b060bf8282",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/forgespi/7.1.0/forgespi-7.1.0.jar"
               }
             },
             {
-              "id": "net.minecraftforge:coremods:5.2.1",
+              "id": "net.minecraftforge:coremods:5.1.0",
               "name": "Minecraft Forge (coremods)",
               "type": "Library",
               "artifact": {
-                "size": 31321,
-                "MD5": "5bbacebd88d19aa6ce9f7563d1aac3f5",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/coremods/5.2.1/coremods-5.2.1.jar"
+                "size": 24255,
+                "MD5": "0fd818972da8e7adba52dbc072c70750",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/coremods/5.1.0/coremods-5.1.0.jar"
               }
             },
             {
-              "id": "cpw.mods:modlauncher:10.0.9",
+              "id": "org.openjdk.nashorn:nashorn-core:15.3",
+              "name": "Minecraft Forge (nashorn-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 2167288,
+                "MD5": "91e98c20afa1090c344229ce28b4c53f",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:modlauncher:10.1.1",
               "name": "Minecraft Forge (modlauncher)",
               "type": "Library",
               "artifact": {
-                "size": 130343,
-                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "size": 130692,
+                "MD5": "7a9f3a225920fb1455f6f0332e904eeb",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/modlauncher/10.1.1/modlauncher-10.1.1.jar"
               }
             },
             {
-              "id": "net.minecraftforge:unsafe:0.2.0",
-              "name": "Minecraft Forge (unsafe)",
+              "id": "net.minecraftforge:mergetool-api:1.0",
+              "name": "Minecraft Forge (mergetool-api)",
               "type": "Library",
               "artifact": {
-                "size": 2834,
-                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:mergetool:1.1.5:api",
-              "name": "Minecraft Forge (mergetool)",
-              "type": "Library",
-              "artifact": {
-                "size": 2572,
-                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
-              }
-            },
-            {
-              "id": "com.electronwill.night-config:core:3.6.4",
-              "name": "Minecraft Forge (core)",
-              "type": "Library",
-              "artifact": {
-                "size": 199834,
-                "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "size": 2624,
+                "MD5": "848efa1631b460b715de574b2beaba8e",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/mergetool-api/1.0/mergetool-api-1.0.jar"
               }
             },
             {
@@ -1567,6 +1020,16 @@
               }
             },
             {
+              "id": "com.electronwill.night-config:core:3.6.4",
+              "name": "Minecraft Forge (core)",
+              "type": "Library",
+              "artifact": {
+                "size": 199834,
+                "MD5": "d83ab07267e402131fb93d899a57f5cd",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+              }
+            },
+            {
               "id": "org.apache.maven:maven-artifact:3.8.5",
               "name": "Minecraft Forge (maven-artifact)",
               "type": "Library",
@@ -1574,16 +1037,6 @@
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
                 "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
-              }
-            },
-            {
-              "id": "net.jodah:typetools:0.6.3",
-              "name": "Minecraft Forge (typetools)",
-              "type": "Library",
-              "artifact": {
-                "size": 18281,
-                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -1627,13 +1080,13 @@
               }
             },
             {
-              "id": "org.openjdk.nashorn:nashorn-core:15.4",
-              "name": "Minecraft Forge (nashorn-core)",
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "name": "Minecraft Forge (JarJarFileSystems)",
               "type": "Library",
               "artifact": {
-                "size": 2167292,
-                "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+                "size": 32195,
+                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -1657,149 +1110,75 @@
               }
             },
             {
-              "id": "cpw.mods:bootstraplauncher:1.1.2",
-              "name": "Minecraft Forge (bootstraplauncher)",
+              "id": "net.minecraftforge:bootstrap:1.2.0",
+              "name": "Minecraft Forge (bootstrap)",
               "type": "Library",
               "artifact": {
-                "size": 8284,
-                "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "size": 8292,
+                "MD5": "75c68f6de3b196880c4ac892c2f99708",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/bootstrap/1.2.0/bootstrap-1.2.0.jar"
               }
             },
             {
-              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
-              "name": "Minecraft Forge (JarJarFileSystems)",
+              "id": "com.google.guava:guava:32.1.2-jre",
+              "name": "Minecraft Forge (guava)",
               "type": "Library",
               "artifact": {
-                "size": 32195,
-                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "size": 3041591,
+                "MD5": "5fe031b3b35ed56182478811a931d617",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.12",
+              "id": "com.google.guava:failureaccess:1.0.1",
+              "name": "Minecraft Forge (failureaccess)",
+              "type": "Library",
+              "artifact": {
+                "size": 4617,
+                "MD5": "091883993ef5bfa91da01dcc8fc52236",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlloader:1.20.2-48.1.0",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 265346,
-                "MD5": "77bab0efbc729763d18aa34fbeb2ba9b",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.12/fmlloader-1.20.1-47.3.12.jar"
+                "size": 256205,
+                "MD5": "7469c721f50501731dd74a5b22ef0966",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/fmlloader/1.20.2-48.1.0/fmlloader-1.20.2-48.1.0.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.12",
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.2-48.1.0",
               "name": "Minecraft Forge (fmlearlydisplay)",
               "type": "Library",
               "artifact": {
-                "size": 170425,
-                "MD5": "3aeb68d1d5d264bd124e32331237b1a3",
-                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.12/fmlearlydisplay-1.20.1-47.3.12.jar"
+                "size": 170473,
+                "MD5": "3eaffc3a680bc6c05f54befa01b3c468",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.2-48.1.0/fmlearlydisplay-1.20.2-48.1.0.jar"
               }
             }
           ]
         },
         {
-          "id": "software.bernie.example:geckolib:4.4.9@jar",
-          "name": "GeckoLib 4",
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.6.11+mc1.20.2@jar",
+          "name": "Korean Patch",
           "type": "ForgeMod",
           "artifact": {
-            "size": 991552,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.20.1/forgemods/optionalon/geckolib-forge-1.20.1-4.4.9.jar",
-            "MD5": "edc6083a1c68415b9635d68c7cdf7a99"
-          },
-          "required": {
-            "value": false
+            "size": 194948,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.20.2/forgemods/required/koreanpatch-forge-1.6.11+mc1.20.2.jar",
+            "MD5": "110788a3e807c1b16ec765502c7c3f06"
           }
         },
         {
-          "id": "com.kleiders.kleidersplayerrenderer:kleiders_custom_renderer:7.2.0@jar",
-          "name": "Kleiders Custom Renderer",
+          "id": "com.pixelmonmod:pixelmon:9.2.10@jar",
+          "name": "Pixelmon",
           "type": "ForgeMod",
           "artifact": {
-            "size": 43993,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.20.1/forgemods/optionalon/Kleiders-Custom-Renderer-API-7.2.0-1.20.1.jar",
-            "MD5": "a5ad4606f38bffbceea0ee6c38eee8d8"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.mcreator:minepiece:3@jar",
-          "name": "Mine Piece",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10736693,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.20.1/forgemods/optionalon/MinePiece-ver3-forge-1.20.1.jar",
-            "MD5": "b74da8945419a5f338cfee2e2664b1a5"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "io.github.flemmli97:mobbattle:1.20.1-2.4.9@jar",
-          "name": "Mob Battle Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 487047,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.20.1/forgemods/optionalon/mobbattle-1.20.1-2.4.9-forge.jar",
-            "MD5": "f36e1b064dc11fe24d801ef0dd935fce"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "vazkii.neat:neat:1.20.1-41-FORGE@jar",
-          "name": "Neat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 30595,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.20.1/forgemods/optionalon/Neat-1.20.1-41-FORGE.jar",
-            "MD5": "506cced5f0ddd6104de4d9a05f03a3c3"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "dev.kosmx.playeranim:playeranimator:1.0.2-rc1+1.20@jar",
-          "name": "Player Animator",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 181437,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.20.1/forgemods/optionalon/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-            "MD5": "46f8554181d4d240075ea4919d01fd01"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "xaero.minimap:xaerominimap:24.6.1@jar",
-          "name": "Xaero's Minimap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1605900,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.20.1/forgemods/optionalon/Xaeros_Minimap_24.6.1_Forge_1.20.jar",
-            "MD5": "f4298b934da5b891604978187570565b"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "xaero.map:xaeroworldmap:1.39.0@jar",
-          "name": "Xaero's World Map",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 930284,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.20.1/forgemods/optionalon/XaerosWorldMap_1.39.0_Forge_1.20.jar",
-            "MD5": "56bacc411ba41fbe016e9c53dbc283e6"
-          },
-          "required": {
-            "value": false
+            "size": 343273711,
+            "url": "https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.20.2-9.2.10-universal.jar",
+            "MD5": "8bc9140b7a478aaa01480b719d780b25"
           }
         }
       ]
