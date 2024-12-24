@@ -1162,6 +1162,16 @@
           ]
         },
         {
+          "id": "journeymap:journeymap:5.9.21@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7139875,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.20.2/forgemods/required/journeymap-1.20.2-5.9.21-forge.jar",
+            "MD5": "719d053bfea68aa387def90b397eca34"
+          }
+        },
+        {
           "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.6.11+mc1.20.2@jar",
           "name": "Korean Patch",
           "type": "ForgeMod",
@@ -1169,6 +1179,16 @@
             "size": 194948,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.20.2/forgemods/required/koreanpatch-forge-1.6.11+mc1.20.2.jar",
             "MD5": "110788a3e807c1b16ec765502c7c3f06"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.20.2-2.5.12@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7704805,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.20.2/forgemods/required/voicechat-forge-1.20.2-2.5.12.jar",
+            "MD5": "4e41c0de1113f74ea31c85c4d90a8f4e"
           }
         },
         {
