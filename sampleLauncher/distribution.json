@@ -1112,6 +1112,16 @@
           }
         },
         {
+          "id": "kr.neko.sokcuri:naraechat:1.16.3-0.7.1@jar",
+          "name": "Narae Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1755294,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.16.5/forgemods/required/naraechat-1.16.3-0.7.1.jar",
+            "MD5": "e75b886d783090db4d3c7b45c0e25f10"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.16.5-2.5.26@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
