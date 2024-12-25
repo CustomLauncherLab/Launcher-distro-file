@@ -731,6 +731,12 @@
       },
       "mainServer": false,
       "autoconnect": true,
+      "javaOptions": {
+        "ram": {
+          "minimum": 4096,
+          "recommended": 6144
+        }
+      },
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.42",
@@ -1096,16 +1102,6 @@
           }
         },
         {
-          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.18.0+mc1.16.5@jar",
-          "name": "ModernFix",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 867079,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.16.5/forgemods/required/modernfix-forge-5.18.0+mc1.16.5.jar",
-            "MD5": "6989c0a2e20fbe4c2a431b1e64b0e15c"
-          }
-        },
-        {
           "id": "yalter.mousetweaks:mousetweaks:2.14@jar",
           "name": "Mouse Tweaks",
           "type": "ForgeMod",
@@ -1142,7 +1138,6 @@
           "artifact": {
             "size": 182,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.16.5/files/options.txt",
-            "MD5": "ee98c4a7fcc1811918e429abf3165e8e",
             "path": "options.txt"
           }
         },
@@ -1153,7 +1148,6 @@
           "artifact": {
             "size": 83,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.16.5/files/servers.dat",
-            "MD5": "c01308814ccf6342becf535169a1d3b7",
             "path": "servers.dat"
           }
         }

@@ -12,10 +12,21 @@
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": false,
-    "autoconnect": true
+    "autoconnect": true,
+    "javaOptions": {
+      "ram": {
+        "minimum": 4096,
+        "recommended": 6144
+      }
+    }
   },
   "forge": {
     "version": "36.2.42"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["servers.dat", "options.txt"]
+    }
+  ]
 }
