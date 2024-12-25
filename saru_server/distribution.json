@@ -350,7 +350,7 @@
           "name": "asteorbar.json5",
           "type": "File",
           "artifact": {
-            "size": 13007,
+            "size": 13218,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/config/asteorbar.json5",
             "path": "config/asteorbar.json5"
           }
@@ -403,6 +403,105 @@
             "size": 2242,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/config/watut-client.toml",
             "path": "config/watut-client.toml"
+          }
+        },
+        {
+          "id": "colorpalette.html",
+          "name": "colorpalette.html",
+          "type": "File",
+          "artifact": {
+            "size": 4503,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/journeymap/colorpalette.html",
+            "MD5": "216a02fa4f41dab9096eaabc9eb1eecc",
+            "path": "journeymap/colorpalette.html"
+          }
+        },
+        {
+          "id": "colorpalette.json",
+          "name": "colorpalette.json",
+          "type": "File",
+          "artifact": {
+            "size": 199096,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/journeymap/colorpalette.json",
+            "MD5": "3dc286095c858094374aff0fb6bc3d57",
+            "path": "journeymap/colorpalette.json"
+          }
+        },
+        {
+          "id": "journeymap.core.config",
+          "name": "journeymap.core.config",
+          "type": "File",
+          "artifact": {
+            "size": 1870,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/journeymap/config/5.10/journeymap.core.config",
+            "MD5": "e30e808ead3684c04aa1baa721e31bfb",
+            "path": "journeymap/config/5.10/journeymap.core.config"
+          }
+        },
+        {
+          "id": "journeymap.fullmap.config",
+          "name": "journeymap.fullmap.config",
+          "type": "File",
+          "artifact": {
+            "size": 869,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/journeymap/config/5.10/journeymap.fullmap.config",
+            "MD5": "dfd00e2405b4bc4ad77d94faffb49134",
+            "path": "journeymap/config/5.10/journeymap.fullmap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap.config",
+          "name": "journeymap.minimap.config",
+          "type": "File",
+          "artifact": {
+            "size": 1664,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/journeymap/config/5.10/journeymap.minimap.config",
+            "MD5": "38c4075031654d21ed3005d7a0c113f3",
+            "path": "journeymap/config/5.10/journeymap.minimap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap2.config",
+          "name": "journeymap.minimap2.config",
+          "type": "File",
+          "artifact": {
+            "size": 1663,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/journeymap/config/5.10/journeymap.minimap2.config",
+            "MD5": "5a37f26e2b9b5c73d28e2464134edc6f",
+            "path": "journeymap/config/5.10/journeymap.minimap2.config"
+          }
+        },
+        {
+          "id": "journeymap.topo.config",
+          "name": "journeymap.topo.config",
+          "type": "File",
+          "artifact": {
+            "size": 964,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/journeymap/config/5.10/journeymap.topo.config",
+            "MD5": "d6fd0b74c996f515f3645d68fed8e5df",
+            "path": "journeymap/config/5.10/journeymap.topo.config"
+          }
+        },
+        {
+          "id": "journeymap.waypoint.config",
+          "name": "journeymap.waypoint.config",
+          "type": "File",
+          "artifact": {
+            "size": 896,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/journeymap/config/5.10/journeymap.waypoint.config",
+            "MD5": "80440c4ed85631e9fbb8c855c93fb70c",
+            "path": "journeymap/config/5.10/journeymap.waypoint.config"
+          }
+        },
+        {
+          "id": "journeymap.webmap.config",
+          "name": "journeymap.webmap.config",
+          "type": "File",
+          "artifact": {
+            "size": 155,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/files/journeymap/config/5.10/journeymap.webmap.config",
+            "MD5": "2b15c0a6e6adfb00ef20f66d77727698",
+            "path": "journeymap/config/5.10/journeymap.webmap.config"
           }
         },
         {
