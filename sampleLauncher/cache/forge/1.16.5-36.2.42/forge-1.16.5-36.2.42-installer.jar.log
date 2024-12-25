@@ -1,8 +1,8 @@
 JVM info: Oracle Corporation - 16.0.2 - 16.0.2+7-67
 java.net.preferIPv4Stack=true
-Current Time: 25/12/2024 08:34:59
-Host: files.minecraftforge.net [172.67.161.211, 104.21.58.163]
-Host: maven.minecraftforge.net [104.21.58.163, 172.67.161.211]
+Current Time: 25/12/2024 09:25:41
+Host: files.minecraftforge.net [104.21.58.163, 172.67.161.211]
+Host: maven.minecraftforge.net [172.67.161.211, 104.21.58.163]
 Host: libraries.minecraft.net [13.107.246.74]
 Host: launchermeta.mojang.com [13.107.246.74]
 Host: piston-meta.mojang.com [13.107.246.74]
@@ -212,7 +212,7 @@ Considering library org.ow2.asm:asm:9.3
 Considering library trove:trove:1.0.2
   Downloading library from https://maven.creeperhost.net/trove/trove/1.0.2/trove-1.0.2.jar
     Download completed: Checksum validated.
-Created Temporary Directory: C:\Users\gotiger\AppData\Local\Temp\forge_installer6833833809262978522
+Created Temporary Directory: C:\Users\gotiger\AppData\Local\Temp\forge_installer12370134943362705509
   Extracting: /data/client.lzma
 Building Processors
 ===============================================================================
@@ -14959,14 +14959,14 @@ Remapping jar... 100%
     D:\Coding\Projects\CustomLauncherLab\Launcher-distro-file\sampleLauncher\cache\forge\1.16.5-36.2.42\libraries\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar
     D:\Coding\Projects\CustomLauncherLab\Launcher-distro-file\sampleLauncher\cache\forge\1.16.5-36.2.42\libraries\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar
     D:\Coding\Projects\CustomLauncherLab\Launcher-distro-file\sampleLauncher\cache\forge\1.16.5-36.2.42\libraries\trove\trove\1.0.2\trove-1.0.2.jar
-  Args: --clean, D:\Coding\Projects\CustomLauncherLab\Launcher-distro-file\sampleLauncher\cache\forge\1.16.5-36.2.42\libraries\net\minecraft\client\1.16.5-20210115.111550\client-1.16.5-20210115.111550-srg.jar, --output, D:\Coding\Projects\CustomLauncherLab\Launcher-distro-file\sampleLauncher\cache\forge\1.16.5-36.2.42\libraries\net\minecraftforge\forge\1.16.5-36.2.42\forge-1.16.5-36.2.42-client.jar, --apply, C:\Users\gotiger\AppData\Local\Temp\forge_installer6833833809262978522\data\client.lzma
+  Args: --clean, D:\Coding\Projects\CustomLauncherLab\Launcher-distro-file\sampleLauncher\cache\forge\1.16.5-36.2.42\libraries\net\minecraft\client\1.16.5-20210115.111550\client-1.16.5-20210115.111550-srg.jar, --output, D:\Coding\Projects\CustomLauncherLab\Launcher-distro-file\sampleLauncher\cache\forge\1.16.5-36.2.42\libraries\net\minecraftforge\forge\1.16.5-36.2.42\forge-1.16.5-36.2.42-client.jar, --apply, C:\Users\gotiger\AppData\Local\Temp\forge_installer12370134943362705509\data\client.lzma
 Applying: 
   Clean:     D:\Coding\Projects\CustomLauncherLab\Launcher-distro-file\sampleLauncher\cache\forge\1.16.5-36.2.42\libraries\net\minecraft\client\1.16.5-20210115.111550\client-1.16.5-20210115.111550-srg.jar
   Output:    D:\Coding\Projects\CustomLauncherLab\Launcher-distro-file\sampleLauncher\cache\forge\1.16.5-36.2.42\libraries\net\minecraftforge\forge\1.16.5-36.2.42\forge-1.16.5-36.2.42-client.jar
   KeepData:  false
   Unpatched: false
-  Patches:   C:\Users\gotiger\AppData\Local\Temp\forge_installer6833833809262978522\data\client.lzma
-Loading patches file: C:\Users\gotiger\AppData\Local\Temp\forge_installer6833833809262978522\data\client.lzma
+  Patches:   C:\Users\gotiger\AppData\Local\Temp\forge_installer12370134943362705509\data\client.lzma
+Loading patches file: C:\Users\gotiger\AppData\Local\Temp\forge_installer12370134943362705509\data\client.lzma
   Reading patch com.mojang.blaze3d.platform.GlStateManager$1.binpatch
     Checksum: 859099ff Exists: true
   Reading patch com.mojang.blaze3d.platform.GlStateManager$AlphaState.binpatch

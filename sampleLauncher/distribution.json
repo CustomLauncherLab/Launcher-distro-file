@@ -784,7 +784,7 @@
               "classpath": true,
               "artifact": {
                 "size": 11352644,
-                "MD5": "09aafb40e335c08f486440351aecf0d4",
+                "MD5": "868f34e46129ba54d7f93ac9f466ad12",
                 "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
