@@ -1096,13 +1096,13 @@
           }
         },
         {
-          "id": "generated.forgemod:modernfix:fabric-5.18.0+mc1.16.5@jar",
-          "name": "Modernfix",
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.18.0+mc1.16.5@jar",
+          "name": "ModernFix",
           "type": "ForgeMod",
           "artifact": {
-            "size": 614422,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.16.5/forgemods/required/modernfix-fabric-5.18.0+mc1.16.5.jar",
-            "MD5": "1a1271bbf58901af7ecf32eb5dc35d44"
+            "size": 867079,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.16.5/forgemods/required/modernfix-forge-5.18.0+mc1.16.5.jar",
+            "MD5": "6989c0a2e20fbe4c2a431b1e64b0e15c"
           }
         },
         {
