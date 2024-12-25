@@ -1122,6 +1122,16 @@
           }
         },
         {
+          "id": "net.mcreator.test:randombox:1.2.9@jar",
+          "name": "RandomBox-1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8421959,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/pixelmon-1.16.5/forgemods/required/RandomBox-1.0.jar",
+            "MD5": "8c22e9ab207dbc1fd352f0d18863c28d"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.16.5-2.5.26@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
