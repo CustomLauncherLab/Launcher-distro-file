@@ -645,19 +645,6 @@
           }
         },
         {
-          "id": "com.tiviacz:travelersbackpack:5.4.51@jar",
-          "name": "Traveler's Backpack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 873546,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.16.5/forgemods/optionalon/TravelersBackpack-1.16.5-5.4.51.jar",
-            "MD5": "eab9a192f69e677ae3fca210919e1050"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "de.maxhenkel:voicechat:1.16.5-2.5.26@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
