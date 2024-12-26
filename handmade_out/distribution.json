@@ -39,8 +39,8 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 13577,
-                "MD5": "f38b527e26e0a0165e2118970d1a4d13",
+                "size": 13900,
+                "MD5": "edeb35880cd072ce6438b9e15f7a1b12",
                 "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/versions/1.16.5-forge-36.2.42/1.16.5-forge-36.2.42.json"
               }
             },
@@ -367,6 +367,16 @@
           }
         },
         {
+          "id": "top.theillusivec4:curios:1.16.5-4.1.0.0@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 291897,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/curios-forge-1.16.5-4.1.0.0.jar",
+            "MD5": "4f71bcd532f9a3c8b051ef30787bd404"
+          }
+        },
+        {
           "id": "com.snuri:customfont:1.0.0@jar",
           "name": "CustomFont",
           "type": "ForgeMod",
@@ -397,6 +407,26 @@
           }
         },
         {
+          "id": "net.niniblender:luxuryfurnitures:2.29.0@jar",
+          "name": "Luxury Furnitures",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 74441364,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/Luxury-Furnitures-2.29.0-1.16.5.jar",
+            "MD5": "83c4d2d246dfa6c881d7ccd62740b61c"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:obfuscate:0.6.3@jar",
+          "name": "Obfuscate",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 142536,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/obfuscate-0.6.3-1.16.5.jar",
+            "MD5": "514fe4c6c39bc1b7e474d813daab593e"
+          }
+        },
+        {
           "id": "net.geforcemods:securitycraft:v1.9.11@jar",
           "name": "SecurityCraft",
           "type": "ForgeMod",
@@ -404,6 +434,16 @@
             "size": 3909920,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/SecurityCraft-1.16.5-1.9.11.jar",
             "MD5": "cb6d5b810f5dd7143e8d57808d6b22fb"
+          }
+        },
+        {
+          "id": "com.tac.guns:tac:0.3.14.2@jar",
+          "name": "Timeless and Classics Guns",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 43320575,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/tac-release-0.3.14.2-1.16.5.jar",
+            "MD5": "ad52fa4804a4600028c0b0b675ceca39"
           }
         },
         {
@@ -496,8 +536,8 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 13577,
-                "MD5": "f38b527e26e0a0165e2118970d1a4d13",
+                "size": 13900,
+                "MD5": "edeb35880cd072ce6438b9e15f7a1b12",
                 "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/versions/1.16.5-forge-36.2.42/1.16.5-forge-36.2.42.json"
               }
             },
