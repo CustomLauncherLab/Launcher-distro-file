@@ -325,9 +325,12 @@
           "name": "OptiFine 1.12.2_HD_U_G5",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2669107,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
-            "MD5": "54e561e441192cf009803ae95873c5d0"
+            "size": 2457427,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5_MOD.jar",
+            "MD5": "6bff22e3ff5caf87c58ad8deb38a0543"
+          },
+          "required": {
+            "value": false
           }
         },
         {
