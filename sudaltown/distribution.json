@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "sudaltown-1.20.1",
-      "name": "수달이네마을",
-      "description": "sudaltown Running Minecraft 1.20.1 (Forge v47.3.0)",
+      "name": "수달이네마을2",
+      "description": "Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sudaltown/server-icon.png",
       "version": "1.0.0",
       "address": "sudalcute.kro.kr",
@@ -116,6 +116,16 @@
           ]
         },
         {
+          "id": "shcm.shsupercm:citresewn:1.2.2+1.20.1@jar",
+          "name": "CIT Resewn",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 395586,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/fabricmods/required/citresewn-1.2.2+1.20.1.jar",
+            "MD5": "e7cd058b8f1866b8b599abdcc830b109"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.92.2+1.20.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -126,16 +136,6 @@
           }
         },
         {
-          "id": "kr.cosine.simplef3:hqsimplef3:1.0.3@jar",
-          "name": "HQSimpleF3",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 81113,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/fabricmods/required/HQSimpleF3-1.0.0.jar",
-            "MD5": "0847a2a80dfd5452c40c8631a001d8eb"
-          }
-        },
-        {
           "id": "generated.fabricmod:iris:1.7.2+mc1.20.1@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -143,6 +143,16 @@
             "size": 2701293,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/fabricmods/required/iris-1.7.2+mc1.20.1.jar",
             "MD5": "fde2833d321c3f09020bd456094693d3"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.6.11+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 442450,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/fabricmods/required/koreanpatch-fabric-1.6.11+mc1.20.1.jar",
+            "MD5": "fd795ce17a72ac9fc054de9980c1c27d"
           }
         },
         {
@@ -192,6 +202,7 @@
           "artifact": {
             "size": 5117115,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
+            "MD5": "64bfd5a728d1164d59eedfd220b4852d",
             "path": "resourcepacks/리소스팩.zip"
           }
         },
@@ -212,6 +223,7 @@
           "artifact": {
             "size": 441683,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sudaltown/servers/sudaltown-1.20.1/files/shaderpacks/shader.zip",
+            "MD5": "a0852d3fddaf2c7f957ad6e1b8624513",
             "path": "shaderpacks/shader.zip"
           }
         }
