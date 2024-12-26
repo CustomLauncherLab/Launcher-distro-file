@@ -360,6 +360,17 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 131,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/files/options.txt",
+            "MD5": "cf565594ed907e9fbade738b6cfb6061",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "cocricot_1.12.2_v1.11.0.zip",
           "name": "cocricot_1.12.2_v1.11.0.zip",
           "type": "File",
