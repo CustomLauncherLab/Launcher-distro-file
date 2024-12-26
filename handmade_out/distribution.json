@@ -256,19 +256,6 @@
           ]
         },
         {
-          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
-          "name": "Armourer's Workshop",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2678747,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/Armourers-Workshop-1.12.2-0.51.0.jar",
-            "MD5": "12954551f39bed840b32fd8be8fddb54"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "biomesoplenty.core:biomesoplenty:7.0.1@jar",
           "name": "Biomes O' Plenty",
           "type": "ForgeMod",
@@ -357,6 +344,17 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "Armourers-Workshop-1.12.2-0.51.0.jar",
+          "name": "Armourers-Workshop-1.12.2-0.51.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2678747,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/files/mods/Armourers-Workshop-1.12.2-0.51.0.jar",
+            "MD5": "12954551f39bed840b32fd8be8fddb54",
+            "path": "mods/Armourers-Workshop-1.12.2-0.51.0.jar"
           }
         },
         {
