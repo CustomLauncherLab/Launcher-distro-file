@@ -502,6 +502,16 @@
           }
         },
         {
+          "id": "journeymap:journeymap:5.8.6@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6694199,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/sampleLauncher/servers/MinePiece-1.16.5/forgemods/required/journeymap-1.16.5-5.8.6.jar",
+            "MD5": "2b7617ed4d0f82818d70c181f028cf6a"
+          }
+        },
+        {
           "id": "jeresources:jeresources:0.12.1.128@jar",
           "name": "Just Enough Resources",
           "type": "ForgeMod",
