@@ -181,8 +181,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 119348,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/fabricmods/required/firstperson-fabric-2.4.4-mc1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/fabricmods/optionalon/firstperson-fabric-2.4.4-mc1.20.4.jar",
             "MD5": "c75ec7fd892147d5b492930954db8cbd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -301,8 +304,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 214943,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/fabricmods/required/SimpleRPC-Universal-3.3.3.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2-1.20.4/fabricmods/optionalon/SimpleRPC-Universal-3.3.3.jar",
             "MD5": "3634abdd8e7be1471d8a6ed9a50386b8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
