@@ -256,16 +256,6 @@
           ]
         },
         {
-          "id": "com.hasukko:miniaturia_mod:v8@jar",
-          "name": "MiniaTuria Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 12693375,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/required/[Mod]%20MiniaTuria%201.12.2%20[v8.1].jar",
-            "MD5": "bc26ee9e59edd4e6098a2687cf7f155c"
-          }
-        },
-        {
           "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
@@ -309,6 +299,16 @@
           }
         },
         {
+          "id": "com.hasukko:miniaturia_mod:v8@jar",
+          "name": "MiniaTuria Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12693375,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/required/MiniaTuria_1.12.2_v8.1.jar",
+            "MD5": "bc26ee9e59edd4e6098a2687cf7f155c"
+          }
+        },
+        {
           "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
           "name": "OptiFine 1.12.2_HD_U_G5",
           "type": "ForgeMod",
@@ -324,7 +324,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4912890,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/required/Pam's%20HarvestCraft%201.12.2zg.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/required/Pam's_HarvestCraft_1.12.2zg.jar",
             "MD5": "e8e1ac67accdeea50116e1e92e592397"
           }
         },
@@ -340,14 +340,14 @@
           }
         },
         {
-          "id": "[RP] MiniaTuria 1.12.2 [mod v8].zip",
-          "name": "[RP] MiniaTuria 1.12.2 [mod v8].zip",
+          "id": "MiniaTuria_1.12.2_v8.zip",
+          "name": "MiniaTuria_1.12.2_v8.zip",
           "type": "File",
           "artifact": {
             "size": 19264165,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/files/resourcepacks/[RP]%20MiniaTuria%201.12.2%20[mod%20v8].zip",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/files/resourcepacks/MiniaTuria_1.12.2_v8.zip",
             "MD5": "16c0625c997b31c8658b55f9f79a33fb",
-            "path": "resourcepacks/[RP] MiniaTuria 1.12.2 [mod v8].zip"
+            "path": "resourcepacks/MiniaTuria_1.12.2_v8.zip"
           }
         },
         {
