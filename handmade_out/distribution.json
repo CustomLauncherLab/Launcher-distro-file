@@ -308,6 +308,19 @@
           }
         },
         {
+          "id": "org.dimdev:jeid:1.0.4-SNAPSHOT-thin@jar",
+          "name": "JustEnoughIDs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 99591,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/JustEnoughIDs-1.0.4-SNAPSHOT-thin.jar",
+            "MD5": "37e51cc969075617051b228f6c6981d2"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.hasukko:miniaturia_mod:v8@jar",
           "name": "MiniaTuria Mod",
           "type": "ForgeMod",
@@ -321,13 +334,26 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
+          "id": "generated.forgemod:optifine:1.12.2_HD_U_G5@jar",
           "name": "OptiFine 1.12.2_HD_U_G5",
           "type": "ForgeMod",
           "artifact": {
             "size": 2457427,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5_MOD.jar",
             "MD5": "6bff22e3ff5caf87c58ad8deb38a0543"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
+          "name": "OptiFine 1.12.2_HD_U_G5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2669107,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
+            "MD5": "54e561e441192cf009803ae95873c5d0"
           },
           "required": {
             "value": false
