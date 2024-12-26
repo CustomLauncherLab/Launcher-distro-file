@@ -261,8 +261,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2678747,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/Armourers-Workshop-1.12.2-0.51.0.jar",
             "MD5": "12954551f39bed840b32fd8be8fddb54"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -284,8 +287,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2945950,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/required/cocricotMOD_1.12.2_v1.11.0.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/cocricotMOD_1.12.2_v1.11.0.jar",
             "MD5": "1517f8e2bd7ab68207e7dc524d5bb24c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -294,8 +300,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9911871,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/CustomNPCs_1.12.2-(05Jul20).jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -304,8 +313,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12693375,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/required/MiniaTuria_1.12.2_v8.1.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/MiniaTuria_1.12.2_v8.1.jar",
             "MD5": "bc26ee9e59edd4e6098a2687cf7f155c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -324,8 +336,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4912890,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/required/Pam's_HarvestCraft_1.12.2zg.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/Pam's_HarvestCraft_1.12.2zg.jar",
             "MD5": "e8e1ac67accdeea50116e1e92e592397"
+          },
+          "required": {
+            "value": false
           }
         },
         {
