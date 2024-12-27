@@ -1156,6 +1156,16 @@
           ]
         },
         {
+          "id": "me.ddayo.aris16:aris:1.0.0-1.16.5@jar",
+          "name": "Aris",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3392819,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/aris-1.0-SNAPSHOT-all.jar",
+            "MD5": "3c202cdd3635c92b37112f83ec8ea376"
+          }
+        },
+        {
           "id": "de.maxhenkel:camera:1.16.5-1.0.14@jar",
           "name": "Camera Mod",
           "type": "ForgeMod",
@@ -1213,6 +1223,16 @@
             "size": 285444,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/CustomView-1.16.5-1.1.5.jar",
             "MD5": "0e67660457c8efdd76543db916329ed5"
+          }
+        },
+        {
+          "id": "thedarkcolour.kotlinforforge:kotlinforforge:1.16.0@jar",
+          "name": "Kotlin for Forge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6754655,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/kff-1.16.5-1.17.0.jar",
+            "MD5": "7671b34c5268409692e09e8da69fceb6"
           }
         },
         {
