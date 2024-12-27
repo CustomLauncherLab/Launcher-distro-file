@@ -1266,6 +1266,16 @@
           }
         },
         {
+          "id": "de.maxhenkel:voicechat:1.16.5-2.5.26@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7722823,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.26.jar",
+            "MD5": "55ee7fa56ede1fd5dd349e59efcd49b7"
+          }
+        },
+        {
           "id": "com.sk89q:worldedit:7.2.5+57d5ac9@jar",
           "name": "WorldEdit",
           "type": "ForgeMod",
