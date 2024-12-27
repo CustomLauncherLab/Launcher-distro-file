@@ -1156,6 +1156,16 @@
           ]
         },
         {
+          "id": "de.maxhenkel:camera:1.16.5-1.0.14@jar",
+          "name": "Camera Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 273299,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/camera-1.16.5-1.0.14.jar",
+            "MD5": "91f52f8feec00dfe0aed9a851c19b7ea"
+          }
+        },
+        {
           "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre22@jar",
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
