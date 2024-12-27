@@ -1226,6 +1226,16 @@
           }
         },
         {
+          "id": "com.nosiphus.furniture:nfm:2022.02.01@jar",
+          "name": "Nosiphus Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 857004,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/nfm-2022.02.01-1.16.5.jar",
+            "MD5": "e50f77906f66b0a000190b04c0de9c34"
+          }
+        },
+        {
           "id": "com.mrcrayfish:obfuscate:0.6.3@jar",
           "name": "Obfuscate",
           "type": "ForgeMod",
