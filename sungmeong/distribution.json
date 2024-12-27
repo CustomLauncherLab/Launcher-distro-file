@@ -327,14 +327,14 @@
           }
         },
         {
-          "id": "BSL_v8.4.01.1.zip",
-          "name": "BSL_v8.4.01.1.zip",
+          "id": "BSL_v8.4.01.2.zip",
+          "name": "BSL_v8.4.01.2.zip",
           "type": "File",
           "artifact": {
-            "size": 1105625,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sungmeong/servers/sungmeong-1.12.2/files/shaderpacks/BSL_v8.4.01.1.zip",
-            "MD5": "c3376fd79985efdedf0eba3722eab1ea",
-            "path": "shaderpacks/BSL_v8.4.01.1.zip"
+            "size": 1105709,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sungmeong/servers/sungmeong-1.12.2/files/shaderpacks/BSL_v8.4.01.2.zip",
+            "MD5": "d8f5cc79fc4be47936362198bd5dbe6d",
+            "path": "shaderpacks/BSL_v8.4.01.2.zip"
           }
         }
       ]
