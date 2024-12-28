@@ -1298,16 +1298,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5520538,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G8_MOD.jar",
-            "MD5": "be4979940ae0637d15290943f3e654e0"
-          }
-        },
-        {
           "id": "net.geforcemods:securitycraft:v1.9.11@jar",
           "name": "SecurityCraft",
           "type": "ForgeMod",
@@ -1348,6 +1338,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.16.5_HD_U_G8_MOD:0.0.0@jar",
+          "name": "OptiFine_1.16.5_HD_U_G8_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 5520538,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
+            "MD5": "be4979940ae0637d15290943f3e654e0"
           }
         },
         {
