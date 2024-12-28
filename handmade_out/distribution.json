@@ -1268,6 +1268,16 @@
           }
         },
         {
+          "id": "kr.neko.sokcuri:naraechat:1.16.3-0.7.1@jar",
+          "name": "Narae Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1755294,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/naraechat-1.16.3-0.7.1.jar",
+            "MD5": "e75b886d783090db4d3c7b45c0e25f10"
+          }
+        },
+        {
           "id": "com.nosiphus.furniture:nfm:2022.02.01@jar",
           "name": "Nosiphus Furniture Mod",
           "type": "ForgeMod",
@@ -1285,6 +1295,16 @@
             "size": 142536,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/obfuscate-0.6.3-1.16.5.jar",
             "MD5": "514fe4c6c39bc1b7e474d813daab593e"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6046996,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G8.jar",
+            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
           }
         },
         {
@@ -1342,6 +1362,17 @@
           }
         },
         {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 52,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/optionsshaders.txt",
+            "MD5": "5fc0a795df1965facc6ed9ac3db09266",
+            "path": "optionsshaders.txt"
+          }
+        },
+        {
           "id": "BetterVanillaBuildingV2.90.zip",
           "name": "BetterVanillaBuildingV2.90.zip",
           "type": "File",
@@ -1353,14 +1384,25 @@
           }
         },
         {
-          "id": "Sildur's Vibrant Shaders v1.51 Medium.zip",
-          "name": "Sildur's Vibrant Shaders v1.51 Medium.zip",
+          "id": "Sildur's Vibrant Shaders v1.52 Medium.zip",
+          "name": "Sildur's Vibrant Shaders v1.52 Medium.zip",
           "type": "File",
           "artifact": {
-            "size": 142241,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Medium.zip",
-            "MD5": "f2ac25e1dd3afb18344d18593b41e905",
-            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Medium.zip"
+            "size": 142509,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
+            "MD5": "73ac2677df6b146ff789c06c73ca67d1",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.52 Medium.zip.txt",
+          "name": "Sildur's Vibrant Shaders v1.52 Medium.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 47,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip.txt",
+            "MD5": "788db539fe55a7157b8981d62f6d0a5b",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip.txt"
           }
         }
       ]

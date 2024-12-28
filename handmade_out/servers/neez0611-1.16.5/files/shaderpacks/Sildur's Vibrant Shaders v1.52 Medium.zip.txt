@@ -1,0 +1,2 @@
+#Sun Dec 29 07:47:00 KST 2024
+Brightness=1.5
