@@ -1331,16 +1331,6 @@
           }
         },
         {
-          "id": "generated.library:OptiFine_1.16.5_HD_U_G8_MOD:0.0.0@jar",
-          "name": "OptiFine_1.16.5_HD_U_G8_MOD",
-          "type": "Library",
-          "artifact": {
-            "size": 5520538,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
-            "MD5": "273f505856997d344f55433bb07d3834"
-          }
-        },
-        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
