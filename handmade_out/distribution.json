@@ -1160,9 +1160,9 @@
           "name": "Aris",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3392819,
+            "size": 3392792,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/optionaloff/aris-1.0-SNAPSHOT-all.jar",
-            "MD5": "3c202cdd3635c92b37112f83ec8ea376"
+            "MD5": "270982cd2820f34e97dcaca632e742bb"
           },
           "required": {
             "value": false,
