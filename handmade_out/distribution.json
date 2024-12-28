@@ -1161,12 +1161,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3392792,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/optionaloff/aris-1.0-SNAPSHOT-all.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/aris-1.0-SNAPSHOT-all.jar",
             "MD5": "270982cd2820f34e97dcaca632e742bb"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -1235,12 +1231,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6754655,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/optionaloff/kff-1.16.5-1.17.0.jar",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/kff-1.16.5-1.17.0.jar",
             "MD5": "7671b34c5268409692e09e8da69fceb6"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
