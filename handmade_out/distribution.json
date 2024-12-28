@@ -1302,9 +1302,9 @@
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6046996,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+            "size": 5520538,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G8_MOD.jar",
+            "MD5": "be4979940ae0637d15290943f3e654e0"
           }
         },
         {
