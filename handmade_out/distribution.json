@@ -1335,9 +1335,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3525,
+            "size": 406,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/options.txt",
-            "MD5": "fbc39a03effabaf4881541737c157440",
+            "MD5": "9f6a42780c62362c488db48620f9af0e",
             "path": "options.txt"
           }
         },
