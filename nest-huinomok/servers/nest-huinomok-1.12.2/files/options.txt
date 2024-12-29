@@ -1,0 +1,5 @@
+version:1343
+resourcePacks:["MiniaTuria_1.12.2_v8.zip","cocricot_1.12.2_v1.11.0.zip"]
+lang:ko_kr
+narrator:0
+tutorialStep:none
