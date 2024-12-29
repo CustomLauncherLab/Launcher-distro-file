@@ -1,0 +1,7 @@
+version:2586
+lang:ko_kr
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+onboardAccessibility:false
+key_key.chat:key.keyboard.enter

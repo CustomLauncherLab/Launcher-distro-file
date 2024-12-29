@@ -1,0 +1,173 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "sunrise-hwt1014-1.20.1",
+      "name": "해돋이",
+      "description": "Minecraft 1.20.1 (Fabric v0.16.9)",
+      "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/server-icon.png",
+      "version": "1.0.0",
+      "address": "sunrise.ggm.kr",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.16.9",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1387357,
+            "MD5": "27a6ef87676ce6316c777d81c1cd2962",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/repo/lib/net/fabricmc/fabric-loader/0.16.9/fabric-loader-0.16.9.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-fabric-0.16.9",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2857,
+                "MD5": "413c4de8a34d4e93cdfb81fce9634e5d",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/repo/versions/1.20.1-fabric-0.16.9/1.20.1-fabric-0.16.9.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.7.1",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126093,
+                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.7.1",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35126,
+                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.7.1",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73459,
+                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.7.1",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51939,
+                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.7.1",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94519,
+                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1494834,
+                "MD5": "991ca8be2c408fe19eb64014d8a18243",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.20.1",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 573365,
+                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
+                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "kr.shihyeon:blurserveraddress:1.0.0+mc1.20.1@jar",
+          "name": "BlurServerAddress",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6738,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/servers/sunrise-hwt1014-1.20.1/fabricmods/required/blurserveraddress-1.0.0+mc1.20.1.jar",
+            "MD5": "30b840a2f3d109a49755e0ae4b66ee58"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.6.11+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 442450,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/servers/sunrise-hwt1014-1.20.1/fabricmods/required/koreanpatch-fabric-1.6.11+mc1.20.1.jar",
+            "MD5": "fd795ce17a72ac9fc054de9980c1c27d"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.26@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8082081,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/servers/sunrise-hwt1014-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.26.jar",
+            "MD5": "2c9d809c1b1c53863840ee3bce6f73a5"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/servers/sunrise-hwt1014-1.20.1/files/options.txt",
+            "MD5": "5dac643db159a89a731d0fad3b997aed",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 57,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/servers/sunrise-hwt1014-1.20.1/files/servers.dat",
+            "MD5": "54ac9ce147ae965bc615cac13278a494",
+            "path": "servers.dat"
+          }
+        }
+      ]
+    }
+  ]
+}
