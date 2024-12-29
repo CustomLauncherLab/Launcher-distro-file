@@ -1,0 +1,17 @@
+local screen = create_window()
+screen:open()
+
+local subbar = load_image("subbar_corruptpolice", "subbar_corruptpolice.png")
+local subbar_img_corruptpolice = create_image_renderer(subbar, 0, 0, 1920, 1080)
+local subbar = load_image("subbar_no", "subbar_no.png")
+local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
+
+screen:clear_child()
+
+
+local t1 = create_default_text_renderer("내가 경찰 사무실에 들어 갈 수 있는 카드키를 줄게. ", 40, 460, 4.2, 0xffffff)
+local t2 = create_default_text_renderer("그 안에 서류가 하나 있어. 그걸 가져와. 그럼 생각해보지.", 40, 485, 4.2, 0xffffff)
+screen:add_child(subbar_img_corruptpolice)
+screen:add_child(t1)
+screen:add_child(t2)
+screen:add_child(create_clickable(function()invoke_command("aris start @p corruptpolice2_1_6.aris")end, 0, 0, 1920, 1080))
