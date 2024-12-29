@@ -343,8 +343,17 @@
           "artifact": {
             "size": 131,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nest-huinomok/servers/nest-huinomok-1.12.2/files/options.txt",
-            "MD5": "cf565594ed907e9fbade738b6cfb6061",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 40,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nest-huinomok/servers/nest-huinomok-1.12.2/files/optionsshaders.txt",
+            "path": "optionsshaders.txt"
           }
         },
         {
