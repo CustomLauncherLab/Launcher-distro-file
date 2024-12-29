@@ -2,8 +2,8 @@
   "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/nest-huinomok/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "nest-huinomok (Minecraft 1.12.2)",
-    "description": "nest-huinomok Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+    "name": "둥지 서버",
+    "description": "Minecraft 1.12.2 (Forge v14.23.5.2860)",
     "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nest-huinomok/server-icon.png",
     "address": "nest.ggm.kr",
     "discord": {
