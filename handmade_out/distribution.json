@@ -256,19 +256,6 @@
           ]
         },
         {
-          "id": "biomesoplenty.core:biomesoplenty:7.0.1@jar",
-          "name": "Biomes O' Plenty",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4746208,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
-            "MD5": "9d364be3df6fee338c1729b7fb1def1b"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.kixiko:cocricotmod:1.11.0@jar",
           "name": "CocricotMOD",
           "type": "ForgeMod",
