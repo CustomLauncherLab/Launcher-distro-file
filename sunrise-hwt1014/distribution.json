@@ -166,6 +166,16 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 283,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/servers/sunrise-hwt1014-1.20.1/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
           "id": "voicechat-client.properties",
           "name": "voicechat-client.properties",
           "type": "File",
@@ -180,7 +190,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 145,
+            "size": 230,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/servers/sunrise-hwt1014-1.20.1/files/options.txt",
             "path": "options.txt"
           }
