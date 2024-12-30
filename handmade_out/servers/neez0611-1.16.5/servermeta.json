@@ -5,7 +5,7 @@
     "name": "경찰과 도둑",
     "description": "Minecraft 1.16.5 (Forge v36.2.42)",
     "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/server-icon.png",
-    "address": "localhost:25565",
+    "address": "neez0611.gotiger.ggm.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
