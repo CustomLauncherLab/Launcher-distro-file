@@ -1,0 +1,55 @@
+-- optional
+check_version("0.1.0")
+
+-- create screen instance
+local screen = create_window()
+-- open screen
+screen:open()
+
+-- create text renderer
+local t1 = create_default_text_renderer("Hello, world", 0, 0, 0.5, 0xffffff)
+
+-- load image texture
+local test_image = load_image("test", "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/640px-PNG_transparency_demonstration_1.png")
+
+-- create image renderer
+local imr = create_image_renderer(test_image, 0, 0, 100, 100)
+
+-- add `imr` to screen
+screen:add_child(imr)
+
+-- create button
+screen:add_child(create_clickable(function()
+    invoke_command("say hello")
+    log_info("Hello")
+    screen:clear_child()
+    screen:add_child(imr)
+end, 0, 0, 100, 100))
+
+screen:add_render_hook(function(mouse_x, mouse_y, tick_delta)
+    imr:set_x(mouse_x)
+    imr:set_y(mouse_y)
+    t1:set_scale(t1:get_scale() + 0.01) -- make text bigger every frame
+    t1:set_text("Data from server: " .. get_server_data_string("test"))
+end)
+
+local imr2 = create_image_renderer(test_image, 0, 0, 100, 100)
+screen:add_child(imr2)
+screen:add_child(t1)
+
+local 1st_next_btn = create_clickable(function()
+    -- 2nd scene
+    screen:clear_child()
+    local t1 = create_default_text_renderer("뭘 준비해야 하는데?", 13, 156, 1, 0xffffff)
+    screen:add_child(subbar_img_no)
+    screen:add_child(t1)
+    screen:add_child(subbar_img_no)
+    screen:add_child(2nd_next_btn)
+    end, 0, 0, 640, 360)
+
+local 2nd_next_btn = create_clickable(function()
+        screen:clear_child()
+        local t1 = create_default_text_renderer("우리 비리경찰님은 담배랑 술 없이는 입도 안 뗄 거야. 감옥 어딘가에서 구해보라고!", 13, 156, 1, 0xffffff)
+        screen:add_child(subbar_img_hoon)
+        screen:add_child(t1)
+        screen:add_child(next_btn)end, 0, 0, 640, 360)

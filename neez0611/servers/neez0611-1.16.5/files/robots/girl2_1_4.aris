@@ -1,0 +1,14 @@
+local screen = create_window()
+screen:open()
+
+local subbar = load_image("subbar_girl", "subbar_girl.png")
+local subbar_img_girl = create_image_renderer(subbar, 0, 0, 1920, 1080)
+local subbar = load_image("subbar_no", "subbar_no.png")
+local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
+
+screen:clear_child()
+
+local t1 = create_default_text_renderer("뭘 원하는데?", 40, 460, 4.2, 0xffffff)
+screen:add_child(subbar_img_no)
+screen:add_child(t1)
+screen:add_child(create_clickable(function()invoke_command("aris start @p girl2_1_5.aris")end, 0, 0, 1920, 1080))

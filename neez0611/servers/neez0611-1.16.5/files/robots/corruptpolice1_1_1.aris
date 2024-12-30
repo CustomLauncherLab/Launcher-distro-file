@@ -1,0 +1,18 @@
+local screen = create_window()
+screen:open()
+
+local subbar = load_image("subbar_hoon", "subbar_hoon.png")
+local subbar_img_hoon = create_image_renderer(subbar, 0, 0, 1920, 1080)
+local subbar = load_image("subbar_no", "subbar_no.png")
+local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
+
+screen:clear_child()
+
+
+local t1 = create_default_text_renderer("내가 비리경찰님과 유일하게 대화하는 사람이다. 뭐? 비리 경찰을 만나고 싶다고? 쉽지 않을 걸. ", 40, 460, 4.2, 0xffffff)
+local t2 = create_default_text_renderer("그는 아무하고나 이야기 하지 않아. 네가 좀 성의를 보여야겠지.", 40, 485, 4.2, 0xffffff)
+screen:add_child(subbar_img_hoon)
+screen:add_child(t1)
+screen:add_child(t2)
+screen:add_child(create_clickable(function()invoke_command("aris start @p corruptpolice1_1_2.aris")end, 0, 0, 1920, 1080))
+

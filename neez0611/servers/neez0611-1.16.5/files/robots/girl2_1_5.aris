@@ -1,0 +1,16 @@
+local screen = create_window()
+screen:open()
+
+local subbar = load_image("subbar_girl", "subbar_girl.png")
+local subbar_img_girl = create_image_renderer(subbar, 0, 0, 1920, 1080)
+local subbar = load_image("subbar_no", "subbar_no.png")
+local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
+
+screen:clear_child()
+
+local t1 = create_default_text_renderer("여기, 이 사진을 봐. 여기에 있는 물건을 가지고 오면 돼. ", 40, 460, 4.2, 0xffffff)
+local t2 = create_default_text_renderer("그걸 가져오면 이야기 해줄게. ", 40, 485, 4.2, 0xffffff)
+screen:add_child(subbar_img_girl)
+screen:add_child(t1)
+screen:add_child(t2)
+screen:add_child(create_clickable(function()invoke_command("aris start @p girl2_1_6.aris")end, 0, 0, 1920, 1080))

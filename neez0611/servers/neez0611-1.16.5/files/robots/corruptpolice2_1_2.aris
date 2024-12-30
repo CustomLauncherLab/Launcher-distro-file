@@ -1,0 +1,16 @@
+local screen = create_window()
+screen:open()
+
+local subbar = load_image("subbar_hoon", "subbar_hoon.png")
+local subbar_img_hoon = create_image_renderer(subbar, 0, 0, 1920, 1080)
+local subbar = load_image("subbar_no", "subbar_no.png")
+local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
+
+screen:clear_child()
+
+
+local t1 = create_default_text_renderer("당신이 가진 탈출구에 대한 정보를 알고 싶어.", 40, 460, 4.2, 0xffffff)
+screen:add_child(subbar_img_no)
+screen:add_child(t1)
+screen:add_child(create_clickable(function()invoke_command("aris start @p corruptpolice2_1_3.aris")end, 0, 0, 1920, 1080))
+

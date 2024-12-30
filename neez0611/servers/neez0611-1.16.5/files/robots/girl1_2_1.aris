@@ -1,0 +1,13 @@
+local screen = create_window()
+screen:open()
+
+local subbar = load_image("subbar_minsoo", "subbar_minsoo.png")
+local subbar_img_minsoo = create_image_renderer(subbar, 0, 0, 1920, 1080)
+local subbar = load_image("subbar_no", "subbar_no.png")
+local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
+
+screen:clear_child()
+
+local t1 = create_default_text_renderer("코인을 주면 교도관이 좋아하는 걸 주지.", 40, 460, 4.2, 0xffffff)
+screen:add_child(subbar_img_minsoo)
+screen:add_child(t1)

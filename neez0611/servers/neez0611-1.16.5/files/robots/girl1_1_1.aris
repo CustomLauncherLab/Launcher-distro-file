@@ -1,0 +1,13 @@
+local screen = create_window()
+screen:open()
+
+local subbar = load_image("subbar_computer_police", "subbar_computer_police.png")
+local subbar_img_computer_police = create_image_renderer(subbar, 0, 0, 1920, 1080)
+local subbar = load_image("subbar_no", "subbar_no.png")
+local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
+
+screen:clear_child()
+
+local t1 = create_default_text_renderer("내가 원하는 물건을 주면 너에게 2층 다리를 갈 수 있는 비밀번호를 줄게. 영철과 민수를 찾아가.", 40, 460, 4.2, 0xffffff)
+screen:add_child(subbar_img_computer_police)
+screen:add_child(t1)
