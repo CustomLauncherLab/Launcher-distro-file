@@ -1,0 +1,4 @@
+#Fri Mar 08 21:34:21 KST 2024
+parallaxOcclusionMapping=true
+vlQuality=0.75
+vlRenderDistance=40.0
