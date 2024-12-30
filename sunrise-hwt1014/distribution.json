@@ -126,6 +126,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:iris:1.7.5+mc1.20.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2730664,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/servers/sunrise-hwt1014-1.20.1/fabricmods/required/iris-1.7.5+mc1.20.1.jar",
+            "MD5": "902528a82a843300ecf9027af9f8fb8c"
+          }
+        },
+        {
           "id": "com.hyfata.najoan:koreanpatch:1.6.11+mc1.20.1@jar",
           "name": "Korean Patch",
           "type": "FabricMod",
@@ -133,6 +143,16 @@
             "size": 442450,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/servers/sunrise-hwt1014-1.20.1/fabricmods/required/koreanpatch-fabric-1.6.11+mc1.20.1.jar",
             "MD5": "fd795ce17a72ac9fc054de9980c1c27d"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.11+mc1.20.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 968419,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/servers/sunrise-hwt1014-1.20.1/fabricmods/required/sodium-fabric-0.5.11+mc1.20.1.jar",
+            "MD5": "9880bae748957d1cb6c4de50c8e0452a"
           }
         },
         {
@@ -174,6 +194,39 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/servers/sunrise-hwt1014-1.20.1/files/servers.dat",
             "MD5": "54ac9ce147ae965bc615cac13278a494",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.3.zip",
+          "name": "ComplementaryUnbound_r5.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 446661,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/servers/sunrise-hwt1014-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.3.zip",
+            "MD5": "50893f00c06b63dfd140dbcac22cc69f",
+            "path": "shaderpacks/ComplementaryUnbound_r5.3.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.52 Lite.zip",
+          "name": "Sildur's Vibrant Shaders v1.52 Lite.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142508,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/servers/sunrise-hwt1014-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Lite.zip",
+            "MD5": "ceba4ca74a1e49636cfe96417cadf790",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Lite.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.52 Medium.zip",
+          "name": "Sildur's Vibrant Shaders v1.52 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142509,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/sunrise-hwt1014/servers/sunrise-hwt1014-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
+            "MD5": "73ac2677df6b146ff789c06c73ca67d1",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
           }
         }
       ]
