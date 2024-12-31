@@ -1781,9 +1781,9 @@
           "name": "exwarden1_1_5.aris",
           "type": "File",
           "artifact": {
-            "size": 606,
+            "size": 612,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/exwarden1_1_5.aris",
-            "MD5": "48ecd19e9e111d9d8f3b53f4ddb2ca98",
+            "MD5": "8739b6a97cf238e2b99aeeb02cb03cac",
             "path": "robots/exwarden1_1_5.aris"
           }
         },
