@@ -1726,9 +1726,9 @@
           "name": "corruptpolice2_2_1.aris",
           "type": "File",
           "artifact": {
-            "size": 568,
+            "size": 649,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice2_2_1.aris",
-            "MD5": "419f69debdfeb678f0a13b6ba53c71a5",
+            "MD5": "fb7b82fecfbbf540d0a40e7085787b06",
             "path": "robots/corruptpolice2_2_1.aris"
           }
         },
