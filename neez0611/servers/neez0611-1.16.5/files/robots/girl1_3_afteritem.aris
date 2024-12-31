@@ -8,9 +8,9 @@ local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
 
 screen:clear_child()
 
-local t1 = create_default_text_renderer("코인 5개를 주면 교도관이 좋아하는 거 줄게.", 40, 460, 4.2, 0xffffff)
+local t1 = create_default_text_renderer("자 여기 가져가.", 40, 460, 4.2, 0xffffff)
 screen:add_child(subbar_img_youngchul)
 screen:add_child(t1)
-screen:add_child(create_clickable(function()invoke_command("아이템 주기")end, 0, 0, 1920, 1080))
+screen:add_child(create_clickable(function()screen:close()end, 0, 0, 1920, 1080))
 
 

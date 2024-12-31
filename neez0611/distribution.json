@@ -808,9 +808,9 @@
           "name": "corruptpolice1_1_3.aris",
           "type": "File",
           "artifact": {
-            "size": 564,
+            "size": 645,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/corruptpolice1_1_3.aris",
-            "MD5": "247de707827d8cd076977b867f1a15b0",
+            "MD5": "a56f37644c6fec8fd0b8a19957c70583",
             "path": "robots/corruptpolice1_1_3.aris"
           }
         },
@@ -841,9 +841,9 @@
           "name": "corruptpolice1_2_3.aris",
           "type": "File",
           "artifact": {
-            "size": 691,
+            "size": 772,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/corruptpolice1_2_3.aris",
-            "MD5": "223cc37eb1f11110a32d03e3c309513b",
+            "MD5": "55b3a1592b18bf1da643d2fa3268e50f",
             "path": "robots/corruptpolice1_2_3.aris"
           }
         },
@@ -852,9 +852,9 @@
           "name": "corruptpolice1_3_1.aris",
           "type": "File",
           "artifact": {
-            "size": 696,
+            "size": 777,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/corruptpolice1_3_1.aris",
-            "MD5": "4046468e489872c9e8cf36eab1f893e2",
+            "MD5": "bc7df156ee302bf4c88fc36360980cad",
             "path": "robots/corruptpolice1_3_1.aris"
           }
         },
@@ -907,9 +907,9 @@
           "name": "corruptpolice2_1_5.aris",
           "type": "File",
           "artifact": {
-            "size": 846,
+            "size": 805,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/corruptpolice2_1_5.aris",
-            "MD5": "cebc1068f79696fc6b5d6a468c0f9022",
+            "MD5": "d98b28a60bbe984c3ca81a1ca50d0c5c",
             "path": "robots/corruptpolice2_1_5.aris"
           }
         },
@@ -973,9 +973,9 @@
           "name": "exwarden1_1_5.aris",
           "type": "File",
           "artifact": {
-            "size": 525,
+            "size": 606,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/exwarden1_1_5.aris",
-            "MD5": "0c5ce3acbba771a19b204d2e0065334d",
+            "MD5": "48ecd19e9e111d9d8f3b53f4ddb2ca98",
             "path": "robots/exwarden1_1_5.aris"
           }
         },
@@ -984,9 +984,9 @@
           "name": "girl1_1_1.aris",
           "type": "File",
           "artifact": {
-            "size": 622,
+            "size": 723,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/girl1_1_1.aris",
-            "MD5": "b4096c0d832d764c347e5088de6bc7fe",
+            "MD5": "9cfbede984f844c6df0901a92314761b",
             "path": "robots/girl1_1_1.aris"
           }
         },
@@ -995,9 +995,9 @@
           "name": "girl1_1_afteritem.aris",
           "type": "File",
           "artifact": {
-            "size": 659,
+            "size": 639,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/girl1_1_afteritem.aris",
-            "MD5": "c97c6a10aaba6f37898087a761f4b186",
+            "MD5": "b07f5defb20c891d2ffe15f4d857b126",
             "path": "robots/girl1_1_afteritem.aris"
           }
         },
@@ -1006,10 +1006,32 @@
           "name": "girl1_2_1.aris",
           "type": "File",
           "artifact": {
-            "size": 512,
+            "size": 645,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/girl1_2_1.aris",
-            "MD5": "aaf88f974bffddea0ab0d4d4f0fb24ae",
+            "MD5": "2631456baf54f50577153c05cc75b01d",
             "path": "robots/girl1_2_1.aris"
+          }
+        },
+        {
+          "id": "girl1_2_2.aris",
+          "name": "girl1_2_2.aris",
+          "type": "File",
+          "artifact": {
+            "size": 594,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/girl1_2_2.aris",
+            "MD5": "7e69148a8fafc1bf210aeedf1d7506c0",
+            "path": "robots/girl1_2_2.aris"
+          }
+        },
+        {
+          "id": "girl1_2_3.aris",
+          "name": "girl1_2_3.aris",
+          "type": "File",
+          "artifact": {
+            "size": 630,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/girl1_2_3.aris",
+            "MD5": "08c20be41379abc827626194d2e224d7",
+            "path": "robots/girl1_2_3.aris"
           }
         },
         {
@@ -1017,9 +1039,9 @@
           "name": "girl1_2_afteritem.aris",
           "type": "File",
           "artifact": {
-            "size": 590,
+            "size": 601,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/girl1_2_afteritem.aris",
-            "MD5": "861e4235827665fa9e471f321371069a",
+            "MD5": "a0c3d2e32223037ead678587a3e9c1f1",
             "path": "robots/girl1_2_afteritem.aris"
           }
         },
@@ -1028,9 +1050,9 @@
           "name": "girl1_3_1.aris",
           "type": "File",
           "artifact": {
-            "size": 529,
+            "size": 632,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/girl1_3_1.aris",
-            "MD5": "dcdc9cd9e11e7e5dc0e4cfc8c6dca86e",
+            "MD5": "b78f62696dea2acdf223529708c4d15f",
             "path": "robots/girl1_3_1.aris"
           }
         },
@@ -1039,9 +1061,9 @@
           "name": "girl1_3_afteritem.aris",
           "type": "File",
           "artifact": {
-            "size": 633,
+            "size": 575,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/girl1_3_afteritem.aris",
-            "MD5": "e31fa5578f0b679b26c38ae80a0ca6b5",
+            "MD5": "1740fdc9720eef8cd9476fae101add3b",
             "path": "robots/girl1_3_afteritem.aris"
           }
         },
@@ -1116,9 +1138,9 @@
           "name": "girl2_1_7.aris",
           "type": "File",
           "artifact": {
-            "size": 515,
+            "size": 597,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/girl2_1_7.aris",
-            "MD5": "e877b83feb63c43f431b7d548164fd71",
+            "MD5": "25154d572842b29a3c2095379e969c7c",
             "path": "robots/girl2_1_7.aris"
           }
         },
@@ -1171,9 +1193,9 @@
           "name": "girl2_3_5.aris",
           "type": "File",
           "artifact": {
-            "size": 634,
+            "size": 715,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/girl2_3_5.aris",
-            "MD5": "e4deae7923abc044198e608c5e74a5e6",
+            "MD5": "91cef06330a360d216bf0041fca3e9df",
             "path": "robots/girl2_3_5.aris"
           }
         },

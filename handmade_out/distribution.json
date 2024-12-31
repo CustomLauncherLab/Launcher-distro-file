@@ -30,7 +30,7 @@
           "artifact": {
             "size": 4466148,
             "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 11799,
                 "MD5": "fdf65dd024faa5c9a51372e5fb975dfe",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/versions/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/versions/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 387903,
                 "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -120,7 +120,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
               }
             },
             {
@@ -130,7 +130,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
               }
             },
             {
@@ -140,7 +140,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -150,7 +150,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -160,7 +160,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -170,7 +170,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -180,7 +180,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -190,7 +190,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -200,7 +200,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -210,7 +210,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             },
             {
@@ -220,7 +220,7 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
               }
             },
             {
@@ -230,7 +230,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
               }
             },
             {
@@ -240,7 +240,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -250,7 +250,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             }
           ]
@@ -261,7 +261,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2945950,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/cocricotMOD_1.12.2_v1.11.0.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/cocricotMOD_1.12.2_v1.11.0.jar",
             "MD5": "1517f8e2bd7ab68207e7dc524d5bb24c"
           },
           "required": {
@@ -274,7 +274,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9911871,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/CustomNPCs_1.12.2-(05Jul20).jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/CustomNPCs_1.12.2-(05Jul20).jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
           },
           "required": {
@@ -287,7 +287,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 982320,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/JustEnoughIDs-1.0.3-55.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/JustEnoughIDs-1.0.3-55.jar",
             "MD5": "ac6f54cb5478dd3d0147aedbfe782d5d"
           },
           "required": {
@@ -300,7 +300,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12693375,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/MiniaTuria_1.12.2_v8.1.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/MiniaTuria_1.12.2_v8.1.jar",
             "MD5": "bc26ee9e59edd4e6098a2687cf7f155c"
           },
           "required": {
@@ -313,7 +313,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2669107,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
             "MD5": "54e561e441192cf009803ae95873c5d0"
           },
           "required": {
@@ -326,7 +326,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4912890,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/Pam's_HarvestCraft_1.12.2zg.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/huinomok-1.12.2/forgemods/optionalon/Pam's_HarvestCraft_1.12.2zg.jar",
             "MD5": "e8e1ac67accdeea50116e1e92e592397"
           },
           "required": {
@@ -339,7 +339,7 @@
           "type": "File",
           "artifact": {
             "size": 2678747,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/files/mods/Armourers-Workshop-1.12.2-0.51.0.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/huinomok-1.12.2/files/mods/Armourers-Workshop-1.12.2-0.51.0.jar",
             "MD5": "12954551f39bed840b32fd8be8fddb54",
             "path": "mods/Armourers-Workshop-1.12.2-0.51.0.jar"
           }
@@ -350,7 +350,7 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/files/options.txt",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/huinomok-1.12.2/files/options.txt",
             "MD5": "cf565594ed907e9fbade738b6cfb6061",
             "path": "options.txt"
           }
@@ -361,7 +361,7 @@
           "type": "File",
           "artifact": {
             "size": 42172148,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/files/resourcepacks/cocricot_1.12.2_v1.11.0.zip",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/huinomok-1.12.2/files/resourcepacks/cocricot_1.12.2_v1.11.0.zip",
             "MD5": "418afd51739723d5233e9ccf7c33a131",
             "path": "resourcepacks/cocricot_1.12.2_v1.11.0.zip"
           }
@@ -372,7 +372,7 @@
           "type": "File",
           "artifact": {
             "size": 19264165,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/files/resourcepacks/MiniaTuria_1.12.2_v8.zip",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/huinomok-1.12.2/files/resourcepacks/MiniaTuria_1.12.2_v8.zip",
             "MD5": "16c0625c997b31c8658b55f9f79a33fb",
             "path": "resourcepacks/MiniaTuria_1.12.2_v8.zip"
           }
@@ -383,7 +383,7 @@
           "type": "File",
           "artifact": {
             "size": 446661,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/huinomok-1.12.2/files/shaderpacks/ComplementaryUnbound_r5.3.zip",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/huinomok-1.12.2/files/shaderpacks/ComplementaryUnbound_r5.3.zip",
             "MD5": "50893f00c06b63dfd140dbcac22cc69f",
             "path": "shaderpacks/ComplementaryUnbound_r5.3.zip"
           }
@@ -414,7 +414,7 @@
           "artifact": {
             "size": 212563,
             "MD5": "8ff0086ade0cf0f1d513e72edd04348c",
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42.jar"
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42.jar"
           },
           "subModules": [
             {
@@ -424,7 +424,7 @@
               "artifact": {
                 "size": 13900,
                 "MD5": "edeb35880cd072ce6438b9e15f7a1b12",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/versions/1.16.5-forge-36.2.42/1.16.5-forge-36.2.42.json"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/versions/1.16.5-forge-36.2.42/1.16.5-forge-36.2.42.json"
               }
             },
             {
@@ -435,7 +435,7 @@
               "artifact": {
                 "size": 2540080,
                 "MD5": "d5b89861a4e02bab15a111d529d99d86",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-universal.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-universal.jar"
               },
               "subModules": []
             },
@@ -447,7 +447,7 @@
               "artifact": {
                 "size": 4214276,
                 "MD5": "e26430416f5d1bd7c205c1b81a0fb8f8",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-client.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-client.jar"
               },
               "subModules": []
             },
@@ -459,7 +459,7 @@
               "artifact": {
                 "size": 11352644,
                 "MD5": "816b3f52961087a3b7dfa988ea04017c",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
             },
@@ -471,7 +471,7 @@
               "artifact": {
                 "size": 9118806,
                 "MD5": "df78297c0b6526e16f2bb7a685fd6b96",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
               },
               "subModules": []
             },
@@ -483,7 +483,7 @@
               "artifact": {
                 "size": 8428369,
                 "MD5": "dbed747390f81e10cee40500b726431a",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
               },
               "subModules": []
             },
@@ -494,7 +494,7 @@
               "artifact": {
                 "size": 123598,
                 "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
               }
             },
             {
@@ -504,7 +504,7 @@
               "artifact": {
                 "size": 72194,
                 "MD5": "9e317c75534bd1da8c00a67c618ab288",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
               }
             },
             {
@@ -514,7 +514,7 @@
               "artifact": {
                 "size": 51935,
                 "MD5": "6062608f1a98afe1e853d01fa1221a9e",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
               }
             },
             {
@@ -524,7 +524,7 @@
               "artifact": {
                 "size": 91131,
                 "MD5": "bd3bc1c176a787373e9a031073c9574b",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
               }
             },
             {
@@ -534,7 +534,7 @@
               "artifact": {
                 "size": 34041,
                 "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
               }
             },
             {
@@ -544,7 +544,7 @@
               "artifact": {
                 "size": 126747,
                 "MD5": "b6ba74224a6a68e6fb3e9cf3d72b9344",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
               }
             },
             {
@@ -554,7 +554,7 @@
               "artifact": {
                 "size": 2113,
                 "MD5": "d19b487241008d8e6111137a289ea1d7",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
               }
             },
             {
@@ -564,7 +564,7 @@
               "artifact": {
                 "size": 76586,
                 "MD5": "ada4c365c3d0de73c05a94010432b547",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
               }
             },
             {
@@ -574,7 +574,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -584,7 +584,7 @@
               "artifact": {
                 "size": 42873,
                 "MD5": "84c4758e6139b70146104be5bb1300b5",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
               }
             },
             {
@@ -594,7 +594,7 @@
               "artifact": {
                 "size": 20172,
                 "MD5": "8f1f6942d17d88d704324e8000666a1a",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
               }
             },
             {
@@ -604,7 +604,7 @@
               "artifact": {
                 "size": 25453,
                 "MD5": "e56551f2586d3ff08beb24f5ea44a7d3",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
               }
             },
             {
@@ -614,7 +614,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -624,7 +624,7 @@
               "artifact": {
                 "size": 199091,
                 "MD5": "093b0ca357d3f8b922170b8d7f43948c",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
               }
             },
             {
@@ -634,7 +634,7 @@
               "artifact": {
                 "size": 31288,
                 "MD5": "615b8e62371c536f876764591990118d",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
               }
             },
             {
@@ -644,7 +644,7 @@
               "artifact": {
                 "size": 732926,
                 "MD5": "ffd8c9d6eb8a8456ef505c8ef9fc777d",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
               }
             },
             {
@@ -654,7 +654,7 @@
               "artifact": {
                 "size": 57824,
                 "MD5": "b83c1943a0783f3f81d4cd4c83c363e1",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
               }
             },
             {
@@ -664,7 +664,7 @@
               "artifact": {
                 "size": 15425,
                 "MD5": "ee4596e1413cc1a5e080c971d6064753",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
             {
@@ -674,7 +674,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -684,7 +684,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             },
             {
@@ -694,7 +694,7 @@
               "artifact": {
                 "size": 21223,
                 "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
             },
             {
@@ -704,7 +704,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -714,7 +714,7 @@
               "artifact": {
                 "size": 78146,
                 "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
             {
@@ -724,7 +724,7 @@
               "artifact": {
                 "size": 1069391,
                 "MD5": "25fbb8ff965e88cc2252c99be0cf5cbb",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
               }
             },
             {
@@ -734,7 +734,7 @@
               "artifact": {
                 "size": 2194057,
                 "MD5": "ae37ed8407982eefc9f85fdb1c95a3a0",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
               }
             }
           ]
@@ -745,7 +745,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 273299,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/moolchoco12-1.16.5/forgemods/optionalon/camera-1.16.5-1.0.14.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/moolchoco12-1.16.5/forgemods/optionalon/camera-1.16.5-1.0.14.jar",
             "MD5": "91f52f8feec00dfe0aed9a851c19b7ea"
           },
           "required": {
@@ -758,7 +758,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 54959,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/moolchoco12-1.16.5/forgemods/optionalon/Comics_Bubbles_Chat-1.3.0.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/moolchoco12-1.16.5/forgemods/optionalon/Comics_Bubbles_Chat-1.3.0.jar",
             "MD5": "510c65fdd0f1eabb0f7cd552ec71dd3e"
           },
           "required": {
@@ -771,7 +771,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7722823,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/moolchoco12-1.16.5/forgemods/optionalon/voicechat-forge-1.16.5-2.5.26.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/moolchoco12-1.16.5/forgemods/optionalon/voicechat-forge-1.16.5-2.5.26.jar",
             "MD5": "55ee7fa56ede1fd5dd349e59efcd49b7"
           },
           "required": {
@@ -784,7 +784,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5312767,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/moolchoco12-1.16.5/forgemods/optionalon/worldedit-mod-7.2.5-dist.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/moolchoco12-1.16.5/forgemods/optionalon/worldedit-mod-7.2.5-dist.jar",
             "MD5": "96ff53c70d4a3ff9df5592462b0f0685"
           },
           "required": {
@@ -797,7 +797,7 @@
           "type": "File",
           "artifact": {
             "size": 130204,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/moolchoco12-1.16.5/files/shaderpacks/KUDA-Shaders%20v6.1%20Legacy.zip",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/moolchoco12-1.16.5/files/shaderpacks/KUDA-Shaders%20v6.1%20Legacy.zip",
             "MD5": "b4b4d27a7ec3c64d8d5db343141f4d2f",
             "path": "shaderpacks/KUDA-Shaders v6.1 Legacy.zip"
           }
@@ -808,7 +808,7 @@
           "type": "File",
           "artifact": {
             "size": 101,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/moolchoco12-1.16.5/files/shaderpacks/KUDA-Shaders%20v6.1%20Legacy.zip.txt",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/moolchoco12-1.16.5/files/shaderpacks/KUDA-Shaders%20v6.1%20Legacy.zip.txt",
             "MD5": "ab7ccc9cc015670fae2bdfb6b11878ef",
             "path": "shaderpacks/KUDA-Shaders v6.1 Legacy.zip.txt"
           }
@@ -839,7 +839,7 @@
           "artifact": {
             "size": 212563,
             "MD5": "8ff0086ade0cf0f1d513e72edd04348c",
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42.jar"
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42.jar"
           },
           "subModules": [
             {
@@ -849,7 +849,7 @@
               "artifact": {
                 "size": 13900,
                 "MD5": "edeb35880cd072ce6438b9e15f7a1b12",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/versions/1.16.5-forge-36.2.42/1.16.5-forge-36.2.42.json"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/versions/1.16.5-forge-36.2.42/1.16.5-forge-36.2.42.json"
               }
             },
             {
@@ -860,7 +860,7 @@
               "artifact": {
                 "size": 2540080,
                 "MD5": "d5b89861a4e02bab15a111d529d99d86",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-universal.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-universal.jar"
               },
               "subModules": []
             },
@@ -872,7 +872,7 @@
               "artifact": {
                 "size": 4214276,
                 "MD5": "e26430416f5d1bd7c205c1b81a0fb8f8",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-client.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-client.jar"
               },
               "subModules": []
             },
@@ -884,7 +884,7 @@
               "artifact": {
                 "size": 11352644,
                 "MD5": "816b3f52961087a3b7dfa988ea04017c",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
             },
@@ -896,7 +896,7 @@
               "artifact": {
                 "size": 9118806,
                 "MD5": "df78297c0b6526e16f2bb7a685fd6b96",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
               },
               "subModules": []
             },
@@ -908,7 +908,7 @@
               "artifact": {
                 "size": 8428369,
                 "MD5": "dbed747390f81e10cee40500b726431a",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
               },
               "subModules": []
             },
@@ -919,7 +919,7 @@
               "artifact": {
                 "size": 123598,
                 "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
               }
             },
             {
@@ -929,7 +929,7 @@
               "artifact": {
                 "size": 72194,
                 "MD5": "9e317c75534bd1da8c00a67c618ab288",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
               }
             },
             {
@@ -939,7 +939,7 @@
               "artifact": {
                 "size": 51935,
                 "MD5": "6062608f1a98afe1e853d01fa1221a9e",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
               }
             },
             {
@@ -949,7 +949,7 @@
               "artifact": {
                 "size": 91131,
                 "MD5": "bd3bc1c176a787373e9a031073c9574b",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
               }
             },
             {
@@ -959,7 +959,7 @@
               "artifact": {
                 "size": 34041,
                 "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
               }
             },
             {
@@ -969,7 +969,7 @@
               "artifact": {
                 "size": 126747,
                 "MD5": "b6ba74224a6a68e6fb3e9cf3d72b9344",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
               }
             },
             {
@@ -979,7 +979,7 @@
               "artifact": {
                 "size": 2113,
                 "MD5": "d19b487241008d8e6111137a289ea1d7",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
               }
             },
             {
@@ -989,7 +989,7 @@
               "artifact": {
                 "size": 76586,
                 "MD5": "ada4c365c3d0de73c05a94010432b547",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
               }
             },
             {
@@ -999,7 +999,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -1009,7 +1009,7 @@
               "artifact": {
                 "size": 42873,
                 "MD5": "84c4758e6139b70146104be5bb1300b5",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
               }
             },
             {
@@ -1019,7 +1019,7 @@
               "artifact": {
                 "size": 20172,
                 "MD5": "8f1f6942d17d88d704324e8000666a1a",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
               }
             },
             {
@@ -1029,7 +1029,7 @@
               "artifact": {
                 "size": 25453,
                 "MD5": "e56551f2586d3ff08beb24f5ea44a7d3",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
               }
             },
             {
@@ -1039,7 +1039,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -1049,7 +1049,7 @@
               "artifact": {
                 "size": 199091,
                 "MD5": "093b0ca357d3f8b922170b8d7f43948c",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
               }
             },
             {
@@ -1059,7 +1059,7 @@
               "artifact": {
                 "size": 31288,
                 "MD5": "615b8e62371c536f876764591990118d",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
               }
             },
             {
@@ -1069,7 +1069,7 @@
               "artifact": {
                 "size": 732926,
                 "MD5": "ffd8c9d6eb8a8456ef505c8ef9fc777d",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
               }
             },
             {
@@ -1079,7 +1079,7 @@
               "artifact": {
                 "size": 57824,
                 "MD5": "b83c1943a0783f3f81d4cd4c83c363e1",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
               }
             },
             {
@@ -1089,7 +1089,7 @@
               "artifact": {
                 "size": 15425,
                 "MD5": "ee4596e1413cc1a5e080c971d6064753",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
             {
@@ -1099,7 +1099,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -1109,7 +1109,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             },
             {
@@ -1119,7 +1119,7 @@
               "artifact": {
                 "size": 21223,
                 "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
             },
             {
@@ -1129,7 +1129,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -1139,7 +1139,7 @@
               "artifact": {
                 "size": 78146,
                 "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
             {
@@ -1149,7 +1149,7 @@
               "artifact": {
                 "size": 1069391,
                 "MD5": "25fbb8ff965e88cc2252c99be0cf5cbb",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
               }
             },
             {
@@ -1159,7 +1159,7 @@
               "artifact": {
                 "size": 2194057,
                 "MD5": "ae37ed8407982eefc9f85fdb1c95a3a0",
-                "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
               }
             }
           ]
@@ -1170,7 +1170,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3392792,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/aris-1.0-SNAPSHOT-all.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/aris-1.0-SNAPSHOT-all.jar",
             "MD5": "270982cd2820f34e97dcaca632e742bb"
           }
         },
@@ -1180,7 +1180,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 273299,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/camera-1.16.5-1.0.14.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/camera-1.16.5-1.0.14.jar",
             "MD5": "91f52f8feec00dfe0aed9a851c19b7ea"
           }
         },
@@ -1190,7 +1190,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2033912,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/cfm-7.0.0pre22-1.16.3.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/cfm-7.0.0pre22-1.16.3.jar",
             "MD5": "b2a5f7a361279de6bb5f51246ad36484"
           }
         },
@@ -1200,7 +1200,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 291897,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/curios-forge-1.16.5-4.1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/curios-forge-1.16.5-4.1.0.0.jar",
             "MD5": "4f71bcd532f9a3c8b051ef30787bd404"
           }
         },
@@ -1210,7 +1210,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 29141,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/CustomFont-1.16.5-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/CustomFont-1.16.5-1.0.0.jar",
             "MD5": "84ce0a3a0bfcc4932699d9f1f36ddbfe"
           }
         },
@@ -1220,7 +1220,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12457390,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220515.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220515.jar",
             "MD5": "9d204b1c5dd8cdbe9737fbdc761f33d9"
           }
         },
@@ -1230,7 +1230,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 38836,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/CustomSound-1.16.5-1.1.0.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/CustomSound-1.16.5-1.1.0.jar",
             "MD5": "711b97e6ba3b7494ff65880a404a1aa9"
           }
         },
@@ -1240,7 +1240,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 285444,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/CustomView-1.16.5-1.1.5.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/CustomView-1.16.5-1.1.5.jar",
             "MD5": "0e67660457c8efdd76543db916329ed5"
           }
         },
@@ -1250,7 +1250,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6754655,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/kff-1.16.5-1.17.0.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/kff-1.16.5-1.17.0.jar",
             "MD5": "7671b34c5268409692e09e8da69fceb6"
           }
         },
@@ -1260,7 +1260,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 74441364,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/Luxury-Furnitures-2.29.0-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/Luxury-Furnitures-2.29.0-1.16.5.jar",
             "MD5": "83c4d2d246dfa6c881d7ccd62740b61c"
           }
         },
@@ -1270,7 +1270,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1755294,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/naraechat-1.16.3-0.7.1.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/naraechat-1.16.3-0.7.1.jar",
             "MD5": "e75b886d783090db4d3c7b45c0e25f10"
           }
         },
@@ -1280,7 +1280,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 857004,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/nfm-2022.02.01-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/nfm-2022.02.01-1.16.5.jar",
             "MD5": "e50f77906f66b0a000190b04c0de9c34"
           }
         },
@@ -1290,7 +1290,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 142536,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/obfuscate-0.6.3-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/obfuscate-0.6.3-1.16.5.jar",
             "MD5": "514fe4c6c39bc1b7e474d813daab593e"
           }
         },
@@ -1300,7 +1300,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3909920,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/SecurityCraft-1.16.5-1.9.11.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/SecurityCraft-1.16.5-1.9.11.jar",
             "MD5": "cb6d5b810f5dd7143e8d57808d6b22fb"
           }
         },
@@ -1310,7 +1310,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 43320575,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/tac-release-0.3.14.2-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/tac-release-0.3.14.2-1.16.5.jar",
             "MD5": "ad52fa4804a4600028c0b0b675ceca39"
           }
         },
@@ -1320,7 +1320,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7722823,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.26.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.26.jar",
             "MD5": "55ee7fa56ede1fd5dd349e59efcd49b7"
           }
         },
@@ -1330,7 +1330,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5312767,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/forgemods/optionalon/worldedit-mod-7.2.5-dist.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/forgemods/optionalon/worldedit-mod-7.2.5-dist.jar",
             "MD5": "96ff53c70d4a3ff9df5592462b0f0685"
           },
           "required": {
@@ -1343,7 +1343,7 @@
           "type": "Library",
           "artifact": {
             "size": 5520538,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
             "MD5": "be4979940ae0637d15290943f3e654e0"
           }
         },
@@ -1353,7 +1353,7 @@
           "type": "File",
           "artifact": {
             "size": 80236,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/corruptpolice_quiz.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/corruptpolice_quiz.png",
             "MD5": "a8788fc42893af992360cee7778dcd6a",
             "path": "assets/images/corruptpolice_quiz.png"
           }
@@ -1364,7 +1364,7 @@
           "type": "File",
           "artifact": {
             "size": 28714,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/girl_quiz_1.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/girl_quiz_1.png",
             "MD5": "c56aeb79912daa626d2fa9ce43c5ae68",
             "path": "assets/images/girl_quiz_1.png"
           }
@@ -1375,7 +1375,7 @@
           "type": "File",
           "artifact": {
             "size": 92369,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/girl_quiz_2.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/girl_quiz_2.png",
             "MD5": "28cec1509923751f13b235931e4e63f4",
             "path": "assets/images/girl_quiz_2.png"
           }
@@ -1386,7 +1386,7 @@
           "type": "File",
           "artifact": {
             "size": 118232,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/subbar_hoon.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/subbar_hoon.png",
             "MD5": "dfaec12c2d0a7c59cba2f97fba545649",
             "path": "assets/images/subbar/subbar_hoon.png"
           }
@@ -1397,7 +1397,7 @@
           "type": "File",
           "artifact": {
             "size": 13465,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/subbar_no.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/subbar_no.png",
             "MD5": "5e01e7c5ef53e68b28f1eeb891938f97",
             "path": "assets/images/subbar/subbar_no.png"
           }
@@ -1408,7 +1408,7 @@
           "type": "File",
           "artifact": {
             "size": 143018,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/%EC%9E%90%EB%A7%89%EB%B0%94-%EB%AF%BC%EC%88%98.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/%EC%9E%90%EB%A7%89%EB%B0%94-%EB%AF%BC%EC%88%98.png",
             "MD5": "efe47bcdea4403f0475ce6605ea0ea1a",
             "path": "assets/images/subbar/자막바-민수.png"
           }
@@ -1419,7 +1419,7 @@
           "type": "File",
           "artifact": {
             "size": 145334,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/%EC%9E%90%EB%A7%89%EB%B0%94-%EB%B9%84%EB%A6%AC%EA%B2%BD%EC%B0%B0.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/%EC%9E%90%EB%A7%89%EB%B0%94-%EB%B9%84%EB%A6%AC%EA%B2%BD%EC%B0%B0.png",
             "MD5": "2e57b71b3428c6c50e8b0639b7f4c432",
             "path": "assets/images/subbar/자막바-비리경찰.png"
           }
@@ -1430,7 +1430,7 @@
           "type": "File",
           "artifact": {
             "size": 126889,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/%EC%9E%90%EB%A7%89%EB%B0%94-%EC%86%8C%EB%85%80.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/%EC%9E%90%EB%A7%89%EB%B0%94-%EC%86%8C%EB%85%80.png",
             "MD5": "d7b372a86a823b2b82103f8cff76934b",
             "path": "assets/images/subbar/자막바-소녀.png"
           }
@@ -1441,7 +1441,7 @@
           "type": "File",
           "artifact": {
             "size": 147825,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/%EC%9E%90%EB%A7%89%EB%B0%94-%EC%98%81%EC%B2%A0.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/%EC%9E%90%EB%A7%89%EB%B0%94-%EC%98%81%EC%B2%A0.png",
             "MD5": "ab47443b71c4bb72e99b36f9ad856cfc",
             "path": "assets/images/subbar/자막바-영철.png"
           }
@@ -1452,7 +1452,7 @@
           "type": "File",
           "artifact": {
             "size": 139831,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/%EC%9E%90%EB%A7%89%EB%B0%94-%EC%A0%84%20%EA%B5%90%EB%8F%84%EC%86%8C%EC%9E%A5.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/%EC%9E%90%EB%A7%89%EB%B0%94-%EC%A0%84%20%EA%B5%90%EB%8F%84%EC%86%8C%EC%9E%A5.png",
             "MD5": "db029d1f725e8805447e3fbd3e463d6c",
             "path": "assets/images/subbar/자막바-전 교도소장.png"
           }
@@ -1463,7 +1463,7 @@
           "type": "File",
           "artifact": {
             "size": 155761,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/%EC%9E%90%EB%A7%89%EB%B0%94-%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B3%B4%EB%8A%94%EA%B5%90%EB%8F%84%EA%B4%80.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar/%EC%9E%90%EB%A7%89%EB%B0%94-%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B3%B4%EB%8A%94%EA%B5%90%EB%8F%84%EA%B4%80.png",
             "MD5": "e045c2819bb097c72ddc2e500b6e98dc",
             "path": "assets/images/subbar/자막바-컴퓨터보는교도관.png"
           }
@@ -1474,7 +1474,7 @@
           "type": "File",
           "artifact": {
             "size": 155761,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_computer_police.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_computer_police.png",
             "MD5": "e045c2819bb097c72ddc2e500b6e98dc",
             "path": "assets/images/subbar_computer_police.png"
           }
@@ -1485,7 +1485,7 @@
           "type": "File",
           "artifact": {
             "size": 145334,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_corruptpolice.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_corruptpolice.png",
             "MD5": "2e57b71b3428c6c50e8b0639b7f4c432",
             "path": "assets/images/subbar_corruptpolice.png"
           }
@@ -1496,7 +1496,7 @@
           "type": "File",
           "artifact": {
             "size": 139831,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_exwarden.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_exwarden.png",
             "MD5": "db029d1f725e8805447e3fbd3e463d6c",
             "path": "assets/images/subbar_exwarden.png"
           }
@@ -1507,7 +1507,7 @@
           "type": "File",
           "artifact": {
             "size": 126889,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_girl.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_girl.png",
             "MD5": "d7b372a86a823b2b82103f8cff76934b",
             "path": "assets/images/subbar_girl.png"
           }
@@ -1518,7 +1518,7 @@
           "type": "File",
           "artifact": {
             "size": 118232,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_hoon.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_hoon.png",
             "MD5": "dfaec12c2d0a7c59cba2f97fba545649",
             "path": "assets/images/subbar_hoon.png"
           }
@@ -1529,7 +1529,7 @@
           "type": "File",
           "artifact": {
             "size": 143018,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_minsoo.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_minsoo.png",
             "MD5": "efe47bcdea4403f0475ce6605ea0ea1a",
             "path": "assets/images/subbar_minsoo.png"
           }
@@ -1540,7 +1540,7 @@
           "type": "File",
           "artifact": {
             "size": 13465,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_no.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_no.png",
             "MD5": "5e01e7c5ef53e68b28f1eeb891938f97",
             "path": "assets/images/subbar_no.png"
           }
@@ -1551,7 +1551,7 @@
           "type": "File",
           "artifact": {
             "size": 147825,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_youngchul.png",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/assets/images/subbar_youngchul.png",
             "MD5": "ab47443b71c4bb72e99b36f9ad856cfc",
             "path": "assets/images/subbar_youngchul.png"
           }
@@ -1562,7 +1562,7 @@
           "type": "File",
           "artifact": {
             "size": 406,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/options.txt",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/options.txt",
             "MD5": "9f6a42780c62362c488db48620f9af0e",
             "path": "options.txt"
           }
@@ -1573,7 +1573,7 @@
           "type": "File",
           "artifact": {
             "size": 52,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/optionsshaders.txt",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/optionsshaders.txt",
             "MD5": "5fc0a795df1965facc6ed9ac3db09266",
             "path": "optionsshaders.txt"
           }
@@ -1584,7 +1584,7 @@
           "type": "File",
           "artifact": {
             "size": 3732455,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/resourcepacks/BetterVanillaBuildingV2.90.zip",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/resourcepacks/BetterVanillaBuildingV2.90.zip",
             "MD5": "c8717e266f5b6d62e77c3b2b7e74d913",
             "path": "resourcepacks/BetterVanillaBuildingV2.90.zip"
           }
@@ -1595,7 +1595,7 @@
           "type": "File",
           "artifact": {
             "size": 877,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice1_1_1.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice1_1_1.aris",
             "MD5": "49765845c166e3d352ffaa5fb02d6226",
             "path": "robots/corruptpolice1_1_1.aris"
           }
@@ -1606,7 +1606,7 @@
           "type": "File",
           "artifact": {
             "size": 600,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice1_1_2.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice1_1_2.aris",
             "MD5": "fe83795e0eb03bb72c5027f53bcc4e96",
             "path": "robots/corruptpolice1_1_2.aris"
           }
@@ -1616,9 +1616,9 @@
           "name": "corruptpolice1_1_3.aris",
           "type": "File",
           "artifact": {
-            "size": 564,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice1_1_3.aris",
-            "MD5": "247de707827d8cd076977b867f1a15b0",
+            "size": 645,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice1_1_3.aris",
+            "MD5": "a56f37644c6fec8fd0b8a19957c70583",
             "path": "robots/corruptpolice1_1_3.aris"
           }
         },
@@ -1628,7 +1628,7 @@
           "type": "File",
           "artifact": {
             "size": 825,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice1_2_1.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice1_2_1.aris",
             "MD5": "77e002c845ecb73db8fe1e27b8f87091",
             "path": "robots/corruptpolice1_2_1.aris"
           }
@@ -1639,7 +1639,7 @@
           "type": "File",
           "artifact": {
             "size": 611,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice1_2_2.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice1_2_2.aris",
             "MD5": "2f7f38d5bfc0adf4c3bf96c2136a7fca",
             "path": "robots/corruptpolice1_2_2.aris"
           }
@@ -1649,9 +1649,9 @@
           "name": "corruptpolice1_2_3.aris",
           "type": "File",
           "artifact": {
-            "size": 691,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice1_2_3.aris",
-            "MD5": "223cc37eb1f11110a32d03e3c309513b",
+            "size": 772,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice1_2_3.aris",
+            "MD5": "55b3a1592b18bf1da643d2fa3268e50f",
             "path": "robots/corruptpolice1_2_3.aris"
           }
         },
@@ -1660,9 +1660,9 @@
           "name": "corruptpolice1_3_1.aris",
           "type": "File",
           "artifact": {
-            "size": 696,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice1_3_1.aris",
-            "MD5": "4046468e489872c9e8cf36eab1f893e2",
+            "size": 777,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice1_3_1.aris",
+            "MD5": "bc7df156ee302bf4c88fc36360980cad",
             "path": "robots/corruptpolice1_3_1.aris"
           }
         },
@@ -1672,7 +1672,7 @@
           "type": "File",
           "artifact": {
             "size": 811,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice2_1_1.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice2_1_1.aris",
             "MD5": "e4ff7c8c2f1fde6be15a654f435d0b98",
             "path": "robots/corruptpolice2_1_1.aris"
           }
@@ -1683,7 +1683,7 @@
           "type": "File",
           "artifact": {
             "size": 634,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice2_1_2.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice2_1_2.aris",
             "MD5": "282f8fd64da2e016c1c277faf357d23c",
             "path": "robots/corruptpolice2_1_2.aris"
           }
@@ -1694,7 +1694,7 @@
           "type": "File",
           "artifact": {
             "size": 867,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice2_1_3.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice2_1_3.aris",
             "MD5": "1dc5a213a4d183d29da7a349c7d4be5c",
             "path": "robots/corruptpolice2_1_3.aris"
           }
@@ -1705,7 +1705,7 @@
           "type": "File",
           "artifact": {
             "size": 611,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice2_1_4.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice2_1_4.aris",
             "MD5": "dd182a912ba2014ee34451cf8e03bbd3",
             "path": "robots/corruptpolice2_1_4.aris"
           }
@@ -1715,9 +1715,9 @@
           "name": "corruptpolice2_1_5.aris",
           "type": "File",
           "artifact": {
-            "size": 846,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice2_1_5.aris",
-            "MD5": "cebc1068f79696fc6b5d6a468c0f9022",
+            "size": 805,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice2_1_5.aris",
+            "MD5": "d98b28a60bbe984c3ca81a1ca50d0c5c",
             "path": "robots/corruptpolice2_1_5.aris"
           }
         },
@@ -1727,7 +1727,7 @@
           "type": "File",
           "artifact": {
             "size": 568,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice2_2_1.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/corruptpolice2_2_1.aris",
             "MD5": "419f69debdfeb678f0a13b6ba53c71a5",
             "path": "robots/corruptpolice2_2_1.aris"
           }
@@ -1738,7 +1738,7 @@
           "type": "File",
           "artifact": {
             "size": 681,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/exwarden1_1_1.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/exwarden1_1_1.aris",
             "MD5": "e6213cb1098e0edb1a54641eefd5a1bf",
             "path": "robots/exwarden1_1_1.aris"
           }
@@ -1749,7 +1749,7 @@
           "type": "File",
           "artifact": {
             "size": 595,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/exwarden1_1_2.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/exwarden1_1_2.aris",
             "MD5": "24f775f0911d7186ba2760736cd0f468",
             "path": "robots/exwarden1_1_2.aris"
           }
@@ -1760,7 +1760,7 @@
           "type": "File",
           "artifact": {
             "size": 684,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/exwarden1_1_3.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/exwarden1_1_3.aris",
             "MD5": "d2e7685fee3c100fe7d47f8b8a2ad261",
             "path": "robots/exwarden1_1_3.aris"
           }
@@ -1771,7 +1771,7 @@
           "type": "File",
           "artifact": {
             "size": 609,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/exwarden1_1_4.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/exwarden1_1_4.aris",
             "MD5": "6eb0b34d3e4d78b3e2bc829bb644f72f",
             "path": "robots/exwarden1_1_4.aris"
           }
@@ -1781,9 +1781,9 @@
           "name": "exwarden1_1_5.aris",
           "type": "File",
           "artifact": {
-            "size": 525,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/exwarden1_1_5.aris",
-            "MD5": "0c5ce3acbba771a19b204d2e0065334d",
+            "size": 606,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/exwarden1_1_5.aris",
+            "MD5": "48ecd19e9e111d9d8f3b53f4ddb2ca98",
             "path": "robots/exwarden1_1_5.aris"
           }
         },
@@ -1792,9 +1792,9 @@
           "name": "girl1_1_1.aris",
           "type": "File",
           "artifact": {
-            "size": 622,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl1_1_1.aris",
-            "MD5": "b4096c0d832d764c347e5088de6bc7fe",
+            "size": 723,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl1_1_1.aris",
+            "MD5": "9cfbede984f844c6df0901a92314761b",
             "path": "robots/girl1_1_1.aris"
           }
         },
@@ -1803,9 +1803,9 @@
           "name": "girl1_1_afteritem.aris",
           "type": "File",
           "artifact": {
-            "size": 659,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl1_1_afteritem.aris",
-            "MD5": "c97c6a10aaba6f37898087a761f4b186",
+            "size": 639,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl1_1_afteritem.aris",
+            "MD5": "b07f5defb20c891d2ffe15f4d857b126",
             "path": "robots/girl1_1_afteritem.aris"
           }
         },
@@ -1814,10 +1814,32 @@
           "name": "girl1_2_1.aris",
           "type": "File",
           "artifact": {
-            "size": 512,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl1_2_1.aris",
-            "MD5": "aaf88f974bffddea0ab0d4d4f0fb24ae",
+            "size": 645,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl1_2_1.aris",
+            "MD5": "2631456baf54f50577153c05cc75b01d",
             "path": "robots/girl1_2_1.aris"
+          }
+        },
+        {
+          "id": "girl1_2_2.aris",
+          "name": "girl1_2_2.aris",
+          "type": "File",
+          "artifact": {
+            "size": 594,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl1_2_2.aris",
+            "MD5": "7e69148a8fafc1bf210aeedf1d7506c0",
+            "path": "robots/girl1_2_2.aris"
+          }
+        },
+        {
+          "id": "girl1_2_3.aris",
+          "name": "girl1_2_3.aris",
+          "type": "File",
+          "artifact": {
+            "size": 630,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl1_2_3.aris",
+            "MD5": "08c20be41379abc827626194d2e224d7",
+            "path": "robots/girl1_2_3.aris"
           }
         },
         {
@@ -1825,9 +1847,9 @@
           "name": "girl1_2_afteritem.aris",
           "type": "File",
           "artifact": {
-            "size": 590,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl1_2_afteritem.aris",
-            "MD5": "861e4235827665fa9e471f321371069a",
+            "size": 601,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl1_2_afteritem.aris",
+            "MD5": "a0c3d2e32223037ead678587a3e9c1f1",
             "path": "robots/girl1_2_afteritem.aris"
           }
         },
@@ -1836,9 +1858,9 @@
           "name": "girl1_3_1.aris",
           "type": "File",
           "artifact": {
-            "size": 529,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl1_3_1.aris",
-            "MD5": "dcdc9cd9e11e7e5dc0e4cfc8c6dca86e",
+            "size": 632,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl1_3_1.aris",
+            "MD5": "b78f62696dea2acdf223529708c4d15f",
             "path": "robots/girl1_3_1.aris"
           }
         },
@@ -1847,9 +1869,9 @@
           "name": "girl1_3_afteritem.aris",
           "type": "File",
           "artifact": {
-            "size": 633,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl1_3_afteritem.aris",
-            "MD5": "e31fa5578f0b679b26c38ae80a0ca6b5",
+            "size": 575,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl1_3_afteritem.aris",
+            "MD5": "1740fdc9720eef8cd9476fae101add3b",
             "path": "robots/girl1_3_afteritem.aris"
           }
         },
@@ -1859,7 +1881,7 @@
           "type": "File",
           "artifact": {
             "size": 643,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_1_1.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_1_1.aris",
             "MD5": "f5111e97d04d56f5246496ce1622d5eb",
             "path": "robots/girl2_1_1.aris"
           }
@@ -1870,7 +1892,7 @@
           "type": "File",
           "artifact": {
             "size": 647,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_1_2.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_1_2.aris",
             "MD5": "cd129d07aa95b4e6295d499d277bd2b8",
             "path": "robots/girl2_1_2.aris"
           }
@@ -1881,7 +1903,7 @@
           "type": "File",
           "artifact": {
             "size": 867,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_1_3.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_1_3.aris",
             "MD5": "0f6c609a1389112180c8e9dea8686ea6",
             "path": "robots/girl2_1_3.aris"
           }
@@ -1892,7 +1914,7 @@
           "type": "File",
           "artifact": {
             "size": 579,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_1_4.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_1_4.aris",
             "MD5": "7789739302269aaa41a543a4e3b2ae14",
             "path": "robots/girl2_1_4.aris"
           }
@@ -1903,7 +1925,7 @@
           "type": "File",
           "artifact": {
             "size": 770,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_1_5.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_1_5.aris",
             "MD5": "131506b6fb02330bf781ed0aad97337b",
             "path": "robots/girl2_1_5.aris"
           }
@@ -1914,7 +1936,7 @@
           "type": "File",
           "artifact": {
             "size": 579,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_1_6.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_1_6.aris",
             "MD5": "15cb12b0a96e6357a195d394c9442c77",
             "path": "robots/girl2_1_6.aris"
           }
@@ -1924,9 +1946,9 @@
           "name": "girl2_1_7.aris",
           "type": "File",
           "artifact": {
-            "size": 515,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_1_7.aris",
-            "MD5": "e877b83feb63c43f431b7d548164fd71",
+            "size": 597,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_1_7.aris",
+            "MD5": "25154d572842b29a3c2095379e969c7c",
             "path": "robots/girl2_1_7.aris"
           }
         },
@@ -1936,7 +1958,7 @@
           "type": "File",
           "artifact": {
             "size": 675,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_3_1.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_3_1.aris",
             "MD5": "eb7bb68375f3d58dd85aa26010b1e738",
             "path": "robots/girl2_3_1.aris"
           }
@@ -1947,7 +1969,7 @@
           "type": "File",
           "artifact": {
             "size": 586,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_3_2.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_3_2.aris",
             "MD5": "f151f72f7615d51c5e354b4c5072eb6b",
             "path": "robots/girl2_3_2.aris"
           }
@@ -1958,7 +1980,7 @@
           "type": "File",
           "artifact": {
             "size": 787,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_3_3.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_3_3.aris",
             "MD5": "0fd17d3b5013b1370e177c627b233bea",
             "path": "robots/girl2_3_3.aris"
           }
@@ -1969,7 +1991,7 @@
           "type": "File",
           "artifact": {
             "size": 569,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_3_4.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_3_4.aris",
             "MD5": "086c489019159b4ce28cf4e0a239d193",
             "path": "robots/girl2_3_4.aris"
           }
@@ -1979,9 +2001,9 @@
           "name": "girl2_3_5.aris",
           "type": "File",
           "artifact": {
-            "size": 634,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_3_5.aris",
-            "MD5": "e4deae7923abc044198e608c5e74a5e6",
+            "size": 715,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl2_3_5.aris",
+            "MD5": "91cef06330a360d216bf0041fca3e9df",
             "path": "robots/girl2_3_5.aris"
           }
         },
@@ -1991,7 +2013,7 @@
           "type": "File",
           "artifact": {
             "size": 674,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl_quiz_1.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/girl_quiz_1.aris",
             "MD5": "c9b3a3133d31ca7ddfbdfefa3dc8e9ce",
             "path": "robots/girl_quiz_1.aris"
           }
@@ -2002,7 +2024,7 @@
           "type": "File",
           "artifact": {
             "size": 1853,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/robots/test.aris",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/robots/test.aris",
             "MD5": "3997bc971391a7afa69b50a4719723da",
             "path": "robots/test.aris"
           }
@@ -2013,7 +2035,7 @@
           "type": "File",
           "artifact": {
             "size": 142509,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
             "MD5": "73ac2677df6b146ff789c06c73ca67d1",
             "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
           }
@@ -2024,7 +2046,7 @@
           "type": "File",
           "artifact": {
             "size": 47,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/handmade_out/servers/neez0611-1.16.5/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip.txt",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/handmade_out/servers/neez0611-1.16.5/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip.txt",
             "MD5": "788db539fe55a7157b8981d62f6d0a5b",
             "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip.txt"
           }

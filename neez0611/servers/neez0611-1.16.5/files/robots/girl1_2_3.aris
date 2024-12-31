@@ -8,9 +8,7 @@ local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
 
 screen:clear_child()
 
-local t1 = create_default_text_renderer("드디어 나만의 색이 생겼네. 여기 이거 받아.", 40, 460, 4.2, 0xffffff)
+local t1 = create_default_text_renderer("빨간 양털을 가지고 오면 내가 가지고 있는 걸 너에게 줄 수도 있지.", 40, 460, 4.2, 0xffffff)
 screen:add_child(subbar_img_minsoo)
 screen:add_child(t1)
 screen:add_child(create_clickable(function()screen:close()end, 0, 0, 1920, 1080))
-
-

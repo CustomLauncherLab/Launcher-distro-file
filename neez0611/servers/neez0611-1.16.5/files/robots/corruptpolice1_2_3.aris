@@ -13,3 +13,4 @@ local t2 = create_default_text_renderer("운이 나쁘면 못 구할 수도 있�
 screen:add_child(subbar_img_jongman)
 screen:add_child(t1)
 screen:add_child(t2)
+screen:add_child(create_clickable(function()screen:close()end, 0, 0, 1920, 1080))
