@@ -782,6 +782,105 @@
           }
         },
         {
+          "id": "Girl.png",
+          "name": "Girl.png",
+          "type": "File",
+          "artifact": {
+            "size": 1383,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/customnpcs/assets/customnpcs/textures/Girl.png",
+            "MD5": "b8ceb02692dbc12fc000d5b0900db20e",
+            "path": "customnpcs/assets/customnpcs/textures/Girl.png"
+          }
+        },
+        {
+          "id": "NPC_Police_Officer_1.png",
+          "name": "NPC_Police_Officer_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 1306,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/customnpcs/assets/customnpcs/textures/NPC_Police_Officer_1.png",
+            "MD5": "889e4530f1f2febfdaad70e6091fc9c0",
+            "path": "customnpcs/assets/customnpcs/textures/NPC_Police_Officer_1.png"
+          }
+        },
+        {
+          "id": "NPC_Police_Officer_2.png",
+          "name": "NPC_Police_Officer_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 1217,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/customnpcs/assets/customnpcs/textures/NPC_Police_Officer_2.png",
+            "MD5": "6a46345fa5d80618364ed878f8d0e5ee",
+            "path": "customnpcs/assets/customnpcs/textures/NPC_Police_Officer_2.png"
+          }
+        },
+        {
+          "id": "NPC_Prisoner_Corrupt_Cop.png",
+          "name": "NPC_Prisoner_Corrupt_Cop.png",
+          "type": "File",
+          "artifact": {
+            "size": 1150,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/customnpcs/assets/customnpcs/textures/NPC_Prisoner_Corrupt_Cop.png",
+            "MD5": "6e95a4a3a0af03d8ab2bb6dd00c67bae",
+            "path": "customnpcs/assets/customnpcs/textures/NPC_Prisoner_Corrupt_Cop.png"
+          }
+        },
+        {
+          "id": "NPC_Prisoner_Former_Warden.png",
+          "name": "NPC_Prisoner_Former_Warden.png",
+          "type": "File",
+          "artifact": {
+            "size": 1176,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/customnpcs/assets/customnpcs/textures/NPC_Prisoner_Former_Warden.png",
+            "MD5": "c45875e07ad208128294bd6992a48695",
+            "path": "customnpcs/assets/customnpcs/textures/NPC_Prisoner_Former_Warden.png"
+          }
+        },
+        {
+          "id": "NPC_Prisoner_Hunmin.png",
+          "name": "NPC_Prisoner_Hunmin.png",
+          "type": "File",
+          "artifact": {
+            "size": 1185,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/customnpcs/assets/customnpcs/textures/NPC_Prisoner_Hunmin.png",
+            "MD5": "72273f3e6ec7b63bbfd1f747ab23e223",
+            "path": "customnpcs/assets/customnpcs/textures/NPC_Prisoner_Hunmin.png"
+          }
+        },
+        {
+          "id": "NPC_Prisoner_Jongman.png",
+          "name": "NPC_Prisoner_Jongman.png",
+          "type": "File",
+          "artifact": {
+            "size": 1161,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/customnpcs/assets/customnpcs/textures/NPC_Prisoner_Jongman.png",
+            "MD5": "a17ad6991636c59c15fbfda418200a3e",
+            "path": "customnpcs/assets/customnpcs/textures/NPC_Prisoner_Jongman.png"
+          }
+        },
+        {
+          "id": "NPC_Prisoner_Minsu.png",
+          "name": "NPC_Prisoner_Minsu.png",
+          "type": "File",
+          "artifact": {
+            "size": 1168,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/customnpcs/assets/customnpcs/textures/NPC_Prisoner_Minsu.png",
+            "MD5": "ffb8642666fb2df45fe17d01b4615e6c",
+            "path": "customnpcs/assets/customnpcs/textures/NPC_Prisoner_Minsu.png"
+          }
+        },
+        {
+          "id": "NPC_Prisoner_Youngcheol.png",
+          "name": "NPC_Prisoner_Youngcheol.png",
+          "type": "File",
+          "artifact": {
+            "size": 1576,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/customnpcs/assets/customnpcs/textures/NPC_Prisoner_Youngcheol.png",
+            "MD5": "30ee9d73fbe2ac069cc3eb35c4f018e9",
+            "path": "customnpcs/assets/customnpcs/textures/NPC_Prisoner_Youngcheol.png"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
