@@ -1,5 +1,6 @@
 version:2586
 autoJump:false
+gamma:1.0
 guiScale:2
 resourcePacks:["vanilla","mod_resources","CustomSoundResourcePack","CustomFontResourcePack","CustomViewResourcePack","file/BetterVanillaBuildingV2.90.zip"]
 lang:ko_kr

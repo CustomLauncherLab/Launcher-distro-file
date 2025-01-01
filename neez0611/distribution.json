@@ -749,14 +749,58 @@
           }
         },
         {
+          "id": "CustomNpcs.cfg",
+          "name": "CustomNpcs.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1714,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/config/CustomNpcs.cfg",
+            "MD5": "a544af7535f7047c7d78ce2e28403dbb",
+            "path": "config/CustomNpcs.cfg"
+          }
+        },
+        {
+          "id": "securitycraft-client.toml",
+          "name": "securitycraft-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 612,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/config/securitycraft-client.toml",
+            "MD5": "a72bac11f75aee806ee6eb7f525afc0f",
+            "path": "config/securitycraft-client.toml"
+          }
+        },
+        {
+          "id": "voicechat-client.properties",
+          "name": "voicechat-client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4171,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/config/voicechat/voicechat-client.properties",
+            "MD5": "4519602663db9181b585e37a6ba87e0c",
+            "path": "config/voicechat/voicechat-client.properties"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 406,
+            "size": 417,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/options.txt",
-            "MD5": "9f6a42780c62362c488db48620f9af0e",
+            "MD5": "c0e5e19aa32743cc122636898adc4ea1",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsof.txt",
+          "name": "optionsof.txt",
+          "type": "File",
+          "artifact": {
+            "size": 20,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/optionsof.txt",
+            "MD5": "c6b6ae499675d145fd2de82d0a915be0",
+            "path": "optionsof.txt"
           }
         },
         {
@@ -918,9 +962,9 @@
           "name": "corruptpolice2_2_1.aris",
           "type": "File",
           "artifact": {
-            "size": 568,
+            "size": 649,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/corruptpolice2_2_1.aris",
-            "MD5": "419f69debdfeb678f0a13b6ba53c71a5",
+            "MD5": "fb7b82fecfbbf540d0a40e7085787b06",
             "path": "robots/corruptpolice2_2_1.aris"
           }
         },
@@ -973,9 +1017,9 @@
           "name": "exwarden1_1_5.aris",
           "type": "File",
           "artifact": {
-            "size": 606,
+            "size": 612,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/exwarden1_1_5.aris",
-            "MD5": "48ecd19e9e111d9d8f3b53f4ddb2ca98",
+            "MD5": "8739b6a97cf238e2b99aeeb02cb03cac",
             "path": "robots/exwarden1_1_5.aris"
           }
         },
