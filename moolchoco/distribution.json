@@ -13,7 +13,7 @@
       "description": "Minecraft 1.16.5 (Forge v36.2.42)",
       "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/moolchoco/server-icon.png",
       "version": "1.0.0",
-      "address": "vocalhumidity.gotiger.ggm.kr",
+      "address": "vocalhumidity.gotiger.ggm.kr:25569",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -407,6 +407,39 @@
             "size": 5520538,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/moolchoco/servers/moolchoco-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
             "MD5": "be4979940ae0637d15290943f3e654e0"
+          }
+        },
+        {
+          "id": "voicechat-client.properties",
+          "name": "voicechat-client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4172,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/moolchoco/servers/moolchoco-1.16.5/files/config/voicechat/voicechat-client.properties",
+            "MD5": "9fc2d98073060a844dbdb318a7e58163",
+            "path": "config/voicechat/voicechat-client.properties"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 192,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/moolchoco/servers/moolchoco-1.16.5/files/options.txt",
+            "MD5": "701603fc7d78dc2a63eab3b60477a972",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 70,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/moolchoco/servers/moolchoco-1.16.5/files/optionsshaders.txt",
+            "MD5": "da25a9df70b382f63f39cd891540fb47",
+            "path": "optionsshaders.txt"
           }
         },
         {

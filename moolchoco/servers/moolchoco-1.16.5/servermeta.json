@@ -5,7 +5,7 @@
     "name": "가습기의 노래교실",
     "description": "Minecraft 1.16.5 (Forge v36.2.42)",
     "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/moolchoco/server-icon.png",
-    "address": "vocalhumidity.gotiger.ggm.kr",
+    "address": "vocalhumidity.gotiger.ggm.kr:25569",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",

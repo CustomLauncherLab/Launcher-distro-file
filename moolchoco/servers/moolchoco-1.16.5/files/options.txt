@@ -1,0 +1,10 @@
+version:2586
+autoJump:false
+guiScale:2
+renderClouds:false
+lang:ko_kr
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+key_key.chat:key.keyboard.enter
+soundCategory_music:0.0
