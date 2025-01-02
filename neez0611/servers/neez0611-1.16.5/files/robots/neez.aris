@@ -1,0 +1,12 @@
+local screen = create_window()
+screen:open()
+
+local subbar = load_image("neez", "neez.png")
+local neez = create_image_renderer(subbar, 0, 0, 1920, 1080)
+
+screen:clear_child()
+
+screen:add_child(neez)
+screen:add_child(create_clickable(function()screen:close()end, 0, 0, 1920, 1080))
+
+

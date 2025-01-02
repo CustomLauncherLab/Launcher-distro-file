@@ -1647,6 +1647,17 @@
           }
         },
         {
+          "id": "neez.aris",
+          "name": "neez.aris",
+          "type": "File",
+          "artifact": {
+            "size": 283,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/neez.aris",
+            "MD5": "9df11658a40509a3d845bd2b155f8420",
+            "path": "robots/neez.aris"
+          }
+        },
+        {
           "id": "test.aris",
           "name": "test.aris",
           "type": "File",
