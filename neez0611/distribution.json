@@ -21,7 +21,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.42",
@@ -570,6 +570,149 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/girl_quiz_2.png",
             "MD5": "28cec1509923751f13b235931e4e63f4",
             "path": "assets/images/girl_quiz_2.png"
+          }
+        },
+        {
+          "id": "hint1_1.png",
+          "name": "hint1_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 167331,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/hint1_1.png",
+            "MD5": "22ee309adc8fb6ea555bc819be23b3e5",
+            "path": "assets/images/hint1_1.png"
+          }
+        },
+        {
+          "id": "hint1_1_hint.png",
+          "name": "hint1_1_hint.png",
+          "type": "File",
+          "artifact": {
+            "size": 140372,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/hint1_1_hint.png",
+            "MD5": "986a09eda5d8b1f62ad40fe8b9950db4",
+            "path": "assets/images/hint1_1_hint.png"
+          }
+        },
+        {
+          "id": "hint1_2.png",
+          "name": "hint1_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 135911,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/hint1_2.png",
+            "MD5": "4f4c411a2b2692560b2257686f9891f9",
+            "path": "assets/images/hint1_2.png"
+          }
+        },
+        {
+          "id": "hint1_2_hint.png",
+          "name": "hint1_2_hint.png",
+          "type": "File",
+          "artifact": {
+            "size": 140372,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/hint1_2_hint.png",
+            "MD5": "986a09eda5d8b1f62ad40fe8b9950db4",
+            "path": "assets/images/hint1_2_hint.png"
+          }
+        },
+        {
+          "id": "hint2_1.png",
+          "name": "hint2_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 88612,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/hint2_1.png",
+            "MD5": "a7613df37b427bb2ae509b4bd91a9a79",
+            "path": "assets/images/hint2_1.png"
+          }
+        },
+        {
+          "id": "hint2_1_hint.png",
+          "name": "hint2_1_hint.png",
+          "type": "File",
+          "artifact": {
+            "size": 141930,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/hint2_1_hint.png",
+            "MD5": "6765a78dc738d8a9b614c734b64cd960",
+            "path": "assets/images/hint2_1_hint.png"
+          }
+        },
+        {
+          "id": "hint2_2.png",
+          "name": "hint2_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 892932,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/hint2_2.png",
+            "MD5": "a16209fa54321a5b733cd0fe38ff4a49",
+            "path": "assets/images/hint2_2.png"
+          }
+        },
+        {
+          "id": "hint2_2_hint.png",
+          "name": "hint2_2_hint.png",
+          "type": "File",
+          "artifact": {
+            "size": 143533,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/hint2_2_hint.png",
+            "MD5": "fb15b07ccffd5cb03ff60e63b21c4688",
+            "path": "assets/images/hint2_2_hint.png"
+          }
+        },
+        {
+          "id": "hint3_1.png",
+          "name": "hint3_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 49134,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/hint3_1.png",
+            "MD5": "76e02014ef9e6f7f11f39ca52c591cb1",
+            "path": "assets/images/hint3_1.png"
+          }
+        },
+        {
+          "id": "hint3_1_hint.png",
+          "name": "hint3_1_hint.png",
+          "type": "File",
+          "artifact": {
+            "size": 145847,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/hint3_1_hint.png",
+            "MD5": "8c3b33146e24b8975c212bb6149b0c7a",
+            "path": "assets/images/hint3_1_hint.png"
+          }
+        },
+        {
+          "id": "hint3_2.png",
+          "name": "hint3_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 200650,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/hint3_2.png",
+            "MD5": "45c78f333d0b745835732ea235542628",
+            "path": "assets/images/hint3_2.png"
+          }
+        },
+        {
+          "id": "hint3_2_hint.png",
+          "name": "hint3_2_hint.png",
+          "type": "File",
+          "artifact": {
+            "size": 158545,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/hint3_2_hint.png",
+            "MD5": "ab0001fda6703fe223397aefcc37e42d",
+            "path": "assets/images/hint3_2_hint.png"
+          }
+        },
+        {
+          "id": "jelgahing.png",
+          "name": "jelgahing.png",
+          "type": "File",
+          "artifact": {
+            "size": 218622,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/jelgahing.png",
+            "MD5": "8276fdd0f1a902031b687ef5c281c155",
+            "path": "assets/images/jelgahing.png"
           }
         },
         {
@@ -1351,6 +1494,149 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/girl_quiz_1.aris",
             "MD5": "c9b3a3133d31ca7ddfbdfefa3dc8e9ce",
             "path": "robots/girl_quiz_1.aris"
+          }
+        },
+        {
+          "id": "hint1_1.aris",
+          "name": "hint1_1.aris",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/hint1_1.aris",
+            "MD5": "156f886a6a18375d3d7475219c7ff119",
+            "path": "robots/hint1_1.aris"
+          }
+        },
+        {
+          "id": "hint1_1_hint.aris",
+          "name": "hint1_1_hint.aris",
+          "type": "File",
+          "artifact": {
+            "size": 295,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/hint1_1_hint.aris",
+            "MD5": "2e37dbcbe0830d2caa86756c600ec392",
+            "path": "robots/hint1_1_hint.aris"
+          }
+        },
+        {
+          "id": "hint1_2.aris",
+          "name": "hint1_2.aris",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/hint1_2.aris",
+            "MD5": "a116f6bd2e530f080a4dff41bcb8e5ff",
+            "path": "robots/hint1_2.aris"
+          }
+        },
+        {
+          "id": "hint1_2_hint.aris",
+          "name": "hint1_2_hint.aris",
+          "type": "File",
+          "artifact": {
+            "size": 295,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/hint1_2_hint.aris",
+            "MD5": "b6ba7015a0ace9a1e8d9874364f50c76",
+            "path": "robots/hint1_2_hint.aris"
+          }
+        },
+        {
+          "id": "hint2_1.aris",
+          "name": "hint2_1.aris",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/hint2_1.aris",
+            "MD5": "c16ad1c884b41c14e8fcc3268b9f70b9",
+            "path": "robots/hint2_1.aris"
+          }
+        },
+        {
+          "id": "hint2_1_hint.aris",
+          "name": "hint2_1_hint.aris",
+          "type": "File",
+          "artifact": {
+            "size": 295,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/hint2_1_hint.aris",
+            "MD5": "1dc39e71ad66fe5911349a9569a55297",
+            "path": "robots/hint2_1_hint.aris"
+          }
+        },
+        {
+          "id": "hint2_2.aris",
+          "name": "hint2_2.aris",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/hint2_2.aris",
+            "MD5": "bd6ac639bea0f17ba418d28d97427065",
+            "path": "robots/hint2_2.aris"
+          }
+        },
+        {
+          "id": "hint2_2_hint.aris",
+          "name": "hint2_2_hint.aris",
+          "type": "File",
+          "artifact": {
+            "size": 295,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/hint2_2_hint.aris",
+            "MD5": "c3fb69dd28808a1912e8fe0f1f07d971",
+            "path": "robots/hint2_2_hint.aris"
+          }
+        },
+        {
+          "id": "hint3_1.aris",
+          "name": "hint3_1.aris",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/hint3_1.aris",
+            "MD5": "13bddd73ed09cb24ffbf0f0e63f212f9",
+            "path": "robots/hint3_1.aris"
+          }
+        },
+        {
+          "id": "hint3_1_hint.aris",
+          "name": "hint3_1_hint.aris",
+          "type": "File",
+          "artifact": {
+            "size": 295,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/hint3_1_hint.aris",
+            "MD5": "39e9cfca00bbb0042aa726c7dd3128e5",
+            "path": "robots/hint3_1_hint.aris"
+          }
+        },
+        {
+          "id": "hint3_2.aris",
+          "name": "hint3_2.aris",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/hint3_2.aris",
+            "MD5": "27726a89ec9c441b644351a82c55dbfa",
+            "path": "robots/hint3_2.aris"
+          }
+        },
+        {
+          "id": "hint3_2_hint.aris",
+          "name": "hint3_2_hint.aris",
+          "type": "File",
+          "artifact": {
+            "size": 295,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/hint3_2_hint.aris",
+            "MD5": "954d3b9c966039d3d5364cdd76287041",
+            "path": "robots/hint3_2_hint.aris"
+          }
+        },
+        {
+          "id": "jelgahing.aris",
+          "name": "jelgahing.aris",
+          "type": "File",
+          "artifact": {
+            "size": 289,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/jelgahing.aris",
+            "MD5": "3dae6fe88a5fc276707fd198b41f823c",
+            "path": "robots/jelgahing.aris"
           }
         },
         {

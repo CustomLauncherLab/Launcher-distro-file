@@ -12,7 +12,7 @@
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": true,
-    "autoconnect": true
+    "autoconnect": false
   },
   "forge": {
     "version": "36.2.42"

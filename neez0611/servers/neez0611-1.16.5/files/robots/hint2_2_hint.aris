@@ -1,0 +1,9 @@
+local screen = create_window()
+screen:open()
+
+local hint = load_image("hint2_2_hint", "hint2_2_hint.png")
+local hint_img = create_image_renderer(hint, 0, 0, 1920, 1080)
+screen:add_child(hint_img)
+screen:add_child(create_clickable(function()
+    screen:close()
+    end, 0, 0, 1920, 1080))
