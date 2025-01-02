@@ -22,6 +22,12 @@
       },
       "mainServer": true,
       "autoconnect": false,
+      "javaOptions": {
+        "ram": {
+          "minimum": 6144,
+          "recommended": 8192
+        }
+      },
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.42",
