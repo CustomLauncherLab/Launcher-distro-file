@@ -716,6 +716,17 @@
           }
         },
         {
+          "id": "neez.png",
+          "name": "neez.png",
+          "type": "File",
+          "artifact": {
+            "size": 122992,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/neez.png",
+            "MD5": "2310307a94717ac19fd7d056a6de38a8",
+            "path": "assets/images/neez.png"
+          }
+        },
+        {
           "id": "subbar_hoon.png",
           "name": "subbar_hoon.png",
           "type": "File",
