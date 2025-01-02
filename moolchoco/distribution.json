@@ -416,7 +416,6 @@
           "artifact": {
             "size": 4172,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/moolchoco/servers/moolchoco-1.16.5/files/config/voicechat/voicechat-client.properties",
-            "MD5": "9fc2d98073060a844dbdb318a7e58163",
             "path": "config/voicechat/voicechat-client.properties"
           }
         },
@@ -427,7 +426,6 @@
           "artifact": {
             "size": 192,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/moolchoco/servers/moolchoco-1.16.5/files/options.txt",
-            "MD5": "701603fc7d78dc2a63eab3b60477a972",
             "path": "options.txt"
           }
         },
@@ -438,7 +436,6 @@
           "artifact": {
             "size": 70,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/moolchoco/servers/moolchoco-1.16.5/files/optionsshaders.txt",
-            "MD5": "da25a9df70b382f63f39cd891540fb47",
             "path": "optionsshaders.txt"
           }
         },
