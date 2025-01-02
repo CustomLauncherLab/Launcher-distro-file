@@ -859,6 +859,17 @@
           }
         },
         {
+          "id": "subbar_jongman.png",
+          "name": "subbar_jongman.png",
+          "type": "File",
+          "artifact": {
+            "size": 167831,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/subbar_jongman.png",
+            "MD5": "f59feb44350c185d41d59779f6113fd0",
+            "path": "assets/images/subbar_jongman.png"
+          }
+        },
+        {
           "id": "subbar_minsoo.png",
           "name": "subbar_minsoo.png",
           "type": "File",
