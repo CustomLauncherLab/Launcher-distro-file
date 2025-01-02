@@ -931,7 +931,6 @@
           "artifact": {
             "size": 4171,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/config/voicechat/voicechat-client.properties",
-            "MD5": "4519602663db9181b585e37a6ba87e0c",
             "path": "config/voicechat/voicechat-client.properties"
           }
         },
@@ -1041,7 +1040,6 @@
           "artifact": {
             "size": 417,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/options.txt",
-            "MD5": "c0e5e19aa32743cc122636898adc4ea1",
             "path": "options.txt"
           }
         },
@@ -1052,7 +1050,6 @@
           "artifact": {
             "size": 20,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/optionsof.txt",
-            "MD5": "c6b6ae499675d145fd2de82d0a915be0",
             "path": "optionsof.txt"
           }
         },
@@ -1063,7 +1060,6 @@
           "artifact": {
             "size": 52,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/optionsshaders.txt",
-            "MD5": "5fc0a795df1965facc6ed9ac3db09266",
             "path": "optionsshaders.txt"
           }
         },
