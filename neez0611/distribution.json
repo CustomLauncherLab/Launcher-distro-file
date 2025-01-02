@@ -1690,9 +1690,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 75,
+            "size": 93,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/servers.dat",
-            "MD5": "16779c1d893d72cf3095c0c1ca2d12ed",
+            "MD5": "7eaea8fad5a7b61736d5c6513dbbffb4",
             "path": "servers.dat"
           }
         },
