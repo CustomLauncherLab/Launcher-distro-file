@@ -385,6 +385,50 @@
           }
         },
         {
+          "id": "1.png",
+          "name": "1.png",
+          "type": "File",
+          "artifact": {
+            "size": 500,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nest-huinomok/servers/nest-huinomok-1.12.2/files/customnpcs/assets/customnpcs/textures/entity/humanmale/1.png",
+            "MD5": "01727450e426f2df175d44aa5d8d55db",
+            "path": "customnpcs/assets/customnpcs/textures/entity/humanmale/1.png"
+          }
+        },
+        {
+          "id": "2.png",
+          "name": "2.png",
+          "type": "File",
+          "artifact": {
+            "size": 2177,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nest-huinomok/servers/nest-huinomok-1.12.2/files/customnpcs/assets/customnpcs/textures/entity/humanmale/2.png",
+            "MD5": "cfa032d66a352252459dd43945f82b14",
+            "path": "customnpcs/assets/customnpcs/textures/entity/humanmale/2.png"
+          }
+        },
+        {
+          "id": "3.png",
+          "name": "3.png",
+          "type": "File",
+          "artifact": {
+            "size": 2834,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nest-huinomok/servers/nest-huinomok-1.12.2/files/customnpcs/assets/customnpcs/textures/entity/humanmale/3.png",
+            "MD5": "29f99f834de14d7a672e829445f183d9",
+            "path": "customnpcs/assets/customnpcs/textures/entity/humanmale/3.png"
+          }
+        },
+        {
+          "id": "4.png",
+          "name": "4.png",
+          "type": "File",
+          "artifact": {
+            "size": 1730,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nest-huinomok/servers/nest-huinomok-1.12.2/files/customnpcs/assets/customnpcs/textures/entity/humanmale/4.png",
+            "MD5": "6c8124f8a674e25091a45d197b6fa185",
+            "path": "customnpcs/assets/customnpcs/textures/entity/humanmale/4.png"
+          }
+        },
+        {
           "id": "Armourers-Workshop-1.12.2-0.51.0.jar",
           "name": "Armourers-Workshop-1.12.2-0.51.0.jar",
           "type": "File",
