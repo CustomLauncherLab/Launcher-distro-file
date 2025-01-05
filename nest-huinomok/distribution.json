@@ -372,6 +372,19 @@
           }
         },
         {
+          "id": "com.sk89q:worldedit:6.1.10-SNAPSHOT;e6b38e8@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1479535,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nest-huinomok/servers/nest-huinomok-1.12.2/forgemods/optionalon/worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+            "MD5": "bdf6d8d20591c014fed66633f4ef3b23"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "Armourers-Workshop-1.12.2-0.51.0.jar",
           "name": "Armourers-Workshop-1.12.2-0.51.0.jar",
           "type": "File",
