@@ -282,6 +282,26 @@
           }
         },
         {
+          "id": "com.snuri:customshop:1.1.0@jar",
+          "name": "CustomShop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91265,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nest-huinomok/servers/nest-huinomok-1.12.2/forgemods/required/CustomShop-1.12.2-1.1.0_huinomok.jar",
+            "MD5": "93dcc6b27966deb383f43cd377c5213e"
+          }
+        },
+        {
+          "id": "com.snuri:customshophud:1.1.0@jar",
+          "name": "CustomShopHUD",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22758,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nest-huinomok/servers/nest-huinomok-1.12.2/forgemods/required/CustomShopHUD-1.12.2-1.1.0.jar",
+            "MD5": "b2fcf1a64b0bd62dc6093f1d0a98bf29"
+          }
+        },
+        {
           "id": "mezz.jei:jei:4.16.1.1013@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
@@ -289,6 +309,16 @@
             "size": 655406,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nest-huinomok/servers/nest-huinomok-1.12.2/forgemods/required/jei_1.12.2-4.16.1.1013.jar",
             "MD5": "155469b1e6be853ba4b273044bc4a68e"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.12.2-5.7.1p3@jar",
+          "name": "JourneyMap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6851583,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nest-huinomok/servers/nest-huinomok-1.12.2/forgemods/required/journeymap-1.12.2-5.7.1p3.jar",
+            "MD5": "60e035f3179650c0c6fb715aa323e8c4"
           }
         },
         {
