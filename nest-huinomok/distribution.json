@@ -440,6 +440,28 @@
           }
         },
         {
+          "id": "item_background.png",
+          "name": "item_background.png",
+          "type": "File",
+          "artifact": {
+            "size": 4989,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nest-huinomok/servers/nest-huinomok-1.12.2/files/mods/CustomShop/item_background.png",
+            "MD5": "706ccc0077300551b6743640fd0feacb",
+            "path": "mods/CustomShop/item_background.png"
+          }
+        },
+        {
+          "id": "shop_background2.png",
+          "name": "shop_background2.png",
+          "type": "File",
+          "artifact": {
+            "size": 39650,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/nest-huinomok/servers/nest-huinomok-1.12.2/files/mods/CustomShop/shop_background2.png",
+            "MD5": "aa6499db057d905646c5dac4ac13605f",
+            "path": "mods/CustomShop/shop_background2.png"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
