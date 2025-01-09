@@ -23,7 +23,13 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["options.txt", "optionsof.txt", "optionsshaders.txt", "config/voicechat/voicechat-client.properties"]
+      "patterns": [
+        "options.txt",
+        "optionsof.txt",
+        "optionsshaders.txt",
+        "config/voicechat/voicechat-client.properties",
+        "journeymap/config/5.8/journeymap.minimap.config"
+      ]
     }
   ]
 }
