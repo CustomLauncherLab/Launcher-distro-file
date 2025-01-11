@@ -1083,6 +1083,17 @@
           }
         },
         {
+          "id": "comicsbubbleschat-client.toml",
+          "name": "comicsbubbleschat-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 772,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/config/comicsbubbleschat-client.toml",
+            "MD5": "d6f246d7aa9ce1687df97a4d66de2d7f",
+            "path": "config/comicsbubbleschat-client.toml"
+          }
+        },
+        {
           "id": "CustomNpcs.cfg",
           "name": "CustomNpcs.cfg",
           "type": "File",
