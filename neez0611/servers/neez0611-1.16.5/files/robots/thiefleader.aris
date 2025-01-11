@@ -1,0 +1,6 @@
+local screen = create_window()
+screen:open()
+
+local thiefleader = load_image("thiefleader", "thiefleader.png")
+local thiefleader_img = create_image_renderer(thiefleader, 0, 0, 1920, 1080)
+screen:add_child(thiefleader_img)

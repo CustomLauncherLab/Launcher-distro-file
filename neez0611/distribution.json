@@ -896,6 +896,28 @@
           }
         },
         {
+          "id": "policecommon.png",
+          "name": "policecommon.png",
+          "type": "File",
+          "artifact": {
+            "size": 1198107,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/policecommon.png",
+            "MD5": "39fbfb905073da9844726abe5eb2f04f",
+            "path": "assets/images/policecommon.png"
+          }
+        },
+        {
+          "id": "policeleader.png",
+          "name": "policeleader.png",
+          "type": "File",
+          "artifact": {
+            "size": 1201543,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/policeleader.png",
+            "MD5": "eb7bb0650df23362a066877b0322a3f2",
+            "path": "assets/images/policeleader.png"
+          }
+        },
+        {
           "id": "policenews1.png",
           "name": "policenews1.png",
           "type": "File",
@@ -1102,6 +1124,50 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/subbar_youngchul.png",
             "MD5": "3bfc889928830f24711d0e209f831776",
             "path": "assets/images/subbar_youngchul.png"
+          }
+        },
+        {
+          "id": "thief1.png",
+          "name": "thief1.png",
+          "type": "File",
+          "artifact": {
+            "size": 1155632,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/thief1.png",
+            "MD5": "e405c7df5b59a91c8411b4e24488f6d9",
+            "path": "assets/images/thief1.png"
+          }
+        },
+        {
+          "id": "thief2.png",
+          "name": "thief2.png",
+          "type": "File",
+          "artifact": {
+            "size": 1153485,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/thief2.png",
+            "MD5": "b8794076a455d30a43bcd2987b3e3e47",
+            "path": "assets/images/thief2.png"
+          }
+        },
+        {
+          "id": "thief3.png",
+          "name": "thief3.png",
+          "type": "File",
+          "artifact": {
+            "size": 1155234,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/thief3.png",
+            "MD5": "f376ef95bdc5dd6def410a6b1ead30b8",
+            "path": "assets/images/thief3.png"
+          }
+        },
+        {
+          "id": "thiefleader.png",
+          "name": "thiefleader.png",
+          "type": "File",
+          "artifact": {
+            "size": 1138881,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/assets/images/thiefleader.png",
+            "MD5": "639ebf1181f4236c871fe390b0946b1f",
+            "path": "assets/images/thiefleader.png"
           }
         },
         {
@@ -1957,6 +2023,28 @@
           }
         },
         {
+          "id": "labtopnews1.aris",
+          "name": "labtopnews1.aris",
+          "type": "File",
+          "artifact": {
+            "size": 228,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/labtopnews1.aris",
+            "MD5": "f0fdd9bafe78d1c6bd62d85add698e5e",
+            "path": "robots/labtopnews1.aris"
+          }
+        },
+        {
+          "id": "labtopnews2.aris",
+          "name": "labtopnews2.aris",
+          "type": "File",
+          "artifact": {
+            "size": 228,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/labtopnews2.aris",
+            "MD5": "18f8b62e460a5c8c6eb4d7f3e63826b5",
+            "path": "robots/labtopnews2.aris"
+          }
+        },
+        {
           "id": "mohinsure.aris",
           "name": "mohinsure.aris",
           "type": "File",
@@ -1979,6 +2067,50 @@
           }
         },
         {
+          "id": "policecommon.aris",
+          "name": "policecommon.aris",
+          "type": "File",
+          "artifact": {
+            "size": 234,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/policecommon.aris",
+            "MD5": "507ee50c14d9b0f996e3570f64bd9cea",
+            "path": "robots/policecommon.aris"
+          }
+        },
+        {
+          "id": "policeleader.aris",
+          "name": "policeleader.aris",
+          "type": "File",
+          "artifact": {
+            "size": 234,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/policeleader.aris",
+            "MD5": "b2404f6178a67925ad68d7fc5fa4c9b7",
+            "path": "robots/policeleader.aris"
+          }
+        },
+        {
+          "id": "policenews1.aris",
+          "name": "policenews1.aris",
+          "type": "File",
+          "artifact": {
+            "size": 228,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/policenews1.aris",
+            "MD5": "54c581e2a8bdc8acb397ea5cff42650a",
+            "path": "robots/policenews1.aris"
+          }
+        },
+        {
+          "id": "policenews2.aris",
+          "name": "policenews2.aris",
+          "type": "File",
+          "artifact": {
+            "size": 227,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/policenews2.aris",
+            "MD5": "cd5983dacb5a85ca93e08e9c11070ea6",
+            "path": "robots/policenews2.aris"
+          }
+        },
+        {
           "id": "test.aris",
           "name": "test.aris",
           "type": "File",
@@ -1987,6 +2119,50 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/test.aris",
             "MD5": "3997bc971391a7afa69b50a4719723da",
             "path": "robots/test.aris"
+          }
+        },
+        {
+          "id": "thief1.aris",
+          "name": "thief1.aris",
+          "type": "File",
+          "artifact": {
+            "size": 198,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/thief1.aris",
+            "MD5": "84ceccbcfa2418f8c9ac6bf10f37ae55",
+            "path": "robots/thief1.aris"
+          }
+        },
+        {
+          "id": "thief2.aris",
+          "name": "thief2.aris",
+          "type": "File",
+          "artifact": {
+            "size": 198,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/thief2.aris",
+            "MD5": "3080a296a89844943242bd320cf20aa3",
+            "path": "robots/thief2.aris"
+          }
+        },
+        {
+          "id": "thief3.aris",
+          "name": "thief3.aris",
+          "type": "File",
+          "artifact": {
+            "size": 198,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/thief3.aris",
+            "MD5": "b2b9d413bb9fdbb324b3da8a14d1f3d8",
+            "path": "robots/thief3.aris"
+          }
+        },
+        {
+          "id": "thiefleader.aris",
+          "name": "thiefleader.aris",
+          "type": "File",
+          "artifact": {
+            "size": 228,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/robots/thiefleader.aris",
+            "MD5": "70e6c86c2e3fc232da82e51043124898",
+            "path": "robots/thiefleader.aris"
           }
         },
         {

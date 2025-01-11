@@ -1,0 +1,6 @@
+local screen = create_window()
+screen:open()
+
+local thief1 = load_image("thief1", "thief1.png")
+local thief1_img = create_image_renderer(thief1, 0, 0, 1920, 1080)
+screen:add_child(thief1_img)

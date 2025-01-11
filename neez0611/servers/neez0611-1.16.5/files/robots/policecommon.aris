@@ -1,0 +1,6 @@
+local screen = create_window()
+screen:open()
+
+local policecommon = load_image("policecommon", "policecommon.png")
+local policecommon_img = create_image_renderer(policecommon, 0, 0, 1920, 1080)
+screen:add_child(policecommon_img)
