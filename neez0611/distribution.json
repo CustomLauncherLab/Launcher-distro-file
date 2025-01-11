@@ -1338,7 +1338,7 @@
           "name": "journeymap.minimap.config",
           "type": "File",
           "artifact": {
-            "size": 1667,
+            "size": 1665,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/journeymap/config/5.8/journeymap.minimap.config",
             "path": "journeymap/config/5.8/journeymap.minimap.config"
           }
