@@ -4,8 +4,8 @@
     "version": "1.0.0",
     "name": "Re-pg (Minecraft 1.20.1)",
     "description": "Re-pg Running Minecraft 1.20.1 (Forge v47.3.22)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/server-icon.png",
+    "address": "repg.peerlink.us",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",

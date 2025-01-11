@@ -11,9 +11,9 @@
       "id": "Re-pg-1.20.1",
       "name": "Re-pg (Minecraft 1.20.1)",
       "description": "Re-pg Running Minecraft 1.20.1 (Forge v47.3.22)",
-      "icon": null,
+      "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/server-icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "repg.peerlink.us",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
