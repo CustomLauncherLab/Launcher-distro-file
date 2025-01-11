@@ -474,6 +474,17 @@
           }
         },
         {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 104,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.20.1/files/servers.dat",
+            "MD5": "7274887f03993a349b730385be10eae3",
+            "path": "servers.dat"
+          }
+        },
+        {
           "id": "BSL_v8.4.01.1.zip",
           "name": "BSL_v8.4.01.1.zip",
           "type": "File",
