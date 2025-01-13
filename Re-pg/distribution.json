@@ -478,7 +478,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4091,
+            "size": 4090,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.20.1/files/options.txt",
             "path": "options.txt"
           }
