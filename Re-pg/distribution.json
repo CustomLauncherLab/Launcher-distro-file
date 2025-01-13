@@ -474,6 +474,26 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4091,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 28,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Re-pg/servers/Re-pg-1.20.1/files/optionsshaders.txt",
+            "path": "optionsshaders.txt"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
