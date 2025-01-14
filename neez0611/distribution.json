@@ -2750,26 +2750,6 @@
           }
         },
         {
-          "id": "net.coderbot.iris:oculus:1.4.8@jar",
-          "name": "Oculus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3133901,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief-1.16.5/forgemods/required/oculus-mc1.16.5-1.4.8.jar",
-            "MD5": "568661a2dd12b461674c7f3a80837804"
-          }
-        },
-        {
-          "id": "me.jellysquid.mods.sodium.client:rubidium:0.2.13@jar",
-          "name": "Rubidium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 625052,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief-1.16.5/forgemods/required/rubidium-mc1.16.5-0.2.13.jar",
-            "MD5": "908bbd1fd7b988bc61d685344e6de496"
-          }
-        },
-        {
           "id": "net.geforcemods:securitycraft:v1.9.11@jar",
           "name": "SecurityCraft",
           "type": "ForgeMod",
@@ -2810,6 +2790,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.16.5_HD_U_G8_MOD:0.0.0@jar",
+          "name": "OptiFine_1.16.5_HD_U_G8_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 5520538,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
+            "MD5": "be4979940ae0637d15290943f3e654e0"
           }
         },
         {
