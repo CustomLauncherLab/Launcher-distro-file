@@ -1,0 +1,9 @@
+local screen = create_window()
+screen:open()
+
+local mohinsure = load_image("mohinsure", "mohinsure.png")
+local mohinsure_img = create_image_renderer(mohinsure, 0, 0, 1920, 1080)
+
+screen:clear_child()
+
+screen:add_child(mohinsure_img)

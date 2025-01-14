@@ -1,0 +1,23 @@
+
+local screen = create_window()
+screen:open()
+
+local walkietalkie = load_image("walkietalkie", "walkietalkie.png")
+local walkietalkie_img = create_image_renderer(walkietalkie, 0, 0, 1920, 1080)
+
+screen:add_child(walkietalkie_img)
+-- ch1
+screen:add_child(create_clickable(function()
+    screen:close()
+    invoke_command("무전기채널진입 1")
+    end, 384, 377, 390, 105))
+-- ch2
+screen:add_child(create_clickable(function()
+    screen:close()
+    invoke_command("무전기채널진입 2")
+    end, 774, 377, 390, 105))
+-- ch3
+screen:add_child(create_clickable(function()
+    screen:close()
+    invoke_command("무전기채널진입 3")
+    end, 1158, 377, 390, 105))

@@ -2,7 +2,7 @@
   "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/Launcher-distro-file/neez0611/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "경찰과 도둑",
+    "name": "경찰과 도둑(테스트용)",
     "description": "Minecraft 1.16.5 (Forge v36.2.42)",
     "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/server-icon.png",
     "address": "neez0611.gotiger.ggm.kr",
@@ -11,7 +11,7 @@
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
-    "mainServer": true,
+    "mainServer": false,
     "autoconnect": false,
     "javaOptions": {
       "ram": { "minimum": 6144, "recommended": 8192 }

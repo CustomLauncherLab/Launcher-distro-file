@@ -1,0 +1,6 @@
+local screen = create_window()
+screen:open()
+
+local labtopnews2 = load_image("labtopnews2", "labtopnews2.png")
+local labtopnews2_img = create_image_renderer(labtopnews2, 0, 0, 1920, 1080)
+screen:add_child(labtopnews2_img)

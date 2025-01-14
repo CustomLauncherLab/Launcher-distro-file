@@ -1,0 +1,17 @@
+local screen = create_window()
+screen:open()
+
+local subbar = load_image("subbar_corruptpolice", "subbar_corruptpolice.png")
+local subbar_img_corruptpolice = create_image_renderer(subbar, 0, 0, 1920, 1080)
+local subbar = load_image("subbar_no", "subbar_no.png")
+local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
+
+screen:clear_child()
+
+local t1 = create_default_text_renderer("오오, 좋아. 이제 내가 약속한 걸 줘야겠지. 하지만 조심해라,", 40, 460, 4.2, 0xffffff)
+screen:add_child(subbar_img_corruptpolice)
+screen:add_child(t1)
+screen:add_child(create_clickable(function()
+    invoke_command("비리경찰타이틀 탈출구좌표")
+    screen:close()
+    end, 0, 0, 1920, 1080))

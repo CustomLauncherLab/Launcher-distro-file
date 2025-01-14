@@ -1,0 +1,23 @@
+
+local screen = create_window()
+screen:open()
+
+local friendship = load_image("friendship", "friendship.png")
+local friendship_img = create_image_renderer(friendship, 0, 0, 1920, 1080)
+screen:add_child(friendship_img)
+-- police up
+screen:add_child(create_clickable(function()
+    invoke_command("호감도 증가 경찰 1")
+    end, 397, 597, 180, 125))
+-- police down
+screen:add_child(create_clickable(function()
+    invoke_command("호감도 감소 경찰 1")
+    end, 603, 597, 180, 125))
+-- thief up
+screen:add_child(create_clickable(function()
+    invoke_command("호감도 증가 도둑 1")
+    end, 1153, 597, 180, 125))
+-- thief down
+screen:add_child(create_clickable(function()
+    invoke_command("호감도 감소 도둑 1")
+    end, 1360, 597, 180, 125))

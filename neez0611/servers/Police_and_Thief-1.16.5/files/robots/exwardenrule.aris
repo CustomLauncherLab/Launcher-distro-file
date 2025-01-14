@@ -1,0 +1,6 @@
+local screen = create_window()
+screen:open()
+
+local 3f = load_image("3fwarehouse", "3fwarehouse.png")
+local 3f_img = create_image_renderer(3f, 0, 0, 1920, 1080)
+screen:add_child(3f_img)

@@ -1,0 +1,19 @@
+local screen = create_window()
+screen:open()
+
+local subbar = load_image("subbar_jongman", "subbar_jongman.png")
+local subbar_img_jongman = create_image_renderer(subbar, 0, 0, 1920, 1080)
+local subbar = load_image("subbar_no", "subbar_no.png")
+local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
+
+screen:clear_child()
+
+
+local t1 = create_default_text_renderer("담배랑 술을 찾고 있다고? 내가 갖고 있긴 한데 그냥 줄 순 없지.", 40, 460, 4.2, 0xffffff)
+local t2 = create_default_text_renderer("이 감옥에서는 우리끼리만 쓰는 코인이 있거든.", 40, 485, 4.2, 0xffffff)
+screen:add_child(subbar_img_jongman)
+screen:add_child(t1)
+screen:add_child(t2)
+
+screen:add_child(create_clickable(function()invoke_command("aris start @p corruptpolice1_2_2.aris")end, 0, 0, 1920, 1080))
+

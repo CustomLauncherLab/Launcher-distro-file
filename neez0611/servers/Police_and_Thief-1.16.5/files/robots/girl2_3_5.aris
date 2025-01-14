@@ -1,0 +1,19 @@
+local screen = create_window()
+screen:open()
+
+local subbar = load_image("subbar_girl", "subbar_girl.png")
+local subbar_img_girl = create_image_renderer(subbar, 0, 0, 1920, 1080)
+local subbar = load_image("subbar_no", "subbar_no.png")
+local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
+
+screen:clear_child()
+
+local t1 = create_default_text_renderer("그건 네가 직접 확인하는 게 좋을 거야. ", 40, 460, 4.2, 0xffffff)
+local t2 = create_default_text_renderer("여기. 비밀번호야. 행운을 빌어.", 40, 485, 4.2, 0xffffff)
+screen:add_child(subbar_img_girl)
+screen:add_child(t1)
+screen:add_child(t2)
+screen:add_child(create_clickable(function()
+    invoke_command("소녀타이틀 소녀지하문제")
+    screen:close()
+    end, 0, 0, 1920, 1080))

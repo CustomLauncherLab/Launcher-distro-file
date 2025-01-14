@@ -1,0 +1,6 @@
+local screen = create_window()
+screen:open()
+
+local policenews1 = load_image("policenews1", "policenews1.png")
+local policenews1_img = create_image_renderer(policenews1, 0, 0, 1920, 1080)
+screen:add_child(policenews1_img)

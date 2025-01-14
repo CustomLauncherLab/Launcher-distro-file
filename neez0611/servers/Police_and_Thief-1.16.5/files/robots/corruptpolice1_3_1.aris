@@ -1,0 +1,17 @@
+local screen = create_window()
+screen:open()
+
+local subbar = load_image("subbar_hoon", "subbar_hoon.png")
+local subbar_img_hoon = create_image_renderer(subbar, 0, 0, 1920, 1080)
+local subbar = load_image("subbar_no", "subbar_no.png")
+local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
+
+screen:clear_child()
+
+
+local t1 = create_default_text_renderer("좋아. 비리경찰님을 만나러 갈 준비가 된 것 같군.  ", 40, 460, 4.2, 0xffffff)
+local t2 = create_default_text_renderer("그의 감옥은 저기 안 쪽이야. 조심해, 그는 아무도 쉽게 믿지 않아.", 40, 485, 4.2, 0xffffff)
+screen:add_child(subbar_img_hoon)
+screen:add_child(t1)
+screen:add_child(t2)
+screen:add_child(create_clickable(function()screen:close()end, 0, 0, 1920, 1080))
