@@ -1385,25 +1385,25 @@
           }
         },
         {
-          "id": "경찰_텍스처.zip",
-          "name": "경찰_텍스처.zip",
+          "id": "경찰.zip",
+          "name": "경찰.zip",
           "type": "File",
           "artifact": {
             "size": 4481452,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/resourcepacks/%EA%B2%BD%EC%B0%B0_%ED%85%8D%EC%8A%A4%EC%B2%98.zip",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/resourcepacks/%EA%B2%BD%EC%B0%B0.zip",
             "MD5": "0140775e3009486c3c6a5e37ca5e0fd6",
-            "path": "resourcepacks/경찰_텍스처.zip"
+            "path": "resourcepacks/경찰.zip"
           }
         },
         {
-          "id": "도둑_텍스처.zip",
-          "name": "도둑_텍스처.zip",
+          "id": "도둑.zip",
+          "name": "도둑.zip",
           "type": "File",
           "artifact": {
             "size": 4481432,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/resourcepacks/%EB%8F%84%EB%91%91_%ED%85%8D%EC%8A%A4%EC%B2%98.zip",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/resourcepacks/%EB%8F%84%EB%91%91.zip",
             "MD5": "7240831ae9bbbcef5f92a346feb164a5",
-            "path": "resourcepacks/도둑_텍스처.zip"
+            "path": "resourcepacks/도둑.zip"
           }
         },
         {
@@ -3622,25 +3622,25 @@
           }
         },
         {
-          "id": "경찰_텍스처.zip",
-          "name": "경찰_텍스처.zip",
+          "id": "경찰.zip",
+          "name": "경찰.zip",
           "type": "File",
           "artifact": {
             "size": 4481452,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief-1.16.5/files/resourcepacks/%EA%B2%BD%EC%B0%B0_%ED%85%8D%EC%8A%A4%EC%B2%98.zip",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief-1.16.5/files/resourcepacks/%EA%B2%BD%EC%B0%B0.zip",
             "MD5": "0140775e3009486c3c6a5e37ca5e0fd6",
-            "path": "resourcepacks/경찰_텍스처.zip"
+            "path": "resourcepacks/경찰.zip"
           }
         },
         {
-          "id": "도둑_텍스처.zip",
-          "name": "도둑_텍스처.zip",
+          "id": "도둑.zip",
+          "name": "도둑.zip",
           "type": "File",
           "artifact": {
             "size": 4481432,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief-1.16.5/files/resourcepacks/%EB%8F%84%EB%91%91_%ED%85%8D%EC%8A%A4%EC%B2%98.zip",
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief-1.16.5/files/resourcepacks/%EB%8F%84%EB%91%91.zip",
             "MD5": "7240831ae9bbbcef5f92a346feb164a5",
-            "path": "resourcepacks/도둑_텍스처.zip"
+            "path": "resourcepacks/도둑.zip"
           }
         },
         {
