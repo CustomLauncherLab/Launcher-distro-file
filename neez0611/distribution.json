@@ -367,9 +367,9 @@
           "name": "Aris",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3392792,
+            "size": 3431296,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/forgemods/required/aris-1.0-SNAPSHOT-all.jar",
-            "MD5": "270982cd2820f34e97dcaca632e742bb"
+            "MD5": "3e776a1662f3e04f533b26e8e0133169"
           }
         },
         {
@@ -1341,6 +1341,28 @@
             "size": 1665,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/journeymap/config/5.8/journeymap.minimap.config",
             "path": "journeymap/config/5.8/journeymap.minimap.config"
+          }
+        },
+        {
+          "id": "default.json",
+          "name": "default.json",
+          "type": "File",
+          "artifact": {
+            "size": 266,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/mods/CustomFont/assets/minecraft/font/default.json",
+            "MD5": "a7a3dd47efc1aa642e422823ef0febe3",
+            "path": "mods/CustomFont/assets/minecraft/font/default.json"
+          }
+        },
+        {
+          "id": "font.ttf",
+          "name": "font.ttf",
+          "type": "File",
+          "artifact": {
+            "size": 6681764,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/neez0611-1.16.5/files/mods/CustomFont/assets/minecraft/font/font.ttf",
+            "MD5": "cf0924a51cd5649d9f263e6dd8c5e62b",
+            "path": "mods/CustomFont/assets/minecraft/font/font.ttf"
           }
         },
         {
