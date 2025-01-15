@@ -1,0 +1,18 @@
+local bar_back = load_image("bar_back", "bar_back.png")
+local bar_img = create_image_renderer(bar_back, 0, 0, 1920, 1080)
+
+local bar_police_25 = load_image("bar_police_25", "bar_police_25.png")
+local bar_gauge_police_25 = create_image_renderer(bar_police_25, 0, 0, 1920, 1080)
+local bar_police_50 = load_image("bar_police_50", "bar_police_50.png")
+local bar_gauge_police_50 = create_image_renderer(bar_police_50, 0, 0, 1920, 1080)
+local bar_police_75 = load_image("bar_police_75", "bar_police_75.png")
+local bar_gauge_police_75 = create_image_renderer(bar_police_75, 0, 0, 1920, 1080)
+
+
+local hud = create_hud()
+clear_opened_hud()
+hud:open_hud()
+hud:add_child(bar_img)
+hud:add_child(bar_gauge_police_25)
+hud:add_child(bar_gauge_police_50)
+hud:add_child(bar_gauge_police_75)

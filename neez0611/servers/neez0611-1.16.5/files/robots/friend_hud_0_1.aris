@@ -1,0 +1,11 @@
+local bar_back = load_image("bar_back", "bar_back.png")
+local bar_img = create_image_renderer(bar_back, 0, 0, 1920, 1080)
+
+local bar_thief_25 = load_image("bar_thief_25", "bar_thief_25.png")
+local bar_gauge_thief_img = create_image_renderer(bar_thief_25, 0, 0, 1920, 1080)
+
+local hud = create_hud()
+clear_opened_hud()
+hud:open_hud()
+hud:add_child(bar_img)
+hud:add_child(bar_gauge_thief_img)
