@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "테스트_도둑",
     "description": "Minecraft 1.16.5 (Forge v36.2.42)",
-    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/server-icon2.png",
+    "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/server-icon-test.png",
     "address": "neez0611.gotiger.ggm.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
