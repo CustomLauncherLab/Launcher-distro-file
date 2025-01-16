@@ -367,9 +367,9 @@
           "name": "Aris",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3431296,
+            "size": 3424470,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/forgemods/required/aris-1.0-SNAPSHOT-all.jar",
-            "MD5": "3e776a1662f3e04f533b26e8e0133169"
+            "MD5": "ee92d5fbe6921508d256180e8d37dc67"
           }
         },
         {
@@ -570,9 +570,9 @@
           "name": "bar.png",
           "type": "File",
           "artifact": {
-            "size": 18534,
+            "size": 41708,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/bar.png",
-            "MD5": "15f8f3ef3acbc25da39fe2c7252e34e0",
+            "MD5": "6222863fd8092fa75e31ad93e839bc43",
             "path": "assets/images/bar.png"
           }
         },
@@ -581,9 +581,9 @@
           "name": "bar_back.png",
           "type": "File",
           "artifact": {
-            "size": 16837,
+            "size": 42724,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/bar_back.png",
-            "MD5": "87e8007b730359db07c8bfb87ef0a9c0",
+            "MD5": "7f05b6f48e930bad6d6c85adc878c7ad",
             "path": "assets/images/bar_back.png"
           }
         },
@@ -592,9 +592,9 @@
           "name": "bar_police_100.png",
           "type": "File",
           "artifact": {
-            "size": 11188,
+            "size": 14718,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/bar_police_100.png",
-            "MD5": "1fc87c4d76c44311eb5e7d58382ad736",
+            "MD5": "893580ec905fddb5d6a110e18eb44866",
             "path": "assets/images/bar_police_100.png"
           }
         },
@@ -603,9 +603,9 @@
           "name": "bar_police_25.png",
           "type": "File",
           "artifact": {
-            "size": 10896,
+            "size": 13929,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/bar_police_25.png",
-            "MD5": "a9e2075273a64458f63a1562b521d458",
+            "MD5": "8e801cc15c12b3b61dd846bf868a7221",
             "path": "assets/images/bar_police_25.png"
           }
         },
@@ -614,9 +614,9 @@
           "name": "bar_police_50.png",
           "type": "File",
           "artifact": {
-            "size": 10964,
+            "size": 13845,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/bar_police_50.png",
-            "MD5": "48a6e1851a6e8c882d633dc3977b7e45",
+            "MD5": "41b0303a99b7b9992214be6028c6c709",
             "path": "assets/images/bar_police_50.png"
           }
         },
@@ -625,9 +625,9 @@
           "name": "bar_police_75.png",
           "type": "File",
           "artifact": {
-            "size": 11294,
+            "size": 14965,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/bar_police_75.png",
-            "MD5": "193860fe551ac47054a21a6f5e90bf35",
+            "MD5": "c513ca9aef647c310fc41b1eee144a14",
             "path": "assets/images/bar_police_75.png"
           }
         },
@@ -636,9 +636,9 @@
           "name": "bar_thief_100.png",
           "type": "File",
           "artifact": {
-            "size": 11175,
+            "size": 14845,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/bar_thief_100.png",
-            "MD5": "265f7a89caebdf4bdb8681a9ec2383d4",
+            "MD5": "fe9b7719fc0ced53f0c3d6f9e1e88485",
             "path": "assets/images/bar_thief_100.png"
           }
         },
@@ -647,9 +647,9 @@
           "name": "bar_thief_25.png",
           "type": "File",
           "artifact": {
-            "size": 10929,
+            "size": 14067,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/bar_thief_25.png",
-            "MD5": "200d28336c07ef11ec85a119b4c5978a",
+            "MD5": "2f766bd0fe8102c472653ba734074024",
             "path": "assets/images/bar_thief_25.png"
           }
         },
@@ -658,9 +658,9 @@
           "name": "bar_thief_50.png",
           "type": "File",
           "artifact": {
-            "size": 10935,
+            "size": 13794,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/bar_thief_50.png",
-            "MD5": "23d98c4317a2db36f917681c6d54a1ea",
+            "MD5": "56a86a5d575113215a3f9f1b63c59554",
             "path": "assets/images/bar_thief_50.png"
           }
         },
@@ -669,9 +669,9 @@
           "name": "bar_thief_75.png",
           "type": "File",
           "artifact": {
-            "size": 11158,
+            "size": 14320,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/bar_thief_75.png",
-            "MD5": "4a0be29f68b84a2fa1967f68cef3f661",
+            "MD5": "e80f808332715ee228d79b8b5d812361",
             "path": "assets/images/bar_thief_75.png"
           }
         },
@@ -3011,9 +3011,9 @@
           "name": "Aris",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3431296,
+            "size": 3424470,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/forgemods/required/aris-1.0-SNAPSHOT-all.jar",
-            "MD5": "3e776a1662f3e04f533b26e8e0133169"
+            "MD5": "ee92d5fbe6921508d256180e8d37dc67"
           }
         },
         {
@@ -3214,9 +3214,9 @@
           "name": "bar.png",
           "type": "File",
           "artifact": {
-            "size": 18534,
+            "size": 41708,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/bar.png",
-            "MD5": "15f8f3ef3acbc25da39fe2c7252e34e0",
+            "MD5": "6222863fd8092fa75e31ad93e839bc43",
             "path": "assets/images/bar.png"
           }
         },
@@ -3225,9 +3225,9 @@
           "name": "bar_back.png",
           "type": "File",
           "artifact": {
-            "size": 16837,
+            "size": 42724,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/bar_back.png",
-            "MD5": "87e8007b730359db07c8bfb87ef0a9c0",
+            "MD5": "7f05b6f48e930bad6d6c85adc878c7ad",
             "path": "assets/images/bar_back.png"
           }
         },
@@ -3236,9 +3236,9 @@
           "name": "bar_police_100.png",
           "type": "File",
           "artifact": {
-            "size": 11188,
+            "size": 14718,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/bar_police_100.png",
-            "MD5": "1fc87c4d76c44311eb5e7d58382ad736",
+            "MD5": "893580ec905fddb5d6a110e18eb44866",
             "path": "assets/images/bar_police_100.png"
           }
         },
@@ -3247,9 +3247,9 @@
           "name": "bar_police_25.png",
           "type": "File",
           "artifact": {
-            "size": 10896,
+            "size": 13929,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/bar_police_25.png",
-            "MD5": "a9e2075273a64458f63a1562b521d458",
+            "MD5": "8e801cc15c12b3b61dd846bf868a7221",
             "path": "assets/images/bar_police_25.png"
           }
         },
@@ -3258,9 +3258,9 @@
           "name": "bar_police_50.png",
           "type": "File",
           "artifact": {
-            "size": 10964,
+            "size": 13845,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/bar_police_50.png",
-            "MD5": "48a6e1851a6e8c882d633dc3977b7e45",
+            "MD5": "41b0303a99b7b9992214be6028c6c709",
             "path": "assets/images/bar_police_50.png"
           }
         },
@@ -3269,9 +3269,9 @@
           "name": "bar_police_75.png",
           "type": "File",
           "artifact": {
-            "size": 11294,
+            "size": 14965,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/bar_police_75.png",
-            "MD5": "193860fe551ac47054a21a6f5e90bf35",
+            "MD5": "c513ca9aef647c310fc41b1eee144a14",
             "path": "assets/images/bar_police_75.png"
           }
         },
@@ -3280,9 +3280,9 @@
           "name": "bar_thief_100.png",
           "type": "File",
           "artifact": {
-            "size": 11175,
+            "size": 14845,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/bar_thief_100.png",
-            "MD5": "265f7a89caebdf4bdb8681a9ec2383d4",
+            "MD5": "fe9b7719fc0ced53f0c3d6f9e1e88485",
             "path": "assets/images/bar_thief_100.png"
           }
         },
@@ -3291,9 +3291,9 @@
           "name": "bar_thief_25.png",
           "type": "File",
           "artifact": {
-            "size": 10929,
+            "size": 14067,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/bar_thief_25.png",
-            "MD5": "200d28336c07ef11ec85a119b4c5978a",
+            "MD5": "2f766bd0fe8102c472653ba734074024",
             "path": "assets/images/bar_thief_25.png"
           }
         },
@@ -3302,9 +3302,9 @@
           "name": "bar_thief_50.png",
           "type": "File",
           "artifact": {
-            "size": 10935,
+            "size": 13794,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/bar_thief_50.png",
-            "MD5": "23d98c4317a2db36f917681c6d54a1ea",
+            "MD5": "56a86a5d575113215a3f9f1b63c59554",
             "path": "assets/images/bar_thief_50.png"
           }
         },
@@ -3313,9 +3313,9 @@
           "name": "bar_thief_75.png",
           "type": "File",
           "artifact": {
-            "size": 11158,
+            "size": 14320,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/bar_thief_75.png",
-            "MD5": "4a0be29f68b84a2fa1967f68cef3f661",
+            "MD5": "e80f808332715ee228d79b8b5d812361",
             "path": "assets/images/bar_thief_75.png"
           }
         },
