@@ -581,9 +581,9 @@
           "name": "bar_back.png",
           "type": "File",
           "artifact": {
-            "size": 42724,
+            "size": 43937,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/bar_back.png",
-            "MD5": "7f05b6f48e930bad6d6c85adc878c7ad",
+            "MD5": "67b1340e44ad36652f9802666c9b2844",
             "path": "assets/images/bar_back.png"
           }
         },
@@ -3357,9 +3357,9 @@
           "name": "bar_back.png",
           "type": "File",
           "artifact": {
-            "size": 42724,
+            "size": 43937,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/bar_back.png",
-            "MD5": "7f05b6f48e930bad6d6c85adc878c7ad",
+            "MD5": "67b1340e44ad36652f9802666c9b2844",
             "path": "assets/images/bar_back.png"
           }
         },
