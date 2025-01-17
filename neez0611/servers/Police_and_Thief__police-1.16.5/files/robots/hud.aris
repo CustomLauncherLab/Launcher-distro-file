@@ -1,0 +1,8 @@
+
+
+local bar_back = load_image("bar_back", "bar_back.png")
+local bar_img = create_image_renderer(bar_back, 0, 0, 1920, 1080)
+local hud = create_hud()
+clear_opened_hud()
+hud:open_hud()
+hud:add_child(bar_img)

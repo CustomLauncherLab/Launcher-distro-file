@@ -1,0 +1,9 @@
+local screen = create_window()
+screen:open()
+
+local neez_memo = load_image("neez_memo", "neez_memo.png")
+local neez_memo_img = create_image_renderer(neez_memo, 0, 0, 1920, 1080)
+screen:add_child(neez_memo_img)
+screen:add_child(create_clickable(function()
+    screen:close()
+    end, 0, 0, 1920, 1080))

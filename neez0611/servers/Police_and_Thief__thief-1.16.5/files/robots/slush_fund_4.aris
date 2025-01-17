@@ -1,0 +1,9 @@
+local screen = create_window()
+screen:open()
+
+local slush_fund_4 = load_image("slush_fund_4", "slush_fund_4.png")
+local slush_fund_4_img = create_image_renderer(slush_fund_4, 0, 0, 1920, 1080)
+screen:add_child(slush_fund_4_img)
+screen:add_child(create_clickable(function()
+    screen:close()
+    end, 0, 0, 1920, 1080))

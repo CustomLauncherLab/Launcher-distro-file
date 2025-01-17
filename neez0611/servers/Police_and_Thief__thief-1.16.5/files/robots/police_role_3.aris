@@ -1,0 +1,9 @@
+local screen = create_window()
+screen:open()
+
+local police_role_3 = load_image("police_role_3", "police_role_3.png")
+local police_role_3_img = create_image_renderer(police_role_3, 0, 0, 1920, 1080)
+screen:add_child(police_role_3_img)
+screen:add_child(create_clickable(function()
+    screen:close()
+    end, 0, 0, 1920, 1080))
