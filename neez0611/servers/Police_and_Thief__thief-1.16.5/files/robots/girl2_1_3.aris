@@ -8,7 +8,7 @@ local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
 
 screen:clear_child()
 
-local t1 = create_default_text_renderer("그렇긴 한데, 내가 왜 널 도와줘야 하지? 내가 원하는 걸 가져와. 그럼 나도 네게 필요한 정보를 줄게.", 40, 460, 4.2, 0xffffff)
+local t1 = create_default_text_renderer("그렇긴 한데, 내가 왜 널 도와줘야 하지? ", 40, 460, 4.2, 0xffffff)
 local t2 = create_default_text_renderer("내가 원하는 걸 가져와. 그럼 나도 네게 필요한 정보를 줄게.", 40, 485, 4.2, 0xffffff)
 screen:add_child(subbar_img_girl)
 screen:add_child(t1)
