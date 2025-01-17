@@ -367,9 +367,9 @@
           "name": "Aris",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3424470,
+            "size": 3424081,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/forgemods/required/aris-1.0-SNAPSHOT-all.jar",
-            "MD5": "ee92d5fbe6921508d256180e8d37dc67"
+            "MD5": "808f0446f16f022932ff506d9a7cf042"
           }
         },
         {
@@ -3284,9 +3284,9 @@
           "name": "Aris",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3424470,
+            "size": 3424081,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/forgemods/required/aris-1.0-SNAPSHOT-all.jar",
-            "MD5": "ee92d5fbe6921508d256180e8d37dc67"
+            "MD5": "808f0446f16f022932ff506d9a7cf042"
           }
         },
         {
