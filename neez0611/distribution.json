@@ -373,6 +373,16 @@
           }
         },
         {
+          "id": "me.treyruffy:betterf3:1.5.0@jar",
+          "name": "BetterF3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 447347,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/forgemods/required/BetterF3-1.5.0-Forge-1.16.5.jar",
+            "MD5": "1e7a88c7200ca1670947f1e512ceb63f"
+          }
+        },
+        {
           "id": "de.maxhenkel:camera:1.16.5-1.0.14@jar",
           "name": "Camera Mod",
           "type": "ForgeMod",
@@ -390,6 +400,16 @@
             "size": 2033912,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/forgemods/required/cfm-7.0.0pre22-1.16.3.jar",
             "MD5": "b2a5f7a361279de6bb5f51246ad36484"
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth-config:4.17.101@jar",
+          "name": "Cloth Config v4 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1452545,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/forgemods/required/cloth-config-4.17.101-forge.jar",
+            "MD5": "5cedc05e7502ce5f46067f28eb1798e2"
           }
         },
         {
@@ -1303,6 +1323,17 @@
           }
         },
         {
+          "id": "betterf3.toml",
+          "name": "betterf3.toml",
+          "type": "File",
+          "artifact": {
+            "size": 732,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/config/betterf3.toml",
+            "MD5": "1724f003c65c5d5dcc5c8af3bef1dee9",
+            "path": "config/betterf3.toml"
+          }
+        },
+        {
           "id": "comicsbubbleschat-client.toml",
           "name": "comicsbubbleschat-client.toml",
           "type": "File",
@@ -1448,7 +1479,7 @@
           "name": "journeymap.minimap.config",
           "type": "File",
           "artifact": {
-            "size": 1665,
+            "size": 1669,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/journeymap/config/5.8/journeymap.minimap.config",
             "path": "journeymap/config/5.8/journeymap.minimap.config"
           }
@@ -3149,6 +3180,16 @@
           }
         },
         {
+          "id": "me.treyruffy:betterf3:1.5.0@jar",
+          "name": "BetterF3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 447347,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/forgemods/required/BetterF3-1.5.0-Forge-1.16.5.jar",
+            "MD5": "1e7a88c7200ca1670947f1e512ceb63f"
+          }
+        },
+        {
           "id": "de.maxhenkel:camera:1.16.5-1.0.14@jar",
           "name": "Camera Mod",
           "type": "ForgeMod",
@@ -3166,6 +3207,16 @@
             "size": 2033912,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/forgemods/required/cfm-7.0.0pre22-1.16.3.jar",
             "MD5": "b2a5f7a361279de6bb5f51246ad36484"
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth-config:4.17.101@jar",
+          "name": "Cloth Config v4 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1452545,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/forgemods/required/cloth-config-4.17.101-forge.jar",
+            "MD5": "5cedc05e7502ce5f46067f28eb1798e2"
           }
         },
         {
@@ -4079,6 +4130,17 @@
           }
         },
         {
+          "id": "betterf3.toml",
+          "name": "betterf3.toml",
+          "type": "File",
+          "artifact": {
+            "size": 732,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/config/betterf3.toml",
+            "MD5": "1724f003c65c5d5dcc5c8af3bef1dee9",
+            "path": "config/betterf3.toml"
+          }
+        },
+        {
           "id": "comicsbubbleschat-client.toml",
           "name": "comicsbubbleschat-client.toml",
           "type": "File",
@@ -4224,7 +4286,7 @@
           "name": "journeymap.minimap.config",
           "type": "File",
           "artifact": {
-            "size": 1665,
+            "size": 1669,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/journeymap/config/5.8/journeymap.minimap.config",
             "path": "journeymap/config/5.8/journeymap.minimap.config"
           }
