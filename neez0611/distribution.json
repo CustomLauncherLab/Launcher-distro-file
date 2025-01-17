@@ -1621,7 +1621,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 462,
+            "size": 435,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/options.txt",
             "path": "options.txt"
           }
@@ -1666,17 +1666,6 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/resourcepacks/%EA%B2%BD%EC%B0%B0.zip",
             "MD5": "6a9b24a8b273e1f1661482813e5ec8eb",
             "path": "resourcepacks/경찰.zip"
-          }
-        },
-        {
-          "id": "경찰과도둑.zip",
-          "name": "경찰과도둑.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1375326,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/resourcepacks/%EA%B2%BD%EC%B0%B0%EA%B3%BC%EB%8F%84%EB%91%91.zip",
-            "MD5": "499ecfbebc269aadd6aac478f4142742",
-            "path": "resourcepacks/경찰과도둑.zip"
           }
         },
         {
@@ -4549,7 +4538,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 462,
+            "size": 435,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/options.txt",
             "path": "options.txt"
           }
@@ -4594,17 +4583,6 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/resourcepacks/%EA%B2%BD%EC%B0%B0.zip",
             "MD5": "6a9b24a8b273e1f1661482813e5ec8eb",
             "path": "resourcepacks/경찰.zip"
-          }
-        },
-        {
-          "id": "경찰과도둑.zip",
-          "name": "경찰과도둑.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1375326,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/resourcepacks/%EA%B2%BD%EC%B0%B0%EA%B3%BC%EB%8F%84%EB%91%91.zip",
-            "MD5": "499ecfbebc269aadd6aac478f4142742",
-            "path": "resourcepacks/경찰과도둑.zip"
           }
         },
         {

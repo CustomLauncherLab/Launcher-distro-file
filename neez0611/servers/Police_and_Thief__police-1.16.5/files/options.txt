@@ -2,7 +2,7 @@ version:2586
 autoJump:false
 gamma:1.0
 guiScale:2
-resourcePacks:["vanilla","mod_resources","CustomSoundResourcePack","file/BetterVanillaBuildingV2.90.zip","CustomFontResourcePack","CustomViewResourcePack","file/경찰.zip","file/경찰과도둑.zip"]
+resourcePacks:["vanilla","mod_resources","CustomSoundResourcePack","file/BetterVanillaBuildingV2.90.zip","CustomFontResourcePack","CustomViewResourcePack","file/경찰.zip"]
 lang:ko_kr
 narrator:0
 tutorialStep:none
