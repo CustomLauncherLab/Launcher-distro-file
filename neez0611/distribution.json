@@ -1026,6 +1026,17 @@
           }
         },
         {
+          "id": "neez_memo.png",
+          "name": "neez_memo.png",
+          "type": "File",
+          "artifact": {
+            "size": 155549,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/neez_memo.png",
+            "MD5": "11b416fc156a8b5d8ccf3d47df67bc13",
+            "path": "assets/images/neez_memo.png"
+          }
+        },
+        {
           "id": "policecommon.png",
           "name": "policecommon.png",
           "type": "File",
@@ -1067,6 +1078,94 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/policenews2.png",
             "MD5": "55ec4f85f9e652270854d373cf62de1c",
             "path": "assets/images/policenews2.png"
+          }
+        },
+        {
+          "id": "police_role_1.png",
+          "name": "police_role_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 1077577,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/police_role_1.png",
+            "MD5": "e3c20786fc688b374f02ddcbe5ff3a02",
+            "path": "assets/images/police_role_1.png"
+          }
+        },
+        {
+          "id": "police_role_2.png",
+          "name": "police_role_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 1074430,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/police_role_2.png",
+            "MD5": "503e1695bdf73650010d838cb4c22ae4",
+            "path": "assets/images/police_role_2.png"
+          }
+        },
+        {
+          "id": "police_role_3.png",
+          "name": "police_role_3.png",
+          "type": "File",
+          "artifact": {
+            "size": 1072721,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/police_role_3.png",
+            "MD5": "dabbf141472b611935b0d99e4365c6ee",
+            "path": "assets/images/police_role_3.png"
+          }
+        },
+        {
+          "id": "police_role_4.png",
+          "name": "police_role_4.png",
+          "type": "File",
+          "artifact": {
+            "size": 1070673,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/police_role_4.png",
+            "MD5": "cda9dd37779e6ad5eddb51a4a54ee1a4",
+            "path": "assets/images/police_role_4.png"
+          }
+        },
+        {
+          "id": "slush_fund_1.png",
+          "name": "slush_fund_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 956679,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/slush_fund_1.png",
+            "MD5": "f4c4d8b928c69c943e4433e7a2ad368e",
+            "path": "assets/images/slush_fund_1.png"
+          }
+        },
+        {
+          "id": "slush_fund_2.png",
+          "name": "slush_fund_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 951899,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/slush_fund_2.png",
+            "MD5": "74d4c70ae95f0537cd2cf19c272e5d6a",
+            "path": "assets/images/slush_fund_2.png"
+          }
+        },
+        {
+          "id": "slush_fund_3.png",
+          "name": "slush_fund_3.png",
+          "type": "File",
+          "artifact": {
+            "size": 950897,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/slush_fund_3.png",
+            "MD5": "4bf177c1ad9b0ab445c554a92e060b00",
+            "path": "assets/images/slush_fund_3.png"
+          }
+        },
+        {
+          "id": "slush_fund_4.png",
+          "name": "slush_fund_4.png",
+          "type": "File",
+          "artifact": {
+            "size": 951445,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/slush_fund_4.png",
+            "MD5": "040419efecd5a1978423ef1b1f758e9f",
+            "path": "assets/images/slush_fund_4.png"
           }
         },
         {
@@ -1261,9 +1360,9 @@
           "name": "thief1.png",
           "type": "File",
           "artifact": {
-            "size": 1155632,
+            "size": 1045207,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/thief1.png",
-            "MD5": "e405c7df5b59a91c8411b4e24488f6d9",
+            "MD5": "93e18d868f3e5eed29d6e4f656fbffbb",
             "path": "assets/images/thief1.png"
           }
         },
@@ -1272,9 +1371,9 @@
           "name": "thief2.png",
           "type": "File",
           "artifact": {
-            "size": 1153485,
+            "size": 1050346,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/thief2.png",
-            "MD5": "b8794076a455d30a43bcd2987b3e3e47",
+            "MD5": "0bff03c870d8c4e00a11113ae75c8b79",
             "path": "assets/images/thief2.png"
           }
         },
@@ -1283,10 +1382,21 @@
           "name": "thief3.png",
           "type": "File",
           "artifact": {
-            "size": 1155234,
+            "size": 1047724,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/thief3.png",
-            "MD5": "f376ef95bdc5dd6def410a6b1ead30b8",
+            "MD5": "eef10cff592c4aafdd7d0a8d303b65e1",
             "path": "assets/images/thief3.png"
+          }
+        },
+        {
+          "id": "thief4.png",
+          "name": "thief4.png",
+          "type": "File",
+          "artifact": {
+            "size": 1047344,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/assets/images/thief4.png",
+            "MD5": "f6c6111e6fa5d5f207966bb3974ceffb",
+            "path": "assets/images/thief4.png"
           }
         },
         {
@@ -3833,6 +3943,17 @@
           }
         },
         {
+          "id": "neez_memo.png",
+          "name": "neez_memo.png",
+          "type": "File",
+          "artifact": {
+            "size": 155549,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/neez_memo.png",
+            "MD5": "11b416fc156a8b5d8ccf3d47df67bc13",
+            "path": "assets/images/neez_memo.png"
+          }
+        },
+        {
           "id": "policecommon.png",
           "name": "policecommon.png",
           "type": "File",
@@ -3874,6 +3995,94 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/policenews2.png",
             "MD5": "55ec4f85f9e652270854d373cf62de1c",
             "path": "assets/images/policenews2.png"
+          }
+        },
+        {
+          "id": "police_role_1.png",
+          "name": "police_role_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 1077577,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/police_role_1.png",
+            "MD5": "e3c20786fc688b374f02ddcbe5ff3a02",
+            "path": "assets/images/police_role_1.png"
+          }
+        },
+        {
+          "id": "police_role_2.png",
+          "name": "police_role_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 1074430,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/police_role_2.png",
+            "MD5": "503e1695bdf73650010d838cb4c22ae4",
+            "path": "assets/images/police_role_2.png"
+          }
+        },
+        {
+          "id": "police_role_3.png",
+          "name": "police_role_3.png",
+          "type": "File",
+          "artifact": {
+            "size": 1072721,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/police_role_3.png",
+            "MD5": "dabbf141472b611935b0d99e4365c6ee",
+            "path": "assets/images/police_role_3.png"
+          }
+        },
+        {
+          "id": "police_role_4.png",
+          "name": "police_role_4.png",
+          "type": "File",
+          "artifact": {
+            "size": 1070673,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/police_role_4.png",
+            "MD5": "cda9dd37779e6ad5eddb51a4a54ee1a4",
+            "path": "assets/images/police_role_4.png"
+          }
+        },
+        {
+          "id": "slush_fund_1.png",
+          "name": "slush_fund_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 956679,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/slush_fund_1.png",
+            "MD5": "f4c4d8b928c69c943e4433e7a2ad368e",
+            "path": "assets/images/slush_fund_1.png"
+          }
+        },
+        {
+          "id": "slush_fund_2.png",
+          "name": "slush_fund_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 951899,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/slush_fund_2.png",
+            "MD5": "74d4c70ae95f0537cd2cf19c272e5d6a",
+            "path": "assets/images/slush_fund_2.png"
+          }
+        },
+        {
+          "id": "slush_fund_3.png",
+          "name": "slush_fund_3.png",
+          "type": "File",
+          "artifact": {
+            "size": 950897,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/slush_fund_3.png",
+            "MD5": "4bf177c1ad9b0ab445c554a92e060b00",
+            "path": "assets/images/slush_fund_3.png"
+          }
+        },
+        {
+          "id": "slush_fund_4.png",
+          "name": "slush_fund_4.png",
+          "type": "File",
+          "artifact": {
+            "size": 951445,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/slush_fund_4.png",
+            "MD5": "040419efecd5a1978423ef1b1f758e9f",
+            "path": "assets/images/slush_fund_4.png"
           }
         },
         {
@@ -4068,9 +4277,9 @@
           "name": "thief1.png",
           "type": "File",
           "artifact": {
-            "size": 1155632,
+            "size": 1045207,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/thief1.png",
-            "MD5": "e405c7df5b59a91c8411b4e24488f6d9",
+            "MD5": "93e18d868f3e5eed29d6e4f656fbffbb",
             "path": "assets/images/thief1.png"
           }
         },
@@ -4079,9 +4288,9 @@
           "name": "thief2.png",
           "type": "File",
           "artifact": {
-            "size": 1153485,
+            "size": 1050346,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/thief2.png",
-            "MD5": "b8794076a455d30a43bcd2987b3e3e47",
+            "MD5": "0bff03c870d8c4e00a11113ae75c8b79",
             "path": "assets/images/thief2.png"
           }
         },
@@ -4090,10 +4299,21 @@
           "name": "thief3.png",
           "type": "File",
           "artifact": {
-            "size": 1155234,
+            "size": 1047724,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/thief3.png",
-            "MD5": "f376ef95bdc5dd6def410a6b1ead30b8",
+            "MD5": "eef10cff592c4aafdd7d0a8d303b65e1",
             "path": "assets/images/thief3.png"
+          }
+        },
+        {
+          "id": "thief4.png",
+          "name": "thief4.png",
+          "type": "File",
+          "artifact": {
+            "size": 1047344,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/assets/images/thief4.png",
+            "MD5": "f6c6111e6fa5d5f207966bb3974ceffb",
+            "path": "assets/images/thief4.png"
           }
         },
         {
