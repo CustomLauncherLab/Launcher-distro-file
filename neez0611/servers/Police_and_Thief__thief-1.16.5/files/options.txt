@@ -4,6 +4,9 @@ gamma:1.0
 guiScale:2
 resourcePacks:["vanilla","mod_resources","CustomSoundResourcePack","file/BetterVanillaBuildingV2.90.zip","CustomFontResourcePack","CustomViewResourcePack","file/도둑.zip"]
 lang:ko_kr
+chatHeightFocused:0.44366197183098594
+chatHeightUnfocused:0.31690140845070425
+chatWidth:0.74285716
 narrator:0
 tutorialStep:none
 skipMultiplayerWarning:true

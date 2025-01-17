@@ -1621,7 +1621,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 498,
+            "size": 537,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/options.txt",
             "path": "options.txt"
           }
@@ -4538,7 +4538,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 435,
+            "size": 537,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/options.txt",
             "path": "options.txt"
           }
