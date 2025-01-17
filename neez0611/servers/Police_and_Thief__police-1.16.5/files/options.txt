@@ -4,6 +4,9 @@ gamma:1.0
 guiScale:2
 resourcePacks:["vanilla","mod_resources","CustomSoundResourcePack","file/BetterVanillaBuildingV2.90.zip","CustomFontResourcePack","CustomViewResourcePack","file/경찰.zip"]
 lang:ko_kr
+chatHeightFocused:0.4
+chatHeightUnfocused:0.3
+chatWidth:0.7
 narrator:0
 tutorialStep:none
 skipMultiplayerWarning:true
