@@ -3784,6 +3784,83 @@
           }
         },
         {
+          "id": "rules_0.png",
+          "name": "rules_0.png",
+          "type": "File",
+          "artifact": {
+            "size": 974668,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/mods/CustomView/rules_0.png",
+            "MD5": "8c46c680a996154c9acfa9045ce52a57",
+            "path": "mods/CustomView/rules_0.png"
+          }
+        },
+        {
+          "id": "rules_1.png",
+          "name": "rules_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 282876,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/mods/CustomView/rules_1.png",
+            "MD5": "8e83e7995a13bad7b0c0b4908a6f1e9b",
+            "path": "mods/CustomView/rules_1.png"
+          }
+        },
+        {
+          "id": "rules_2.png",
+          "name": "rules_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 289744,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/mods/CustomView/rules_2.png",
+            "MD5": "1d94e6f58d069fb633ec1671ae9781d9",
+            "path": "mods/CustomView/rules_2.png"
+          }
+        },
+        {
+          "id": "rules_3.png",
+          "name": "rules_3.png",
+          "type": "File",
+          "artifact": {
+            "size": 282614,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/mods/CustomView/rules_3.png",
+            "MD5": "c04e266494d676730ff391c349b2bcb3",
+            "path": "mods/CustomView/rules_3.png"
+          }
+        },
+        {
+          "id": "rules_4.png",
+          "name": "rules_4.png",
+          "type": "File",
+          "artifact": {
+            "size": 289992,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/mods/CustomView/rules_4.png",
+            "MD5": "a7948f2ddcefb2edc6b31ddbf61a2b2c",
+            "path": "mods/CustomView/rules_4.png"
+          }
+        },
+        {
+          "id": "rules_5.png",
+          "name": "rules_5.png",
+          "type": "File",
+          "artifact": {
+            "size": 698154,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/mods/CustomView/rules_5.png",
+            "MD5": "40e58ddf35b95001001c3d54b76b0b86",
+            "path": "mods/CustomView/rules_5.png"
+          }
+        },
+        {
+          "id": "rules_6.png",
+          "name": "rules_6.png",
+          "type": "File",
+          "artifact": {
+            "size": 231032,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/mods/CustomView/rules_6.png",
+            "MD5": "b8a5e6e6748821542e31fc3528cd884e",
+            "path": "mods/CustomView/rules_6.png"
+          }
+        },
+        {
           "id": "ThiefEnding.mp4",
           "name": "ThiefEnding.mp4",
           "type": "File",
@@ -8876,6 +8953,83 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/mods/CustomView/PoliceEnding.mp4",
             "MD5": "6a969ce3c51401f5f26c2b98609cef50",
             "path": "mods/CustomView/PoliceEnding.mp4"
+          }
+        },
+        {
+          "id": "rules_0.png",
+          "name": "rules_0.png",
+          "type": "File",
+          "artifact": {
+            "size": 974668,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/mods/CustomView/rules_0.png",
+            "MD5": "8c46c680a996154c9acfa9045ce52a57",
+            "path": "mods/CustomView/rules_0.png"
+          }
+        },
+        {
+          "id": "rules_1.png",
+          "name": "rules_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 282876,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/mods/CustomView/rules_1.png",
+            "MD5": "8e83e7995a13bad7b0c0b4908a6f1e9b",
+            "path": "mods/CustomView/rules_1.png"
+          }
+        },
+        {
+          "id": "rules_2.png",
+          "name": "rules_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 289744,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/mods/CustomView/rules_2.png",
+            "MD5": "1d94e6f58d069fb633ec1671ae9781d9",
+            "path": "mods/CustomView/rules_2.png"
+          }
+        },
+        {
+          "id": "rules_3.png",
+          "name": "rules_3.png",
+          "type": "File",
+          "artifact": {
+            "size": 282614,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/mods/CustomView/rules_3.png",
+            "MD5": "c04e266494d676730ff391c349b2bcb3",
+            "path": "mods/CustomView/rules_3.png"
+          }
+        },
+        {
+          "id": "rules_4.png",
+          "name": "rules_4.png",
+          "type": "File",
+          "artifact": {
+            "size": 289992,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/mods/CustomView/rules_4.png",
+            "MD5": "a7948f2ddcefb2edc6b31ddbf61a2b2c",
+            "path": "mods/CustomView/rules_4.png"
+          }
+        },
+        {
+          "id": "rules_5.png",
+          "name": "rules_5.png",
+          "type": "File",
+          "artifact": {
+            "size": 698154,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/mods/CustomView/rules_5.png",
+            "MD5": "40e58ddf35b95001001c3d54b76b0b86",
+            "path": "mods/CustomView/rules_5.png"
+          }
+        },
+        {
+          "id": "rules_6.png",
+          "name": "rules_6.png",
+          "type": "File",
+          "artifact": {
+            "size": 231032,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__thief-1.16.5/files/mods/CustomView/rules_6.png",
+            "MD5": "b8a5e6e6748821542e31fc3528cd884e",
+            "path": "mods/CustomView/rules_6.png"
           }
         },
         {
