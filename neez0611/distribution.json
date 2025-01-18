@@ -463,16 +463,6 @@
           }
         },
         {
-          "id": "com.snuri:customview:1.1.5@jar",
-          "name": "CustomView",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 285444,
-            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/forgemods/required/CustomView-1.16.5-1.1.5.jar",
-            "MD5": "0e67660457c8efdd76543db916329ed5"
-          }
-        },
-        {
           "id": "journeymap:journeymap:5.8.6@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
@@ -1614,6 +1604,17 @@
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/mods/CustomFont/assets/minecraft/font/font.ttf",
             "MD5": "cf0924a51cd5649d9f263e6dd8c5e62b",
             "path": "mods/CustomFont/assets/minecraft/font/font.ttf"
+          }
+        },
+        {
+          "id": "CustomView-1.16.5-1.1.5.jar",
+          "name": "CustomView-1.16.5-1.1.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 285444,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/mods/CustomView-1.16.5-1.1.5.jar",
+            "MD5": "0e67660457c8efdd76543db916329ed5",
+            "path": "mods/CustomView-1.16.5-1.1.5.jar"
           }
         },
         {
