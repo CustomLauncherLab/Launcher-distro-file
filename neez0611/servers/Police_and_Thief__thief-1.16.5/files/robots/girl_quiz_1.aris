@@ -8,8 +8,6 @@ local subbar_img_no = create_image_renderer(subbar, 0, 0, 1920, 1080)
 
 screen:clear_child()
 
-local t1 = create_default_text_renderer("( 화면을 클릭하고 채팅창에 정답을 입력하면 되겠군 )", 40, 460, 4.2, 0xffffff)
-screen:add_child(subbar_img_no)
 screen:add_child(quiz_img_girl)
 screen:add_child(t1)
 screen:add_child(create_clickable(function()
