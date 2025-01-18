@@ -3751,6 +3751,39 @@
           }
         },
         {
+          "id": "Opening.mp4",
+          "name": "Opening.mp4",
+          "type": "File",
+          "artifact": {
+            "size": 69849087,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/mods/CustomView/Opening.mp4",
+            "MD5": "abab93185ce8876598a8c0894123d7ef",
+            "path": "mods/CustomView/Opening.mp4"
+          }
+        },
+        {
+          "id": "PoliceEnding.mp4",
+          "name": "PoliceEnding.mp4",
+          "type": "File",
+          "artifact": {
+            "size": 10741641,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/mods/CustomView/PoliceEnding.mp4",
+            "MD5": "6a969ce3c51401f5f26c2b98609cef50",
+            "path": "mods/CustomView/PoliceEnding.mp4"
+          }
+        },
+        {
+          "id": "ThiefEnding.mp4",
+          "name": "ThiefEnding.mp4",
+          "type": "File",
+          "artifact": {
+            "size": 22839778,
+            "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/neez0611/servers/Police_and_Thief__police-1.16.5/files/mods/CustomView/ThiefEnding.mp4",
+            "MD5": "44dab6d67ecfa03b6b475940ec4aca4d",
+            "path": "mods/CustomView/ThiefEnding.mp4"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
