@@ -39,8 +39,8 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16624,
-                "MD5": "03a2952855c972936b345832f594621f",
+                "size": 16992,
+                "MD5": "f3ab56294eaee04e349c5d2463caad77",
                 "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/repo/versions/1.20.1-forge-47.3.12/1.20.1-forge-47.3.12.json"
               }
             },
@@ -507,9 +507,9 @@
           "name": "journeymap.minimap.config",
           "type": "File",
           "artifact": {
-            "size": 1674,
+            "size": 1730,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/files/journeymap/config/5.10/journeymap.minimap.config",
-            "MD5": "d8978e07486be04806fd6077b3f8663c",
+            "MD5": "65fb8fdbe32f8e3cf3d06c9cca8273b5",
             "path": "journeymap/config/5.10/journeymap.minimap.config"
           }
         },
@@ -549,9 +549,9 @@
           "name": "generated.zip",
           "type": "File",
           "artifact": {
-            "size": 188196,
+            "size": 188372,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/files/resourcepacks/generated.zip",
-            "MD5": "498cd78c24025db4c6fbeb9febe5e090",
+            "MD5": "4b95e9f33694207fc734d19ad1756da9",
             "path": "resourcepacks/generated.zip"
           }
         },
@@ -562,6 +562,7 @@
           "artifact": {
             "size": 137,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/files/servers.dat",
+            "MD5": "66e6d55de825c4d7bf64555c07aee5f0",
             "path": "servers.dat"
           }
         },
