@@ -13,7 +13,7 @@
       "description": "Minecraft 1.16.5 (Forge v36.2.42)",
       "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/moolchoco/server-icon.png",
       "version": "1.0.0",
-      "address": "vocalhumidity.gotiger.ggm.kr",
+      "address": "mc.gotiger.dev:25568",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
