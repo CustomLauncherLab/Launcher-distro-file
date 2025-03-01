@@ -13,7 +13,7 @@
       "description": "happ Running Minecraft 1.20.1 (Fabric v0.16.5)",
       "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/happ/server-icon.png",
       "version": "1.0.0",
-      "address": "112.171.142.229",
+      "address": "59.16.11.191",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -211,9 +211,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 177,
+            "size": 18671,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/happ/servers/happ-1.20.1/files/servers.dat",
-            "MD5": "f43a76bd7fb6a2f784c6790e71a625db",
+            "MD5": "a13a07d59e3f0b8c87a9768af339a2ab",
             "path": "servers.dat"
           }
         }
