@@ -549,9 +549,9 @@
           "name": "generated.zip",
           "type": "File",
           "artifact": {
-            "size": 188372,
+            "size": 188171,
             "url": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/Mimis-Farm/servers/Mimis-Farm-1.20.1/files/resourcepacks/generated.zip",
-            "MD5": "4b95e9f33694207fc734d19ad1756da9",
+            "MD5": "303e26b5571c325c4a3d84265491c0b1",
             "path": "resourcepacks/generated.zip"
           }
         },
