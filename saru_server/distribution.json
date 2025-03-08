@@ -667,8 +667,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4659589,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/c2me-fabric-mc1.21.4-0.3.1.1.0.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/c2me-fabric-mc1.21.4-0.3.1.1.0.jar",
             "MD5": "9de7068f0424be293f5b8ba2547acaf0"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -677,8 +681,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 163227,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/caramelChat-mc1.20.4-fabric-1.2.0.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/caramelChat-mc1.20.4-fabric-1.2.0.jar",
             "MD5": "59afda01c0be221d5e692e97dd2b77bf"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -687,8 +695,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1152857,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/cloth-config-17.0.144-fabric.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/cloth-config-17.0.144-fabric.jar",
             "MD5": "07b7d5bc15bdc7387cf8890d0c460b54"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -697,8 +709,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 80793,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/cwb-fabric-3.0.0+mc1.21.3.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/cwb-fabric-3.0.0+mc1.21.3.jar",
             "MD5": "4278e7e73cb1337e3a198f1c5b921887"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -707,8 +723,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 182490,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar",
             "MD5": "4cb2cd6d89f48e090a024380b865f70b"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -717,8 +737,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 67916,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/entityculling-fabric-1.7.2-mc1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/entityculling-fabric-1.7.2-mc1.21.4.jar",
             "MD5": "86c2c4e11c8dbd3c49359a0664c25dcb"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -727,8 +751,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2106891,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/fabric-api-0.115.0+1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/fabric-api-0.115.0+1.21.4.jar",
             "MD5": "4909c47b9c6d0f25354248b9942cae94"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -737,8 +765,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2674152,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/iris-fabric-1.8.5+mc1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/iris-fabric-1.8.5+mc1.21.4.jar",
             "MD5": "3505c797cdec6d794fee054b0b6b3d98"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -747,8 +779,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3420624,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.39.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/journeymap-fabric-1.21.4-6.0.0-beta.39.jar",
             "MD5": "b993f3401d8f75570dc790de6a5ef456"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -757,8 +793,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 746249,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/lithium-fabric-0.14.7+mc1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/lithium-fabric-0.14.7+mc1.21.4.jar",
             "MD5": "9e8c4ca8100ebae502ccf90905aa14d5"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -767,8 +807,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 6937,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/LongerChatHistory-fabric-1.6.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/LongerChatHistory-fabric-1.6.jar",
             "MD5": "c18978c9155d5ead7513919a79b243e4"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -777,8 +821,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 992893,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/modmenu-13.0.1.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/modmenu-13.0.1.jar",
             "MD5": "6bce151da830ee0334f98095c35305fe"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -787,8 +835,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5679717,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/PresenceFootsteps-1.10.4+1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/PresenceFootsteps-1.10.4+1.21.4.jar",
             "MD5": "aea8696e8f8b9503ee58276183758546"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -797,8 +849,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1286946,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/sodium-fabric-0.6.6+mc1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/sodium-fabric-0.6.6+mc1.21.4.jar",
             "MD5": "2140408067d0386804aad0e5cb73874a"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -807,8 +863,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 43552,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/status-effect-bars-1.0.7.jar",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/optionaloff/status-effect-bars-1.0.7.jar",
             "MD5": "a9f4e1d7102e210957bd246106cbbb50"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
