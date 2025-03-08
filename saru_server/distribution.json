@@ -552,6 +552,288 @@
           }
         }
       ]
+    },
+    {
+      "id": "saru_server2.5-1.21.4",
+      "name": "사루의 놀이터2.5",
+      "description": "Minecraft 1.21.4 (Fabric v0.16.10)",
+      "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/saru_server/server-icon.png",
+      "version": "1.0.0",
+      "address": "210.204.164.85:25565",
+      "minecraftVersion": "1.21.4",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.16.10",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1387408,
+            "MD5": "239d59118dec4324672b3d9e9d75efef",
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.21.4-fabric-0.16.10",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2859,
+                "MD5": "f08c5253c6c24d1cf86081fc2875ea5f",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/repo/versions/1.21.4-fabric-0.16.10/1.21.4-fabric-0.16.10.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.7.1",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126093,
+                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.7.1",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35126,
+                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.7.1",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73459,
+                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.7.1",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51939,
+                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.7.1",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94519,
+                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1494834,
+                "MD5": "991ca8be2c408fe19eb64014d8a18243",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.4",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 701826,
+                "MD5": "d0f4187a62328d4a95f3428434efbd48",
+                "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "com.ishland:c2me:0.3.1.1.0+1.21.4@jar",
+          "name": "Concurrent Chunk Management Engine",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4659589,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/c2me-fabric-mc1.21.4-0.3.1.1.0.jar",
+            "MD5": "9de7068f0424be293f5b8ba2547acaf0"
+          }
+        },
+        {
+          "id": "moe.caramel.chat:caramelchat:1.2.0@jar",
+          "name": "CaramelChat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 163227,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/caramelChat-mc1.20.4-fabric-1.2.0.jar",
+            "MD5": "59afda01c0be221d5e692e97dd2b77bf"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:17.0.144@jar",
+          "name": "Cloth Config v17",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1152857,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/cloth-config-17.0.144-fabric.jar",
+            "MD5": "07b7d5bc15bdc7387cf8890d0c460b54"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cubes-without-borders:3.0.0+mc1.21.3@jar",
+          "name": "Cubes Without Borders",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 80793,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/cwb-fabric-3.0.0+mc1.21.3.jar",
+            "MD5": "4278e7e73cb1337e3a198f1c5b921887"
+          }
+        },
+        {
+          "id": "net.lostluma.dynamic_fps.impl.textile.compat:dynamic_fps:3.7.7@jar",
+          "name": "Dynamic FPS",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 182490,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar",
+            "MD5": "4cb2cd6d89f48e090a024380b865f70b"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.7.2@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 67916,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/entityculling-fabric-1.7.2-mc1.21.4.jar",
+            "MD5": "86c2c4e11c8dbd3c49359a0664c25dcb"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.115.0+1.21.4@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2106891,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/fabric-api-0.115.0+1.21.4.jar",
+            "MD5": "4909c47b9c6d0f25354248b9942cae94"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.8.5+mc1.21.4@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2674152,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/iris-fabric-1.8.5+mc1.21.4.jar",
+            "MD5": "3505c797cdec6d794fee054b0b6b3d98"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.21.4-6.0.0-beta.39@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3420624,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.39.jar",
+            "MD5": "b993f3401d8f75570dc790de6a5ef456"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:lithium:0.14.7+mc1.21.4@jar",
+          "name": "Lithium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 746249,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/lithium-fabric-0.14.7+mc1.21.4.jar",
+            "MD5": "9e8c4ca8100ebae502ccf90905aa14d5"
+          }
+        },
+        {
+          "id": "net.longerchathistory:longerchathistory:1.6@jar",
+          "name": "Longer Chat History",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6937,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/LongerChatHistory-fabric-1.6.jar",
+            "MD5": "c18978c9155d5ead7513919a79b243e4"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:13.0.1@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 992893,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/modmenu-13.0.1.jar",
+            "MD5": "6bce151da830ee0334f98095c35305fe"
+          }
+        },
+        {
+          "id": "eu.ha3:presencefootsteps:1.10.4+1.21.4@jar",
+          "name": "Presence Footsteps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5679717,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/PresenceFootsteps-1.10.4+1.21.4.jar",
+            "MD5": "aea8696e8f8b9503ee58276183758546"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.6.6+mc1.21.4@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1286946,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/sodium-fabric-0.6.6+mc1.21.4.jar",
+            "MD5": "2140408067d0386804aad0e5cb73874a"
+          }
+        },
+        {
+          "id": "io.github.a5b84.statuseffectbars:status-effect-bars:1.0.7@jar",
+          "name": "Status Effect Bars",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 43552,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/fabricmods/required/status-effect-bars-1.0.7.jar",
+            "MD5": "a9f4e1d7102e210957bd246106cbbb50"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 229,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/files/servers.dat",
+            "MD5": "9d1a452952bea702f7a281916479a4fa",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.4.zip",
+          "name": "ComplementaryUnbound_r5.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 452408,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
+            "MD5": "94f56d5c5c343b9a0f4ad7eb135f9afa",
+            "path": "shaderpacks/ComplementaryUnbound_r5.4.zip"
+          }
+        }
+      ]
     }
   ]
 }
