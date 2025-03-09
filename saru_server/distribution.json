@@ -280,9 +280,20 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 112,
+            "size": 180,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "Immersive_Interfaces.zip",
+          "name": "Immersive_Interfaces.zip",
+          "type": "File",
+          "artifact": {
+            "size": 986942,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Launcher-distro-file/main/saru_server/servers/saru_server2.5-1.21.4/files/resourcepacks/Immersive_Interfaces.zip",
+            "MD5": "5ee5dc048e9266e85fbfe3c17ff79955",
+            "path": "resourcepacks/Immersive_Interfaces.zip"
           }
         },
         {
