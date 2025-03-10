@@ -5,7 +5,7 @@
     "name": "사루의 놀이터2.5",
     "description": "Minecraft 1.21.4 (Fabric v0.16.10)",
     "icon": "https://github.com/CustomLauncherLab/Launcher-distro-file/raw/main/saru_server/server-icon.png",
-    "address": "210.204.164.85:25565",
+    "address": "27.117.232.132:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
