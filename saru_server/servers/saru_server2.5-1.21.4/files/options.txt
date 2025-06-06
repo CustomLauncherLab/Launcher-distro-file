@@ -1,7 +1,0 @@
-version:4189
-narrator:0
-resourcePacks:["vanilla","fabric","file/Immersive_Interfaces.zip"]
-lang:ko_kr
-tutorialStep:none
-skipMultiplayerWarning:true
-onboardAccessibility:false
